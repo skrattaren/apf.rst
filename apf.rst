@@ -1,7 +1,10 @@
-From: Leo Breebaart <apf@lspace.org>
-Subject: The Annotated Pratchett File, v9.0
-Newsgroups: alt.fan.pratchett,alt.books.pratchett
-Summary: BEING: THEE moft LEARNED and EDDYFYING COMPENDIUM intended for the
+============================
+The Annotated Pratchett File
+============================
+
+:Author: Leo Breebaart <apf@lspace.org>
+:Assistant-Editor: Mike Kew <apf@lspace.org>
+:Summary: BEING: THEE moft LEARNED and EDDYFYING COMPENDIUM intended for the
 	 AMUSEMENT of the NOBLE and the INSTRUCTION of the VULGAR, pofted
 	 on occafion upon THEE NETTE and CONSISTING of an OSTENTATIOUSNESS
 	 of COMMENTARIES and EXPLICATIONS by which shall be shewn the TRUE
@@ -11,16 +14,10 @@ Summary: BEING: THEE moft LEARNED and EDDYFYING COMPENDIUM intended for the
 	 confifting in PART of WIZARDS, WARRIORS, MONK^H^H^H^HAPES, DIURSE
 	 ALARUMS and ONE THOUSAND ELEPHANTS.
 	 BEWARE! Here be SPOILERS!
-Organization: Unseen University
-Followup-To: alt.fan.pratchett,alt.books.pratchett
-Reply-To: apf@lspace.org
-
-Archive-name: apf-9.0.5
-Last-modified: 2 February 2008
-Version: 9.0.5 (The Pointless Albatross Release)
-Editor: Leo Breebaart <apf@lspace.org>
-Assistant-Editor: Mike Kew <apf@lspace.org>
-URL: <http://www.lspace.org/books/apf/>
+:Organization: Unseen University
+:Date: 2 February 2008
+:Version: 9.0.5 (The Pointless Albatross Release)
+:URL: <http://www.lspace.org/books/apf/>
 
 ---------------------------------------------------------------------------
 *** Preface to v9.0
