@@ -20,7 +20,7 @@ The Annotated Pratchett File
 :URL: <http://www.lspace.org/books/apf/>
 
 ---------------------------------------------------------------------------
-*** Preface to v9.0
+Preface to v9.0
 ---------------------------------------------------------------------------
 
 This is the first 'real' release of the Annotated Pratchett File since the
@@ -52,7 +52,7 @@ Leo Breebaart
 Delft, August 2004
 
 ---------------------------------------------------------------------------
-*** Introduction
+Introduction
 ---------------------------------------------------------------------------
 
 You are now reading the 9th edition of the Annotated Pratchett File, or APF
@@ -127,7 +127,7 @@ will enjoy reading the APF as much as I have enjoyed putting it together.
 
 
 ---------------------------------------------------------------------------
-*** Discworld Annotations
+Discworld Annotations
 ---------------------------------------------------------------------------
 
 THE COLOUR OF MAGIC 
@@ -16975,7 +16975,7 @@ DEATH'S DOMAIN
 
 
 ---------------------------------------------------------------------------
-*** Other Annotations
+Other Annotations
 ---------------------------------------------------------------------------
 
 GOOD OMENS 
@@ -18803,7 +18803,7 @@ NATION
 
 
 ---------------------------------------------------------------------------
-*** Thoughts and Themes
+Thoughts and Themes
 ---------------------------------------------------------------------------
 
 THE TURTLE MOVES! 
@@ -20282,7 +20282,7 @@ editorial text in square brackets ([ ]) for the rest of this section.
 
 
 ---------------------------------------------------------------------------
-*** Editorial Comments
+Editorial Comments
 ---------------------------------------------------------------------------
 
 THE ORIGIN OF THE APF 
