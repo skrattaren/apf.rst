@@ -130,7 +130,8 @@ will enjoy reading the APF as much as I have enjoyed putting it together.
 Discworld Annotations
 ---------------------------------------------------------------------------
 
-THE COLOUR OF MAGIC 
+THE COLOUR OF MAGIC
+~~~~~~~~~~~~~~~~~~~
 
 - [p. 7/7] "[...] He stares fixedly at the Destination."
 
@@ -730,7 +731,8 @@ THE COLOUR OF MAGIC
   dealing with Nanny Ogg's fractured Esperanto."
 
 
-THE LIGHT FANTASTIC 
+THE LIGHT FANTASTIC
+~~~~~~~~~~~~~~~~~~~
 
 - [title] _The Light Fantastic_
 
@@ -1050,7 +1052,8 @@ THE LIGHT FANTASTIC
   easy".
 
 
-EQUAL RITES 
+EQUAL RITES
+~~~~~~~~~~~
 
 - A central theme of this book (as well as of the other Discworld witch
   novels) is the contrast between on one side the (female) witches or
@@ -1286,7 +1289,8 @@ EQUAL RITES
   in the morning, shepherd's warning".
 
 
-MORT 
+MORT
+~~~~
 
 - [p. 17/16] "'They call me Mort.' WHAT A COINCIDENCE, [...]"
 
@@ -1682,7 +1686,8 @@ MORT
   Duty.")...
 
 
-SOURCERY 
+SOURCERY
+~~~~~~~~
 
 - [p. 8/10] "'My son,' he said. 'I shall call him Coin.'"
 
@@ -2137,7 +2142,8 @@ SOURCERY
   Clarke's movie _2001: A Space Odyssey_.
 
 
-WYRD SISTERS 
+WYRD SISTERS
+~~~~~~~~~~~~
 
 - [title] _Wyrd Sisters_
 
@@ -2748,7 +2754,8 @@ WYRD SISTERS
         That fought with us upon Saint Crispin's day.
 
 
-PYRAMIDS 
+PYRAMIDS
+~~~~~~~~
 
 - [p. 5/5] The Titles of the Books
 
@@ -3391,7 +3398,8 @@ PYRAMIDS
   See the annotation for p. 161/132 of _Mort_.
 
 
-GUARDS! GUARDS! 
+GUARDS! GUARDS!
+~~~~~~~~~~~~~~~
 
 - [p. 10/10] "'Hooray, hooray for the spinster's sister's daughter.'"
 
@@ -3829,7 +3837,8 @@ GUARDS! GUARDS!
   Another quote from _Casablanca_.
 
 
-ERIC 
+ERIC
+~~~~
 
 - [title] _Eric_
 
@@ -4079,7 +4088,8 @@ ERIC
   _Guards! Guards!_
 
 
-MOVING PICTURES 
+MOVING PICTURES
+~~~~~~~~~~~~~~~
 
 This one has uncountable references to classic Hollywood movies and
 anecdotes.
@@ -4643,7 +4653,8 @@ anecdotes.
   Hollywood columnist Sidney Skolsky, and quickly became a household word.
 
 
-REAPER MAN 
+REAPER MAN
+~~~~~~~~~~
 
 - [title] _Reaper Man_
 
@@ -5300,7 +5311,8 @@ REAPER MAN
   acquaintances during a half hour programme.
 
 
-WITCHES ABROAD 
+WITCHES ABROAD
+~~~~~~~~~~~~~~
 
 - [p. 7/7] "'Hurrah, I've discovered Boyle's Third Law.'"
 
@@ -5922,7 +5934,8 @@ WITCHES ABROAD
   _They Saw the Elephant: Women in the California Gold Rush_.)
 
 
-SMALL GODS 
+SMALL GODS
+~~~~~~~~~~
 
 - [p. 8/7] "'I remember,' said Lu-Tze."
 
@@ -6709,7 +6722,8 @@ SMALL GODS
   of _Small Gods_, or put in, and there was no pressure to do either."
 
 
-LORDS AND LADIES 
+LORDS AND LADIES
+~~~~~~~~~~~~~~~~
 
 - [p. 5/5] "[...] young Magrat, she of the [...] tendency to be soppy about
   raindrops and roses and whiskers on kittens."
@@ -7577,7 +7591,8 @@ LORDS AND LADIES
   to a shrew.
 
 
-MEN AT ARMS 
+MEN AT ARMS
+~~~~~~~~~~~
 
 - Starting with "Men at Arms", the word 'Discworld' appeared on the
   copyright page with a 'registered trademark' symbol appended to it.
@@ -8465,7 +8480,8 @@ MEN AT ARMS
   they don't know what it is.
 
 
-SOUL MUSIC 
+SOUL MUSIC
+~~~~~~~~~~
 
 - [cover] The cover of _Soul Music_ bears more than a passing resemblance
   to the cover of the album _Bat out of Hell_ by Meatloaf, one of the 70s
@@ -9684,7 +9700,8 @@ SOUL MUSIC
   See the annotation for p. 173/130.
 
 
-INTERESTING TIMES 
+INTERESTING TIMES
+~~~~~~~~~~~~~~~~~
 
 - [title] _Interesting Times_
 
@@ -10052,7 +10069,8 @@ INTERESTING TIMES
   The Dream is a reference to the Aboriginal Dreamtime religion.
 
 
-MASKERADE 
+MASKERADE
+~~~~~~~~~
 
 - _Maskerade_, as a parody of _The Phantom of the Opera_, is based largely
   upon the musical by Andrew Lloyd Webber, but makes the events and
@@ -10358,7 +10376,8 @@ MASKERADE
   Fantastic_).
 
 
-FEET OF CLAY 
+FEET OF CLAY
+~~~~~~~~~~~~
 
 + [title] _Feet of Clay_
 
@@ -11234,7 +11253,8 @@ FEET OF CLAY
   However, Dorfl has just told Vimes that he will never *be* off duty...
 
 
-HOGFATHER 
+HOGFATHER
+~~~~~~~~~
 
 + [dedication] "To the guerilla bookshop manager known to friends as
   'ppint' [...]"
@@ -12114,7 +12134,8 @@ HOGFATHER
   Tim, who also had something wrong with his legs.
 
 
-JINGO 
+JINGO
+~~~~~
 
 + [title] _Jingo_
 
@@ -12837,7 +12858,8 @@ JINGO
   I go to than I have ever known.'".
 
 
-THE LAST CONTINENT 
+THE LAST CONTINENT
+~~~~~~~~~~~~~~~~~~
 
 + [title] _The Last Continent_
 
@@ -13585,7 +13607,8 @@ THE LAST CONTINENT
   never climb the rock, although many tourists do.
 
 
-CARPE JUGULUM 
+CARPE JUGULUM
+~~~~~~~~~~~~~
 
 + [p. 6] "'Nac mac Feegle!'"
 
@@ -14297,7 +14320,8 @@ CARPE JUGULUM
   it could scan to the tune of 'The Battle-Hymn of the Republic.'
 
 
-THE FIFTH ELEPHANT 
+THE FIFTH ELEPHANT
+~~~~~~~~~~~~~~~~~~
 
 + [p. 20] "'The crowning of the Low King,' said Carrot."
 
@@ -14484,7 +14508,8 @@ THE FIFTH ELEPHANT
   human ear, neither of which was the case.
 
 
-THE TRUTH 
+THE TRUTH
+~~~~~~~~~
 
 + [p. 11] "Then the two watchmen trailed through the slush and muck to the
   Water Gate, [...]"
@@ -14815,7 +14840,8 @@ THE TRUTH
   Reference to Alexandre Dumas' 1846 novel _The Man in the Iron Mask_.
 
 
-THIEF OF TIME 
+THIEF OF TIME
+~~~~~~~~~~~~~
 
 + Terry comments on the inspiration for _Thief of Time_:
 
@@ -15023,7 +15049,8 @@ THIEF OF TIME
         Hickory Dickory Dock
 
 
-THE LAST HERO 
+THE LAST HERO
+~~~~~~~~~~~~~
 
 + [cover] The hardcover version of _The Last Hero_ shows Cohen in typical
   Conan pose, but the softcover version ("16 pages of all-new
@@ -15274,7 +15301,8 @@ THE LAST HERO
   Vinci.
 
 
-THE AMAZING MAURICE AND HIS EDUCATED RODENTS 
+THE AMAZING MAURICE AND HIS EDUCATED RODENTS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 + _The Amazing Maurice_ presents a new take on the old fairy tale of _The
   Pied Piper of Hamelin_.
@@ -15372,7 +15400,8 @@ THE AMAZING MAURICE AND HIS EDUCATED RODENTS
   for p. 9).
 
 
-NIGHT WATCH 
+NIGHT WATCH
+~~~~~~~~~~~
 
 + _Night Watch_ has a number of influences from the book and musical _Les
   Miserables_, but these are a lot less obvious than e.g. the usage of _The
@@ -15580,7 +15609,8 @@ NIGHT WATCH
   goat.' "
 
 
-THE WEE FREE MEN 
+THE WEE FREE MEN
+~~~~~~~~~~~~~~~~
 
 + [title] The working title of this book was _For Fear of Little Men_. See
   also the annotation for p. 287/207 of _Lords and Ladies_.
@@ -15967,7 +15997,8 @@ THE WEE FREE MEN
   of high, open, uncultivated land or moor.
 
 
-MONSTROUS REGIMENT 
+MONSTROUS REGIMENT
+~~~~~~~~~~~~~~~~~~
 
 + [title] _Monstrous Regiment_
 
@@ -16481,7 +16512,8 @@ MONSTROUS REGIMENT
   Oz_.
 
 
-A HAT FULL OF SKY 
+A HAT FULL OF SKY
+~~~~~~~~~~~~~~~~~
 
 + [p. 19] "Miss Tick was a sort of witch-finder"
 
@@ -16602,33 +16634,39 @@ ONCE MORE, WITH FOOTNOTES
   September 2004. No annotations yet.
 
 
-GOING POSTAL 
+GOING POSTAL
+~~~~~~~~~~~~
 
 + This book was released in November 2004. No annotations yet.
 
 
-THUD 
+THUD
+~~~~
 
 + This book was released in October 2005. No annotations yet.
 
 
-WHERE'S MY COW? 
+WHERE'S MY COW?
+~~~~~~~~~~~~~~~
 
 + This Discworld picture book, illustrated by Melvin Grant, was released in
   October 2005. No annotations yet.
 
 
-WINTERSMITH 
+WINTERSMITH
+~~~~~~~~~~~
 
 + This book was released in September 2006. No annotations yet.
 
 
-MAKING MONEY 
+MAKING MONEY
+~~~~~~~~~~~~
 
 + This book was released in September 2007. No annotations yet.
 
 
-I SHALL WEAR MIDNIGHT 
+I SHALL WEAR MIDNIGHT
+~~~~~~~~~~~~~~~~~~~~~
 
 + This book is in the planning stages only. No scheduled release date is
   known.
@@ -16642,25 +16680,29 @@ I SHALL WEAR MIDNIGHT
   Full Of Sky_
 
 
-UNSEEN ACADEMICALS 
+UNSEEN ACADEMICALS
+~~~~~~~~~~~~~~~~~~
 
 + This book is in the planning stages only. No scheduled release date is
   known.
 
 
-SCOUTING FOR TROLLS 
+SCOUTING FOR TROLLS
+~~~~~~~~~~~~~~~~~~~
 
 + This book is in the planning stages only. No scheduled release date is
   known.
 
 
-RAISING TAXES 
+RAISING TAXES
+~~~~~~~~~~~~~
 
 + This book is in the planning stages only. No scheduled release date is
   known.
 
 
-THE DISCWORLD COMPANION 
+THE DISCWORLD COMPANION
+~~~~~~~~~~~~~~~~~~~~~~~
 
 - [p. 18] "In the bottom-left half two croix d'or on a sable field."
 
@@ -16783,7 +16825,8 @@ THE DISCWORLD COMPANION
           Guards!_: "To Protect and Serve")
 
 
-THE SCIENCE OF DISCWORLD 
+THE SCIENCE OF DISCWORLD
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 + [cover] The cover of the book is a Discworld version of the 1768 painting
   _An Experiment on a Bird in the Air Pump_ by Joseph Wright, depicting the
@@ -16893,7 +16936,8 @@ THE SCIENCE OF DISCWORLD
   of evolution with the story of creation.
 
 
-THE SCIENCE OF DISCWORLD II: THE GLOBE 
+THE SCIENCE OF DISCWORLD II: THE GLOBE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 + [p. 12] "[...] the Reader in Slood Dynamics"
 
@@ -16918,7 +16962,8 @@ THE SCIENCE OF DISCWORLD II: THE GLOBE
   published in the 1950s.
 
 
-THE SCIENCE OF DISCWORLD III: DARWIN'S WATCH 
+THE SCIENCE OF DISCWORLD III: DARWIN'S WATCH
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 + This book was released in May 2005. No annotations yet.
 
@@ -16932,7 +16977,8 @@ THE STREETS OF ANKH-MORPORK
   Street in Ankh-Morpork -- except that it is one heck of a cool word.
 
 
-THE DISCWORLD MAPP 
+THE DISCWORLD MAPP
+~~~~~~~~~~~~~~~~~~
 
 + "[...] XXXX and its companion islands ('Foggy Islands', reputedly the
   place where XXXX kept the lawnmower)."
@@ -16944,7 +16990,8 @@ THE DISCWORLD MAPP
   _Reaper Man_.
 
 
-A TOURIST GUIDE TO LANCRE 
+A TOURIST GUIDE TO LANCRE
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 + "A rain-proof, hooded overgarment (Orac Oracssons's outfitters in Ohulan
   Cutash supply the best waterproof clothing. Most seasoned walkers would
@@ -16967,7 +17014,8 @@ A TOURIST GUIDE TO LANCRE
   Or the legend of Sleepy Hollow in Roundworld terms.
 
 
-DEATH'S DOMAIN 
+DEATH'S DOMAIN
+~~~~~~~~~~~~~~
 
 + "[...] the dandelion clocks won't strike..."
 
@@ -16978,7 +17026,8 @@ DEATH'S DOMAIN
 Other Annotations
 ---------------------------------------------------------------------------
 
-GOOD OMENS 
+GOOD OMENS
+~~~~~~~~~~
 
 - [cover] The weird blue/red neon thingy surrounding the '666' on the cover
   of the UK hardcover version of _Good Omens_ is actually a map of the M25
@@ -17859,7 +17908,8 @@ GOOD OMENS
   Archives.
 
 
-STRATA 
+STRATA
+~~~~~~
 
 - The whole book is, in a very general way, modelled on Larry Niven's
   classic _Ringworld_ novel: a group of differently-raced beings explore an
@@ -17914,7 +17964,8 @@ STRATA
   Dog-Latin which roughly translates to "Take this, buster".
 
 
-THE DARK SIDE OF THE SUN 
+THE DARK SIDE OF THE SUN
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Just as _Strata_ borrows from Larry Niven, so does _The Dark Side of the
   Sun_ pay homage to the famous SF-writer Isaac Asimov.
@@ -17994,7 +18045,8 @@ THE DARK SIDE OF THE SUN
   both Sigourney Weaver and Meryl Streep in the chorus.
 
 
-TRUCKERS 
+TRUCKERS
+~~~~~~~~
 
 - [cover] The drawing of the old nome Torrit (the one holding the Thing) in
   Josh Kirby's cover for this book is actually a caricature of Terry
@@ -18113,7 +18165,8 @@ TRUCKERS
   fictional setting after all.
 
 
-DIGGERS 
+DIGGERS
+~~~~~~~
 
 - [title] _Diggers_
 
@@ -18179,7 +18232,8 @@ DIGGERS
   Jehovah.
 
 
-WINGS 
+WINGS
+~~~~~
 
 - [p. 135/121] "'The other humans around it are trying to explain to it
   what a planet is' 'Doesn't it know?' 'Many humans don't.
@@ -18200,7 +18254,8 @@ WINGS
   spaceship.
 
 
-ONLY YOU CAN SAVE MANKIND 
+ONLY YOU CAN SAVE MANKIND
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In order to fully appreciate this novel it may not be necessary, but I
 think it will greatly add to your enjoyment and understanding, if you have
@@ -18308,7 +18363,8 @@ computer shoot-em-up arcade game.
   not want to leave the cat behind.
 
 
-JOHNNY AND THE DEAD 
+JOHNNY AND THE DEAD
+~~~~~~~~~~~~~~~~~~~
 
 - [p. 11/10] "'Singing "Here we go, here we go, here we go"?' said Johnny.
   'And "Viva a spanner"?'"
@@ -18618,7 +18674,8 @@ JOHNNY AND THE DEAD
   have a Jolly Good Time.
 
 
-JOHNNY AND THE BOMB 
+JOHNNY AND THE BOMB
+~~~~~~~~~~~~~~~~~~~
 
 + [p. 16] "'Like in that film where the robot is sent back to kill the
   mother of the boy who's going to beat the robots when he grows up.'"
@@ -18717,7 +18774,8 @@ JOHNNY AND THE BOMB
   just waving, but particalling."
 
 
-THE CARPET PEOPLE 
+THE CARPET PEOPLE
+~~~~~~~~~~~~~~~~~
 
 - [p. 120/110] "'For me, all possibilities are real. I live them all. [...]
   Otherwise they never could have happened.'"
@@ -18729,7 +18787,8 @@ THE CARPET PEOPLE
   directly observed is one of the best-known concepts in quantum mechanics.
 
 
-THE UNADULTERATED CAT 
+THE UNADULTERATED CAT
+~~~~~~~~~~~~~~~~~~~~~
 
 - [p. 7] "The Campaign for Real Cats is against fizzy keg cats."
 
@@ -18796,7 +18855,8 @@ THE UNADULTERATED CAT
   evolutionary theory, in favour of modified versions of natural selection.
 
 
-NATION 
+NATION
+~~~~~~
 
 + This standalone, non-Discworld, Young Adult (YA) book is scheduled to be
   released in 2008.
@@ -18806,7 +18866,8 @@ NATION
 Thoughts and Themes
 ---------------------------------------------------------------------------
 
-THE TURTLE MOVES! 
+THE TURTLE MOVES!
+~~~~~~~~~~~~~~~~~
 
 It was already mentioned in one of the annotations: on alt.fan.pratchett
 there will at any given moment in time be at least one discussion ongoing
@@ -19107,7 +19168,8 @@ There is also a web page for the Morris Dancing Discussion List. The URL
 is: <http://web.syr.edu/~hytelnet/mddl/>.
 
 
-REVERSE ANNOTATIONS 
+REVERSE ANNOTATIONS
+~~~~~~~~~~~~~~~~~~~
 
 With the Discworld canon growing and reaching an increasingly wider
 audience around the globe, we are starting to see something I'm calling
@@ -19218,7 +19280,8 @@ The examples I have had reported to me so far:
   to be a good read.
 
 
-WORDS FROM THE MASTER 
+WORDS FROM THE MASTER
+~~~~~~~~~~~~~~~~~~~~~
 
 Here are a number of excerpts from articles by Terry Pratchett that I think
 fall under the heading of 'annotations' but which are either not associated
@@ -20285,7 +20348,8 @@ editorial text in square brackets ([ ]) for the rest of this section.
 Editorial Comments
 ---------------------------------------------------------------------------
 
-THE ORIGIN OF THE APF 
+THE ORIGIN OF THE APF
+~~~~~~~~~~~~~~~~~~~~~
 
 The first person ever to publicly suggest the concept of collecting
 annotations for Terry's books was Tor Iver Wilhelmsen, a Usenet poster from
@@ -20324,7 +20388,8 @@ large and enthusiastic response on the newsgroup, and from then on the APF
 was a going concern.
 
 
-VERSION HISTORY AND TIMELINE 
+VERSION HISTORY AND TIMELINE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 2 February 2008 -- v9.0.5
 
@@ -20432,7 +20497,8 @@ VERSION HISTORY AND TIMELINE
       - Posted to alt.fan.pratchett.
 
 
-CREDITS 
+CREDITS
+~~~~~~~
 
 People who write articles to the Pratchett newsgroups or who email me
 annotations should always be aware of one thing: for the APF I will freely
@@ -20495,7 +20561,8 @@ fans who, perhaps because of the APF, have begun to think he is incapable
 of writing anything truly original. They should know better.
 
 
-PAGE NUMBERS 
+PAGE NUMBERS
+~~~~~~~~~~~~
 
 Up to APF v7a.0, each annotation was identified (in addition to the
 relevant quote from the book) by two page numbers: one for the Gollancz
@@ -20546,7 +20613,8 @@ for the older books, but removing them will be one of the first things on
 the TODO list for v10.0.
 
 
-TO ANNOTATE OR NOT TO ANNOTATE 
+TO ANNOTATE OR NOT TO ANNOTATE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In the early years of the APF nearly every annotation that I received was
 quickly incorporated into the next version of the file. For the later
@@ -20607,7 +20675,8 @@ puns, and enough sense to use a dictionary if they encounter an unfamiliar
 word. I don't want to have to explain why _Equal Rites_ is a funny title.
 
 
-THE APF IN OTHER FORMATS 
+THE APF IN OTHER FORMATS
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Currently, the APF is available in three main formats: as a text file, as a
 typeset PDF/PostScript file, and as an on-line collection of HTML web
@@ -20640,7 +20709,8 @@ If you know of any other annotation sites or sources, let me know, and I
 will add them to the list.
 
 
-BIBLIOGRAPHY 
+BIBLIOGRAPHY
+~~~~~~~~~~~~
 
 In this section I want to list some of the specific resources I use in
 editing the APF: reference works, web sites, software, etcetera.
@@ -20686,7 +20756,8 @@ that the APF would in turn be released under a similar license, and I am
 not sure I can do that yet -- see also the 'Copyright Discussion' section.
 
 
-COPYING THE APF 
+COPYING THE APF
+~~~~~~~~~~~~~~~
 
 It's really quite simple: I have by now spent *very* considerable amounts
 of time trying to make this document a useful resource for fans of Terry
@@ -20715,7 +20786,8 @@ otherwise distribute a modified version of the APF), please first contact
 me at apf@lspace.org, and I will give you more information in email.
 
 
-COPYRIGHT DISCUSSION 
+COPYRIGHT DISCUSSION
+~~~~~~~~~~~~~~~~~~~~
 
 Formally speaking, the APF copyright situation is a bit murky. I would love
 to release the APF under some form of open document license, which would
