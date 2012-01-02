@@ -57,8 +57,8 @@ Introduction
 
 You are now reading the 9th edition of the Annotated Pratchett File, or APF
 for short. For information about what is new or changed in v9.0 with
-respect to previous editions I refer you to the new _Version History and
-Timeline_ section in the _Editorial Comments_ chapter.
+respect to previous editions I refer you to the new "`Version History and
+Timeline`_" section in the "`Editorial Comments`_" chapter.
 
 Ever since its creation in 1992, one of the most popular pastimes on the
 Usenet newsgroup alt.fan.pratchett has been discussing the many jokes,
@@ -69,7 +69,7 @@ would be a good idea to distil some of these discussions into something
 with a little more persistence and staying power than individual Usenet
 articles (remember that this all took place long before something like
 Google Groups -- or indeed even the World Wide Web itself -- existed!). And
-so the _Annotated Pratchett File_ was born, and (because I was brave or
+so the "`The Annotated Pratchett File`_" was born, and (because I was brave or
 foolish enough to volunteer) I became its editor.
 
 Over the years the APF has grown in popularity and size. It now contains
@@ -79,16 +79,16 @@ formats. Yet it is still (and if I can help it will always be) called a
 to alt.fan.pratchett.
 
 The structure of the APF is straightforward, with the annotations divided
-into two large chapters: the _Discworld Annotations_, and all the _Other
-Annotations_. Within each group, the books are listed in the order in which
+into two large chapters: the "`Discworld Annotations`_", and all the "`Other
+Annotations`_". Within each group, the books are listed in the order in which
 they were published (with the exception that in the Discworld chapter the
 proper novels come before the secondary material such as the maps and the
-_Science of Discworld_ books). Within each book, the annotations are sorted
+"`Science of Discworld`_" books). Within each book, the annotations are sorted
 in ascending order by page number, with that number referring to the
 edition I actually own myself, which will typically be the original UK
 hardcover edition. (Some of the earlier books also list paperback page
-numbers -- for more information please read the _Page Numbers_ section in
-the _Editorial Comments_ chapter.)
+numbers -- for more information please read the "`Page Numbers`_" section in
+the "`Editorial Comments`_" chapter.)
 
 Each annotation is prefixed by either a '+', denoting an annotation that is
 new or has been significantly updated in this version of the APF, or a '-',
@@ -104,9 +104,9 @@ provides inside information on many aspects of his writing, and it would be
 a waste to let this first-hand knowledge just disappear into Usenet
 history. Much of this material has been incorporated into the annotations
 themselves, but quite a bit of interesting information that did not fit
-anywhere else has been collected in the _Thoughts and Themes_ chapter.
+anywhere else has been collected in the "`Thoughts and Themes`_" chapter.
 
-The APF ends with the already mentioned _Editorial Comments_ chapter, where
+The APF ends with the already mentioned "`Editorial Comments`_" chapter, where
 various nuts & bolts of the editing process are discussed. It also lists
 information to help you obtain the most recent version of the APF in
 whatever format you prefer.
@@ -130,16 +130,16 @@ will enjoy reading the APF as much as I have enjoyed putting it together.
 Discworld Annotations
 ---------------------------------------------------------------------------
 
-THE COLOUR OF MAGIC
+The Colour of Magic
 ~~~~~~~~~~~~~~~~~~~
 
 - [p. 7/7] "[...] He stares fixedly at the Destination."
 
-  This line is interesting not only because it foreshadows _The Light
-  Fantastic_ (as in fact the entire prologue does), but also because it is
+  This line is interesting not only because it foreshadows "`The Light
+  Fantastic`_" (as in fact the entire prologue does), but also because it is
   about the only time the narrator really commits himself to A'Tuin's
-  gender without hedging his bets (as e.g. on the first page of _The Light
-  Fantastic_). Note the capital 'H', which Death also rates in this book
+  gender without hedging his bets (as e.g. on the first page of "`The Light
+  Fantastic`_"). Note the capital 'H', which Death also rates in this book
   and loses in the later ones.
 
 - [p. 8/8] "For example, what was A'Tuin's actual sex?"
@@ -150,7 +150,7 @@ THE COLOUR OF MAGIC
   don't have their naughty bits hanging out where they can be easily seen,
   and the only way to really tell a turtle's gender is by comparison: male
   turtles are often smaller than females and have thicker tails. Since
-  there are no other _Chelys Galactica_ to compare A'Tuin to, the attempts
+  there are no other "`Chelys Galactica`_" to compare A'Tuin to, the attempts
   of the Discworld's Astrozoologists are probably futile to begin with.
 
 - [p. 8/8] "[...] the theory that A'Tuin had come from nowhere and would
@@ -168,8 +168,8 @@ THE COLOUR OF MAGIC
   owls, respectively) that go by the name of 'Morepork'.
 
   Since I first wrote down the above annotation, there have been new
-  developments, however. In _The Streets of Ankh-Morpork_ and _The
-  Discworld Companion_ we are shown an illustration of the Ankh-Morpork
+  developments, however. In "`The Streets of Ankh-Morpork`_" and "`The
+  Discworld Companion`_" we are shown an illustration of the Ankh-Morpork
   coat of arms, which *does* feature a Morepork/owl holding an ankh. But
   from Terry's remarks (see next annotation) I feel it's safe to say that
   neither bird nor cross were explicitly on his mind when he first came up
@@ -182,13 +182,13 @@ THE COLOUR OF MAGIC
 - [p. 9/9] "[...] two figures were watching with considerable interest."
 
   The two barbarians, Bravd and Weasel, are parodies of Fritz Leiber's
-  fantasy heroes Fafhrd and the Gray Mouser. The _Swords_ series of books
+  fantasy heroes Fafhrd and the Gray Mouser. The "Swords_" series of books
   in which they star are absolute classics, and have probably had about as
-  much influence on the genre as Tolkien's _Lord of the Rings_.
+  much influence on the genre as Tolkien's "`Lord of the Rings`_".
 
-  The _Swords_ stories date back as far as 1939, but more than sixty years
-  later they have lost none of their appeal. Both _The Colour of Magic_ and
-  _The Light Fantastic_ are, in large part, affectionate parodies of the
+  The "Swords_" stories date back as far as 1939, but more than sixty years
+  later they have lost none of their appeal. Both "`The Colour of Magic`_" and
+  "`The Light Fantastic`_" are, in large part, affectionate parodies of the
   Leiberian universe, although I hasten to add that, in sharp contrast to
   many later writers in the field, Leiber himself already had a great sense
   of humour. Fafhrd and the Mouser are not to be taken altogether serious
@@ -196,11 +196,11 @@ THE COLOUR OF MAGIC
 
   Given all this, I can perhaps be forgiven for thinking that Terry
   intended Ankh-Morpork to be a direct parody of the great city of Lankhmar
-  in which many of the _Swords_ adventures take place. However, Terry
+  in which many of the "Swords_" adventures take place. However, Terry
   explicitly denied this when I suggested it on alt.fan.pratchett:
 
   "Bravd and the Weasel were indeed takeoffs of Leiber characters -- there
-  was a lot of that sort of thing in _The Colour of Magic_. But I didn't --
+  was a lot of that sort of thing in "`The Colour of Magic`_". But I didn't --
   at least consciously, I suppose I must say -- create Ankh-Morpork as a
   takeoff of Lankhmar."
 
@@ -210,15 +210,15 @@ THE COLOUR OF MAGIC
   'Widdershins' is in fact an existing word meaning 'counter-sunwise', i.e.
   counter-clockwise in the Northern hemisphere, clockwise down South. A
   synonym for 'turnwise' is deosil, which helps explain Ankh-Morpork's
-  Deosil Gate as found on the _The Streets of Ankh-Morpork_ Mappe.
+  Deosil Gate as found on the "`The Streets of Ankh-Morpork`_" Mappe.
 
-  Widdershins is also the name of the planet where Dom, the hero from _The
-  Dark Side of the Sun_ lives.
+  Widdershins is also the name of the planet where Dom, the hero from "`The
+  Dark Side of the Sun`_" lives.
 
 - [p. 12/12] "'Why, it's Rincewind the wizard, isn't it?' [...]"
 
   The story behind Rincewind's name goes back to 1924, when J. B. Morton
-  took over authorship of the column 'By The Way' in the _Daily Express_, a
+  took over authorship of the column 'By The Way' in the "`Daily Express`_", a
   London newspaper.
 
   He inherited the pseudonym 'Beachcomber' from his predecessors on the job
@@ -258,7 +258,7 @@ THE COLOUR OF MAGIC
   Mechanics' is one of alt.fan.pratchett's favourite Perennial Discussion
   Topics, and I don't think that any two given participants in such a
   thread have ever managed to agree on anything definite about the way in
-  which the Discworld might 'work'. See also the _The Turtle Moves!_
+  which the Discworld might 'work'. See also the "`The Turtle Moves!`_"
   section in Chapter 5 for more information about the physical aspects of
   the Discworld.
 
@@ -277,7 +277,7 @@ THE COLOUR OF MAGIC
 
 - [p. 18/17] The inn called 'The Broken Drum' gets burned down in this
   book. The later Discworld novels all feature an inn called 'The Mended
-  Drum'. The novel _Strata_ contains (on p. 35/42) an explanation of why
+  Drum'. The novel "Strata_" contains (on p. 35/42) an explanation of why
   you would call a pub 'The Broken Drum' in the first place: "You can't
   beat it".
 
@@ -310,7 +310,7 @@ THE COLOUR OF MAGIC
   which, in later times and under Stuart patronage, became the Royal
   Society.
 
-  In the _Brief Lives_ arc of Neil Gaiman's _Sandman_ comic, Dream visits
+  In the "`Brief Lives`_" arc of Neil Gaiman's "Sandman_" comic, Dream visits
   the Invisible College, where a scientist is happily dissecting a dead
   orangutan. I don't think that scene was *entirely* coincidental...
 
@@ -333,7 +333,7 @@ THE COLOUR OF MAGIC
   but I haven't a clue what the appropriate unit of currency is for a city
   in a world on the back of a turtle :-)..."
 
-- [p. 28/25] "'Barely two thousand _rhinu_.'"
+- [p. 28/25] "'Barely two thousand _rhinu`_".'"
 
   A very old British slang word for ready money is 'rhino', which Brewer
   thinks may be related to the phrase 'to pay through the nose', since
@@ -344,7 +344,7 @@ THE COLOUR OF MAGIC
 
   An interesting consideration is just when Lord Vetinari became Patrician.
   Clearly this isn't him (Vetinari eating crystallised jellyfish? -- I
-  don't think so. Besides, _Interesting Times_ makes it quite clear that
+  don't think so. Besides, "`Interesting Times`_" makes it quite clear that
   Vetinari does not know who Rincewind is).
 
   However, Terry has always denied this interpretation:
@@ -366,13 +366,13 @@ THE COLOUR OF MAGIC
   between the "early" and the "recent" Patrician continues to flare up
   regularly. When some people on alt.fan.pratchett questioned whether
   Vetinari would really be the type of man to throw the kind of party
-  described in _Mort_, Terry answered:
+  described in "Mort_", Terry answered:
 
   "I've always thought the Patrician is a party animal. Can you imagine
   waking up next day and remembering all those witty things you said and
   did, and then realising that he was listening?"
 
-- [p. 44/39] "'_Reflected-sound-of-underground-spirits?_'"
+- [p. 44/39] "'"`Reflected-sound-of-underground-spirits?_'"
 
   Surprising as it may seem (or at least as it was to me), there are quite
   a few people who do not understand this cryptification of 'economics',
@@ -386,7 +386,7 @@ THE COLOUR OF MAGIC
   dozen armies couldn't bring him back."
 
   The Chimera was a fire-breathing monster from Greek mythology (see the
-  annotation for p. 171/154 of _Sourcery_). The name is also a pun on
+  annotation for p. 171/154 of "Sourcery_"). The name is also a pun on
   Cimmeria, Conan the Barbarian's mythical homeland, while 'Chimerical' has
   the general connotation of something mythical or imaginary as well.
 
@@ -402,7 +402,7 @@ THE COLOUR OF MAGIC
 - [p. 62/55] "[...] I WAS EXPECTING TO MEET THEE IN PSEPHOPOLOLIS."
 
   Death and Rincewind are replaying their own version of the well-known
-  folktale _Appointment in Samarra_. Terry says:
+  folktale "`Appointment in Samarra`_". Terry says:
 
   "My mother told me the 'Appointment in Samarra' story when I was very
   young, and it remained. She says she read it somewhere, or maybe heard
@@ -429,8 +429,8 @@ THE COLOUR OF MAGIC
   my correspondents was so intrigued by the tale that with the help of
   alt.fan.pratchett he set out to find the original, or at least the
   earliest known version. After much research, he now believes this to be
-  _When Death Came to Baghdad_, an old ninth century Middle Eastern Sufi
-  teaching story, told by Fudail ibn Ayad in his _Hikayat-i-Naqshia_
+  "`When Death Came to Baghdad`_", an old ninth century Middle Eastern Sufi
+  teaching story, told by Fudail ibn Ayad in his "`Hikayat-i-Naqshia`_"
   ('Tales formed according to a design').
 
   If anyone has a reference to an even earlier version, we would love to
@@ -471,16 +471,16 @@ THE COLOUR OF MAGIC
 
   Zephyrus was in fact the Greek god of the soft west winds. The
   interactions of the gods in 'The Sending of Eight' strongly bring to mind
-  the Godshome scenes in Leiber's _Swords_ series.
+  the Godshome scenes in Leiber's "Swords_" series.
 
-- [p. 78/70] _The Sending of Eight_
+- [p. 78/70] "`The Sending of Eight`_"
 
-  Just as the first chapter of _The Colour of Magic_ has many resonances
-  with Fritz Leiber's _Swords_ series, so can this chapter be regarded as a
+  Just as the first chapter of "`The Colour of Magic`_" has many resonances
+  with Fritz Leiber's "Swords_" series, so can this chapter be regarded as a
   light parody of the works of horror author H. P. Lovecraft, who wrote
   many stories in a universe where unspeakable Evil lives, and where
   Ancient Gods (with unpronounceable names) play games with the lives of
-  mortals. Lovecraft also wrote a story called _The Colour out of Space_,
+  mortals. Lovecraft also wrote a story called "`The Colour out of Space`_",
   about an indescribable, unnatural colour.
 
 - [p. 92/82] "[...] the circle began to spin widdershins."
@@ -537,8 +537,8 @@ THE COLOUR OF MAGIC
   'yer bastard', 'man', 'you there' and so on. It's quite old, but then,
   Death is a history kind of guy."
 
-  _The Dictionary of Phrase and Fable_, by Ebenezer Cobham Brewer (a 19th
-  century reference book; see also the _Words From The Master_ section in
+  "`The Dictionary of Phrase and Fable`_", by Ebenezer Cobham Brewer (a 19th
+  century reference book; see also the "`Words From The Master`_" section in
   chapter 5) explains 'cully' as being a contracted form of 'cullion', "a
   despicable creature" (from the Italian: coglione). An Italian
   correspondent subsequently informed me that "coglione" is actually a
@@ -546,13 +546,13 @@ THE COLOUR OF MAGIC
   gullible person. According to the Oxford English Dictionary, 'cully' may
   also have been a gypsy word.
 
-- [p. 118/104] The entire _Lure of the Wyrm_ section parodies the Pern
+- [p. 118/104] The entire "`Lure of the Wyrm`_" section parodies the Pern
   novels (an sf/fantasy series) by Anne McCaffrey. The heroine of the first
-  Pern novel _Dragonflight_ is called Lessa, and the exclamation mark in
+  Pern novel "Dragonflight_" is called Lessa, and the exclamation mark in
   Terry's dragonriders' names parallels the similar use of apostrophes in
   McCaffrey's names.
 
-- [p. 124/109] "_The dragons sense Liessa's presence._"
+- [p. 124/109] ""`The dragons sense Liessa's presence._"
 
   This section in italics (continued later with Ninereeds) is another Pern
   reference (see the annotation for p. 118/104), in this case to the way
@@ -569,13 +569,13 @@ THE COLOUR OF MAGIC
   Although singing swords are common as dirt in myths and folklore, we do
   know that Terry is familiar with many old computer games, so the
   description of Kring may be a passing reference to the prototypical
-  computer adventure game _ADVENT_ (later versions of which were also known
-  as _Adventure_ or _Colossal Cave_). In this game, a room exists where a
+  computer adventure game "ADVENT_" (later versions of which were also known
+  as "Adventure_" or "`Colossal Cave`_"). In this game, a room exists where a
   sword is stuck in an anvil. The next line of the room's description goes:
   "The sword is singing to itself".
 
 - [p. 141/123] "[...] he had been captivated by the pictures of the fiery
-  beasts in _The Octarine Fairy Book_."
+  beasts in "`The Octarine Fairy Book`_"."
 
   A reference to our world's Blue, Brown, Crimson, Green, etc., Fairy
   Books, edited by Andrew Lang.
@@ -583,8 +583,8 @@ THE COLOUR OF MAGIC
 + [p. 156] "'It is forbidden to fight on the Killing Ground,' he said,
   and paused while he considered the sense of this."
 
-  This echoes a famous line from Stanley Kubrick's 1964 movie _Dr
-  Strangelove_, which has President Merkin Muffley (Peter Sellers)
+  This echoes a famous line from Stanley Kubrick's 1964 movie "`Dr
+  Strangelove`_", which has President Merkin Muffley (Peter Sellers)
   saying: "Gentlemen, you can't fight in here! This is the War Room."
 
 - [p. 168/145] "At that moment Lianna's dragon flashed by, and Hrun landed
@@ -630,7 +630,7 @@ THE COLOUR OF MAGIC
 - [p. 176/153] "'I am Goldeneyes Silverhand Dactylos,' said the craftsman."
 
   'Dactylos' means 'fingers' in dog-Greek. See also the annotation for p.
-  159/115 of _Small Gods_.
+  159/115 of "`Small Gods`_".
 
   The fate of Dactylos has been suffered by craftsmen in our world as well.
   In 1555 Ivan the Terrible ordered the construction of St Basil's Church
@@ -695,9 +695,9 @@ THE COLOUR OF MAGIC
 - [p. 198/172] "'Well, the disc itself would have been created by Fresnel's
   Wonderful Concentrator,' said Rincewind, authoritatively."
 
-  It is stereotypical that in fantasy fiction (e.g. Jack Vance's _Dying
-  Earth_ stories) and role-playing games (e.g. _Advanced Dungeons &
-  Dragons_) spells are often named after their 'creator', e.g. 'Bigby's
+  It is stereotypical that in fantasy fiction (e.g. Jack Vance's "`Dying
+  Earth`_" stories) and role-playing games (e.g. "`Advanced Dungeons &
+  Dragons`_") spells are often named after their 'creator', e.g. 'Bigby's
   Crushing Hand'. And indeed, in our universe Augustin Fresnel was the 19th
   century inventor of the Fresnel lens, often used in lighthouses to
   concentrate the light beam. A Fresnel lens consists of concentric ring
@@ -709,7 +709,7 @@ THE COLOUR OF MAGIC
   was expecting to boldly go where no man [...] had boldly gone before
   [...]"
 
-  From the famous opening voice-over to the _Star Trek_ television series:
+  From the famous opening voice-over to the "`Star Trek`_" television series:
 
   "Space... the final frontier. These are the voyages of the Starship
   Enterprise. Its five-year mission: to explore strange new worlds, to seek
@@ -717,7 +717,7 @@ THE COLOUR OF MAGIC
   before."
 
   This became "where no-one has gone before" only in the newer, more
-  politically correct _Star Trek_ incarnations.
+  politically correct "`Star Trek`_" incarnations.
 
 - [p. 222/192] "'? Tyo yur atl ho sooten gatrunen?'"
 
@@ -727,16 +727,16 @@ THE COLOUR OF MAGIC
 
   Terry remarks: "The point is that Krullian isn't Swedish -- it's *just a
   language that looks foreign*. In the same way, I hope the hell that when
-  _Witches Abroad_ is translated the translators use some common sense when
+  "`Witches Abroad`_" is translated the translators use some common sense when
   dealing with Nanny Ogg's fractured Esperanto."
 
 
-THE LIGHT FANTASTIC
+The Light Fantastic
 ~~~~~~~~~~~~~~~~~~~
 
-- [title] _The Light Fantastic_
+- [title] "`The Light Fantastic`_"
 
-  The book's title comes from the poem _L'Allegro_, written by John Milton
+  The book's title comes from the poem "`L'Allegro`_", written by John Milton
   in 1631:
 
         Haste thee, nymph, and bring with thee
@@ -755,8 +755,8 @@ THE LIGHT FANTASTIC
 
   The reference is to the saying "there ain't no such thing as a free
   lunch" (also known by its acronym 'TANSTAAFL', made popular by science
-  fiction author Robert Heinlein in his classic novel _The Moon is a Harsh
-  Mistress_, although the phrase was originally coined by American
+  fiction author Robert Heinlein in his classic novel "`The Moon is a Harsh
+  Mistress`_", although the phrase was originally coined by American
   economist John Kenneth Galbraith).
 
 - [p. 8/8] "[...] the sort of book described in library catalogues as
@@ -771,7 +771,7 @@ THE LIGHT FANTASTIC
   Chancellor of Unseen University: Weatherwax, and asked if there is a
   connection with Granny Weatherwax.
 
-  In _Lords and Ladies_, Terry supplies the following piece of dialogue (on
+  In "`Lords and Ladies`_", Terry supplies the following piece of dialogue (on
   p. 224/161) between Granny and Archchancellor Ridcully as an answer:
 
   "'There was even a Weatherwax as Archchancellor, years ago,' said
@@ -793,7 +793,7 @@ THE LIGHT FANTASTIC
 - [p. 9/9] "[...] the Book of Going Forth Around Elevenish, [...]"
 
   The title the ancient Egyptians used for what we now call the Book of the
-  Dead was _The Book of Going Forth By Day_. Note that in the UK until a
+  Dead was "`The Book of Going Forth By Day`_". Note that in the UK until a
   few years ago the pubs opened at 11 a.m.
 
   If you try really hard (one of my correspondents did) you can see this as
@@ -816,13 +816,13 @@ THE LIGHT FANTASTIC
 
   The magic eating its way through the ceilings with the wizards chasing it
   floor after floor vaguely resonates with the 'alien blood' scene in the
-  movie _Alien_, where the acidic blood of the Alien burns through
+  movie "Alien_", where the acidic blood of the Alien burns through
   successive floors of the ship, with people running down after it.
 
 - [p. 24/24] "[...] when a wizard is tired of looking for broken glass in
   his dinner, [...], he is tired of life."
 
-  See the annotation for p. 193/158 of _Mort_.
+  See the annotation for p. 193/158 of "Mort_".
 
 - [p. 26/26] "I WAS AT A PARTY, he added, a shade reproachfully."
 
@@ -834,7 +834,7 @@ THE LIGHT FANTASTIC
   -- what with the Masque of the Red Death and stuff like that, the joke is
   just lying there waiting for anyone to pick it up."
 
-  _The Masque of the Red Death_ is a well-known story by Edgar Allan Poe,
+  "`The Masque of the Red Death`_" is a well-known story by Edgar Allan Poe,
   in which the nobility, in a decadent and senseless attempt to escape from
   the plague that's ravishing the land, lock themselves up a castle and
   hold a big party. At which a costumed personification of Death, of
@@ -858,7 +858,7 @@ THE LIGHT FANTASTIC
   describes here occurs in our world as well. Or rather: it is *rumoured*,
   with stubborn regularity, to have occurred all over the globe. Really
   hard evidence, one way or the other, turns out to be surprisingly hard to
-  come by. As Cecil Adams puts it in _More of the Straight Dope_: "Having
+  come by. As Cecil Adams puts it in "`More of the Straight Dope_: "Having
   now had the "I don't know" yarn turn up in three different parts of the
   globe, I can draw one of two conclusions: either explorers are incredible
   saps, or somebody's been pulling our leg."
@@ -871,7 +871,7 @@ THE LIGHT FANTASTIC
 
   The cottage and the events alluded to a bit later ("'Kids of today,'
   commented Rincewind. 'I blame the parents,' said Twoflower.") are
-  straight out of the _Hansel and Gretel_ fairy tale by the brothers Grimm.
+  straight out of the "`Hansel and Gretel`_" fairy tale by the brothers Grimm.
 
   If you have access to the Internet, you can find an online version of the
   original fairy tale at the URL:
@@ -898,7 +898,7 @@ THE LIGHT FANTASTIC
 
 - [p. 37/37] "'Hot water, good dentishtry and shoft lavatory paper.'"
 
-  From the first _Conan The Barbarian_ movie (starring Arnold
+  From the first "`Conan The Barbarian`_" movie (starring Arnold
   Schwarzenegger): "Conan! What is good in life?" "To crush your enemies,
   drive them before you, and to hear the lamentation of their women." This
   quote, in turn, is lifted more or less verbatim from an actual
@@ -907,18 +907,18 @@ THE LIGHT FANTASTIC
 - [p. 45/45] "'Of course I'm sure,' snarled the leader. 'What did you
   expect, three bears?'"
 
-  Another fairy tale reference, this time to _Goldilocks and the Three
-  Bears_.
+  Another fairy tale reference, this time to "`Goldilocks and the Three
+  Bears`_".
 
 - [p. 46/46] "'Someone's been eating my bed,' he said."
 
   A mixture of "someone's been eating my porridge" and "someone's been
-  sleeping in my bed", both from the _Goldilocks and the Three Bears_ fairy
+  sleeping in my bed", both from the "`Goldilocks and the Three Bears`_" fairy
   tale.
 
 - [p. 47/47] "Illuminated Mages of the Unbroken Circle"
 
-  An organisation with this name is also mentioned in the _Illuminatus!_
+  An organisation with this name is also mentioned in the "`Illuminatus!`_"
   trilogy by Robert Shea and Robert Anton Wilson.
 
 + [p. 57/57] "The universe, they said, depended for its operation on the
@@ -930,8 +930,8 @@ THE LIGHT FANTASTIC
 
   The word 'charm' also resonates with the concept of quarks, the
   elementary quantum particles that the strong nuclear force in fact acts
-  on. For more information see the annotation for p. 133/97 of _Lords and
-  Ladies_.
+  on. For more information see the annotation for p. 133/97 of "`Lords and
+  Ladies`_".
 
 + [p. 62/62] "'In the beginning was the word,' said a dry voice right
   behind him. 'It was the Egg,' corrected another voice. [...] '[...] I'm
@@ -940,7 +940,7 @@ THE LIGHT FANTASTIC
   Clearing of the Throat--'"
 
   The bickering of the spells is cleared up somewhat by the creation
-  passages on pp. 103/85-119/99 from _Eric_. It is quite clearly stated
+  passages on pp. 103/85-119/99 from "Eric_". It is quite clearly stated
   that first the Creator did an Egg and Cress (for Rincewind), then He
   Cleared His Throat, then He Read the Octavo (that's the word then), which
   created the world and finally the primordial slime came into being
@@ -954,7 +954,7 @@ THE LIGHT FANTASTIC
 
 - [p. 82/82] "'Anyway, I don't believe in Caroc cards,' he muttered."
 
-  Caroc = Tarot. See also the annotation for p. 110/90 of _Mort_.
+  Caroc = Tarot. See also the annotation for p. 110/90 of "Mort_".
 
   A minor inconsistency, by the way, is that on p. 24/24 there actually is
   a reference to Tarot cards.
@@ -963,7 +963,7 @@ THE LIGHT FANTASTIC
   down at the Young Men's Pagan Association?"
 
   A reference to the Young Men's Christian Association, YMCA. See also the
-  annotation for p. 14/14 of _Pyramids_.
+  annotation for p. 14/14 of "Pyramids_".
 
   In our world the YMCA somehow became associated with the homosexual scene
   (I think quite a few people singing merrily along to the Village People's
@@ -978,7 +978,7 @@ THE LIGHT FANTASTIC
   one, talked Hades (the Greek version of Death) into it, but had to leave
   without looking back. Of course he looked -- and she was gone forever. A
   contemporary retelling of the Orpheus legend can be found in Neil
-  Gaiman's _Sandman_ series.
+  Gaiman's "Sandman_" series.
 
   A few people have written and suggested a reference to Lot's wife in
   Genesis 19:26 (who was turned into a pillar of salt when she looked back
@@ -992,7 +992,7 @@ THE LIGHT FANTASTIC
 
   A houri is actually a beautiful young girl found in the Moslem paradise.
   For more information on sherbets see the annotation for p. 122/111 of
-  _Sourcery_.
+  "Sourcery_".
 
 - [p. 105/105] "[...] homesickness rose up inside Rincewind like a
   late-night prawn birani."
@@ -1002,21 +1002,21 @@ THE LIGHT FANTASTIC
 - [p. 128/128] "'Man, we could be as rich as Creosote!'"
 
   This is the first mention of Creosote, whom we will later meet as a fully
-  developed character in his own right, in _Sourcery_. See also the
-  annotation for p. 125/113 of _Sourcery_.
+  developed character in his own right, in "Sourcery_". See also the
+  annotation for p. 125/113 of "Sourcery_".
 
 - [p. 133/133] The idea of a strange little shop that appears, sells the
   most peculiar things, and then vanishes again first appears in a short
-  story by H. G. Wells, appropriately called _The Magic Shop_. A recent
-  variation on the same theme can be found in Stephen King's _Needful
-  Things_.
+  story by H. G. Wells, appropriately called "`The Magic Shop`_". A recent
+  variation on the same theme can be found in Stephen King's "`Needful
+  Things`_".
 
   When an a.f.p. reader mistakenly thought that this type of shop was
-  invented by Fritz Leiber (see the annotation for p. 9/9 of _The Colour of
-  Magic_), Terry replied:
+  invented by Fritz Leiber (see the annotation for p. 9/9 of "`The Colour of
+  Magic`_"), Terry replied:
 
   "Actually, magically appearing/disappearing shops were a regular feature
-  of fantasy stories, particularly in the old _Unknown_ magazine. They
+  of fantasy stories, particularly in the old "Unknown_" magazine. They
   always sold the hero something he didn't -- at the time -- know he
   needed, or played some other vital part in the plot. And I think they
   even turned up on the early Twilight Zones too. You're referring to a
@@ -1024,12 +1024,12 @@ THE LIGHT FANTASTIC
   shop appears which seems to contain wonderful merchandise but in fact
   contains dangerous trash."
 
-  The Leiber story is indeed called _Bazaar of the Bizarre_. It features
-  Fafhrd and the Gray Mouser, and can be found in _Swords Against Death_.
+  The Leiber story is indeed called "`Bazaar of the Bizarre`_". It features
+  Fafhrd and the Gray Mouser, and can be found in "`Swords Against Death`_".
 
 - [p. 171/171] "'Do not peddle in the affairs of wizards...'"
 
-  See the annotation for p. 183/149 of _Mort_.
+  See the annotation for p. 183/149 of "Mort_".
 
 - [p. 209/209] "The young turtles followed, orbiting their parent."
 
@@ -1048,11 +1048,11 @@ THE LIGHT FANTASTIC
   Substituting "graduation with distinction" for the Latin "summa cum
   laude" gives a perfectly unexceptional sentiment, but it is, of course,
   also a reference to the song 'Summertime' from the Gershwin
-  opera/operetta/musical _Porgy and Bess_: "Summertime, and the living is
+  opera/operetta/musical "`Porgy and Bess_: "Summertime, and the living is
   easy".
 
 
-EQUAL RITES
+Equal Rites
 ~~~~~~~~~~~
 
 - A central theme of this book (as well as of the other Discworld witch
@@ -1069,11 +1069,11 @@ EQUAL RITES
 
 - "Only dumb redheads in Fifties' sitcoms are wacky."
 
-  Refers to Lucille Ball from _I Love Lucy_ fame.
+  Refers to Lucille Ball from "`I Love Lucy`_" fame.
 
 - One of my correspondents recalls that he interviewed Terry in 1987 for a
   university magazine. In that interview Terry said that one thing which
-  had tickled him about Josh Kirby's artwork for the _Equal Rites_ cover
+  had tickled him about Josh Kirby's artwork for the "`Equal Rites`_" cover
   was that it subliminally (accidentally?) reflected the Freudian overtones
   of the book (references to "hot dreams", the angst of adolescence, things
   that might be called "magic" envy)... Kirby's artwork "coincidentally"
@@ -1082,24 +1082,24 @@ EQUAL RITES
   myth).
 
 - Kirby caricatures himself as the pointy-eared wizard on the back cover --
-  anyone who has seen his picture in _The Josh Kirby Posterbook_ can
+  anyone who has seen his picture in "`The Josh Kirby Posterbook`_" can
   confirm this.
 
 - [p. -/5] "Thanks to Neil Gaiman, who loaned us the last surviving copy of
-  the _Liber Paginarum Fulvarum_, [...]"
+  the "`Liber Paginarum Fulvarum`_", [...]"
 
-  Neil Gaiman is the author of the acclaimed _Sandman_ comics series, as
-  well as Terry's co-author on _Good Omens_.
+  Neil Gaiman is the author of the acclaimed "Sandman_" comics series, as
+  well as Terry's co-author on "`Good Omens`_".
 
-  _Liber Paginarum Fulvarum_ is a dog-Latin title that translates to _Book
-  of Yellow Pages_, i.e. not the _Book of the Dead_, but rather the
-  _Phonebook of the Dead_. The book appears in _Good Omens_ as well as in
-  _Sandman_, where it is used in an attempt to summon Death (although the
+  "`Liber Paginarum Fulvarum`_" is a dog-Latin title that translates to "`Book
+  of Yellow Pages`_", i.e. not the "`Book of the Dead`_", but rather the
+  "`Phonebook of the Dead`_". The book appears in "`Good Omens`_" as well as in
+  "Sandman_", where it is used in an attempt to summon Death (although the
   colourist didn't get the joke and simply coloured the pages brown). Terry
-  said (when questioned about it in a _Good Omens_ context):
+  said (when questioned about it in a "`Good Omens`_" context):
 
   "Liber Paginarum Fulvarum is a kind of shared gag. It's in the dedication
-  of _Equal Rites_, too. Although I think we've got the shade of yellow
+  of "`Equal Rites`_", too. Although I think we've got the shade of yellow
   wrong -- I think there's another Latin word for a kind of yellow which is
   closer to the Yellow Pages colour."
 
@@ -1155,7 +1155,7 @@ EQUAL RITES
 
   A Morris Minor is a British car that non-Brits might be familiar with
   either through the video clip for Madness' song 'Driving in my car', or
-  through the TV series _Lovejoy_. In that series, Lovejoy's car 'Miriam'
+  through the TV series "Lovejoy_". In that series, Lovejoy's car 'Miriam'
   is a Morris Minor. For the rest of you, here's a description:
 
   Imagine a curvaceous jelly-mould in the shape of a crouching rabbit, like
@@ -1177,21 +1177,21 @@ EQUAL RITES
   dark gods of the Necrotelicomnicom, [...]"
 
   The Necrotelicomnicom is another reference to the Phonebook of the Dead
-  (see the annotation for the dedication of _Equal Rites_), but is also a
-  pun on the evil book of the dead _Necronomicon_, used by H. P. Lovecraft
+  (see the annotation for the dedication of "`Equal Rites`_"), but is also a
+  pun on the evil book of the dead "Necronomicon_", used by H. P. Lovecraft
   in his Cthulhu stories.
 
   Bel-Shamharoth is an Elder God of the Discworld we already met in 'The
-  Sending of Eight' in _The Colour of Magic_. C'hulagen is obviously made
+  Sending of Eight' in "`The Colour of Magic`_". C'hulagen is obviously made
   up out of the same ingredients as C'thulhu, and the Insider refers to the
-  unnamed narrator of Lovecraft's _The Outsider_.
+  unnamed narrator of Lovecraft's "`The Outsider`_".
 
 - [p. 119/117] "The lodgings were [...] next to the [...] premises of a
   respectable dealer in stolen property because, as Granny had heard, good
   fences make good neighbours."
 
   Terry's having fun with a familiar saying that originated with Robert
-  Frost's poem _Mending a Wall_:
+  Frost's poem "`Mending a Wall_:
 
         My apple trees will never get across
         And eat the cones under his pines, I tell him.
@@ -1230,7 +1230,7 @@ EQUAL RITES
 - [p. 132/130] The maid at Unseen University is called Ksandra, which puns
   on Troy's Cassandra; but might also refer to Sandra being yet another
   typical 'Tracey/Sharon' sort of name in England. See also the entry for
-  p. 106/95 of _Reaper Man_.
+  p. 106/95 of "`Reaper Man`_".
 
   Perhaps the fact that nobody can understand Ksandra (because she talks
   with her mouth full of clothes-pegs) is also an obscure reference to the
@@ -1241,7 +1241,7 @@ EQUAL RITES
   Grey if he doesn't take better care of his laundry.'"
 
   You really have to read Tolkien in order to understand why this is so
-  funny. Sure, I can explain that in the _The Lord of the Rings_ a big deal
+  funny. Sure, I can explain that in the "`The Lord of the Rings`_" a big deal
   is made of the transformation of wizards from one 'colour' to another
   (and in particular Gandalf the Grey becoming Gandalf the White), but that
   just doesn't do justice to the real atmosphere of the thing.
@@ -1256,11 +1256,11 @@ EQUAL RITES
 
 - [p. 163/159] Some folks thought they recognised the duel between Granny
   Weatherwax and Archchancellor Cutangle from T. H. White's description of
-  a similar duel in his _Arthur, The Once and Future King_ (also depicted
-  as a very funny fragment in Disney's _The Sword in the Stone_, which was
+  a similar duel in his "`Arthur, The Once and Future King`_" (also depicted
+  as a very funny fragment in Disney's "`The Sword in the Stone`_", which was
   an animation film based on this book). However, Terry says:
 
-  "The magical duel in _Equal Rites_ is certainly not lifted from T. H.
+  "The magical duel in "`Equal Rites`_" is certainly not lifted from T. H.
   White. Beware of secondary sources. Said duel (usually between a man and
   a woman, and often with nice Freudian touches to the things they turn
   into) has a much longer history; folkies out there will probably know it
@@ -1270,17 +1270,17 @@ EQUAL RITES
   of ten.'"
 
   The first mention of this particular running gag in the Discworld canon
-  (to be featured most prominently in _Guards! Guards!_).
+  (to be featured most prominently in "`Guards! Guards!`_").
 
   It is not quite *the* earliest appearance in Terry's work, though: he
-  also uses it on p. 46/55 of _The Dark Side of the Sun_.
+  also uses it on p. 46/55 of "`The Dark Side of the Sun`_".
 
 - [p. 188/184] "[...] which by comparison made Gormenghast look like a
   toolshed on a railway allotment."
 
   Gormenghast is the ancient, decaying castle from Mervyn Peake's
-  _Gormenghast_ trilogy. See also the annotation for p. 17/17 of
-  _Pyramids_.
+  "Gormenghast_" trilogy. See also the annotation for p. 17/17 of
+  "Pyramids_".
 
 - [p. 202/197] "'Like "red sky at night, the city's alight",' said
   Cutangle."
@@ -1289,12 +1289,12 @@ EQUAL RITES
   in the morning, shepherd's warning".
 
 
-MORT
+Mort
 ~~~~
 
 - [p. 17/16] "'They call me Mort.' WHAT A COINCIDENCE, [...]"
 
-  Not only does 'Mort' mean 'death' in French, but in _The Light Fantastic_
+  Not only does 'Mort' mean 'death' in French, but in "`The Light Fantastic`_"
   we also learned (on p. 95/95), that Death's *own* (nick)name is Mort.
   Opinions on a.f.p. are divided as to which of these two facts is the
   'coincidence' Death is talking about.
@@ -1342,12 +1342,12 @@ MORT
   a tax demand."
 
   An acknowledgment of the "nothing is certain but death and taxes" saying.
-  See also the annotation for p. 151/133 of _Reaper Man_.
+  See also the annotation for p. 151/133 of "`Reaper Man`_".
 
 - [p. 33/28] "'I shall call you Boy', she said."
 
   The subplot of Ysabell and Mort and the matchmaking efforts by her father
-  echoes Charles Dickens' _Great Expectations_ (where Estelle, for
+  echoes Charles Dickens' "`Great Expectations`_" (where Estelle, for
   instance, also insists on calling Pip 'Boy' all the time).
 
 - [p. 34/29] Albert's stove has 'The Little Moloch (Ptntd)' embossed on its
@@ -1356,11 +1356,11 @@ MORT
   There exists a make of woodburning stove called 'The Little Wenlock'.
 
   For those who don't know what a Moloch is, I'll let Brewer (see the
-  annotation for p. 117/103 of _The Colour of Magic_) do the explaining:
+  annotation for p. 117/103 of "`The Colour of Magic`_") do the explaining:
 
-  "_Moloch_: Any influence which demands from us the sacrifice of what we
-  hold most dear. Thus _war_ is a Moloch, _king mob_ is a Moloch, the
-  _guillotine_ was the Moloch of the French Revolution, etc. The allusion
+  ""`Moloch_: Any influence which demands from us the sacrifice of what we
+  hold most dear. Thus _war`_" is a Moloch, _king mob`_" is a Moloch, the
+  _guillotine`_" was the Moloch of the French Revolution, etc. The allusion
   is to the god of the Ammonites [Phoenicians], to whom children were 'made
   to pass through the fire' in sacrifice."
 
@@ -1372,8 +1372,8 @@ MORT
   CAREFULLY NOW."
 
   The whole section on Mort's training, and this paragraph in particular,
-  explores a theme familiar from stories such as told in _The Karate Kid_,
-  or _The Empire Strikes Back_, and of course the TV series _Kung Fu_,
+  explores a theme familiar from stories such as told in "`The Karate Kid`_",
+  or "`The Empire Strikes Back`_", and of course the TV series "`Kung Fu`_",
   where a young student is given many menial tasks to perform, which are
   revealed to be integral to his education.
 
@@ -1411,7 +1411,7 @@ MORT
 
 - [p. 65/53] "TIME LIKE AN EVER-ROLLING STREAM BEARS ALL ITS..."
 
-  Death is quoting from _Our God, Our Help in Ages Past_, by Isaac Watts.
+  Death is quoting from "`Our God, Our Help in Ages Past`_", by Isaac Watts.
   The verse in full is:
 
         Time like an ever-rolling stream
@@ -1430,7 +1430,7 @@ MORT
 
 - [p. 84/69] "[...] just like a Cheshire cat only much more erotic."
 
-  See the annotation for p. 142/141 of _Wyrd Sisters_.
+  See the annotation for p. 142/141 of "`Wyrd Sisters`_".
 
 - [p. 85/69] "[...] the fire of the Aurora Coriolis [...]"
 
@@ -1448,13 +1448,13 @@ MORT
   was promptly whisked away from his native village and installed in the
   Tsurphu-monastery.
 
-  In _Guards! Guards!_ we eventually learn that Abbot Lobsang has indeed
+  In "`Guards! Guards!`_" we eventually learn that Abbot Lobsang has indeed
   been reincarnated.
 
 - [p. 90/74] "Princess Keli awoke."
 
   Another 'dumb blonde' pun (on Kelly this time) along the lines of Ptraci
-  and Ksandra? See the annotation for p. 45/45 of _Pyramids_.
+  and Ksandra? See the annotation for p. 45/45 of "Pyramids_".
 
 - [p. 93/76] "[...] if Mort ever compared a girl to a summer's day, it
   would be followed by a thoughtful explanation of what day he had in mind
@@ -1464,14 +1464,14 @@ MORT
   its high jokes-per-page count, it is quite remarkable that Terry
   Pratchett doesn't recycle (or inadvertently reinvent) his own jokes more
   often than he does. As for instance in the case of this particular
-  Shakespeare-inspired joke that would be repeated two books later in _Wyrd
-  Sisters_ (see the annotation for p. 213/212 of that book).
+  Shakespeare-inspired joke that would be repeated two books later in "`Wyrd
+  Sisters`_" (see the annotation for p. 213/212 of that book).
 
 - [p. 99/81] "'[...] the princesses were so noble they, they could pee
   through a dozen mattresses --'"
 
-  Albert here mangles the Grimm fairy tale known as _The Princess and the
-  Pea_, in which a princess proves her nobility to her future husband and
+  Albert here mangles the Grimm fairy tale known as "`The Princess and the
+  Pea`_", in which a princess proves her nobility to her future husband and
   his mother by being so fine-constitutioned that a pea placed underneath
   the dozen mattresses she was given to sleep on kept her awake all night.
 
@@ -1502,8 +1502,8 @@ MORT
 
   Ysabell starts to list off a number of tragic romances, mostly mangled
   versions of existing stories. This one appears to be the Shakespearean
-  tragedy _Romeo and Juliet_, or perhaps the original source: Ovid's
-  _Pyramus and Thisbe_.
+  tragedy "`Romeo and Juliet`_", or perhaps the original source: Ovid's
+  "`Pyramus and Thisbe`_".
 
 - [p. 127/104] "'-- swam the river every night, but one night there was
   this storm and when he didn't arrive she --'"
@@ -1514,7 +1514,7 @@ MORT
   then there was indeed a storm, and the candle she used as a beacon blew
   out, and the Gods couldn't hear his prayers over the noise of the storm,
   and so he drowned, and the next morning she saw his body and drowned
-  herself as well. Read Christopher Marlowe's _Hero and Leander_ for more
+  herself as well. Read Christopher Marlowe's "`Hero and Leander`_" for more
   details.
 
 - [p. 133/109] "'Why, lordship, we drink scumble, for preference.'"
@@ -1570,19 +1570,19 @@ MORT
 - [p. 183/149] "'Do not meddle in the affairs of wizards because a refusal
   often offends, I read somewhere.'"
 
-  Ysabell probably read one part of this in Tolkien's _The Lord of the
-  Rings_ where we find (in _The Fellowship of the Ring_, Book One, Chapter
+  Ysabell probably read one part of this in Tolkien's "`The Lord of the
+  Rings`_" where we find (in "`The Fellowship of the Ring`_", Book One, Chapter
   III) that Gildor Inglorion the High Elf says: "Do not meddle in the
   affairs of wizards because they are subtle and quick to anger". The other
   part she may have got from signs often seen in stores and pubs around the
   English-speaking world: "Do not ask for credit, because a refusal often
   offends".
 
-  See also the annotation for p. 367/264 of _Lords and Ladies_.
+  See also the annotation for p. 367/264 of "`Lords and Ladies`_".
 
 - [p. 186/152] "BEGONE, YOU BLACK AND MIDNIGHT HAG, he said."
 
-  Death is alluding to Shakespeare's _Macbeth_, act 4, scene 1, where
+  Death is alluding to Shakespeare's "Macbeth_", act 4, scene 1, where
   Macbeth says to the witches: "How now, you secret, black, and midnight
   hags!"
 
@@ -1604,7 +1604,7 @@ MORT
 
   Quite a few people have mistaken this quote for a reference to Douglas
   Adams. Of course Adams was simply parodying Johnson's quote as well when
-  he wrote (in Chapter 4 of _The Restaurant at the End of the Universe_):
+  he wrote (in Chapter 4 of "`The Restaurant at the End of the Universe`_"):
 
   "[...] when a recent edition of Playbeing magazine headlined an article
   with the words 'When you are tired of Ursa Minor Beta you are tired of
@@ -1613,13 +1613,13 @@ MORT
 - [p. 195/159] "'Alligator sandwich,' he said. 'And make it sna--'"
 
   Refers to an old playground one-liner: "give me an alligator sandwich and
-  make it snappy!". Terry uses this joke in a different context in _Witches
-  Abroad_ (see the annotation for p. 176/154 of that book).
+  make it snappy!". Terry uses this joke in a different context in "`Witches
+  Abroad`_" (see the annotation for p. 176/154 of that book).
 
 - [p. 197/161] "'Fireworks?' Cutwell had said."
 
   The stuff about wizards knowing all about fireworks is a reference to
-  Tolkien's _The Hobbit_, where the great Wizard Gandalf was famed (in
+  Tolkien's "`The Hobbit`_", where the great Wizard Gandalf was famed (in
   times of peace) for entertaining everybody with fireworks.
 
 - [p. 212/172] In the Disc model, Ankh-Morpork was a carbuncle.
@@ -1648,7 +1648,7 @@ MORT
 - [p. 226/184] "[...] purposes considerably more dire than, say, keeping a
   razor blade nice and sharp."
 
-  See the annotation for p. 35/35 of _The Light Fantastic_.
+  See the annotation for p. 35/35 of "`The Light Fantastic`_".
 
 - [p. 240/196] "He remembered being summoned into reluctant existence at
   the moment the first creature lived, in the certain knowledge that he
@@ -1669,7 +1669,7 @@ MORT
 
   A reference to Helen of Troy (or Tsort, I suppose I should say), over
   whom the Trojan War was started. The exact original quote, from
-  Christopher Marlowe's _The Tragical History of Dr Faustus_, goes:
+  Christopher Marlowe's "`The Tragical History of Dr Faustus`_", goes:
 
         Was this the face that launched a thousand ships,
         And burnt the topless towers of Ilium?
@@ -1677,16 +1677,16 @@ MORT
 
   Ilium is the Latin name for Troy.
 
-- [p. 271/221] "'_Only Ysabell said that since you turned the glass over
+- [p. 271/221] "'"`Only Ysabell said that since you turned the glass over
   that means I shall die when I'm--' YOU HAVE SUFFICIENT, said Death
   coldly. MATHEMATICS ISN'T ALL IT'S CRACKED UP TO BE._"
 
-  Except that the events detailed in _Soul Music_ imply that Ysabell was
+  Except that the events detailed in "`Soul Music`_" imply that Ysabell was
   right in this case ("After that, it was a matter of math. And the
   Duty.")...
 
 
-SOURCERY
+Sourcery
 ~~~~~~~~
 
 - [p. 8/10] "'My son,' he said. 'I shall call him Coin.'"
@@ -1700,15 +1700,15 @@ SOURCERY
   This subject comes up every now and again on alt.fan.pratchett, so it is
   time for an annotation to settle this matter for once and for all:
   playing (chess) games with Death is a *very* old concept. It goes back
-  much further than either Ingmar Bergman's famous 1957 movie _The Seventh
-  Seal_, or Chris deBurgh's less famous 1975 song 'Spanish Train' (which
+  much further than either Ingmar Bergman's famous 1957 movie "`The Seventh
+  Seal`_", or Chris deBurgh's less famous 1975 song 'Spanish Train' (which
   describes a poker game between God and the Devil).
 
 - [p. 22/22] "It was quite possible that it was a secret doorway to
   fabulous worlds [...]"
 
-  A reference to C. S. Lewis's classic fantasy story _The Lion, The Witch
-  and the Wardrobe_, in which the heroes are magically transported to the
+  A reference to C. S. Lewis's classic fantasy story "`The Lion, The Witch
+  and the Wardrobe`_", in which the heroes are magically transported to the
   Land of Narnia through the back of an old wardrobe, which was made from a
   tree that grew from the seeds of a magical apple taken from that Land
   long before.
@@ -1718,12 +1718,12 @@ SOURCERY
   [...]'"
 
   Probably a reference to a famous scene from the 'Sorcerer's Apprentice'
-  segment in Disney's 1940 film _Fantasia_. The "sourcerer" being in fact
+  segment in Disney's 1940 film "Fantasia_". The "sourcerer" being in fact
   the Apprentice, Mickey, dreaming of commanding the wind to blow, the
   waves to wave, the stars to fall, and so on.
 
-  Some people were also reminded of Prospero in Shakespeare's _The
-  Tempest_.
+  Some people were also reminded of Prospero in Shakespeare's "`The
+  Tempest`_".
 
 - [p. 44/42] "'Psst,' it said. 'Not very,' said Rincewind [...], 'but I'm
   working on it.'"
@@ -1734,7 +1734,7 @@ SOURCERY
 - [p. 51/48] "*Of all the disreputable taverns in all the city you could
   have walked into, you walked into his*, complained the hat."
 
-  Paraphrases Humphrey Bogart's famous line from _Casablanca_: "Of all the
+  Paraphrases Humphrey Bogart's famous line from "`Casablanca_: "Of all the
   gin joints in all the towns in all the world, she walks into mine."
 
 - [p. 55/52] "By the way, the thing on the pole isn't a sign. When they
@@ -1759,7 +1759,7 @@ SOURCERY
   not supposed to use magic.
 
   With respect to (a) I was told that in 1991 (three years after
-  _Sourcery_) an article was published in which a team of geneticists write
+  "Sourcery_") an article was published in which a team of geneticists write
   about a certain transposon that seemed to be common to both maize and
   fruit flies, implying that it might be possible to have some form of
   horizontal transmission between vegetable and animal DNA, after all.
@@ -1770,9 +1770,9 @@ SOURCERY
   In Norse mythology, the "Twilight of the Gods" refers to Ragnarok, the
   final conflict at the end of times between the gods and their enemies
   (amongst which are the Ice Giants). See also the annotation for p.
-  308/222 of _Lords and Ladies_
+  308/222 of "`Lords and Ladies`_"
 
-- [p. 69/64] "'_Anus mirabilis?_'"
+- [p. 69/64] "'"`Anus mirabilis?_'"
 
   "Annus mirabilis" translates to "year of wonder". "*Anus* mirabilis" does
   not.
@@ -1798,9 +1798,9 @@ SOURCERY
   how he himself visualises the Patrician:
 
   "I can't remember the guy's name, but I've always pictured the Patrician
-  as looking like the father in _Beetlejuice_ -- the man also played the
-  Emperor of Austria in _Amadeus_. And maybe slightly like the head bad guy
-  in _Die Hard_."
+  as looking like the father in "Beetlejuice_" -- the man also played the
+  Emperor of Austria in "Amadeus_". And maybe slightly like the head bad guy
+  in "`Die Hard`_"."
 
   The actors Terry is thinking of are Jeffrey Jones and Alan Rickman,
   respectively.
@@ -1808,14 +1808,14 @@ SOURCERY
 - [p. 76/70] "[...] his chair at the foot of the steps leading up to the
   throne, [...]"
 
-  In Tolkien's _The Lord of the Rings_, the Stewards of Gondor also sat on
+  In Tolkien's "`The Lord of the Rings`_", the Stewards of Gondor also sat on
   a chair on the steps below the real throne, awaiting the return of the
   king. The prophecy in that case also included a magic sword, although
   Tolkien neglects to make any mention of a strawberry-shaped birthmark.
 
-  Other occurrences of the legend can be found in Robert Jordan's _The
-  Wheel of Time_ epic fantasy series, in Raymond E. Feist's _Prince of the
-  Blood_, and in David Eddings' _Belgariad_ quintet.
+  Other occurrences of the legend can be found in Robert Jordan's "`The
+  Wheel of Time`_" epic fantasy series, in Raymond E. Feist's "`Prince of the
+  Blood`_", and in David Eddings' "Belgariad_" quintet.
 
   This is undoubtedly one of those cases where everybody is drawing on a
   much older idea. Legends about kings, swords and birthmarks are of course
@@ -1843,7 +1843,7 @@ SOURCERY
       R O T A S
 
   This square is palindromic in all directions. The sentence you get reads:
-  _Sator Arepo Tenet Opera Rotas_, which means, more or less: "The sower
+  "`Sator Arepo Tenet Opera Rotas`_", which means, more or less: "The sower
   [i.e. God] in his field controls the workings of his tools [i.e. us]".
   Some correspondents questioned the correctness of this translation, so if
   anyone has a good reference to something else I'd love to hear it.
@@ -1864,13 +1864,13 @@ SOURCERY
 
   Maurits C. Escher: Dutch graphic artist of the 20th century, well-known
   for his tangled, paradoxical pictures of optical illusions and
-  plane-filling tilings. Read Douglas Hofstadter's _Goedel, Escher, Bach_
+  plane-filling tilings. Read Douglas Hofstadter's "`Goedel, Escher, Bach`_"
   for much, much more information.
 
 - [p. 122/111] "'It looks like someone has taken twice five miles of inner
   city and girded them round with walls and towers,' he hazarded."
 
-  From Samuel Taylor Coleridge's poem _Kubla Khan_:
+  From Samuel Taylor Coleridge's poem "`Kubla Khan_:
 
         So twice five miles of fertile ground
         With walls and towers were girded round
@@ -1881,11 +1881,11 @@ SOURCERY
   well as a fizzy sweet powder children eat as a sweet, and which comes in
   a cardboard tube with a liquorice 'straw' at the top. To get to the
   sherbet you bite off the end of the liquorice and suck through it. See
-  also the annotation for p. 104/104 of _The Light Fantastic_.
+  also the annotation for p. 104/104 of "`The Light Fantastic`_".
 
 - [p. 125/113] "'[...] pretty much of a miracle of rare device.'"
 
-  Coleridge's _Kubla Khan_:
+  Coleridge's "`Kubla Khan_:
 
         It was a miracle of rare device
         A sunny pleasure-dome with caves of ice!
@@ -1916,17 +1916,17 @@ SOURCERY
   their fearless acts. For example, Brewer writes:
 
   "*Assassins*. A band of Carmathians, collected by Hassa, subah of
-  Nishapour, called the _Old Man of the Mountains_, because he made Mount
+  Nishapour, called the "`Old Man of the Mountains`_", because he made Mount
   Lebanon his stronghold. This band was the terror of the world for two
   centuries, when it was put down by Sultan Bibaris. The assassins indulged
   in *haschisch* (bang), an intoxicating drink, and from this liquor
   received their name."
 
   For more information, see also the Hawkwind song 'Hassan I Sabbah' on
-  their album _Quark, Strangeness and Charm_.
+  their album "`Quark, Strangeness and Charm`_".
 
 - [p. 126/114] Creosote's poetry is mostly based on Edward Fitzgerald's
-  translation of the _Rubaiyat_ of Omar Khayyam. The poem parodied on this
+  translation of the "Rubaiyat_" of Omar Khayyam. The poem parodied on this
   page goes:
 
         A book of verses underneath the bough
@@ -1935,7 +1935,7 @@ SOURCERY
 - [p. 127/115] "'They spent simply ages getting the rills sufficiently
   sinuous.'"
 
-  _Kubla Khan_:
+  "`Kubla Khan_:
 
         And there were gardens bright with sinuous rills.
 
@@ -1951,7 +1951,7 @@ SOURCERY
 
 - [p. 127/115] "'You can't play a dulcimer, by any chance?'"
 
-  _Kubla Khan_:
+  "`Kubla Khan_:
 
         It was an Abyssinian maid,
         And on her dulcimer she played.
@@ -1984,7 +1984,7 @@ SOURCERY
 - [p. 129/117] "Get up! For the morning in the cup of day, / Has dropped
   the spoon that scares the stars away."
 
-  The _Rubaiyat_:
+  The "`Rubaiyat_:
 
         Awake! for morning in the bowl of night
         Hath flung the stone that puts the stars to flight.
@@ -1994,7 +1994,7 @@ SOURCERY
 
   A falling apple supposedly helped Newton discover the Law of Gravity, a
   boiling kettle helped Watt revolutionise the steam engine (see also the
-  annotation for p. 175/153 of _Reaper Man_), and Archimedes, according to
+  annotation for p. 175/153 of "`Reaper Man`_"), and Archimedes, according to
   legend, discovered the principles of fluid displacement while taking a
   bath.
 
@@ -2031,19 +2031,19 @@ SOURCERY
 - [p. 154/139] "[...] the Librarian dropped on him like the descent of
   Man."
 
-  Reference to Charles Darwin's landmark 1871 book _The Descent of Man_.
+  Reference to Charles Darwin's landmark 1871 book "`The Descent of Man`_".
 
 - [p. 162/147] "'He asked me to tell him a story.'"
 
   This is the first, but not the last time in the book that Creosote asks
-  Conina for a story. This refers to _1001 Nights_, and the stories
+  Conina for a story. This refers to _1001 Nights`_", and the stories
   Scheherezade had to tell every night to *her* Caliph, Harun al-Rashid.
 
 - [p. 167/151] "'I'm looking up the Index of Wandering Monsters', said
   Nijel."
 
   'Wandering Monsters' is a phrase that comes from the world of fantasy
-  role-playing games such as _Dungeons And Dragons_, and it more or less
+  role-playing games such as "`Dungeons And Dragons`_", and it more or less
   means just what you think it means. Nijel is of course exactly the type
   of stereotypical nerd who would, in our world, actually play D&D.
 
@@ -2092,15 +2092,15 @@ SOURCERY
 - [p. 227/204] "Other things besides the cream floated to the top, he
   reflected sourly."
 
-  Another Tom Swifty, as per the annotation for p. 26/26 of _The Light
-  Fantastic_.
+  Another Tom Swifty, as per the annotation for p. 26/26 of "`The Light
+  Fantastic`_".
 
 - [p. 230/207] "'The world, you see, that is, the reality in which we live,
   in fact it can be thought of as, in a manner of speaking, a rubber
   sheet.'"
 
   Ovin is modifying Einstein's explanation of gravity for a magical
-  setting. See also the annotation for p. 134/128 of _Pyramids_.
+  setting. See also the annotation for p. 134/128 of "Pyramids_".
 
 - [p. 236/212] "'We are poor little ... unidentified domesticated animals
   ... that have lost our way ...' he quavered."
@@ -2139,29 +2139,29 @@ SOURCERY
 
   This is a rather subtle reference to the scene with the bone and tapir
   skull in the 'Dawn of Man' portion of Stanley Kubrick and Arthur C.
-  Clarke's movie _2001: A Space Odyssey_.
+  Clarke's movie _2001: A Space Odyssey`_".
 
 
-WYRD SISTERS
+Wyrd Sisters
 ~~~~~~~~~~~~
 
-- [title] _Wyrd Sisters_
+- [title] "`Wyrd Sisters`_"
 
-  In _Macbeth_, the three witches are sometimes called the weird sisters,
+  In "Macbeth_", the three witches are sometimes called the weird sisters,
   e.g. act 2, scene 1: (Banquo) "I dreamt last night of the three weird
   sisters [...]"; or act 4, scene 1: (Macbeth) "Saw you the weird sisters?"
   (Lennox) "No, my lord."
 
   But there's a bit more to it than just the Macbeth reference. 'Wyrd' is
   the Norse concept of destiny or fate, as embodied by the Norns (who
-  probably inspired the Witches in _Macbeth_). Since 'weird' to a modern
+  probably inspired the Witches in "Macbeth_"). Since 'weird' to a modern
   reader just means 'strange', it's easy to miss the overtones of the title
   and just assume that it's an Old spelling of 'weird'.
 
 - [p. 5/5] "'When shall we three meet again?'"
 
-  _Macbeth_, act 1, scene 1, first line. The entire opening scene of _Wyrd
-  Sisters_ is of course a direct parody on the opening scene of _Macbeth_.
+  "Macbeth_", act 1, scene 1, first line. The entire opening scene of "`Wyrd
+  Sisters`_" is of course a direct parody on the opening scene of "Macbeth_".
 
 - [p. 5/5] "Gods prefer simple, vicious games, where you Do Not Achieve
   Transcendence but Go Straight To Oblivion; [...]"
@@ -2187,7 +2187,7 @@ WYRD SISTERS
 - [p. 8/8] "Meanwhile King Verence, monarch of Lancre, was making a
   discovery."
 
-  There exists a book entitled _Servants of Satan_, which is about the
+  There exists a book entitled "`Servants of Satan`_", which is about the
   history of witch hunts. It contains the following paragraph:
 
   "This brings us back to Pierre de Lancre. He became convinced that Basque
@@ -2201,23 +2201,23 @@ WYRD SISTERS
 
   It may also not be entirely a coincidence that 'Lancre' is a common way
   of referring to Lancashire, the county where the famous 17th century
-  witch trials were held (see the annotation for p. 78/57 of _Lords and
-  Ladies_).
+  witch trials were held (see the annotation for p. 78/57 of "`Lords and
+  Ladies`_").
 
 - [p. 11/10] "NO PREMONITIONS? STRANGE DREAMS? MAD OLD SOOTHSAYERS SHOUTING
   THINGS AT YOU IN THE STREET?"
 
   Refers to the famous "Beware the ides of March" warning in Shakespeare's
-  _Julius Caesar_, act 1, scene 2.
+  "`Julius Caesar`_", act 1, scene 2.
 
 - [p. 14/14] "'Can you tell by the pricking of your thumbs?' said Magrat
   earnestly."
 
-  _Macbeth_, act 4, scene 1: (2 Witch) "By the pricking of my thumbs,
+  "Macbeth_", act 4, scene 1: (2 Witch) "By the pricking of my thumbs,
   Something wicked this way comes [...]".
 
-  Keep an eye on _Macbeth_, act 4, scene 1. It's one of Terry's favourites
-  in _Wyrd Sisters_.
+  Keep an eye on "Macbeth_", act 4, scene 1. It's one of Terry's favourites
+  in "`Wyrd Sisters`_".
 
 - [p. 19/19] "Duke Felmet stared out gloomily at the dripping forest."
 
@@ -2228,7 +2228,7 @@ WYRD SISTERS
 - [p. 20/20] "There had been something about him being half a man, and...
   infirm on purpose?"
 
-  Infirm *of* purpose, is what Lady Macbeth calls her husband in _Macbeth_,
+  Infirm *of* purpose, is what Lady Macbeth calls her husband in "Macbeth_",
   act 2, scene 2.
 
 - [p. 20/20] "[...] with nothing much to do but hunt, drink and exercise
@@ -2246,12 +2246,12 @@ WYRD SISTERS
   got the budget."
 
   Gormenghast is the ancient, decaying castle from Mervyn Peake's
-  _Gormenghast_ trilogy. See also the annotation for p. 17/17 of
-  _Pyramids_.
+  "Gormenghast_" trilogy. See also the annotation for p. 17/17 of
+  "Pyramids_".
 
 - [p. 22/22] "'There is a knocking without,' he said."
 
-  In act 2 of _Macbeth_, scenes 2 and 3 have a lot of [Knocking within] in
+  In act 2 of "Macbeth_", scenes 2 and 3 have a lot of [Knocking within] in
   the stage directions.
 
 - [p. 25/25] "'How many times have you thrown a magic ring into the deepest
@@ -2269,7 +2269,7 @@ WYRD SISTERS
 
 - [p. 26/26] "'You'd have to be a born fool to be a king,' said Granny."
 
-  I must have read _Wyrd Sisters_ close to twenty times by now, and except
+  I must have read "`Wyrd Sisters`_" close to twenty times by now, and except
   for the last time this nice bit of foreshadowing completely passed me by.
 
 - [p. 30/30] "'All the women are played by men.'"
@@ -2282,16 +2282,16 @@ WYRD SISTERS
   Obvious, because very well known, but since I'm annotating all the other
   Shakespeare references, I might as well point out here that Felmet's
   attempts to wash the blood from his hands echo Lady Macbeth's actions in
-  _Macbeth_ after the killing of Duncan in act 5, scene 1: "Out, damned
+  "Macbeth_" after the killing of Duncan in act 5, scene 1: "Out, damned
   spot!", etc.
 
-- [p. 36/35] _The Hedgehog Can Never Be Buggered At All_
+- [p. 36/35] "`The Hedgehog Can Never Be Buggered At All`_"
 
   Terry invented this title; he has *not* written any words to it (apart
   from the fragments that appear in the novels); but many fans (including a
   folk singer called Heather Wood) have; and there *did* turn out to exist
   an old Oxford drinking song that also uses the key phrase of the hedgehog
-  song. See the _Song..._ section in Chapter 5 for one documented version
+  song. See the "`Song...`_" section in Chapter 5 for one documented version
   of that song. Terry pleads parallel evolution, and observes that: "There
   is a certain, how shall I put it, natural cadence to the words."
 
@@ -2312,28 +2312,28 @@ WYRD SISTERS
 - [p. 50/50] "'Well met by moonlight,' said Magrat politely. 'Merry meet. A
   star shines on --'"
 
-  Magrat's first greeting comes from _A Midsummer Night's Dream_: "Ill met
-  by moonlight, proud Titania". See also the annotation for p. 350/252 of _Lords
-  and Ladies_.
+  Magrat's first greeting comes from "`A Midsummer Night's Dream_: "Ill met
+  by moonlight, proud Titania". See also the annotation for p. 350/252 of "`Lords
+  and Ladies`_".
 
-  From Tolkien's _The Lord of the Rings_ comes the Elvish greeting: "A star
+  From Tolkien's "`The Lord of the Rings`_" comes the Elvish greeting: "A star
   shines on the hour of our meeting".
 
 - [p. 53/53] "'Every inch a king,' said Granny."
 
-  A quote from _King Lear_, act 4, scene 6.
+  A quote from "`King Lear`_", act 4, scene 6.
 
-- [p. 58/58] "'_A Wizard of Sorts_,' Vitoller read. '_Or, Please
-  Yourself_.'"
+- [p. 58/58] "'"`A Wizard of Sorts`_",' Vitoller read. '"`Or, Please
+  Yourself`_".'"
 
-  Not quite a Shakespeare title, but _Please Yourself_ refers to both _As
-  You Like It_ and the subtitle of _Twelfth Night_: "Or What You Will".
+  Not quite a Shakespeare title, but "`Please Yourself`_" refers to both "`As
+  You Like It`_" and the subtitle of "`Twelfth Night_: "Or What You Will".
 
 - [p. 60/60] "It was the cats and the roller skates that were currently
   giving him trouble..."
 
-  Refers to the Andrew Lloyd Webber musicals _Cats_ and _Starlight
-  Express_.
+  Refers to the Andrew Lloyd Webber musicals "Cats_" and "`Starlight
+  Express`_".
 
 - [p. 61/60] "However, in Bad Ass a cockerel laid an egg and had to put up
   with some very embarrassing personal questions."
@@ -2346,7 +2346,7 @@ WYRD SISTERS
 
 - [p. 65/65] "'Is this a dagger I see before me?' he mumbled."
 
-  From what is probably the most famous soliloquy in _Macbeth_: act 2,
+  From what is probably the most famous soliloquy in "`Macbeth_: act 2,
   scene 1. See also the annotation for p. 184/183.
 
 - [p. 68/67] "The stone was about the same height as a tall man, [...]"
@@ -2357,7 +2357,7 @@ WYRD SISTERS
 - [p. 75/74] "A faint glow beyond the frosted panes suggested that, against
   all reason, a new day would soon dawn."
 
-  The first scene of the first act of Shakespeare's _Hamlet_ starts at
+  The first scene of the first act of Shakespeare's "Hamlet_" starts at
   midnight, and describes a scene lasting about fifteen minutes -- yet the
   act ends at dawn. Likewise, the summoning of WxrtHltl-jwlpklz the demon
   takes place at night, but ends with the quote given above.
@@ -2366,7 +2366,7 @@ WYRD SISTERS
   corridors, [...]"
 
   The same image can also be found in Stanley Kubrick's classic horror
-  movie _The Shining_, where the ghosts of two small girl twins (who
+  movie "`The Shining`_", where the ghosts of two small girl twins (who
   were horribly murdered in a 'dark deed') walk handin hand through the
   corridors of the Overlook Hotel.
 
@@ -2382,18 +2382,18 @@ WYRD SISTERS
 
 - [p. 88/87] "Magrat was picking flowers and talking to them."
 
-  What follows is a satire of the mad Ophelia in _Hamlet_: "There's
+  What follows is a satire of the mad Ophelia in "`Hamlet_: "There's
   rosemary, that's for remembrance; pray, love, remember: and there is
   pansies, that's for thoughts." (act 4, scene 5).
 
 - [p. 95/94] "It's all very well calling for eye of newt, but do you mean
   Common, Spotted or Great Crested?"
 
-  Eye of Newt is one of the ingredients used by the witches in _Macbeth_,
+  Eye of Newt is one of the ingredients used by the witches in "Macbeth_",
   act 4, scene 1.
 
   This scene also resonates very faintly with the famous running gag in the
-  movie _Monty Python and the Holy Grail_:
+  movie "`Monty Python and the Holy Grail_:
 
       Bridgekeeper: "What... is the air-speed velocity of an unladen
                     swallow?"
@@ -2404,16 +2404,16 @@ WYRD SISTERS
 - [p. 103/103] "[...] (a dandelion clock at about 2 pm)."
 
   For an explanation of the dandelion clock see the annotation for p. 10/10
-  of _The Light Fantastic_.
+  of "`The Light Fantastic`_".
 
 - [p. 108/107] "'Infirm of purpose!'"
 
-  Lady Macbeth says this in _Macbeth_, act 2, scene 2.
+  Lady Macbeth says this in "Macbeth_", act 2, scene 2.
 
 - [p. 108/108] "'[...] and *you* said, "If it's to be done, it's better if
   it's done quickly", or something [...]'"
 
-  _Macbeth_, act 1, scene 7: "If it were done when 'tis done, then 'twere
+  "Macbeth_", act 1, scene 7: "If it were done when 'tis done, then 'twere
   well it were done quickly."
 
 - [p. 109/108] "Granny glanced around the dungeon."
@@ -2442,7 +2442,7 @@ WYRD SISTERS
 - [p. 134/133] "[...] whirl a farmhouse to any available emerald city of
   its choice."
 
-  A _Wizard of Oz_ reference.
+  A "`Wizard of Oz`_" reference.
 
 - [p. 139/138] "'I mean, Black Aliss was one of the best.'"
 
@@ -2452,8 +2452,8 @@ WYRD SISTERS
 - [p. 142/141] "Greebo's grin gradually faded, until there was nothing left
   but the cat. This was nearly as spooky as the other way round."
 
-  Refers to the Cheshire cat in Lewis Carroll's _Alice's Adventures in
-  Wonderland_, a beast famous for slowly vanishing until only its grin
+  Refers to the Cheshire cat in Lewis Carroll's "`Alice's Adventures in
+  Wonderland`_", a beast famous for slowly vanishing until only its grin
   remains.
 
 - [p. 145/144] "[...] Herne the Hunted, the terrified and apprehensive
@@ -2471,8 +2471,8 @@ WYRD SISTERS
   music" group Clannad, but any passing pagan will tell you he goes back a
   lot, lot further than that."
 
-  Herne the Hunter also appears himself in _Lords and Ladies_. Here is some
-  relevant information condensed from the book _The Western Way_ by John
+  Herne the Hunter also appears himself in "`Lords and Ladies`_". Here is some
+  relevant information condensed from the book "`The Western Way`_" by John
   and Caitlin Matthews:
 
   "Herne the Hunter / Cernunnos is God of green and growing things;
@@ -2483,19 +2483,19 @@ WYRD SISTERS
 - [p. 156/155] "[...] trying to find a laboratory opposite a dress shop
   that will keep the same dummy in the window for sixty years, [...]"
 
-  This refers to the 1960 movie version of H. G. Wells' _The Time Machine_,
+  This refers to the 1960 movie version of H. G. Wells' "`The Time Machine`_",
   where the director uses the effect described to indicate the rapid
   passing of time.
 
 - [p. 158/158] "He'd sorted out the falling chandelier, and found a place
   for a villain who wore a mask to conceal his disfigurement, [...]"
 
-  Describes _The Phantom of the Opera_, another musical by Andrew Lloyd
-  Webber. See also the annotations for _Maskerade_.
+  Describes "`The Phantom of the Opera`_", another musical by Andrew Lloyd
+  Webber. See also the annotations for "Maskerade_".
 
 - [p. 159/158] "[...] the hero had been born in a handbag."
 
-  The protagonist in Oscar Wilde's _The Importance of Being Earnest_ was
+  The protagonist in Oscar Wilde's "`The Importance of Being Earnest`_" was
   found, as a baby, in a handbag.
 
 - [p. 159/158] "It was the clowns who were giving him trouble again."
@@ -2505,11 +2505,11 @@ WYRD SISTERS
   that follows, "This iss My Little Study..." is typical Groucho, and the
   "Atsa right, Boss" is Chico.
 
-- [p. 159/158] "_Thys ys amain Dainty Messe youe have got me into,
+- [p. 159/158] ""`Thys ys amain Dainty Messe youe have got me into,
   Stanleigh_"
 
   Laurel & Hardy. Laurel's first name was Stan. See also the annotation for
-  p. 73/65 of _The Colour of Magic_.
+  p. 73/65 of "`The Colour of Magic`_".
 
 - [p. 160/159] The Dysk.
 
@@ -2526,7 +2526,7 @@ WYRD SISTERS
   and wymmen are but Players*. [...] *Sometimes they walke on. Sometimes
   they walke off*."
 
-  _As You Like It_, act 2, scene 7: "All the world's a stage, And all the
+  "`As You Like It`_", act 2, scene 7: "All the world's a stage, And all the
   men and women merely players: They have their exits and their entrances;
   [...]"
 
@@ -2538,20 +2538,20 @@ WYRD SISTERS
 
 - [p. 165/164] "'I *said*, where's your pointy hat, dopey?'"
 
-  Dopey is one of the seven dwarfs in Walt Disney's animated _Snow White_.
+  Dopey is one of the seven dwarfs in Walt Disney's animated "`Snow White`_".
   Terry likes toying with Disney's dwarf names. See for instance the
-  annotation for p. 324/271 of _Moving Pictures_.
+  annotation for p. 324/271 of "`Moving Pictures`_".
 
-- [p. 167/166] "'_Brothers! And yet may I call all men brother, for on this
+- [p. 167/166] "'"`Brothers! And yet may I call all men brother, for on this
   night --_'"
 
-  This is (in spirit) the St Crispin's Day speech from _King Henry V_. See
+  This is (in spirit) the St Crispin's Day speech from "`King Henry V`_". See
   the annotation for p. 239/238.
 
 - [p. 182/181] "Double hubble, stubble trouble, Fire burn and cauldron
   bub---"
 
-  The witches in _Macbeth_, act 4, scene 1: "Double, double toil and
+  The witches in "Macbeth_", act 4, scene 1: "Double, double toil and
   trouble; Fire, burn; and, cauldron, bubble."
 
 - [p. 169/168] "[...] go around with axes in their belts, and call
@@ -2567,7 +2567,7 @@ WYRD SISTERS
 
 - [p. 178/177] "The pay's the thing."
 
-  Puns on a well-known Shakespeare quote from _Hamlet_ (act 2, scene 2):
+  Puns on a well-known Shakespeare quote from "Hamlet_" (act 2, scene 2):
 
         The play's the thing
         Wherein I'll catch the conscience of the king
@@ -2582,26 +2582,26 @@ WYRD SISTERS
 
   This can of course refer to a thousand different movies or plays. In view
   of the general influences for this book, however, I'd bet my money on
-  Shakespeare's _The Tempest_.
+  Shakespeare's "`The Tempest`_".
 
 - [p. 181/180] "*Round about the cauldron go*, [...]"
 
-  What follows is a parody on _Macbeth_, act 4, scene 1, in which three
+  What follows is a parody on "Macbeth_", act 4, scene 1, in which three
   witches boil up some pretty disgusting things in their cauldron. Try
   reading both versions side by side.
 
 - [p. 182/181] "He punched the rock-hard pillow, and sank into a fitful
   sleep. Perchance to dream."
 
-  Taken from the famous "To be or not to be" soliloquy in _Hamlet_.
+  Taken from the famous "To be or not to be" soliloquy in "Hamlet_".
 
 - [p. 183/182] "KING: Now if I could just find my horsey..."
 
-  Hwel's script is _Richard III_ done as a Punch-and-Judy show.
+  Hwel's script is "`Richard III`_" done as a Punch-and-Judy show.
 
 - [p. 184/183] "Is this a duck I see before me, its beak pointing at me?"
 
-  _Macbeth_, act 2, scene 1 again. See the annotation for p. 65/65.
+  "Macbeth_", act 2, scene 1 again. See the annotation for p. 65/65.
 
 - [p. 186/185] "Leonard of Quirm. He's a painter, really."
 
@@ -2611,7 +2611,7 @@ WYRD SISTERS
 - [p. 186/185] "We grow old, Master Hwel. [...] We have heard the gongs at
   midnight."
 
-  Shakespeare again: _King Henry IV, part 2_, act 3, scene 2:
+  Shakespeare again: "`King Henry IV, part 2`_", act 3, scene 2:
 
   "FALSTAFF: Old, old, Master Shallow. [...] We have heard the chimes at
   midnight, Master Shallow."
@@ -2627,7 +2627,7 @@ WYRD SISTERS
 
 - [p. 193/192] "1ST WITCHE: He's late. (Pause)" [Etc.]
 
-  Parodies Samuel Beckett's classic play _Waiting for Godot_, where similar
+  Parodies Samuel Beckett's classic play "`Waiting for Godot`_", where similar
   dialogue occurs.
 
 - [p. 199/198] "'Did you know that an adult male carries up to five pounds
@@ -2637,28 +2637,28 @@ WYRD SISTERS
   like to quote in order to gross people out and get them to stop eating
   meat (of course, the average vegetarian has about five pounds of
   undigested vegetable matter in his intestines). The cliche is used fairly
-  often, amongst other places in the movie _Beverly Hills Cop_.
+  often, amongst other places in the movie "`Beverly Hills Cop`_".
 
   Terry had this to say on the subject: "Yep. That one I got from some way
   out vegetarian stuff I read years ago, and went round feeling ill about
-  for days. And two years ago I saw _Beverly Hills Cop_ on TV and rejoiced
+  for days. And two years ago I saw "`Beverly Hills Cop`_" on TV and rejoiced
   when I heard the line. God, I wish I'd seen the film before I'd written
-  _Guards! Guards!_... I'd have had someone out on stake-duty on horseback,
+  "`Guards! Guards!`_"... I'd have had someone out on stake-duty on horseback,
   and someone creep up behind them with a banana..."
 
-  Note that in _Men at Arms_, the second City Watch book, Terry does manage
-  to work in a _Beverly Hills Cop_ joke. See the annotation for p. 251/190
-  of _Men At Arms_.
+  Note that in "`Men at Arms`_", the second City Watch book, Terry does manage
+  to work in a "`Beverly Hills Cop`_" joke. See the annotation for p. 251/190
+  of "`Men At Arms`_".
 
 - [p. 207/206] "'All hail wossname,' she said under her breath, 'who shall
   be king here, after.'"
 
-  _Macbeth_, act 1, scene 2: "All hail, Macbeth; that shalt be king
+  "Macbeth_", act 1, scene 2: "All hail, Macbeth; that shalt be king
   hereafter!"
 
 - [p. 208/207] "'Is anyone sitting here?' he said."
 
-  _Macbeth_, act 3, scene 4:
+  "Macbeth_", act 3, scene 4:
 
       Macbeth: 'The table's full.'
       Lennox: 'Here is a place reserv'd, sir.'
@@ -2668,12 +2668,12 @@ WYRD SISTERS
 
 - [p. 211/210] "'We're scheming evil secret black and midnight hags!'"
 
-  _Macbeth_, act 4, scene 1: "How now, you secret, black, and midnight
-  hags!" See also the annotation for p. 186/152 of _Mort_.
+  "Macbeth_", act 4, scene 1: "How now, you secret, black, and midnight
+  hags!" See also the annotation for p. 186/152 of "Mort_".
 
 - [p. 212/211] "'I never shipwrecked anybody!' she said."
 
-  Neither did the three witches from _Macbeth_, if you read carefully, but
+  Neither did the three witches from "Macbeth_", if you read carefully, but
   I nevertheless think there is a reference here: act 1, scene 3.
 
 - [p. 213/212] "I'd like to know if I could compare you to a summer's day.
@@ -2689,7 +2689,7 @@ WYRD SISTERS
   back? What's happened to his leg?'"
 
   A reference to Richard the Third. A rather appropriate reference: in
-  Shakespeare's _Richard III_, he is presented as an evil, lame,
+  Shakespeare's "`Richard III`_", he is presented as an evil, lame,
   hunchbacked king, whom Henry must kill to save England. This is not
   historically correct -- rather it is how Henry would have liked people to
   remember it. Had Shakespeare strayed from the 'official' version he would
@@ -2699,25 +2699,25 @@ WYRD SISTERS
 - [p. 213/213] "'It's art,' said Nanny. 'It wossname, holds a mirror up to
   life.'"
 
-  _Hamlet_, act 3, scene 2: "To hold, as 'twere, the mirror up to nature;
+  "Hamlet_", act 3, scene 2: "To hold, as 'twere, the mirror up to nature;
   to show virtue her own feature, scorn her own image, and the very age and
   body of the time his form and pressure."
 
 - [p. 214/213] "'Ditch-delivered by a drabe', they said."
 
-  One of the ingredients in _Macbeth_, act 4, scene 1 is a "finger of
+  One of the ingredients in "Macbeth_", act 4, scene 1 is a "finger of
   birth-strangled babe, ditch-delivered by a drabe".
 
 - [p. 225/225] "--THE NEXT NIGHT IN YOUR DRESSING ROOM THEY HANG A STAR--"
 
   Death is quoting from 'There's No Business Like Show Business', the song
-  from the Irvin Berlin musical _Annie Get Your Gun_, also performed by
-  Ethel Merman in the 1954 movie _There's No Business Like Show Business_.
+  from the Irvin Berlin musical "`Annie Get Your Gun`_", also performed by
+  Ethel Merman in the 1954 movie "`There's No Business Like Show Business`_".
 
 - [p. 227/226] "'[...] who would have thought he had so much blood in
   him?'"
 
-  Lady Macbeth in _Macbeth_, act 5, scene 1: "Yet who would have thought
+  Lady Macbeth in "Macbeth_", act 5, scene 1: "Yet who would have thought
   the old man to have had so much blood in him".
 
 - [p. 235/234] "Like Bognor."
@@ -2729,7 +2729,7 @@ WYRD SISTERS
 
 - [p. 236/235] "'Can you remember what he said after all those tomorrows?'"
 
-  _Macbeth_, act 5, scene 5, from a another famous soliloquy:
+  "Macbeth_", act 5, scene 5, from a another famous soliloquy:
 
         To-morrow, and to-morrow, and to-morrow,
         Creeps in this petty pace from day to day,
@@ -2746,7 +2746,7 @@ WYRD SISTERS
   charge into battle at five o'clock in the morning..."
 
   Shakespeare's Henry V was just such a king, and Terry is referring here
-  to the 'St Crispin's Day' speech in _King Henry V_, act 4, scene 3:
+  to the 'St Crispin's Day' speech in "`King Henry V`_", act 4, scene 3:
 
         And gentlemen in England now a-bed
         Shall think themselves accurs'd they were not here,
@@ -2754,24 +2754,24 @@ WYRD SISTERS
         That fought with us upon Saint Crispin's day.
 
 
-PYRAMIDS
+Pyramids
 ~~~~~~~~
 
 - [p. 5/5] The Titles of the Books
 
-  _Pyramids_ is split into four 'Books', a structure that gives it a unique
-  position amongst the otherwise chapterless Discworld novels (_The Colour
-  of Magic_ doesn't really count -- it's a collection of linked novellas,
+  "Pyramids_" is split into four 'Books', a structure that gives it a unique
+  position amongst the otherwise chapterless Discworld novels ("`The Colour
+  of Magic`_" doesn't really count -- it's a collection of linked novellas,
   not a single novel with chapters or sections).
 
-  Book I is _The Book of Going Forth_, which refers to _The Book of Going
-  Forth By Day_, (see the annotation for p. 9/9 of _The Light Fantastic_).
-  Book II is _The Book of the Dead_, a more direct reference to the
-  Egyptian Book of the Dead. Book III is _The Book of the New Son_ which
-  puns on the title of the Gene Wolfe SF novel _The Book of the New Sun_
+  Book I is "`The Book of Going Forth`_", which refers to "`The Book of Going
+  Forth By Day`_", (see the annotation for p. 9/9 of "`The Light Fantastic`_").
+  Book II is "`The Book of the Dead`_", a more direct reference to the
+  Egyptian Book of the Dead. Book III is "`The Book of the New Son`_" which
+  puns on the title of the Gene Wolfe SF novel "`The Book of the New Sun`_"
   (perhaps there is an earlier title both authors are drawing on, but I
-  haven't been able to trace it). Book IV, finally, is _The Book of 101
-  Things A Boy Can Do_, which gives a nod to the typical titles sported a
+  haven't been able to trace it). Book IV, finally, is "`The Book of 101
+  Things A Boy Can Do`_", which gives a nod to the typical titles sported a
   few decades ago by books containing wholesome, innocent, practical, but
   above all *educational* activities for children.
 
@@ -2831,7 +2831,7 @@ PYRAMIDS
   Terry was once asked at a talk if he was always fully in control of his
   characters and events or if they tended to run away with him. The answer
   was: always in control -- with one single exception. The whole of the
-  assassin examination sequence in _Pyramids_ was written "almost in a
+  assassin examination sequence in "Pyramids_" was written "almost in a
   trance" with no idea of what was to happen next. It is one of his
   favourite bits.
 
@@ -2863,7 +2863,7 @@ PYRAMIDS
   Christian Association', and is often made fun of (e.g. Monthy Python and
   their 'Young Men's Anti-Christian Association').
 
-  See also the annotation for p. 88/88 of _The Light Fantastic_.
+  See also the annotation for p. 88/88 of "`The Light Fantastic`_".
 
 - [p. 15/15] "[...] the narrow plank bridge that led across Tinlid Alley."
 
@@ -2879,20 +2879,20 @@ PYRAMIDS
   Pan Alley.
 
   Today the phrase simply refers to the music publishing industry in
-  general, and it is therefore no surprise that later, in _Soul Music_, we
+  general, and it is therefore no surprise that later, in "`Soul Music`_", we
   learn that the Guild of Musicians have their headquarters there.
 
 - [p. 17/17] "Oh, Djelibeybi had been great once, [...]"
 
   The name Djelibeybi puns on the sweets called Jelly Babies. See also the
-  annotation for p. 109/82 of _Soul Music_.
+  annotation for p. 109/82 of "`Soul Music`_".
 
   It has been remarked that there are quite a few parallels between the
   country of Djelibeybi and the castle of Gormenghast as described by
-  Mervyn Peake in his _Gormenghast_ trilogy (which we know Terry has read
-  because in _Equal Rites_ he compares Unseen University to Gormenghast,
-  and in _Wyrd Sisters_ he does the same with Lancre Castle). The hero of
-  _Gormenghast_, Titus, also has a mother with a cat obsession, and his
+  Mervyn Peake in his "Gormenghast_" trilogy (which we know Terry has read
+  because in "`Equal Rites`_" he compares Unseen University to Gormenghast,
+  and in "`Wyrd Sisters`_" he does the same with Lancre Castle). The hero of
+  "Gormenghast_", Titus, also has a mother with a cat obsession, and his
   father died because he thought he was an owl. Furthermore, the atmosphere
   of decay, ancient history and unchanging ritual pervades both Djelibeybi
   and Gormenghast, with in both cases the presence of arbiters of tradition
@@ -2900,8 +2900,8 @@ PYRAMIDS
 
   For those interested in pursuing Gormenghast further (people who have
   read it almost invariably seem to think it's a work of genius), the names
-  of the three novels are _Titus Groan_ (1946), _Gormenghast_ (1950) and
-  _Titus Alone_ (1959, revised 1970).
+  of the three novels are "`Titus Groan`_" (1946), "Gormenghast_" (1950) and
+  "`Titus Alone`_" (1959, revised 1970).
 
 - [p. 19/19] "[...] the Plague of Frog."
 
@@ -2909,21 +2909,21 @@ PYRAMIDS
 
 - [p. 20/20] On the subject of the Assassin's Guild School, Terry has this
   to say: "Yes, the whole setup of the Assassin's Guild school has, uh, a
-  certain resonance with Rugby School in _Tom Brown's Schooldays_ (note to
+  certain resonance with Rugby School in "`Tom Brown's Schooldays`_" (note to
   Americans: a minor Victorian classic of school literature which no-one
   reads anymore and which is probably now more famous for the first
   appearance of the Flashman character subsequently popularised by George
   MacDonald Fraser)."
 
-  Teppic and his friends map directly to corresponding characters in _Tom
+  Teppic and his friends map directly to corresponding characters in "`Tom
   Brown's Schooldays_: Teppic is Tom, Chidder is Harry "Scud" East, Arthur
   is George Arthur and Cheesewright is sort of Flashman, but not exactly.
 
   The line on p. 27/26 about "'If he invites you up for toast in his study,
   *don't go*,'" may refer to the incident where Tom is roasted in front of
   the fire by Flashy and his cronies. The reference to blanket-tossing on
-  p. 45/44, which Arthur puts a stop to, is also an incident in _Tom
-  Brown_, on Tom's first day. The scene in the dormitory on the first
+  p. 45/44, which Arthur puts a stop to, is also an incident in "`Tom
+  Brown`_", on Tom's first day. The scene in the dormitory on the first
   night, when Arthur gets down to say his prayers, also has an equivalent
   in the book.
 
@@ -2938,7 +2938,7 @@ PYRAMIDS
   wondered if there was a connection. Terry replied:
 
   "Er. I may as well reveal this one. That section of the book is 'somewhat
-  like' _Tom Brown's Schooldays_. A bully (right hand man to the famous
+  like' "`Tom Brown's Schooldays`_". A bully (right hand man to the famous
   Flashman) was Speedicut. Speedicut is (was?) a name for a type of
   lawnmower -- I know, because I had to push the damn thing... Hence...
   Fliemoe.
@@ -2964,12 +2964,12 @@ PYRAMIDS
   'Pterry' (although the lazier participants usually just refer to him as
   TP, conforming to the sometimes bloody annoying Usenet habit of
   acronymising everything longer than two words or four characters,
-  whichever comes first. Hence DW stands for Discworld, TCOM for _The
-  Colour of Magic_, and APF for Annotated Pratchett File -- but you already
+  whichever comes first. Hence DW stands for Discworld, TCOM for "`The
+  Colour of Magic`_", and APF for Annotated Pratchett File -- but you already
   knew that).
 
   I was later informed that 'Pterry' was also the name of a pterodactyl on
-  a kids' TV program called _Jigsaw_, but as far as I can recall Terry's
+  a kids' TV program called "Jigsaw_", but as far as I can recall Terry's
   nickname was not coined with that in mind.
 
 - [p. 50/49] "It's rather like smashing a sixer in conkers."
@@ -3011,7 +3011,7 @@ PYRAMIDS
   'teacher'.
 
   Koot Hoomi is the author of a series of letters that were published as
-  _The Mahatma Letters To A. P. Sinnett_, and which form the basis of many
+  "`The Mahatma Letters To A. P. Sinnett`_", and which form the basis of many
   theosophical teachings.
 
 - [p. 63/62] "'Look, master Dil,' said Gern, [...]"
@@ -3051,7 +3051,7 @@ PYRAMIDS
   Terry has confirmed that the scenes in which Dios dresses up Teppic in
   his King's outfit (starting with the Flail of Mercy and culminating in
   the Cabbage of Vegetative Increase) are a parody of the old BBC
-  children's game show _Crackerjack_. In this show the contestants were
+  children's game show "Crackerjack_". In this show the contestants were
   asked questions, and for each correct answer they received a prize, which
   they had to hold on to. If they answered wrong, they were given a large
   cabbage, increasing the likelihood of dropping everything. The person
@@ -3072,7 +3072,7 @@ PYRAMIDS
 
 - [p. 90/87] "'This thing could put an edge on a rolling pin.'"
 
-  See the annotation for p. 35/35 of _The Light Fantastic_. There's another
+  See the annotation for p. 35/35 of "`The Light Fantastic`_". There's another
   more explicit reference on p. 140/134: "[...] contrary to popular opinion
   pyramids don't sharpen razor blades".
 
@@ -3088,7 +3088,7 @@ PYRAMIDS
 - [p. 95/92] Pteppic's dream about the seven fat and seven thin cows is a
   reference to the Bible's Joseph, who had to explain a similar dream
   (which did not have the bit about the trombone, though), to the Pharaoh.
-  _Pyramids_ is of course riddled with religious references, most of which
+  "Pyramids_" is of course riddled with religious references, most of which
   are too obvious or too vague to warrant inclusion here.
 
 - [p. 100/97] "All things are defined by names. Change the name, and you
@@ -3096,11 +3096,11 @@ PYRAMIDS
 
   This is a very ancient concept in magic and 'primitive' religions.
   Although I haven't asked him, I'm willing to bet money that Terry did
-  *not* take his inspiration from Ursula Le Guin's _A Wizard of Earthsea_,
+  *not* take his inspiration from Ursula Le Guin's "`A Wizard of Earthsea`_",
   despite the many emails I have received suggesting a connection.
 
   For a definitive reference on this subject, read James George Frazer's
-  _The Golden Bough_.
+  "`The Golden Bough`_".
 
 - [p. 102/99] "[...] I am a stranger in a familiar land."
 
@@ -3109,7 +3109,7 @@ PYRAMIDS
   said, I have been a stranger in a strange land."
 
   Since the "strange land" in question was Egypt, there's a nice resonance
-  with _Pyramids_ itself in Terry's use of the phrase.
+  with "Pyramids_" itself in Terry's use of the phrase.
 
   These days, people may be more familiar with the quote as the title of
   Robert Heinlein's 60s cult science fiction book.
@@ -3141,8 +3141,8 @@ PYRAMIDS
 - [p. 144/138] "'She can play the dulcimer,' said the ghost of Teppicymon
   XXVII, apropos of nothing much."
 
-  Reference to Samuel Taylor Coleridge's _Kubla Khan_. See also the
-  annotation for p. 127/115 of _Sourcery_.
+  Reference to Samuel Taylor Coleridge's "`Kubla Khan`_". See also the
+  annotation for p. 127/115 of "Sourcery_".
 
 - [p. 156/150] "[...] distilling the testicles of a small tree-dwelling
   species of bear with the vomit of a whale, [...]"
@@ -3156,7 +3156,7 @@ PYRAMIDS
   to twelve..."
 
   Some confusion has arisen here, because the asterisk symbol '*' is the
-  same one used in at least some of the editions of _Pyramids_ as a
+  same one used in at least some of the editions of "Pyramids_" as a
   footnote marker. This has caused a few people to wonder if there's a
   'missing footnote' intended for this page. Matters are not helped much by
   the fact that the American paperback edition *does* contain the text of a
@@ -3186,7 +3186,7 @@ PYRAMIDS
 
 - [p. 176/169] The philosophers shooting arrows at tortoises are discussing
   one of Zeno's three motion paradoxes. See also Douglas Hofstadter's
-  _Goedel, Escher, Bach_. Or Zeno.
+  "`Goedel, Escher, Bach`_". Or Zeno.
 
 - [p. 178/171] "The rest of them die of Heisenberg's Uncertainty Principle,
   [...]"
@@ -3225,11 +3225,11 @@ PYRAMIDS
   made from more than one kind of monomer (simple compound).
 
   [ Finally, my source also suspects that Copolymer's monologue may be a
-  take-off on a particular translation of his _Histories_. Anybody? ]
+  take-off on a particular translation of his "Histories_". Anybody? ]
 
 - [p. 179/172] "'The tortoise *did* beat the hare,' said Xeno sulkily."
 
-  Reference to Aesop's classic fable _The Hare and the Tortoise_.
+  Reference to Aesop's classic fable "`The Hare and the Tortoise`_".
 
   If you have access to the Internet, you can find an online version of the
   Aesop fables at the URL:
@@ -3257,7 +3257,7 @@ PYRAMIDS
   noted for his somewhat loose grasp on reality and his tendency towards
   redundancy and solecism. In fact, an amusingly redundant comment spoken
   live by a personality is sometimes referred to as a 'Colemanball', after
-  the column of that name in the satirical magazine _Private Eye_.
+  the column of that name in the satirical magazine "`Private Eye`_".
 
   Typical Colemanballs include, "...He's a real fighter, this lad, who
   believes that football's a game of two halves, and that it isn't over
@@ -3274,7 +3274,7 @@ PYRAMIDS
   of partying and intellectual interchange.
 
 - [p. 197/189] The Tsortean wars refer to the Trojan wars. (Read also
-  _Eric_. Or Homer.)
+  "Eric_". Or Homer.)
 
 - [p. 201/193] "A philosopher had averred that although truth was beauty,
   beauty was not necessarily truth, and a fight was breaking out."
@@ -3284,13 +3284,13 @@ PYRAMIDS
         'Beauty is truth, truth beauty,' -- that is all
         Ye know on earth, and all ye need to know.
 
-- [p. 204/195] "[...] ships called the _Marie Celeste_, [...]"
+- [p. 204/195] "[...] ships called the "`Marie Celeste`_", [...]"
 
-  The _Marie Celeste_ left port in 1872 with a full crew, but was later
-  found (by the crew of the _Dei Gratia_), abandoned on the open sea, with
+  The "`Marie Celeste`_" left port in 1872 with a full crew, but was later
+  found (by the crew of the "`Dei Gratia`_"), abandoned on the open sea, with
   no crew, the single lifeboat missing, and half-eaten meals in the mess
-  hall. It was later discovered that captain Morehouse of the _Dei Gratia_
-  had dined with the captain of the _Celeste_ the night before she sailed,
+  hall. It was later discovered that captain Morehouse of the "`Dei Gratia`_"
+  had dined with the captain of the "Celeste_" the night before she sailed,
   and Morehouse and his crew were eventually tried for murder, but
   acquitted because there was no hard evidence. The missing crewmen were
   never found.
@@ -3325,7 +3325,7 @@ PYRAMIDS
 
   People interested in more stories about magically disappearing valleys
   are referred to R. A. Lafferty's 'Narrow Valley' (to be found in his
-  collection _Nine Hundred Grandmothers_), where a half a mile wide valley
+  collection "`Nine Hundred Grandmothers`_"), where a half a mile wide valley
   is sorcerously narrowed (with its inhabitants) to a few feet and then
   opened up again by the end of the story.
 
@@ -3333,7 +3333,7 @@ PYRAMIDS
   Ozymandias ever managed to say."
 
   Ozymandias was the Greek name for Ramses the Second. Percy Bysshe
-  Shelley's poem _Ozymandias_ is famous, but because it is short and it has
+  Shelley's poem "Ozymandias_" is famous, but because it is short and it has
   always been a favourite of mine I hope you will forgive me the indulgence
   of reproducing it here in full:
 
@@ -3355,11 +3355,11 @@ PYRAMIDS
         The lone and level sands stretch far away."
 
   While I was browsing the net in order to find an on-line copy of
-  _Ozymandias_ so that I could cut-and-paste the text, I came across a
+  "Ozymandias_" so that I could cut-and-paste the text, I came across a
   wonderful piece of related information. It appears that in 1817 Shelley
   held a sonnet-writing session with his friend, the poet Horace Smith.
   Both wrote a sonnet on the same subject, but while Shelley came up with
-  the aforementioned _Ozymandias_, Mr Smith produced something so
+  the aforementioned "Ozymandias_", Mr Smith produced something so
   delightfully horrendous I simply have to indulge even further, and
   include it here as well. By now the connection to our original annotation
   has been completely lost, but I think you might agree with me that
@@ -3395,10 +3395,10 @@ PYRAMIDS
 
 - [p. 277/265] "'For the asses' milk?' said Koomi [...]"
 
-  See the annotation for p. 161/132 of _Mort_.
+  See the annotation for p. 161/132 of "Mort_".
 
 
-GUARDS! GUARDS!
+Guards! Guards!
 ~~~~~~~~~~~~~~~
 
 - [p. 10/10] "'Hooray, hooray for the spinster's sister's daughter.'"
@@ -3430,7 +3430,7 @@ GUARDS! GUARDS!
 - [p. 21/19] "'That was where you had to walk on ricepaper wasn't it,' said
   Brother Watchtower conversationally."
 
-  Reference to the old David Carradine TV series, _Kung Fu_. In one of the
+  Reference to the old David Carradine TV series, "`Kung Fu`_". In one of the
   earliest episodes our Shaolin monk-in-training was tasked to walk along a
   sheet of ricepaper without ripping it or leaving a mark.
 
@@ -3438,8 +3438,8 @@ GUARDS! GUARDS!
   his huge physique."
 
   Someone on a.f.p. asked Terry if the name or the character of Carrot was
-  perhaps inspired by an old American comic called _Captain Carrot and his
-  Amazing Zoo Crew_. Terry answered:
+  perhaps inspired by an old American comic called "`Captain Carrot and his
+  Amazing Zoo Crew`_". Terry answered:
 
   "Never heard of it. The TRUE answer is that when I was writing the book
   an electrician was rewiring our house and the nickname of his red-haired
@@ -3464,7 +3464,7 @@ GUARDS! GUARDS!
   Latin for "Make my day, punk".
 
   "Go ahead, make my day" is a well-known Clint 'Dirty Harry' Eastwood
-  quote. The 'punk' comes from another famous _Dirty Harry_ scene (see the
+  quote. The 'punk' comes from another famous "`Dirty Harry`_" scene (see the
   annotation for p. 136/124)
 
   Notice also that the translation Terry supplies ("To protect and to
@@ -3506,7 +3506,7 @@ GUARDS! GUARDS!
   stereotypical British friendly neighbourhood bobby attempting to break up
   a family argument or innocent street brawl. Nearly all my correspondents
   trace this stereotype directly back to the sixties BBC television series
-  _Dixon of Dock Green_, where every bobby was your friend and it was
+  "`Dixon of Dock Green`_", where every bobby was your friend and it was
   perfectly acceptable for a copper to walk into a room and say "'Ello!
   'Ello! What's going on 'ere then?". Calling people 'sunshine' (next
   footnote on the page), and signing off with "Evening, all" are apparently
@@ -3524,13 +3524,13 @@ GUARDS! GUARDS!
   (and if you think that this is a silly thing to get worked up over, you
   are obviously not familiar with alt.fan.pratchett. Or with Usenet, for
   that matter). Anyway, there were a few people who felt that Terry was
-  referring here to Larry Niven's _Ringworld_ series, where the main
+  referring here to Larry Niven's "Ringworld_" series, where the main
   character, Louis Wu, always uses the phrase "There ain't no justice"
   (abbreviated as "TANJ"). Other people found this connection incredibly
   far-fetched for such a generic sentence, and said so rather forcefully.
 
   Eventually, Terry stepped in and short-circuited the entire discussion by
-  writing: "Mostly in the Discworld books, particularly _Mort_, the phrase
+  writing: "Mostly in the Discworld books, particularly "Mort_", the phrase
   is "There's no justice" so that it can be balanced with "There's just
   me/you/us". And that phrase is truly generic. Really, so is "There ain't
   no justice" -- it's just that Niven does use it a lot and, I suspect,
@@ -3569,7 +3569,7 @@ GUARDS! GUARDS!
   around was apparently a wonder to behold.
 
   Terry later more than made up for this when he introduced Scrappy the
-  Kangaroo as a character in _The Last Continent_. See also the
+  Kangaroo as a character in "`The Last Continent`_". See also the
   annotation for p.55 of that book.
 
 + [p. 91/83] "And *then* he went out on to the streets, untarnished and
@@ -3577,8 +3577,8 @@ GUARDS! GUARDS!
 
   "But down these mean streets a man must go who is not himself mean, who
   is neither tarnished nor afraid." is a well-known quote -- that describes
-  Carrot to a tee -- from Raymond Chandler's essay _The Simple Art of
-  Murder_.
+  Carrot to a tee -- from Raymond Chandler's essay "`The Simple Art of
+  Murder`_".
 
 - [p. 93/85] "'Who loves you, pussycat?', said Nobby under his breath."
 
@@ -3589,7 +3589,7 @@ GUARDS! GUARDS!
   even seen a greenfly, but I ain't never seen a dragon fly"
 
   Sounds reminiscent of the 'I've never seen an elephant fly' song which
-  the crows sing in Walt Disney's 1941 movie _Dumbo_. Another similar
+  the crows sing in Walt Disney's 1941 movie "Dumbo_". Another similar
   children's song is called 'The Never Song' by Edward Lipton.
 
 - [p. 97/88] "[...] Gayheart Talonthrust of Ankh stood fourteen thumbs
@@ -3612,7 +3612,7 @@ GUARDS! GUARDS!
 
 - [p. 103/94] "'Just give me the facts, m'lady,' he said impatiently."
 
-  "Just the facts, ma'am", is a catchphrase from the _Dragnet_ radio series
+  "Just the facts, ma'am", is a catchphrase from the "Dragnet_" radio series
   (later a TV series, and later still a Dan Aykroyd/Tom Hanks movie).
 
 - [p. 103/94] "Of all the cities in all the world it could have flown into,
@@ -3624,14 +3624,14 @@ GUARDS! GUARDS!
 - [p. 114/104] The bit about the hero killing a monster in a lake, only to
   have the monster's mum come right down the hall the next day and
   *complain*, is a reference to Grendel and his mother, two famous monsters
-  from the _Beowulf_ saga.
+  from the "Beowulf_" saga.
 
 - [p. 114/104] "Pour encourjay lays ortras."
 
   Discworld version of the French phrase "pour encourager les autres". The
   phrase originates with Voltaire who, after the British executed their own
   admiral John Byng in 1757 for failing to relieve Minorca, was inspired to
-  write (in Chapter 23 of _Candide_) a sentence that translates to: "in
+  write (in Chapter 23 of "Candide_") a sentence that translates to: "in
   this country we find it pays to shoot an admiral from time to time to
   encourage the others".
 
@@ -3641,7 +3641,7 @@ GUARDS! GUARDS!
   Bristol. Bristol has become famous for its urban foxes (although they
   apparently operate in all largish greenish cities in the UK). In the
   early 80s, BBC Bristol made a famous programme on these urban foxes,
-  called _Foxwatch_.
+  called "Foxwatch_".
 
   On this programme, hitherto unachieved photographs of vixens caring for
   their sprogs were aired; this made the programme (which was narrated by
@@ -3662,11 +3662,11 @@ GUARDS! GUARDS!
   Two Sherlock Holmes references for the price of one. The original quotes
   are "It is an old maxim of mine that when you have excluded the
   impossible, whatever remains, however improbable, must be the truth" from
-  _The Adventure of the Beryl Coronet_, and "[...] the curious incident of
-  the dog at nighttime" in _Silver Blaze_.
+  "`The Adventure of the Beryl Coronet`_", and "[...] the curious incident of
+  the dog at nighttime" in "`Silver Blaze`_".
 
   The second reference also reminds me, in a very roundabout way, of Edgar
-  Allan Poe's _The Murders in the Rue Morgue_.
+  Allan Poe's "`The Murders in the Rue Morgue`_".
 
 - [p. 120/110] "[...] as ghastly an array of faces as ever were seen
   outside a woodcut about the evils of gin-drinking [...]"
@@ -3703,7 +3703,7 @@ GUARDS! GUARDS!
   dragon in the city. It could burn your head clean off."
 
   Vimes replays here one of the best-known scenes in Clint Eastwood's first
-  'Dirty Harry' movie, the 1971 _Dirty Harry_.
+  'Dirty Harry' movie, the 1971 "`Dirty Harry`_".
 
   "Aha! I know what you're thinking... Did I fire six shots or only five?
   To tell you the truth, I forgot it myself in all this excitement. This
@@ -3717,7 +3717,7 @@ GUARDS! GUARDS!
 - [p. 143/130] "''E's plain clothes, ma'am,' said Nobby smartly. 'Special
   Ape Services'."
 
-  _Special Ape Services_ shares the acronym SAS with the crack British
+  "`Special Ape Services`_" shares the acronym SAS with the crack British
   troops who are sent to storm embassies, shoot prisoners of war, and
   execute alleged terrorists before anything has been proven by trial, etc.
   Not that one wants to get political, mind you.
@@ -3725,11 +3725,11 @@ GUARDS! GUARDS!
 - [p. 156/141] "'Ah. Kings can cure that, you know,' said another
   protomonarchist knowingly."
 
-  See the annotation for p. 103/76 of _Lords and Ladies_.
+  See the annotation for p. 103/76 of "`Lords and Ladies`_".
 
 - [p. 162/147] "[...] and stepped out into the naked city."
 
-  _The Naked City_ was an American TV cop show in the 50s, mostly forgotten
+  "`The Naked City`_" was an American TV cop show in the 50s, mostly forgotten
   today, except for its prologue narration: "There are eight million
   stories in the naked city. This is one of them."
 
@@ -3744,7 +3744,7 @@ GUARDS! GUARDS!
         Nellie Dean.
 
   For an explanation of songs beginning 'As I was a walking...' see the
-  annotation for p. 313/238 of _Men at Arms_.
+  annotation for p. 313/238 of "`Men at Arms`_".
 
 - [p. 200/181] "'This is love-in-a-canoe coffee if ever I tasted it.'"
 
@@ -3757,9 +3757,9 @@ GUARDS! GUARDS!
 
 - [p. 200/182] "'He's called Rex Vivat.'"
 
-  _Rex Vivat_, of course, means: "long live the king". This reminds me a
-  bit of Robert Rankin, who named his lead character in _They Came And Ate
-  Us_ Rex Mundi. Rex's sister has a role in the book too. Her name is
+  "`Rex Vivat`_", of course, means: "long live the king". This reminds me a
+  bit of Robert Rankin, who named his lead character in "`They Came And Ate
+  Us`_" Rex Mundi. Rex's sister has a role in the book too. Her name is
   Gloria.
 
   Now you may begin to understand why Rankin is so often discussed on
@@ -3775,7 +3775,7 @@ GUARDS! GUARDS!
 - [p. 241/219] "Someone out there was going to find out that their worst
   nightmare was a maddened Librarian. With a badge."
 
-  The movie _48 Hrs_, starring Nick Nolte and Eddy Murphy, has a scene in
+  The movie _48 Hrs`_", starring Nick Nolte and Eddy Murphy, has a scene in
   which Eddy Murphy is in a bar full of rednecks, shouting "I am your worst
   nightmare! A nigger with a badge!"
 
@@ -3784,7 +3784,7 @@ GUARDS! GUARDS!
 
   Killing dragons by shooting a magical arrow in a special location is a
   standard cliche of mythology and fantasy fiction. One of the best-known
-  contemporary examples can be found in Tolkien's _The Hobbit_, where Bard
+  contemporary examples can be found in Tolkien's "`The Hobbit`_", where Bard
   kills the dragon Smaug with a special black arrow.
 
 - [p. 278/252] "'All for one!' [...] 'All for one what?' said Nobby."
@@ -3804,14 +3804,14 @@ GUARDS! GUARDS!
 
 - [p. 284/257] The scene where Errol's supersonic boom smashes the dragon
   out of the air is possibly based on another Clint Eastwood movie, the
-  1982 _Firefox_.
+  1982 "Firefox_".
 
 - [p. 289/262] "'In 1135 a hen was arrested for crowing on Soul Cake
   Thursday.'"
 
   There are several historical examples in our world of animals being
   arrested, excommunicated or killed for various crimes. Articles in the
-  October 1994 issue of _Scientific American_ and in _The Book of Lists #3_
+  October 1994 issue of "`Scientific American`_" and in "`The Book of Lists #3`_"
   give several examples: a chimpanzee was convicted in Indiana in 1905 of
   smoking in public; 75 pigeons were executed in 1963 in Tripoli for
   ferrying stolen money across the Mediterranean; and in 1916, "five-ton
@@ -3824,8 +3824,8 @@ GUARDS! GUARDS!
   to give the termites their own plot.
 
   Note that Soul Cake Thursday in later Discworld novels becomes Soul Cake
-  Tuesday, after previously having been Soul Cake Friday in _The Dark Side
-  of the Sun_.
+  Tuesday, after previously having been Soul Cake Friday in "`The Dark Side
+  of the Sun`_".
 
 - [p. 313/284] "'Sergeant Colon said he thought we'd get along like a
   *maison en Flambe*.'"
@@ -3834,34 +3834,34 @@ GUARDS! GUARDS!
 
 - [p. 314/285] "'Here's looking at you, kid,' he said."
 
-  Another quote from _Casablanca_.
+  Another quote from "Casablanca_".
 
 
-ERIC
+Eric
 ~~~~
 
-- [title] _Eric_
+- [title] "`Eric`_"
 
-  The subtitle to _Eric_ ('Faust', crossed out) already indicates what
+  The subtitle to "Eric_" ('Faust', crossed out) already indicates what
   story is being parodied in this novella: that of the German alchemist and
   demonologist Johannes (or Georg) Faust who sold his soul to the devil.
 
   The most famous version of the Faust legend is perhaps the one told by
-  Goethe in _Faust_, with Cristopher Marlowe's earlier play _The Tragical
-  History of Dr Faustus_ a close second.
+  Goethe in "Faust_", with Cristopher Marlowe's earlier play "`The Tragical
+  History of Dr Faustus`_" a close second.
 
 - [p. 9/9] "[...] where the adventuresses Herrena the Henna-Haired
   Harridan, Red Scharron and Diome, Witch of the Night, were meeting for
   some girl talk [...]"
 
-  Herrena is the swordswoman from _The Light Fantastic_ who hunted
+  Herrena is the swordswoman from "`The Light Fantastic`_" who hunted
   Rincewind, and Red Scharron is the Discworld version of Red Sonja. I
   can't place Diome, though her name sounds horribly familiar. There was a
   minor Greek goddes called Dione, and a Greek warrior called Diomedes, but
   neither of those sounds appropriate.
 
 - [p. 27/21] The book Eric uses to summon his demon has the title
-  _Mallificarum Sumpta Diabolicite Occularis Singularum_, or the Book of
+  "`Mallificarum Sumpta Diabolicite Occularis Singularum`_", or the Book of
   Ultimate Control. But note the initials.
 
   Also, the actual dog-Latin translates more or less to: "Evil-making
@@ -3871,7 +3871,7 @@ ERIC
   of lava substitute and with unparalleled view of the Eight Circles, lies
   the city of Pandemonium."
 
-  The name 'Pandemonium' originates with Milton's _Paradise Lost_; it's the
+  The name 'Pandemonium' originates with Milton's "`Paradise Lost_; it's the
   city built by Lucifer and his followers after the Fall.
 
 - [p. 46/41] The name of the Tezumen god, 'Quetzovercoatl', puns on the
@@ -3910,8 +3910,8 @@ ERIC
 - [p. 81/69] "Fortunately, Rincewind was able to persuade the man that the
   future was another country."
 
-  Reference to the opening words of _The Go-between_. See the annotation
-  for p. 13/11 of _Lords and Ladies_.
+  Reference to the opening words of "`The Go-between`_". See the annotation
+  for p. 13/11 of "`Lords and Ladies`_".
 
 - [p. 82/70] "Some talk of Alexander and some of Hercules, of Hector and
   Lysander and such great names as these."
@@ -3938,11 +3938,11 @@ ERIC
   category as 'Colonel Bogey' -- everyone knows a line or two [sorry...
   everyone male and in the UK, anyway]".
 
-  For a sample of the lyrics to this song, see the _Song..._ section in
+  For a sample of the lyrics to this song, see the "`Song...`_" section in
   Chapter 5 of this document.
 
   The song's title was changed into the slightly more convincing-sounding
-  'The Ball of Philodelphus' in the small-format UK paperback of _Eric_.
+  'The Ball of Philodelphus' in the small-format UK paperback of "Eric_".
 
 - [p. 99/82] "-- vestal virgins, Came down from
   Heliodeliphilodelphiboschromenos, And when the ball was over, There were
@@ -3981,7 +3981,7 @@ ERIC
 - [p. 117/97] "'Centuries [...]. Millenia. Iains.'"
 
   For some reason, Rincewind has problems with the word 'aeons'. See p.
-  94/86 of _Sourcery_ for the first documented occurrence of this
+  94/86 of "Sourcery_" for the first documented occurrence of this
   particular blind spot.
 
 - [p. 121/100] "Some ancient and probably fearful warning was edged over
@@ -4006,20 +4006,20 @@ ERIC
 
   People like using this particular quip in Usenet conversations or in
   their .signatures, and every time somebody will follow-up with "hey,
-  you're wrong, that's a quote from _Reaper Man_!".
+  you're wrong, that's a quote from "`Reaper Man_!".
 
   The answer is of course simply that similar quotes occur in *both* books
-  (in _Reaper Man_ it's on p. 215/189, and goes: "Five exclamation marks,
+  (in "`Reaper Man`_" it's on p. 215/189, and goes: "Five exclamation marks,
   the sure sign of an insane mind").
 
-  Since then, _Maskerade_ has been released, which of course takes the
+  Since then, "Maskerade_" has been released, which of course takes the
   concept of the insanity-defining exclamation marks to a whole new level.
 
 - [p. 122/101] "'[...] I think it's quite possible that we're in Hell.'"
 
-  The whole sequence in Hell is based loosely on Dante's _Inferno_ (which
-  in turn is based on Vergil's _Aeneid_) in much the same way the book as a
-  whole is based on _Faust_. Rincewind and Eric correspond to Vergil (who
+  The whole sequence in Hell is based loosely on Dante's "Inferno_" (which
+  in turn is based on Vergil's "Aeneid_") in much the same way the book as a
+  whole is based on "Faust_". Rincewind and Eric correspond to Vergil (who
   is Dante's guide to Hell) and Dante in the same way that they are
   Mephistopheles and Faust. The various references to the geographical
   topology build on how Dante organised Hell in nine concentric circles
@@ -4078,17 +4078,17 @@ ERIC
 - [p. 136/110] "'Or it helps if you've got a lyre, I think.'"
 
   A reference to the legend of Orpheus (see also the annotation for p.
-  93/93 of _The Light Fantastic_), who charmed Hades and Persephone into
+  93/93 of "`The Light Fantastic`_"), who charmed Hades and Persephone into
   releasing Eurydice by virtue of his lyre-playing.
 
 - [p. 153/124] "Pour encouragy le -- poor encoura -- to make everyone sit
   up and damn well take notice."
 
   "Pour encourager les autres." See the annotation for p. 114/104 of
-  _Guards! Guards!_
+  "`Guards! Guards!`"`_"
 
 
-MOVING PICTURES
+Moving Pictures
 ~~~~~~~~~~~~~~~
 
 This one has uncountable references to classic Hollywood movies and
@@ -4099,7 +4099,7 @@ anecdotes.
 
 - People have noticed that the two femmes fatale of this novel are called
   Ginger and Ruby, both names signifying a red colour. Terry Pratchett says
-  that he did *not* intend this as a reference to _Gone with the Wind_'s
+  that he did *not* intend this as a reference to "`Gone with the Wind`_"'s
   Scarlett.
 
 - Instead, Ruby got her name because like all trolls she needed a mineral
@@ -4109,11 +4109,11 @@ anecdotes.
 
 - [p. 9/7] "This is space. It's sometimes called the final frontier."
 
-  See the annotation for p. 221/191 of _The Colour of Magic_.
+  See the annotation for p. 221/191 of "`The Colour of Magic`_".
 
 - [p. 15/12] "'Looking,' it said [...] 'f'r a word. Tip of my tongue.'"
 
-  The word is 'Eureka'. See the annotation for p. 139/101 of _Small Gods._
+  The word is 'Eureka'. See the annotation for p. 139/101 of "`Small Gods.`_"
 
 - [p. 18/14] "'I thought they were trying to cure the philosopher's stones,
   or somethin',' said the Archchancellor."
@@ -4124,7 +4124,7 @@ anecdotes.
 
 - [p. 19/15] Archchancellor Ridcully's wizard name is 'Ridcully the Brown'.
 
-  In Tolkien's _The Lord of the Rings_ there's a (relatively) minor wizard
+  In Tolkien's "`The Lord of the Rings`_" there's a (relatively) minor wizard
   called 'Radagast the Brown', who was also very well in tune with nature,
   and definitely of the
   "roams-the-high-forest-with-every-beast-his-brother" type. Talked to the
@@ -4173,15 +4173,15 @@ anecdotes.
   called yobs"). The word probably derives from 'back-chat' -- a 19th
   century London thieves' argot in which words were turned round in order
   to confuse police eavesdroppers. Not so far removed from Polari, in fact
-  (see the _Words From The Master_ section in Chapter 5).
+  (see the "`Words From The Master`_" section in Chapter 5).
 
   At the same time it is also a pun on H. P. Lovecraft's 'Yog-Sothoth', one
   of the chief supernatural nasties in the Cthulhu mythos (see especially
-  the novelette _The Dunwich Horror_ and the novel _The Lurker at the
-  Threshold_).
+  the novelette "`The Dunwich Horror`_" and the novel "`The Lurker at the
+  Threshold`_").
 
-  Finally, Ponder and Victor are studying the _Necrotelicomnicom_ in this
-  scene. See the annotation for p. 111/109 of _Equal Rites_ for more
+  Finally, Ponder and Victor are studying the "Necrotelicomnicom_" in this
+  scene. See the annotation for p. 111/109 of "`Equal Rites`_" for more
   information on the Lovecraft connection there.
 
 - [p. 34/28] "Tshup Aklathep, Infernal Star Toad with A Million Young"
@@ -4192,17 +4192,17 @@ anecdotes.
 
 - [p. 35/29] Victor Tugelbend's university career, with his uncle's will
   and all that, shows parallels to similar situations described in Roger
-  Zelazny's (highly recommended) science fiction novel _Doorways in the
-  Sand_, and in Richard Gordon's 'Doctor' series of medical comedy
-  books/movies (_Doctor in the House_, _Doctor in Love_, _Doctor at Sea_,
+  Zelazny's (highly recommended) science fiction novel "`Doorways in the
+  Sand`_", and in Richard Gordon's 'Doctor' series of medical comedy
+  books/movies ("`Doctor in the House`_", "`Doctor in Love`_", "`Doctor at Sea`_",
   etc.)
 
-  I had noticed the Zelazny parallel when I first read _Moving Pictures_,
+  I had noticed the Zelazny parallel when I first read "`Moving Pictures`_",
   but thought the reference was too unlikely and too obscure to warrant
   inclusion. Since then *two* other people have pointed it out to me...
 
-  Terry later remarked, in response to someone mentioning the _Doctor in
-  the House_ movie on the net: "I remember that film -- the student in
+  Terry later remarked, in response to someone mentioning the "`Doctor in
+  the House`_" movie on the net: "I remember that film -- the student in
   question was played by Kenneth More. All he had to do, though, was fail
   -- the people who drew up the will involving Victor thought they were
   cleverer than that. Maybe they'd seen the film..."
@@ -4226,8 +4226,8 @@ anecdotes.
   with a three-day appetite might study the All-You-Can-Gobble-For-A-Dollar
   menu outside Harga's House of Ribs..."
 
-  This paragraph is a word-by-word parody of H. G. Wells' _War of the
-  Worlds_, which begins with:
+  This paragraph is a word-by-word parody of H. G. Wells' "`War of the
+  Worlds`_", which begins with:
 
   "No one would have believed in the last years of the nineteenth century
   that this world was being watched keenly and closely by intelligences
@@ -4266,14 +4266,14 @@ anecdotes.
 
 - [p. 75/62] "[...] Victor fights the dreaded Balgrog".
 
-  In Tolkien's _The Lord of the Rings_ you can find a very nasty monster
+  In Tolkien's "`The Lord of the Rings`_" you can find a very nasty monster
   called a Balrog.
 
 - [p. 81/67] Ginger's real name is Theda Withel, which might be a very
   oblique reference to Theda Bara, famous movie star of the 1910s, a kind
   of Elvira, Mistress of the Dark, avant la lettre ('Theda Bara' is an
   anagram of 'Arab Death'!). Her portrayal of evil women in movies like
-  _When a Woman Sins_ and _The She Devil_ caused the current meaning of the
+  "`When a Woman Sins`_" and "`The She Devil`_" caused the current meaning of the
   word 'vamp' to be added to the English language.
 
   Just as Dibbler later describes Ginger to Bezam Planter as "the daughter
@@ -4296,11 +4296,11 @@ anecdotes.
   races."
 
   Some people were wondering if this doesn't contradict the information we
-  get about Elves later, in _Lords and Ladies_, such as that they can only
+  get about Elves later, in "`Lords and Ladies`_", such as that they can only
   enter our World during Circle Time -- besides, Elves would hardly be the
   type of beings to become actors, one should think.
 
-  The answer can be found in _Lords and Ladies_ as well, however, on p.
+  The answer can be found in "`Lords and Ladies`_" as well, however, on p.
   229/165:
 
       Ridcully: "Elves? Everyone knows elves don't exist any more. Not
@@ -4317,7 +4317,7 @@ anecdotes.
   Hihohiho. Hihohiho.'"
 
   The best-known song in Walt Disney's 1937 full length animation movie
-  _Snow White and the Seven Dwarfs_ is sung by the seven dwarfs and starts:
+  "`Snow White and the Seven Dwarfs`_" is sung by the seven dwarfs and starts:
 
         Heigh-ho, Heigh-ho
         It's off to work we go
@@ -4329,11 +4329,11 @@ anecdotes.
   As Nobby's subsequent comment ("Singing in the rain like that.")
   already indicates, Holy Wood magic is making Dibbler reenact one of
   the ost famous movie scenes of all time: Gene Kelly dancing and
-  singing through the deserted city streets in _Singin' in the Rain_.
+  singing through the deserted city streets in "`Singin' in the Rain`_".
   The 'DUMdi-dum-dum, dumdi-dumdi-DUM-DUM' rhythm also fits the song
   exactly.
 
-- [p. 97/80] _The Boke Of The Film_
+- [p. 97/80] "`The Boke Of The Film`_"
 
   Traditional (if somewhat archaic by now) subtitle for movie
   novelisations. The related phrase "The Book of the Series" is still alive
@@ -4353,7 +4353,7 @@ anecdotes.
   which Donald somehow manages to become a travelling calliope salesman.
   Highly recommended.
 
-- [p. 103/86] "The sharp runes spelled out _The Blue Lias_. It was a troll
+- [p. 103/86] "The sharp runes spelled out "`The Blue Lias`_". It was a troll
   bar."
 
   'Lias' is a blue limestone rock found in the south-west of England.
@@ -4373,7 +4373,7 @@ anecdotes.
   now am a blue colour? / Vot is the action I should take this time / I
   can't help it. Hiya, big boy."
 
-  In the 1930 movie _Blue Angel_ Marlene Dietrich plays Lola-Lola, the
+  In the 1930 movie "`Blue Angel`_" Marlene Dietrich plays Lola-Lola, the
   cabaret entertainer who ruins the life of the stuffy professor who falls
   in love with her. In the movie, Marlene performs a song called 'Falling
   in Love':
@@ -4419,7 +4419,7 @@ anecdotes.
 - [p. 151/126] "'A rock on the head may be quite sentimental, [...], but
   diamonds are a girl's best friend.'"
 
-  In the 1949 movie _Gentlemen Prefer Blondes_, Marilyn Monroe sings:
+  In the 1949 movie "`Gentlemen Prefer Blondes`_", Marilyn Monroe sings:
 
         A kiss on the hand may be quite continental
         But diamonds are a girl's best friend
@@ -4429,9 +4429,9 @@ anecdotes.
   Laddie is the Discworld counterpart to our world's famous movie collie,
   Lassie.
 
-  In the movie _Son of Lassie_ the protagonist was in fact called Laddie,
+  In the movie "`Son of Lassie`_" the protagonist was in fact called Laddie,
   but was played by Pal, the dog who had previously played Lassie in the
-  original movie _Lassie Come Home_. Interestingly enough, Pal had a
+  original movie "`Lassie Come Home`_". Interestingly enough, Pal had a
   real-life son who *was* called Laddie, but this Laddie was only used for
   stunt and distance shots since he wasn't as pretty as his brother, who
   eventually got to play Lassie in the CBS TV show, and who was the only
@@ -4443,7 +4443,7 @@ anecdotes.
   constant disruptions on the set caused by various male dogs in the area
   wanting to, um, propose to her.
 
-  Finally, two odd little coincidences. First, the _Lassie_ dogs often had
+  Finally, two odd little coincidences. First, the "Lassie_" dogs often had
   small dogs as companions. Second, Pal/Lassie's trainer was a man by the
   name of Rudd Weatherwax...
 
@@ -4458,8 +4458,8 @@ anecdotes.
 - [p. 159/132] "'[...] we're doing one about going to see a wizard.
   Something about following a yellow sick toad,' [...]"
 
-  That's a yellow brick road, and the reference is of course to _The Wizard
-  of Oz_.
+  That's a yellow brick road, and the reference is of course to "`The Wizard
+  of Oz`_".
 
   Terry's pun also reminded a correspondent of an old joke about an Oz frog
   with a bright yellow penis who hops up to a man and says: "I'm looking
@@ -4475,7 +4475,7 @@ anecdotes.
   and grows up being able to speak the language of humans."
 
   The Librarian's script is of course a reversal of Edgar Rice Burroughs'
-  _Tarzan_ story. Since Tarzan is supposed to be one of those five or so
+  "Tarzan_" story. Since Tarzan is supposed to be one of those five or so
   cultural icons that are so truly universal that *everybody* in the world
   is familiar with them, I expect this may well turn out to be the APF's
   Most Unnecessary Annotation of all...
@@ -4489,20 +4489,20 @@ anecdotes.
   time was "I want to be *let* alone", which is of course not quite the
   same thing at all...
 
-- [p. 174/145] The _Necrotelicomnicom_.
+- [p. 174/145] The "Necrotelicomnicom_".
 
-  On the Discworld the _Necrotelicomnicom_ (see also the entry for p.
-  111/109 of _Equal Rites_) was written by the Klatchian necromancer Achmed
+  On the Discworld the "Necrotelicomnicom_" (see also the entry for p.
+  111/109 of "`Equal Rites`_") was written by the Klatchian necromancer Achmed
   the Mad (although he preferred to be called Achmed the I Just Get These
   Headaches). In real life, horror author H. P. Lovecraft assures us that
-  the _Necronomicon_ was written by the mad Arab Abdul al-Hazred.
+  the "Necronomicon_" was written by the mad Arab Abdul al-Hazred.
 
 - [p. 178/148] "'It's fifteen hundred miles to Ankh-Morpork,' he said.
   'We've got three hundred and sixty elephants, fifty carts of forage, the
   monsoon's about to break and we're wearing... we're wearing... sort of
   things, like glass, only dark... dark glass things on our eyes...'"
 
-  Paraphrases a well-known quote from the _Blues Brothers_ movie, fifteen
+  Paraphrases a well-known quote from the "`Blues Brothers`_" movie, fifteen
   minutes before the end, just as the famous chase scene is about to begin
   and Jake and Elwood are sitting in their car:
 
@@ -4518,8 +4518,8 @@ anecdotes.
 
 - [p. 206/171] "'If you cut me, do I not bleed?'" said Rock.
 
-  Paraphrased from Shylock's famous monologue in Shakespeare's _The
-  Merchant of Venice_, act 3, scene 1: "If you prick us, do we not bleed?"
+  Paraphrased from Shylock's famous monologue in Shakespeare's "`The
+  Merchant of Venice`_", act 3, scene 1: "If you prick us, do we not bleed?"
 
 - [p. 221/184] "'Just one picture had all that effect?'"
 
@@ -4551,11 +4551,11 @@ anecdotes.
   health of your parent?' [...]'"
 
   "How's your father" is a British euphemism for "sexual intercourse", made
-  popular by the _Carry On_ series of films.
+  popular by the "`Carry On`_" series of films.
 
 - [p. 282/235] "Twopence more and up goes the donkey!"
 
-  Terry explains: "[...] In _Moving Pictures_ and _Reaper Man_ a lot of use
+  Terry explains: "[...] In "`Moving Pictures`_" and "`Reaper Man`_" a lot of use
   is indeed made of, god help me, Victorian street sayings that were the
   equivalent of 'sez you'. "Tuppence more and up goes the donkey", a
   favourite saying of Windle Poons, comes from the parties of strolling
@@ -4567,36 +4567,36 @@ anecdotes.
   "It belongs in the same general category of promise as 'Free Beer
   Tomorrow'."
 
-- [p. 297/249] The climactic scene of the novel is not only a _King Kong_
+- [p. 297/249] The climactic scene of the novel is not only a "`King Kong`_"
   reversal spoof. Terry says the 50 ft. woman also refers to the
-  protagonist from the 1958 movie _Attack of the 50 Ft. Woman_ (recently
+  protagonist from the 1958 movie "`Attack of the 50 Ft. Woman`_" (recently
   and redundantly remade with Daryl Hannah in the title role -- if there's
   one movie that did not need to be remade it was this one, trust me).
 
 - [p. 304/254] "'If it bleeds, we can kill it!'"
 
-  This line is from the 1987 movie _Predator_, starring Arnold
+  This line is from the 1987 movie "Predator_", starring Arnold
   Schwarzenegger. 'It' in this case was a green-blooded, invisible alien
   hunter.
 
 - [p. 305/255] "YOU BELONG DEAD, he said."
 
-  This is based on Boris Karloff's final words in the 1935 movie _Bride of
+  This is based on Boris Karloff's final words in the 1935 movie "`Bride of
   Frankenstein_: "We belong dead".
 
 - [p. 305/255] "'Careful,' said the Dean. 'That is not dead which can
   eternal lie.'"
 
   This is from a famous H. P. Lovecraft quote (which was also used by metal
-  groups Iron Maiden (on the _Live After Death_ album cover) and Metallica
+  groups Iron Maiden (on the "`Live After Death`_" album cover) and Metallica
   (in the song 'The Thing That Should Not Be')):
 
         That is not dead which can eternal lie
         And with strange aeons even death may die
 
-  It is supposed to be a quote from Abdul al-Hazred's _Necronomicon_ (see
+  It is supposed to be a quote from Abdul al-Hazred's "Necronomicon_" (see
   annotation for p. 174/145), and Lovecraft uses the verse in several
-  stories, particularly in _The Call of Cthulhu_ and _The Nameless City_.
+  stories, particularly in "`The Call of Cthulhu`_" and "`The Nameless City`_".
 
   In reality, I'm told the quote originated with the Victorian decadent
   poet Algernon Charles Swinburne, but I have no definite reference on
@@ -4605,7 +4605,7 @@ anecdotes.
 - [p. 306/256] "''Twas beauty killed the beast,' said the Dean, who liked
   to say things like that."
 
-  Last line of _King Kong_, said under similar circumstances.
+  Last line of "`King Kong`_", said under similar circumstances.
 
 - [p. 310/259] "[...] everyone has this way of remembering even things that
   happened to their ancestors, I mean, it's like there's this great big
@@ -4615,7 +4615,7 @@ anecdotes.
 
 - [p. 312/261] "'A fine mess you got me into.'"
 
-  See the annotation for p. 73/65 of _The Colour of Magic_.
+  See the annotation for p. 73/65 of "`The Colour of Magic`_".
 
 - [p. 319/266] Detritus hitting the gong in the underground theatre refers
   to the Rank Organisation's man-with-the-gong trademark, which Rank used
@@ -4624,19 +4624,19 @@ anecdotes.
 
 - [p. 323/270] "'Play it again, Sham,' said Holy Wood."
 
-  The most famous line never uttered in _Casablanca_: "Play it again, Sam."
+  The most famous line never uttered in "`Casablanca_: "Play it again, Sam."
   It should perhaps be pointed out that Sham Harga is a character we
-  already met in _Mort_. Terry did *not* just create him in order to be
+  already met in "Mort_". Terry did *not* just create him in order to be
   able to make this pun.
 
 - [p. 324/271] "'And that includes you, Dozy!'"
 
-  One of the dwarfs in Disney's _Snow White and the Seven Dwarfs_ was
+  One of the dwarfs in Disney's "`Snow White and the Seven Dwarfs`_" was
   called Sleepy, another was called Dopey.
 
 - [p. 327/274] "'Cheer up,' she said. 'Tomorrow is another day.'"
 
-  The final line of _Gone with the Wind_.
+  The final line of "`Gone with the Wind`_".
 
 - [p. 329/276] "'Uselessium, more like,' murmured Silverfish."
 
@@ -4653,26 +4653,26 @@ anecdotes.
   Hollywood columnist Sidney Skolsky, and quickly became a household word.
 
 
-REAPER MAN
+Reaper Man
 ~~~~~~~~~~
 
-- [title] _Reaper Man_
+- [title] "`Reaper Man`_"
 
-  The title _Reaper Man_ parodies Alex Cox's 1984 cult movie _Repo Man_.
+  The title "`Reaper Man`_" parodies Alex Cox's 1984 cult movie "`Repo Man`_".
 
-  More accurately, _Repo Man_ itself is a pun on 'reaper man', a very
+  More accurately, "`Repo Man`_" itself is a pun on 'reaper man', a very
   ancient name for Death (compare also e.g. 'the grim reaper'). But
   apparently Terry has said elsewhere (i.e. not on the net), that his
   'Reaper Man' was indeed meant as a pun on the movie-title (much to the
   chagrin of his publishers, who would have probably preferred it if he had
-  called it _Mort II_).
+  called it "`Mort II`_").
 
 - The 'Bill Door' sections of this novel have many parallels with classic
-  Westerns, e.g. _High Plains Drifter_.
+  Westerns, e.g. "`High Plains Drifter`_".
 
 - If you liked the idea of the trolley life-form, you may also want to
-  check out a short story by Avram Davidson called _Or All The Sea With
-  Oysters_. It's all about the life cycle of bicycles and their larval
+  check out a short story by Avram Davidson called "`Or All The Sea With
+  Oysters`_". It's all about the life cycle of bicycles and their larval
   stages: paperclips and coat hangers.
 
 - [p. 5/7] "It is danced under blue skies to celebrate the quickening of
@@ -4681,7 +4681,7 @@ REAPER MAN
   Whatever the original idea behind Morris dancing was, it long ago indeed
   became associated with Spring ("As fit as [...] a morris for May Day" --
   Shakespeare), and nowadays many Morris teams begin their dancing season
-  with a May Day performance. See the _...and Dance_ section of Chapter 5
+  with a May Day performance. See the `_"...and Dance`_" section of Chapter 5
   for more on Morris dancing.
 
 - [p. 5/7] "It is danced innocently by raggedy-bearded young mathematicians
@@ -4710,7 +4710,7 @@ REAPER MAN
 - [p. 15/16] "The pendulum is a blade that would have made Edgar Allan Poe
   give it all up and start again as a stand-up comedian [...]"
 
-  Refers to Poe's famous story _The Pit and the Pendulum_ in which a victim
+  Refers to Poe's famous story "`The Pit and the Pendulum`_" in which a victim
   of the inquisition is tied up beneath a giant descending, sweeping,
   razor-sharp pendulum.
 
@@ -4737,7 +4737,7 @@ REAPER MAN
   that Dwarf who runs the delicatessen on Cable Street?'"
 
   A Gimlet Eye is a piercing stare or squint. See also the annotation for
-  p. 35/27 of _Soul Music_.
+  p. 35/27 of "`Soul Music`_".
 
 - [p. 32/30] "'Anyway, you can't trust those voodoo gods. Never trust a god
   who grins all the time and wears a top hat, that's my motto.'"
@@ -4747,7 +4747,7 @@ REAPER MAN
   traditionally associated with cross-roads.
 
   For more information about Baron Samedi you should, of course, read
-  _Witches Abroad_ (see also the annotation for p. 179/157 of that book).
+  "`Witches Abroad`_" (see also the annotation for p. 179/157 of that book).
 
 - [p. 37/35] "'Yes, but they drink blood,' said the Senior Wrangler."
 
@@ -4760,18 +4760,18 @@ REAPER MAN
 - [p. 58/53] "'Celery,' said the Bursar."
 
   A few correspondents thought that the Bursar's particular choice of
-  vegetable might have been motivated by an old episode of the _Goon Show_,
+  vegetable might have been motivated by an old episode of the "`Goon Show`_",
   where a sketch goes in part:
 
       Sheriff of Nottingham: "What? Tie him to a stake?"
       Bluebottle: "No, do not tie me to a stake" (pause) "I'm a vegetarian!"
       Prince John: "Then tie him to a stick of celery."
 
-- [p. 60/55] The address of the Fresh Start Club: _668 Elm Street_.
+- [p. 60/55] The address of the Fresh Start Club: _668 Elm Street`_".
 
-  Connects a reference to the _Nightmare on Elm Street_ series of horror
-  movies with the tentative title for a _Good Omens_ sequel: _668 -- The
-  Neighbour of the Beast_ (see the _Good Omens_ annotation on that
+  Connects a reference to the "`Nightmare on Elm Street`_" series of horror
+  movies with the tentative title for a "`Good Omens`_" sequel: _668 -- The
+  Neighbour of the Beast`_" (see the "`Good Omens`_" annotation on that
   subject).
 
 - [p. 66/60] Ridcully's uncle disappeared under mysterious circumstances
@@ -4782,8 +4782,8 @@ REAPER MAN
   charcoal, sulphur and saltpetre are the basic ingredients of gunpowder.
 
   Also, there actually exists a condiment called Wow-Wow Sauce, which was
-  popular during the 1800s. More information can be found in the _Discworld
-  Companion_.
+  popular during the 1800s. More information can be found in the "`Discworld
+  Companion`_".
 
 - [p. 72/65] "Many songs have been written about the bustling metropolis,
   [...]"
@@ -4792,7 +4792,7 @@ REAPER MAN
 
   'Ankh-Morpork! Ankh-Morpork! So good they named it Ankh-Morpork!' comes
   from 'New York, New York' (see also the annotation for p. 142/130 of
-  _Johnny and the Dead_), 'Carry Me Away From Old Ankh-Morpork' is 'Carry
+  "`Johnny and the Dead`_"), 'Carry Me Away From Old Ankh-Morpork' is 'Carry
   Me Back To Old Virginia', and 'Ankh-Morpork Malady' may be 'Broadway
   melody'.
 
@@ -4804,7 +4804,7 @@ REAPER MAN
 - [p. 76/69] "'Did it take long to get it looking like that?' 'About five
   hundred years, I think.'"
 
-  Or, as Terry explains more poignantly in a _Sourcery_ footnote (on p.
+  Or, as Terry explains more poignantly in a "Sourcery_" footnote (on p.
   21/22): "You mows it and you rolls it for five hundred years and then a
   bunch of bastards walks across it."
 
@@ -4821,7 +4821,7 @@ REAPER MAN
   And on p. 176/155 we learn that One-Man-Bucket was run over by a cart on
   Treacle Street. Treacle is another word for molasses, and most people
   will be familiar with the concept of "a hole in the ground from which you
-  get molasses" through _Alice in Wonderland_'s Mad Tea Party.
+  get molasses" through "`Alice in Wonderland_'s Mad Tea Party.
 
   Terry jokes: "Treacle mining is a lost British tradition. There used to
   be treacle mines in Bisham (near Marlow, on the Thames) and in several
@@ -4850,11 +4850,11 @@ REAPER MAN
 - [p. 97/87] "Who is he going to call! *We're* the wizards around here."
 
   A reference to the catchphrase "Who ya gonna call?!" from the movie
-  _Ghostbusters_.
+  "Ghostbusters_".
 
 - [p. 98/88] "Mr so-called Amazing Maurice and His Educated Rodents!'"
 
-  Send-up of the folk-story _The Pied Piper of Hamelin_.
+  Send-up of the folk-story "`The Pied Piper of Hamelin`_".
 
   If you have access to the Internet, you can find an online version of
   this fairy tale at the URL:
@@ -4883,14 +4883,14 @@ REAPER MAN
 - [p. 106/95] The names of the Fresh Start Club members.
 
   Count Notfaroutoe refers to Count Nosferatu, the vampire from Friedrich
-  Murnau's classic 1922 movie _Nosferatu, eine Symphonie des Grauens_
+  Murnau's classic 1922 movie "`Nosferatu, eine Symphonie des Grauens`_"
   (remade in 1979 by Werner Herzog, starring Klaus Kinski). 'Lupus' is
   Latin for wolf, so 'Lupine' means 'wolfish', similar to e.g. 'feline'.
   Finally, there exists a mineral called ixiolite. Note, by the way, that
   banshees are traditionally supposed to be female creatures.
 
   When someone on a.f.p. asked if Reg Shoe was based on Reg, the leader of
-  the Judean Peoples' Front in Monty Python's _Life of Brian_, Terry
+  the Judean Peoples' Front in Monty Python's "`Life of Brian`_", Terry
   answered:
 
   "No. Not consciously, anyway.
@@ -4926,7 +4926,7 @@ REAPER MAN
 - [p. 135/120] "I EXPECT, he said, THAT YOU COULD MURDER A PIECE OF
   CHEESE?"
 
-  Echoes p. 24/21 of _Mort_, where Death says to Mort: "I DON'T KNOW ABOUT
+  Echoes p. 24/21 of "Mort_", where Death says to Mort: "I DON'T KNOW ABOUT
   YOU, BUT I COULD MURDER A CURRY".
 
 - [p. 146/129] "LAST YEAR SOMEONE GOT THREE STREETS AND ALL THE UTILITIES."
@@ -4938,7 +4938,7 @@ REAPER MAN
   The fires of the forge were barely alive now, but the blade glowed
   with razor light."
 
-  This description evokes images of the light sabers in the _Star Wars_
+  This description evokes images of the light sabers in the "`Star Wars`_"
   movies.
 
 + [p. 149/132] "On the fabled hidden continent of Xxxx, somewhere near the
@@ -5032,7 +5032,7 @@ REAPER MAN
 
 - [p. 168/147] "'Ah... many a slip 'twixt dress and drawers,' said Duke."
 
-  See the annotation for p. 189/188 of _Wyrd Sisters_.
+  See the annotation for p. 189/188 of "`Wyrd Sisters`_".
 
 - [p. 175/153] "Behind him, the kettle boiled over and put the fire out.
   Simnel fought his way through the steam."
@@ -5050,13 +5050,13 @@ REAPER MAN
   practical and portable.)
 
   For more information on steam engines, see also the annotation for p.
-  259/186 of _Small Gods_.
+  259/186 of "`Small Gods`_".
 
 - [p. 178/157] "Mustrum Ridcully trotted into his study and took his
   wizard's staff from its rack over the fireplace. He licked his finger and
   gingerly touched the top of his staff."
 
-  Gary Cooper does this a few times in the 1941 movie _Sergeant York_.
+  Gary Cooper does this a few times in the 1941 movie "`Sergeant York`_".
   According to my source, Cooper's explanation in the movie was "It cuts
   down the haze a mite" -- or something along those lines.
 
@@ -5087,7 +5087,7 @@ REAPER MAN
 
 - [p. 201/176] "Stripfettle's Believe-It-Or-Not Grimoire"
 
-  Ripley's _Believe It Or Not!_ was more or less the forerunner of today's
+  Ripley's "`Believe It Or Not!`_" was more or less the forerunner of today's
   tabloids of the '500 pound baby' variety. However, his items were
   supposedly true and he had a standing offer to provide notarised proof if
   you didn't believe him. Typical items included potatoes that looked like
@@ -5098,9 +5098,9 @@ REAPER MAN
 
 - [p. 204/179] "Remember -- wild, uncontrolled bursts..."
 
-  From the movie _Aliens_: "Remember -- short, controlled bursts...". This
+  From the movie "`Aliens_: "Remember -- short, controlled bursts...". This
   entire section is filled with action-movie references ('Yo!'), but
-  _Alien_/_Aliens_ seems to have been a particularly fruitful source. Many
+  "`Alien_/"Aliens_" seems to have been a particularly fruitful source. Many
   quotes and events have direct counterparts: "Yeah, but secreted from
   what?", "No one touch *anything*", "It's coming from *everywhere*!", and
   "We are *going*" are only a few examples, and of course there is the
@@ -5110,9 +5110,9 @@ REAPER MAN
   say one word,' he said, 'just one bloody *word*...'"
 
   Edgar Allen Poe rears his head once more in a reference to his famous
-  poem, _The Raven_, which is all about death, doom and gloom. In the poem,
+  poem, "`The Raven`_", which is all about death, doom and gloom. In the poem,
   the ominous raven in question constantly repeats just a single word:
-  _Nevermore_.
+  "Nevermore_".
 
 - [p. 233/204] "Windle snapped his fingers in front of the Dean's pale
   eyes. There was no response. 'He's not dead,' said Reg. 'Just resting,'
@@ -5131,7 +5131,7 @@ REAPER MAN
 
 - [p. 235/206] "'Artor! Nobblyesse obligay!'"
 
-  From the phrase _noblesse oblige_, meaning "rank imposes certain
+  From the phrase _noblesse oblige`_", meaning "rank imposes certain
   obligations".
 
 - [p. 246/215] "'Bonsai!'"
@@ -5162,11 +5162,11 @@ REAPER MAN
 - [p. 258/226] "'I'm just going out,' he said. 'I may be some time.'"
 
   A quote that Terry uses again in another, similar situation. See the
-  annotation for p. 236/170 of _Small Gods_.
+  annotation for p. 236/170 of "`Small Gods`_".
 
 - [p. 259/226] The idea of a were-man and were-woman who fall in love, but
   whose animal and human phases are out of sync with respect to each other
-  was the main plot element in the 1985 fantasy movie _Ladyhawke_, starring
+  was the main plot element in the 1985 fantasy movie "Ladyhawke_", starring
   Rutger Hauer and Michelle Pfeiffer.
 
 - [p. 264/230] "Azrael, the Great Attractor, the Death of Universes, [...]"
@@ -5200,7 +5200,7 @@ REAPER MAN
 
 - [p. 265/232] "*YES*"
 
-  In the hardcover edition of _Reaper Man_, this super-large word appears
+  In the hardcover edition of "`Reaper Man`_", this super-large word appears
   on a left page, so that it takes the reader by surprise as she turns the
   page. In the paperback edition this is not the case, thus spoiling the
   effect entirely.
@@ -5228,7 +5228,7 @@ REAPER MAN
 - [p. 270/237] "'Chap with a whip got as far as the big sharp spikes last
   week,' said the low priest."
 
-  Refers to the _Raiders of the Lost Ark_ movies, in which Indiana Jones
+  Refers to the "`Raiders of the Lost Ark`_" movies, in which Indiana Jones
   (with trademark whip) always steals stuff from sacred temples loaded with
   spikes, big rolling balls, and nasty insects.
 
@@ -5239,7 +5239,7 @@ REAPER MAN
   of Offler the Crocodile God and purloins the massive diamond called the
   Tear of Offler from the statue therein.
 
-  On p. 109/109 of the _The Light Fantastic_, however, Twoflower tells
+  On p. 109/109 of the "`The Light Fantastic`_", however, Twoflower tells
   Bethan the story of Cohen the Barbarian stealing this very same sacred
   diamond.
 
@@ -5251,8 +5251,8 @@ REAPER MAN
   petticoats up ...' something.'"
 
   This is a paraphrase or alternate version of an existing "ould Sussex
-  Folk Song", quoted in Spike Milligan's autobiography _Adolf Hitler: My
-  Part in his Downfall_ as follows:
+  Folk Song", quoted in Spike Milligan's autobiography "`Adolf Hitler: My
+  Part in his Downfall`_" as follows:
 
         Apples be ripe, nuts be brown,
         Petticoats up, trousers down.
@@ -5272,14 +5272,14 @@ REAPER MAN
 - [p. 277/243] "'I know this one! It's the Quirmish bullfight dance!
   Oh-lay!' 'WITH MILK'?"
 
-  _Oh-lay!_, a phonetic version of the Spanish cry _Ole!_, sounds also the
+  "`Oh-lay!`_", a phonetic version of the Spanish cry "`Ole!`_", sounds also the
   same as the pronunciation of the French phrase "au lait" which means
   "with milk", as in e.g. 'cafe au lait'.
 
 - [p. 280/246] "One yodel out of place would attract, not the jolly echo of
   a lonely goatherd, but fifty tons of express-delivery snow."
 
-  A reference to the puppet sequence in _The Sound of Music_, a song in
+  A reference to the puppet sequence in "`The Sound of Music`_", a song in
   which both yodelling and lonely goatherds are featured.
 
 - [p. 280/246] "'And who was that masked man?' They both looked around.
@@ -5291,7 +5291,7 @@ REAPER MAN
   'Turning up like a bad copper.'"
 
   'Copper' is a British colloquialism for policemen (see also the
-  annotation for p. 185/140 of _Men at Arms_), but 'copper' is also a
+  annotation for p. 185/140 of "`Men at Arms`_"), but 'copper' is also a
   somewhat archaic synonym for 'penny', which gives the link to the saying:
   "turning up like a bad penny".
 
@@ -5300,18 +5300,18 @@ REAPER MAN
 
 - [p. 283/249] "'You know,' said Windle, 'it's a wonderful afterlife.'"
 
-  _It's A Wonderful Life_ is the title of Frank Capra's classic 1946 movie
+  "`It's A Wonderful Life`_" is the title of Frank Capra's classic 1946 movie
   about a special kind of undead (or rather: unliving) man.
 
 - [p. 284/250] "WINDLE POONS? 'Yes?' THAT WAS YOUR LIFE."
 
-  Reference to the TV show _This Is Your Life_, where a noted celebrity is
+  Reference to the TV show "`This Is Your Life`_", where a noted celebrity is
   surprised and (hopefully) embarrassed by having the high (and
   occasionally low) points of his/her life recounted by friends and
   acquaintances during a half hour programme.
 
 
-WITCHES ABROAD
+Witches Abroad
 ~~~~~~~~~~~~~~
 
 - [p. 7/7] "'Hurrah, I've discovered Boyle's Third Law.'"
@@ -5427,20 +5427,20 @@ WITCHES ABROAD
 - [p. 30/26] "'You can't get the wood,' she said."
 
   This was Henry Crun's standard excuse for not actually building anything
-  he'd invented, on the _Goon Show_.
+  he'd invented, on the "`Goon Show`_".
 
 - [p. 33/29] "The author, Grand Master Lobsang Dibbler, had an address in
   Ankh-Morpork."
 
   This is yet another incarnation of Cut-Me-Own-Throat Dibbler, the Ankhian
-  entrepreneur we learn much more about in _Moving Pictures_, and who also
-  appears in _Small Gods_ as the Omnian businessman Dhblah.
+  entrepreneur we learn much more about in "`Moving Pictures`_", and who also
+  appears in "`Small Gods`_" as the Omnian businessman Dhblah.
 
   Also, the name is a direct reference to Tuesday Lobsang Rampa, who was
   one of our world's more successful psychic hoaxers: actually named Cyril
   Hoskin, and son of a Devon plumber, Lobsang Rampa claimed to be a Tibetan
-  monk with paranormal powers. He wrote the best-selling 1956 book _The
-  Third Eye_ which, even though Rampa was exposed as a fraud by _Time_
+  monk with paranormal powers. He wrote the best-selling 1956 book "`The
+  Third Eye`_" which, even though Rampa was exposed as a fraud by "`Time`_"
   Magazine in 1958, is still being printed and sold as the real thing 30
   years later. Rich, gullible people like actress Shirley MacLaine still
   pay money to have their 'third eye' opened up by contemporary Rampa
@@ -5466,12 +5466,12 @@ WITCHES ABROAD
   Anno Domini means 'year of our Lord' (as in e.g.: 1993 AD). It is indeed
   also used to denote old age, although this usage is a fairly recent
   literary invention, dating back to at least 1888 when Rudyard Kipling
-  wrote the short story _Venus Annodomini_.
+  wrote the short story "`Venus Annodomini`_".
 
 - [p. 47/41] "No one ran up them wearing dirndls and singing. They were not
   nice mountains."
 
-  Refers to the opening scene of _The Sound of Music_, where Julie Andrews
+  Refers to the opening scene of "`The Sound of Music`_", where Julie Andrews
   does just that: running up the mountains, and singing, and wearing
   dirndls (if you want to know what a dirndl looks like, go see the movie).
 
@@ -5479,14 +5479,14 @@ WITCHES ABROAD
   alike."
 
   This refers back to a legendary message that appeared in Crowther &
-  Woods' text adventure game _ADVENT_ (see also the annotation for p.
-  130/114 of _The Colour of Magic_): "You are in a maze of twisty little
+  Woods' text adventure game "ADVENT_" (see also the annotation for p.
+  130/114 of "`The Colour of Magic`_"): "You are in a maze of twisty little
   passages, all alike."
 
-  Many games have included variants of this. It also appeared in _Zork_
+  Many games have included variants of this. It also appeared in "`Zork`_"
   ("The second of the great early experiments in computer fantasy gaming",
-  as _The New Hacker's Dictionary_ describes it), and in the _Hitch Hiker's
-  Guide to the Galaxy_ game you appear in your own brain, in "a maze of
+  as "`The New Hacker's Dictionary`_" describes it), and in the "`Hitch Hiker's
+  Guide to the Galaxy`_" game you appear in your own brain, in "a maze of
   twisty synapses".
 
 + [p. 48/42] The section dealing with dwarfs (and in fact, almost
@@ -5500,7 +5500,7 @@ WITCHES ABROAD
 
 - [p. 49/43] "[...] and spake thusly: 'Open up, you little sods!'"
 
-  In Tolkien's _The Lord of the Rings_ there is a famous scene outside the
+  In Tolkien's "`The Lord of the Rings`_" there is a famous scene outside the
   dwarven mines of Moria, where invisible runes written on the door (and
   revealed by the wizard Gandalf) give our heroes the clue as to how to get
   the door to open, namely by saying the word 'friend'.
@@ -5510,7 +5510,7 @@ WITCHES ABROAD
 - [p. 51/45] "[...] if more trolls stopped wearing suits and walking
   upright, and went back to living under bridges [...]"
 
-  See the annotation for p. 193/140 of _Lords and Ladies_.
+  See the annotation for p. 193/140 of "`Lords and Ladies`_".
 
 - [p. 52/45] "It's often said that eskimos have fifty words for snow. This
   is not true."
@@ -5571,14 +5571,14 @@ WITCHES ABROAD
   Magrat. 'It's foreign for bat.'"
 
   Well no, it isn't, actually. The German word for bat is 'Fledermaus', as
-  in Johann Strauss' famous operette _Die Fledermaus_. 'Flabberghast' seems
+  in Johann Strauss' famous operette "`Die Fledermaus`_". 'Flabberghast' seems
   to derive more from the plain English 'flabbergasted' (meaning:
   astonished beyond belief). Similarly, 'die flabbergast' apparently was a
-  Mozart-spoofing sketch that Dudley Moore did in _Beyond The Fringe_.
+  Mozart-spoofing sketch that Dudley Moore did in "`Beyond The Fringe`_".
 
 - [p. 87/75] The names the witches are considering for themselves are puns
   on existing airline companies or their acronyms. Nanny Ogg starts to say
-  _Virgin Airlines_, but is rudely interrupted by a gust of wind.
+  "`Virgin Airlines`_", but is rudely interrupted by a gust of wind.
 
 - [p. 88/77] "'I like stuff that tells you plain what it is, like...
   well... Bubble and Squeak, or... or... 'Spotted Dick,' said Nanny
@@ -5601,9 +5601,9 @@ WITCHES ABROAD
 - [p. 89/78] "'Magrat says she will write a book called Travelling on One
   Dollar a Day, and it's always the same dollar.'"
 
-  Refers to the famous traveller's guide originally titled _Europe on Five
-  Dollars a Day_. This is of course also extensively parodied in the _Hitch
-  Hiker's Guide to the Galaxy_ ("see the wonders of the universe for only
+  Refers to the famous traveller's guide originally titled "`Europe on Five
+  Dollars a Day`_". This is of course also extensively parodied in the "`Hitch
+  Hiker's Guide to the Galaxy`_" ("see the wonders of the universe for only
   twenty Altairian dollars per day").
 
 - [p. 91/79] "What does cojones mean?"
@@ -5622,7 +5622,7 @@ WITCHES ABROAD
   foreign parts,' said Nanny hopefully."
 
   The Mississippi River is often known as 'Old Man River', for instance in
-  the classic song from the 1936 Kern/Hammerstein musical _Show Boat_. Near
+  the classic song from the 1936 Kern/Hammerstein musical "`Show Boat`_". Near
   the mouth of the Mississippi lies New Orleans, on which Genua seems to be
   largely based. And then there are the riverboats, with the gamblers...
 
@@ -5635,7 +5635,7 @@ WITCHES ABROAD
 - [p. 97/84] "[...] Samedi Nuit Mort, the last night of carnivale, [...]"
 
   Samedi Nuit Mort = Saturday Night Dead, a reference to the television
-  comedy show _Saturday Night Live_.
+  comedy show "`Saturday Night Live`_".
 
 - [p. 97/85] "'That means Fat Lunchtime,' said Nanny Ogg, international
   linguist."
@@ -5646,37 +5646,37 @@ WITCHES ABROAD
 - [p. 114/99] "Even Magrat knew about Black Aliss."
 
   In Terry Pratchett's universe Black Aliss is obviously the evil witch of
-  *all* fairy tales. The stories referred to here are _Sleeping Beauty_,
-  _Rumpelstiltskin_ and _Hansel And Gretel_, all of which are available as
-  on-line versions (see the annotation for p. 34/34 of _The Light
-  Fantastic_).
+  *all* fairy tales. The stories referred to here are "`Sleeping Beauty`_",
+  "Rumpelstiltskin_" and "`Hansel And Gretel`_", all of which are available as
+  on-line versions (see the annotation for p. 34/34 of "`The Light
+  Fantastic`_").
 
 - [p. 122/107] "Are you the taxgatherers, dear?' 'No, ma'am, we're --' '--
   fairies,' said Fairy Hedgehog quickly."
 
-  This is a _Blues Brothers_ reference: in the film, the dialogue goes:
+  This is a "`Blues Brothers`_" reference: in the film, the dialogue goes:
   "'Are you the police?' 'No, ma'am, we're musicians.'"
 
 - [p. 134/117] "'[...] there's been other odd things happening in this
   forest.'"
 
   Magrat then goes on to describe more or less what happened in the fairy
-  tales of _Goldilocks and the Three Bears_ and _The Three Little Pigs_.
+  tales of "`Goldilocks and the Three Bears`_" and "`The Three Little Pigs`_".
 
 - [p. 134/118] "'[...] some ole enchantress in history who lived on an
   island and turned shipwrecked sailors into pigs.'"
 
   For once, Nanny Ogg *doesn't* mix up two or more real-world tales, but
   gets the story (almost) right: Circe was the name of the sorceress from
-  the _Odyssey_ who lived on the island Aeaea, and turned Ulysses'
+  the "Odyssey_" who lived on the island Aeaea, and turned Ulysses'
   shipmates into pigs when they landed (but didn't shipwreck) there.
 
 - [p. 136/119] "[...] around Defcon II in the lexicon of squabble."
 
   In the jargon of American military planners, the DEFCON scale (for
-  _Defence Readiness Condition_) is used to describe the level of
-  preparedness of U.S. military forces. I quote from _The Language of
-  Nuclear War -- An Intelligent Citizen's Dictionary_ by H. Eric Semler,
+  "`Defence Readiness Condition`_") is used to describe the level of
+  preparedness of U.S. military forces. I quote from "`The Language of
+  Nuclear War -- An Intelligent Citizen's Dictionary`_" by H. Eric Semler,
   James J. Benjamin, Jr., and Adam P. Gross:
 
   "DEFCON 5 describes a state in which forces are at normal readiness,
@@ -5693,14 +5693,14 @@ WITCHES ABROAD
 - [p. 137/120] "'Oh? It's all wishing on stars and fairy dust, is it?'"
 
   Fairly standard magic-related concepts, but perhaps it should be noted
-  that wishing on stars is done in Disney's _Pinocchio_, while fairy dust
-  features heavily in _Peter Pan_ (both the original play and the
+  that wishing on stars is done in Disney's "Pinocchio_", while fairy dust
+  features heavily in "`Peter Pan`_" (both the original play and the
   subsequent Disney movie).
 
 - [p. 137/120] "'[...] and no one doesn't get burned who sticks their hand
   in a fire.'"
 
-  I feel that in _Witches Abroad_ Terry was experimenting much more than
+  I feel that in "`Witches Abroad`_" Terry was experimenting much more than
   usual with the literary device of foreshadowing. This is only one of the
   many instances in the book where something is said that means nothing to
   the reader first time around, but which suddenly becomes very significant
@@ -5720,7 +5720,7 @@ WITCHES ABROAD
 
 - [p. 139/122] The farmhouse landing on Nanny Ogg, and the subsequent
   events involving dwarfs looking for ruby-coloured footwear are references
-  to _The Wizard of Oz_.
+  to "`The Wizard of Oz`_".
 
   All Terry's references are to the movie version, incidentally, not the
   book. In the book Dorothy obtains Silver Shoes instead of Ruby Slippers,
@@ -5730,7 +5730,7 @@ WITCHES ABROAD
 - [p. 140/123] "'You know, Greebo,' she said. "I don't think we're in
   Lancre.'
 
-  Dorothy, to her dog, in _The Wizard of Oz_: "Toto, I've a feeling we're
+  Dorothy, to her dog, in "`The Wizard of Oz_: "Toto, I've a feeling we're
   not in Kansas anymore."
 
 - [p. 148/130] "'[...] that girl with the long pigtails in a tower [...]
@@ -5756,8 +5756,8 @@ WITCHES ABROAD
 - [p. 173/152] "'My full name's Erzulie Gogol,' said Mrs Gogol. 'People
   call me Mrs Gogol.'"
 
-  This resonates with _In the Heat of the Night_ (see the annotation for p.
-  365/277 of _Men at Arms_), in so much as we have two persons of the same
+  This resonates with "`In the Heat of the Night`_" (see the annotation for p.
+  365/277 of "`Men at Arms`_"), in so much as we have two persons of the same
   profession, one of them black, the other white, and one of them *way* out
   of her territory.
 
@@ -5802,7 +5802,7 @@ WITCHES ABROAD
   ancient US comedy routine -- Durante or someone like him. It sounds
   burlesque."
 
-  See the annotation for p. 195/159 of _Mort_ for another type of meta-joke
+  See the annotation for p. 195/159 of "Mort_" for another type of meta-joke
   based on the alligator joke.
 
 - [p. 177/155] Emberella --> Embers; Cinderella --> Cinders...
@@ -5823,7 +5823,7 @@ WITCHES ABROAD
 - [p. 198/174] "[...] Nanny Ogg and the coachmen were getting along, as she
   put it, like a maison en flambe."
 
-  See the annotation for p. 313/284 of _Guards! Guards!_
+  See the annotation for p. 313/284 of "`Guards! Guards!`_"
 
 - [p. 199/175] "[...] Nanny Ogg kept calling them 'Magrats', but they were
   trousers, and very practical."
@@ -5841,8 +5841,8 @@ WITCHES ABROAD
 - [p. 228/201] "'...my name is Colonel Moutarde...'"
 
   'Moutarde' is French for 'mustard'. Colonel Mustard is the name of one of
-  the characters in the board game (and subsequent movie) _Clue_ (or
-  _Cluedo_).
+  the characters in the board game (and subsequent movie) "Clue_" (or
+  "Cluedo_").
 
 - [p. 229/201] Casanunda, "the world's greatest lover", refers to our
   world's Casanova. Notice that Casanova is often roughly pronounced as
@@ -5851,7 +5851,7 @@ WITCHES ABROAD
 
   Actually, Casanunda is lying, because we later find out he's only the
   world's *second* greatest lover. But this should not surprise us, since
-  yet even later (in _Lords and Ladies_) we also find out that he is an
+  yet even later (in "`Lords and Ladies`_") we also find out that he is an
   Outrageous Liar.
 
 - [p. 235/207] "Nanny Ogg's voyages on the sea of intersexual dalliance had
@@ -5865,10 +5865,10 @@ WITCHES ABROAD
 
 - [p. 248/218] "The maiden, the mother and the crone."
 
-  Traditionally, the wiccan goddess (see _Equal Rites_ annotation) is
+  Traditionally, the wiccan goddess (see "`Equal Rites`_" annotation) is
   viewed as the triple entity maiden/mother/crone, and our witches indeed
   echo this model. Neil Gaiman uses the triple goddess quite often in his
-  _Sandman_ series.
+  "Sandman_" series.
 
 - [p. 249/219] "Mrs Gogol's hut travelled on four large duck feet, which
   were now rising out of the swamp."
@@ -5876,9 +5876,9 @@ WITCHES ABROAD
   Baba Yaga is a witch in Russian folklore, who had a hut that stood, and
   was able to turn around, on chicken feet. I don't believe that hut could
   walk, however. (Neil Gaiman seemed to think it could, though: Baba Yaga
-  and a walking hut figure in Book 3 of his excellent _Books of Magic_.)
+  and a walking hut figure in Book 3 of his excellent "`Books of Magic`_".)
 
-  One of Mussorgsky's _Pictures at an Exhibition_ ('House on hen's legs')
+  One of Mussorgsky's "`Pictures at an Exhibition`_" ('House on hen's legs')
   also refers back to Baba Yaga, by way of another Russian's painting of
   said fairy tale hut.
 
@@ -5887,7 +5887,7 @@ WITCHES ABROAD
   Casanunda here recreates the famous liar paradox: Epimenides the Cretan
   saying "All Cretans are liars". For more information on this paradox see
   any good book about logic puzzles, although I particularly recommend
-  Douglas R. Hofstadter's _Metamagical Themas_.
+  Douglas R. Hofstadter's "`Metamagical Themas`_".
 
 - [p. 252/222] "'Well, maybe I'm only No. 2,' said Casanunda. 'But I try
   harder.'"
@@ -5907,18 +5907,18 @@ WITCHES ABROAD
 - [p. 285/252] "Nanny kicked her red boots together idly. 'Well, I suppose
   there's no place like home,' she said."
 
-  Another _Wizard of Oz_ reference (kicking her shoes together three times
+  Another "`Wizard of Oz`_" reference (kicking her shoes together three times
   and saying a similar sentence invoked the spell that transported Dorothy
   home from Oz).
 
 + [p. 285/252] "But they went the long way, and saw the elephant."
 
   Several people were immediately reminded of Fritz Leiber's Hugo award
-  winning novelette _Gonna Roll The Bones_, which ends: "Then he turned and
+  winning novelette "`Gonna Roll The Bones`_", which ends: "Then he turned and
   headed straight for home, but he took the long way, around the world."
   Terry has said there is no conscious connection, however.
 
-  "Seeing the elephant" also resonates nicely with _The Lord of the Rings_,
+  "Seeing the elephant" also resonates nicely with "`The Lord of the Rings`_",
   where Bilbo complains wistfully that he never got to see an elephant on
   *his* adventures 'abroad': "[...] Aragorn's affairs, and the White
   Council, and Gondor, and the Horsemen, and Southrons, and oliphaunts --
@@ -5931,16 +5931,16 @@ WITCHES ABROAD
   while during the 1849 California Goldrush, "going to see the elephant"
   was widely used as a phrase by people to signify their intention to
   travel westwards and try their luck. (See e.g. JoAnn Levy's 1999 book
-  _They Saw the Elephant: Women in the California Gold Rush_.)
+  "`They Saw the Elephant: Women in the California Gold Rush`_".)
 
 
-SMALL GODS
+Small Gods
 ~~~~~~~~~~
 
 - [p. 8/7] "'I remember,' said Lu-Tze."
 
-  Lu-Tze is probably meant to parallel Lao-Tze, the writer of the _Tao Te
-  Ching_ and thus one of the founders of Taoism. The mountain range he
+  Lu-Tze is probably meant to parallel Lao-Tze, the writer of the "`Tao Te
+  Ching`_" and thus one of the founders of Taoism. The mountain range he
   carries with him is reminiscent of stories told by and of Taoist and
   Buddhist sages.
 
@@ -5974,16 +5974,16 @@ SMALL GODS
 
 - [p. 15/12] "[...] and torturers, and Vestigial Virgins..."
 
-  See the annotation for p. 88/79 of _Reaper Man_.
+  See the annotation for p. 88/79 of "`Reaper Man`_".
 
-- [p. 19/15] _You Don't Have To Be Pitilessly Sadistic To Work Here But It
-  Helps!!!_
+- [p. 19/15] "`You Don't Have To Be Pitilessly Sadistic To Work Here But It
+  Helps!!!`_"
 
   Refers to those lame stickers and signs in offices and work areas all
   over the world that say: "You don't have to be insane to work here but it
   helps!".
 
-  In _Eric_ a similar slogan is pasted on the door to the Discworld Hell
+  In "Eric_" a similar slogan is pasted on the door to the Discworld Hell
   ("You don't have to be 'Damned' to work here...").
 
 - [p. 31/23] "De Chelonian Mobile [...] The Turtle Moves."
@@ -6042,7 +6042,7 @@ SMALL GODS
   had a large and awkward frame, like Brutha.
 
   The story goes that Thomas' teacher (Albertus Magnus, see the annotation
-  for p. 221/180 of _Mort_) rebuked the insensitive students by saying:
+  for p. 221/180 of "Mort_") rebuked the insensitive students by saying:
   "His name will be remembered long after yours are all forgotten". He was
   right. Thomas Aquinas was canonised less than a century later. (And so
   was Albertus Magnus, but not until 1931.)
@@ -6115,7 +6115,7 @@ SMALL GODS
   all alone..."
 
   Terry said in an article to a.f.p: "This probably is a good time to raise
-  the 'lonesome valley/lonesome desert' lines from _Small Gods_, with
+  the 'lonesome valley/lonesome desert' lines from "`Small Gods`_", with
   apologies to you who, because of finance, heel-dragging by publishers or
   because you threw all that tea in the harbour, haven't read it yet. Yes,
   I know variants of the song have turned up on various
@@ -6163,15 +6163,15 @@ SMALL GODS
   Officers slept in the after part of the ship where they could get easy
   access to the tiller.
 
-- [p. 117/85] Terry Pratchett translates the book title _Ego-Video Liber
-  Deorum_ here as _Gods: A Spotter's Guide_.
+- [p. 117/85] Terry Pratchett translates the book title "`Ego-Video Liber
+  Deorum`_" here as "`Gods: A Spotter's Guide`_".
 
-  Actually, the dog-Latin translates more literally to _The I-Spy Book of
-  Gods_. I-Spy books are little books for children with lists of things to
+  Actually, the dog-Latin translates more literally to "`The I-Spy Book of
+  Gods`_". I-Spy books are little books for children with lists of things to
   look out for. When you see one of these things you tick a box and get
   some points. When you get enough points you can send off for a badge.
-  They have titles like _The I-Spy Book of Birds_ and _The I-Spy Book of
-  Cars_.
+  They have titles like "`The I-Spy Book of Birds`_" and "`The I-Spy Book of
+  Cars`_".
 
 - [p. 117/85] "Or, to put it another way the existence of a badly
   put-together watch proved the existence of a blind watchmaker."
@@ -6181,14 +6181,14 @@ SMALL GODS
   product of deliberate design and hence must have been created by a
   Supreme Being rather than by a 'blind' process such as evolution.
   Evolutionary biologist Richard Dawkins provided a counter-argument in his
-  book _The Blind Watchmaker_.
+  book "`The Blind Watchmaker`_".
 
 - [p. 119/87] "It was worse than women aboard. It was worse than
   albatrosses."
 
   Both women and albatrosses are traditionally considered bad luck on a
   ship. For a classic example of the latter, just recall Samuel Taylor
-  Coleridge's poem _The Rime of the Ancient Mariner_.
+  Coleridge's poem "`The Rime of the Ancient Mariner`_".
 
 - [p. 126/92] "The shepherd had a hundred sheep, and it might have been
   surprising that he was prepared to spend days searching for one sheep;
@@ -6251,7 +6251,7 @@ SMALL GODS
   --'"
 
   This is the Liar Paradox again. See the annotation for p. 252/222 of
-  _Witches Abroad_.
+  "`Witches Abroad`_".
 
 - [p. 153/111] "'That's right,' he said. 'We're philosophers. We think,
   therefore we am.'"
@@ -6305,18 +6305,18 @@ SMALL GODS
 
   That comment probably being: "It's all a load of balls".
 
-- [p. 168/121] _Nil Illegitimo Carborundum_ is dog-Latin for "Don't let the
+- [p. 168/121] "`Nil Illegitimo Carborundum`_" is dog-Latin for "Don't let the
   bastards grind you down".
 
-  Variants of it crop up in various places, most notably _Nil Carborundi
-  Illegitimo_ which apparently is a key phrase in the Illuminati mythos.
+  Variants of it crop up in various places, most notably "`Nil Carborundi
+  Illegitimo`_" which apparently is a key phrase in the Illuminati mythos.
 
 - [p. 170/122] Urn's name is a reference to the old joke:
 
       Question: "What's a Greek urn?"
       Answer: "About $2,50 an hour!"
 
-  Or, as the _Goon Show_ put it:
+  Or, as the "`Goon Show`_" put it:
 
       -- "What's a Greek urn?"
       -- "It's a vase made by Greeks for storing liquid."
@@ -6325,7 +6325,7 @@ SMALL GODS
 
 - [p. 178/128] "'Worried, eh? Feeling a bit Avis Domestica? Cluck-cluck?'"
 
-  Actually, the Latin name for 'chicken' is _Gallus Domesticus_ -- even
+  Actually, the Latin name for 'chicken' is "`Gallus Domesticus`_" -- even
   though 'avis' by itself does mean 'bird'.
 
 - [p. 178/129] "He caught a glimpse of a circle of damp sand, covered with
@@ -6364,16 +6364,16 @@ SMALL GODS
 
   Libraries of unwritten books are of course very rare, but do tend to crop
   up occasionally in L-Space. The library described in the opening section
-  of _Beyond Life_ by James Branch Cabell contains the novels of David
-  Copperfield as well as Milton's _King Arthur_. In Neil Gaiman's
-  _Sandman_, Lucien's library (a direct homage to Cabell) also contains
-  books that were never written, such as _Alice's Journey Beyond The Moon_
-  by Lewis Carroll, _The Lost Road_ by J. R. R. Tolkien, and P. G.
-  Wodehouse's _Psmith and Jeeves_. There's also a library of future books
-  in Robin McKinley's novel _Beauty_.
+  of "`Beyond Life`_" by James Branch Cabell contains the novels of David
+  Copperfield as well as Milton's "`King Arthur`_". In Neil Gaiman's
+  "Sandman_", Lucien's library (a direct homage to Cabell) also contains
+  books that were never written, such as "`Alice's Journey Beyond The Moon`_"
+  by Lewis Carroll, "`The Lost Road`_" by J. R. R. Tolkien, and P. G.
+  Wodehouse's "`Psmith and Jeeves`_". There's also a library of future books
+  in Robin McKinley's novel "Beauty_".
 
   Finally, other people were reminded of the library in Jorge Luis Borges'
-  story _The Library of Babel_, where a vast universe is described which
+  story "`The Library of Babel`_", where a vast universe is described which
   contains *all* possible books (assuming a finite alphabet and a fixed
   book size the number of all possible books is mindbogglingly huge, but
   finite) -- in random order. Most books in such a library would appear
@@ -6418,7 +6418,7 @@ SMALL GODS
 
   Brutha goes on to describe the Puzuma as having its ears laid flat
   against its head. Of course, as we learned in the footnote on p. 178/171
-  of _Pyramids_, in a Puzuma's "natural state", everything is laid flat
+  of "Pyramids_", in a Puzuma's "natural state", everything is laid flat
   against everything else...
 
 - [p. 220/158] "'One minute upright, next minute a draught-excluder.'"
@@ -6446,8 +6446,8 @@ SMALL GODS
   in a cave.'"
 
   This paragraph is a very loose parody of a famous Socratic dialogue in
-  Plato's _Republic_, Book VII. I quote (and edit down a wee bit) from
-  _Labyrinths of Reason_ by William Poundstone, p. 203:
+  Plato's "Republic_", Book VII. I quote (and edit down a wee bit) from
+  "`Labyrinths of Reason`_" by William Poundstone, p. 203:
 
   "Behold! human beings living in an underground den, which has a mouth
   open toward the light and reaching all along the den; here they have been
@@ -6469,7 +6469,7 @@ SMALL GODS
 - [p. 226/162] "Go on, do Deformed Rabbit ...it's my favourite."
 
   Reference to the art of making shadow animals with your hands, as
-  described on p. 43/36 of _Moving Pictures_: "'Mainly my uncle did
+  described on p. 43/36 of "`Moving Pictures_: "'Mainly my uncle did
   "Deformed Rabbit", said Victor. 'He wasn't very good at it, you see.'"
 
 - [p. 226/162] "'And the wrong sort of ash', said Vorbis."
@@ -6501,7 +6501,7 @@ SMALL GODS
 - [p. 249/179] "The scalbie took no notice. [...] It had perched on Om's
   shell."
 
-  Resonates with the _B.C._ comic strip, which occasionally features a bird
+  Resonates with the "`B.C.`_" comic strip, which occasionally features a bird
   of indeterminate species standing on a turtle's shell. They don't get
   along very well, either.
 
@@ -6524,7 +6524,7 @@ SMALL GODS
 
   These steam engines never really caught on, because of various practical
   problems and the greater cost-effectiveness of slave-power. See also the
-  James Watt annotation for p. 175/153 of _Reaper Man_.
+  James Watt annotation for p. 175/153 of "`Reaper Man`_".
 
   The contraption with revolving balls Urn is thinking of in the sentence
   quoted above was identified by several readers as something called a
@@ -6591,7 +6591,7 @@ SMALL GODS
 
 - [p. 290/208] "'My parents named me Sevrian Thaddeus Ungulant, [...]'"
 
-  The hero of Gene Wolfe's science fiction novel _Book of the New Sun_ is
+  The hero of Gene Wolfe's science fiction novel "`Book of the New Sun`_" is
   called Severian. Like Brutha, Severian has a problem with forgetting
   things.
 
@@ -6630,7 +6630,7 @@ SMALL GODS
 - [p. 325/233] "'We said, the first thing we'll do, we'll kill all the
   priests!'"
 
-  Paraphrases a line from Shakespeare's _King Henry VI, part 2_, act 4,
+  Paraphrases a line from Shakespeare's "`King Henry VI, part 2`_", act 4,
   scene 2 (a play that's also about bloody revolution): "The first thing we
   do, let's kill all the lawyers."
 
@@ -6676,10 +6676,10 @@ SMALL GODS
   with her aid, because of his actions earlier.
 
   A solution doesn't 'come along'; it's built into the fabric of the story
-  from an early stage. _Guards! Guards!_ and _Interesting Times_ both use
+  from an early stage. "`Guards! Guards!`_" and "`Interesting Times`_" both use
   this device. I'd suggest that such a resolution is perfectly valid -- as
   they say, using a gun to shoot the bad guy in Act 3 is only okay if the
-  gun has been on the wall since Act 1. In _Small Gods_, though, not a
+  gun has been on the wall since Act 1. In "`Small Gods`_", though, not a
   single new thing is introduced or resurrected in order to defeat Vorbis
   -- he's defeated because of the way various characters react to events.
   The problem contains the solution coiled inside.
@@ -6699,7 +6699,7 @@ SMALL GODS
   OTHER PEOPLE?"
 
   "Hell is other people" is a quote from, and the message of, Jean-Paul
-  Sartre's play _No Exit_.
+  Sartre's play "`No Exit`_".
 
 - [p. 355/255] Could the name Fasta Benj possibly be derived from 'Faster,
   Ben Johnson'?
@@ -6707,7 +6707,7 @@ SMALL GODS
 - [p. 377/270] "REMIND ME AGAIN, he said, HOW THE LITTLE HORSE-SHAPED ONES
   MOVE."
 
-  Refers back to a joke on p. 12/14 of _Sourcery_, where we are told that
+  Refers back to a joke on p. 12/14 of "Sourcery_", where we are told that
   Death dreads playing symbolic last chess games because "he could never
   remember how the knight was supposed to move".
 
@@ -6717,18 +6717,18 @@ SMALL GODS
   The idea of such a scene would appear to be a misrepresentation of the
   'Brutha bound to the turtle' scene. To quote Terry on this:
 
-  "Crucifiction in _Small Gods_: this is a familiar thing to me, a DW
+  "Crucifiction in "`Small Gods_: this is a familiar thing to me, a DW
   'fact' that's gone through several retellings. Nothing's been taken out
-  of _Small Gods_, or put in, and there was no pressure to do either."
+  of "`Small Gods`_", or put in, and there was no pressure to do either."
 
 
-LORDS AND LADIES
+Lords And Ladies
 ~~~~~~~~~~~~~~~~
 
 - [p. 5/5] "[...] young Magrat, she of the [...] tendency to be soppy about
   raindrops and roses and whiskers on kittens."
 
-  One of the best songs from _The Sound of Music_ is called 'My Favourite
+  One of the best songs from "`The Sound of Music`_" is called 'My Favourite
   Things' (it's the song Maria sings for the Von Trapp children when they
   are all frightened of the thunderstorm). The opening verse goes:
 
@@ -6743,15 +6743,15 @@ LORDS AND LADIES
 - [p. 13/11] "But that was a long time ago, in the past [footnote: Which is
   another country]"
 
-  This might refer to _Hamlet_, where the future is described as "The
+  This might refer to "Hamlet_", where the future is described as "The
   undiscover'd country from whose bourn / No traveller returns", or perhaps
-  Terry has read _The Go-between_, a 1950 book by L. P. Hartley, which
+  Terry has read "`The Go-between`_", a 1950 book by L. P. Hartley, which
   opens with the words: "The past is a foreign country; they do things
   differently there", which has become a familiar quotation in England.
 
 - [p. 13/11] "And besides, the bitch is... ...older."
 
-  This is another Christopher Marlowe quote, from _The Jew of Malta_ (act
+  This is another Christopher Marlowe quote, from "`The Jew of Malta`_" (act
   IV, scene i):
 
       Barnadine: "Thou hast committed --"
@@ -6777,7 +6777,7 @@ LORDS AND LADIES
   notably in the case of a circle in the shape of the Mandelbrot Set, and
   another system which is shown on the cover of the recent Led Zeppelin
   compilation album, which seems to indicate that whoever's up there they
-  probably have long hair and say _Wow!_ and _Yeah!_ a lot. A number of
+  probably have long hair and say "`Wow!`_" and "`Yeah!`_" a lot. A number of
   staged circle-forging challenges in the summer of '92 have demonstrated
   both how easy it is to produce an impressive circle by mundane, not to
   say frivolous methods, and also the surprisingly poor ability of
@@ -6797,7 +6797,7 @@ LORDS AND LADIES
   much like a quote not to be a quote (annotation-hunters can get downright
   paranoid at times), but it took us a while to figure out where it
   originated, although in retrospect we could have used Occam's razor and
-  looked it up in Shakespeare immediately. In _King Henry IV, part 2_, act
+  looked it up in Shakespeare immediately. In "`King Henry IV, part 2`_", act
   1, scene 2, Falstaff says: "I am not only witty in myself, but the cause
   that wit is in other men."
 
@@ -6805,8 +6805,8 @@ LORDS AND LADIES
   at least Arch-Generalissimo-Father-of-His-Countryship. But Verence had
   kingship thrust upon him."
 
-  The original quote is (as usual) by William Shakespeare, from _Twelfth
-  Night_ (act 2, scene 5), where Malvolio reads in a letter (which he
+  The original quote is (as usual) by William Shakespeare, from "`Twelfth
+  Night`_" (act 2, scene 5), where Malvolio reads in a letter (which he
   thinks was written to him by his mistress):
 
       "In my stars I am above thee; but be not afraid of greatness: some
@@ -6825,8 +6825,8 @@ LORDS AND LADIES
   machine exists: crop rotation means growing different things in a field
   in successive years) but British comedy writers are apparently fascinated
   by it. Several people wrote to tell me that the cult TV comedy series
-  _The Young Ones_ also used the patent crop rotator in their episode
-  _Bambi_.
+  "`The Young Ones`_" also used the patent crop rotator in their episode
+  "Bambi_".
 
   When Neil (the hippy) is testing Rick (the nerd) on medieval history, the
   following dialogue ensues (edited somewhat for clarity):
@@ -6852,7 +6852,7 @@ LORDS AND LADIES
 - [p. 40/30] "I LIKE TO THINK I AM A PICKER-UP OF UNCONSIDERED TRIFLES.
   Death grinned hopefully."
 
-  In Shakespeare's _The Winter's Tale_ we find the character Autolycus ("a
+  In Shakespeare's "`The Winter's Tale`_" we find the character Autolycus ("a
   Rogue"), saying in act 4, scene 2:
 
       "My father named me Autolycus; who being, as I am, littered under
@@ -6870,25 +6870,25 @@ LORDS AND LADIES
 - [p. 67/50] "One of them was known as Herne the Hunted. He was the god of
   the chase and the hunt. More or less."
 
-  See the annotation for p. 145/144 of _Wyrd Sisters_.
+  See the annotation for p. 145/144 of "`Wyrd Sisters`_".
 
 - [p. 78/57] The names of the would-be junior witches.
 
-  Two of the names resonate with the names used in _Good Omens_: Agnes Nitt
+  Two of the names resonate with the names used in "`Good Omens_: Agnes Nitt
   is similar to Agnes Nutter, and Amanita DeVice (Amanita is also the name
   of a gender of deadly poisonous mushrooms) is similar to Anathema Device.
-  There's also a Perdita in Shakespeare's _The Winter's Tale_; the name
+  There's also a Perdita in Shakespeare's "`The Winter's Tale_; the name
   means 'damned' or 'lost'.
 
   In fact, all these names are based on the names of the so-called
   Lancashire Witches. The deeds of this group on and around Pendle Hill
   were the subject of probably England's most famous 17th century witchhunt
   and trials. The story is described in some fictional detail in a
-  little-known book called, surprise, _The Lancashire Witches_, written at
+  little-known book called, surprise, "`The Lancashire Witches`_", written at
   the end of the nineteenth century in Manchester by William Harrison
   Ainsworth.
 
-  Interestingly enough, Ainsworth also wrote a book called _Windsor Castle_
+  Interestingly enough, Ainsworth also wrote a book called "`Windsor Castle`_"
   in which Herne the Hunter appears as a major character (see previous
   annotation).
 
@@ -6898,33 +6898,33 @@ LORDS AND LADIES
   amongst others, by Tolkien in a poem, by Theodore Roosevelt as the title
   for a book on hunting, and by pop-group A-ha as an album title. It
   originally is the title of an old Scandinavian fairy tale, which can be
-  found in a book by Kay Nielsen, titled _East of the Sun and West of the
-  Moon -- Old Tales from the North_. Terry has confirmed that this book was
+  found in a book by Kay Nielsen, titled "`East of the Sun and West of the
+  Moon -- Old Tales from the North`_". Terry has confirmed that this book was
   his source for the phrase.
 
-  'Behind the North Wind': from the title of a book by George McDonald: _At
-  the Back of the North Wind_, the term itself being a translation of
-  _Hyperborea_.
+  'Behind the North Wind': from the title of a book by George McDonald: "`At
+  the Back of the North Wind`_", the term itself being a translation of
+  "Hyperborea_".
 
   'At the Back Of Beyond': an idiom, perhaps originating from Sir Walter
-  Scott's _The Antiquary_: "Whirled them to the back o' beyont".
+  Scott's "`The Antiquary_: "Whirled them to the back o' beyont".
 
-  'There and Back Again': The sub-title of Tolkien's _The Hobbit_.
+  'There and Back Again': The sub-title of Tolkien's "`The Hobbit`_".
 
-  'Beyond the Fields We Know': from Lord Dunsany's novel _The King of
-  Elfland's Daughter_, where "the fields we know" refers to our world, as
+  'Beyond the Fields We Know': from Lord Dunsany's novel "`The King of
+  Elfland's Daughter`_", where "the fields we know" refers to our world, as
   opposed to Elfland, which lies 'beyond'. The phrase was also used as the
   title of a collection of Dunsany's stories.
 
 - [p. 86/63] "'You know, ooh-jar boards and cards [...] and paddlin' with
   the occult.'"
 
-  ooh-jar = Ouija. See the annotation for p. 154/136 of _Reaper Man_.
+  ooh-jar = Ouija. See the annotation for p. 154/136 of "`Reaper Man`_".
 
 - [p. 90/66] "'... and to my freind Gytha Ogg I leave my bedde and the rag
   rugge the smith in Bad Ass made for me, [...]'"
 
-  The origins of the 'rag rugge' are more fully explained in _Equal Rites_.
+  The origins of the 'rag rugge' are more fully explained in "`Equal Rites`_".
 
 - [p. 103/76] "'Kings are a bit magical, mind. They can cure dandruff and
   that.'"
@@ -6935,8 +6935,8 @@ LORDS AND LADIES
   King's touch can cure scrofula (also known as the King's Evil), which is
   a tubercular infection of the lymphatic glands.
 
-  A similar type of legend occurs in Tolkien's _The Lord of the Rings_, but
-  Shakespeare also has a lot to say on the subject in _Macbeth_, act 4,
+  A similar type of legend occurs in Tolkien's "`The Lord of the Rings`_", but
+  Shakespeare also has a lot to say on the subject in "Macbeth_", act 4,
   scene 3.
 
 - [p. 105/76] "Within were the eight members of the Lancre Morris Men [...]
@@ -6964,7 +6964,7 @@ LORDS AND LADIES
   to do with the fact that the name of the dance very probably indicates
   another 'mettyfor' along the lines of maypoles and broomsticks.
 
-  See the _...and Dance_ section in Chapter 5 for more information about
+  See the `_"...and Dance`_" section in Chapter 5 for more information about
   Morris dancing.
 
 + [p. 106/77] "'I repaired a pump for one once. Artisan wells.'"
@@ -6976,19 +6976,19 @@ LORDS AND LADIES
 - [p. 106/77] "'And why's there got to be a lion in it?' said Baker the
   weaver."
 
-  Because the play-within-a-play performed by the rude mechanicals in _A
-  Midsummer Night's Dream_ (act 1, scene 2) also features a lion in a
+  Because the play-within-a-play performed by the rude mechanicals in "`A
+  Midsummer Night's Dream`_" (act 1, scene 2) also features a lion in a
   starring role, of course.
 
   The Morris Men's discussions on plays and lions reminded one of my
-  sources of the play written by Moominpapa in _Moominsummer Madness_ by
+  sources of the play written by Moominpapa in "`Moominsummer Madness`_" by
   Tove Jansson. When asked about it, Terry said that although he has read
   the Moomin books, the lion dialogue is not connected with them.
 
 - [p. 106/78] "'Hah, I can just see a real playsmith putting *donkeys* in a
   play!'"
 
-  _A Midsummer Night's Dream_, by that mediocre hack-writer William S., is
+  "`A Midsummer Night's Dream`_", by that mediocre hack-writer William S., is
   an example of a real play that *has* a donkey in it. Or to be absolutely
   precise, a character magically cursed with a donkey's head.
 
@@ -7003,7 +7003,7 @@ LORDS AND LADIES
   [...] a squadron of Yossarians with middle-ear trouble."
 
   Terry writes: "Can it be that this is forgotten? Yossarian -- the 'hero'
-  of _Catch-22_ -- was the bomber pilot who flew to the target twisting and
+  of "`Catch-22`_" -- was the bomber pilot who flew to the target twisting and
   jinking in an effort to avoid the flak -- as opposed to the Ivy League
   types who just flew nice and straight..."
 
@@ -7014,16 +7014,16 @@ LORDS AND LADIES
 - [p. 118/86] "The universe doesn't much care if you step on a butterfly.
   There are plenty more butterflies."
 
-  This immediately recalls the famous science fiction short story _A Sound
-  of Thunder_, by Ray Bradbury, which has as its basic premise that the
+  This immediately recalls the famous science fiction short story "`A Sound
+  of Thunder`_", by Ray Bradbury, which has as its basic premise that the
   universe cares very much indeed if someone steps on a butterfly.
 
 - [p. 121/89] "'Good morning, Hodgesaargh,' she said."
 
   Hodgesaargh is based on Dave Hodges, a UK fan who runs a project called
-  _The REAL Hitch Hiker's Guide to the Galaxy_. This is a computer database
+  "`The REAL Hitch Hiker's Guide to the Galaxy`_". This is a computer database
   containing a couple of thousand entries (the project began in 1987) in
-  the style of Douglas Adams's _Hitch Hiker's Guide_. Dave takes his Guide
+  the style of Douglas Adams's "`Hitch Hiker's Guide`_". Dave takes his Guide
   along with him to SF conventions and events, where he auctions off
   printed versions of the Guide in order to raise money for charity. This
   is why the Guide is not readily available, e.g. on the Internet.
@@ -7039,14 +7039,14 @@ LORDS AND LADIES
 
   Note that there exist at least two other "let's write a Hitch Hikers
   Guide" projects on the Internet that I know of. One of these is the
-  _Project Galactic Guide_, which can be reached on the Web through the
+  "`Project Galactic Guide`_", which can be reached on the Web through the
   URL: <http://www.galactic-guide.com/>
 
 - [p. 123/89] "Verence, being king, was allowed a gyrfalcon [...]"
 
   The complex issues of class distinction in falconry apparently existed in
-  medieval times just as Terry describes them here. In _The Once and Future
-  King_, T. H. White quotes a paragraph by Abbess Juliana Berners: "An
+  medieval times just as Terry describes them here. In "`The Once and Future
+  King`_", T. H. White quotes a paragraph by Abbess Juliana Berners: "An
   emperor was allowed an eagle, a king could have a jerfalcon, and after
   that there was the peregrine for an earl, the merlin for a lady, the
   goshawk for a yeoman, the sparrow hawk for a priest, and the musket for a
@@ -7068,7 +7068,7 @@ LORDS AND LADIES
   respectively. In earlier times (and sometimes even now), the strange
   quark was indeed called 'sideways'.
 
-- [p. 133/97] "_resons_ [footnote: Lit: 'Thing-ies']"
+- [p. 133/97] "_resons`_" [footnote: Lit: 'Thing-ies']"
 
   In Latin 'res' does indeed mean 'thing'.
 
@@ -7084,7 +7084,7 @@ LORDS AND LADIES
 
   As with some of the other folk song extracts Terry is closer to the
   recorded (in this case Fairport Convention) version than to the very
-  early text in (say) the _Oxford Book of Ballads_.
+  early text in (say) the "`Oxford Book of Ballads`_".
 
 - [p. 144/104] "'Head for the gap between the Piper and the Drummer!'"
 
@@ -7116,7 +7116,7 @@ LORDS AND LADIES
 
   It is impossible to list all the ways in which the sections about the
   Lancre Morris Men and the play they are performing parodies the
-  play-within-a-play that occurs in _A Midsummer Night's Dream_. The only
+  play-within-a-play that occurs in "`A Midsummer Night's Dream`_". The only
   way to get full enjoyment here is to just go out and read Shakespeare.
   While you're at it, pay particular attention to the names and occupations
   of both Terry's and William's 'Rude Mechanicals'.
@@ -7176,13 +7176,13 @@ LORDS AND LADIES
 
 - [p. 177/128] "'But it ain't April!', neighbours told themselves [...]"
 
-  Inconsistency time! On p. 154/135 of _Witches Abroad_, Granny responds to
+  Inconsistency time! On p. 154/135 of "`Witches Abroad`_", Granny responds to
   Nanny Ogg's intention of taking a bath with the words "My word, doesn't
   autumn roll around quickly".
 
   In subsequent discussions on the net it was postulated that Nanny's bath
   habits could well be explained by taking into account the fact that the
-  Discworld has eight seasons (see first footnote in _The Colour of Magic_
+  Discworld has eight seasons (see first footnote in "`The Colour of Magic`_"
   on p. 11/11), which might result in e.g. two autumns a year. And of
   course, on our world April *is* indeed a month in Autumn -- in the
   southern hemisphere (don't ask me if that also holds for a Discworld,
@@ -7193,9 +7193,9 @@ LORDS AND LADIES
   are alternate pasts".
 
 - [p. 191/138] "[...] fed up with books of etiquette and lineage and
-  _Twurp's Peerage_ [...]"
+  "`Twurp's Peerage`_" [...]"
 
-  _Burke's Peerage_ is a book that lists the hereditary titled nobility of
+  "`Burke's Peerage`_" is a book that lists the hereditary titled nobility of
   the British Realm (the Peers of the Realm, hence the title of the book).
   It contains biographical facts such as when they were born, what title(s)
   they hold, who they're married to, children, relationships to other
@@ -7209,8 +7209,8 @@ LORDS AND LADIES
 
 - [p. 191/138] "It probably looked beautiful on the Lady of Shallot, [...]"
 
-  Alfred, Lord Tennyson wrote a well-known poem called _The Lady of
-  Shalott_ (see also e.g. Agatha Christie's _The Mirror Crack'd_). A
+  Alfred, Lord Tennyson wrote a well-known poem called "`The Lady of
+  Shalott`_" (see also e.g. Agatha Christie's "`The Mirror Crack'd`_"). A
   shallot (double l, single t), however, is a small greenish/purple
   (octarine?) onion.
 
@@ -7229,7 +7229,7 @@ LORDS AND LADIES
   in the first place.
 
   This the first mention in the Discworld books of Soul Cake *Tuesday* (see
-  also the annotation for p. 289/262 of _Guards! Guards!_). Perhaps Terry
+  also the annotation for p. 289/262 of "`Guards! Guards!`_"). Perhaps Terry
   finally settled on this day of the week because of the resonance with the
   traditional 'Pancake Tuesday' (the first Tuesday after Lent).
 
@@ -7253,7 +7253,7 @@ LORDS AND LADIES
 
 - [p. 204/147] "'I'll be as rich as Creosote.'"
 
-  Creosote = Croesus. See the annotation for p. 125/113 of _Sourcery_.
+  Creosote = Croesus. See the annotation for p. 125/113 of "Sourcery_".
 
 - [p. 216/156] "'All the hort mond are here,' Nanny observed [...]"
 
@@ -7276,10 +7276,10 @@ LORDS AND LADIES
         But I was young and foolish then
         I feel old and foolish now
 
-- [p. 239/172] "This made some of the _grand guignol_ melodramas a little
+- [p. 239/172] "This made some of the _grand guignol`_" melodramas a little
   unusual, [...]"
 
-  Grand guignol, after the Montmartre, Paris theatre _Le Grand Guignol_, is
+  Grand guignol, after the Montmartre, Paris theatre "`Le Grand Guignol`_", is
   the name given to a form of gory and macabre drama so laboriously
   horrific as to fall into absurdity.
 
@@ -7295,11 +7295,11 @@ LORDS AND LADIES
 - [p. 248/178] "Quite a lot of trouble had once been caused in Unseen
   University by a former Archchancellor's hat, [...]"
 
-  Refers back to certain events described more fully in _Sourcery_.
+  Refers back to certain events described more fully in "Sourcery_".
 
-- [p. 250/180] _Jane's All The World Siege Weapons_
+- [p. 250/180] "`Jane's All The World Siege Weapons`_"
 
-  _Jane's_ is a well known series of books/catalogues for military
+  "`Jane's`_" is a well known series of books/catalogues for military
   equipment of all sorts and types. There is a Jane's for aeroplanes, for
   boats, etc.
 
@@ -7330,8 +7330,8 @@ LORDS AND LADIES
   This is a brilliant bit of logical extrapolation on Terry's part. Since
   iron is anathema to elves, they obviously can't have haemoglobin-based
   red blood. Copper-based (green) blood is used by some Earth animals,
-  notably crayfish, so it's an obvious alternative. Of course, it was _Star
-  Trek_ that really made pointy-eared, green-blooded characters famous...
+  notably crayfish, so it's an obvious alternative. Of course, it was "`Star
+  Trek`_" that really made pointy-eared, green-blooded characters famous...
 
 - [p. 285/205] "'This girl had her fiance stolen by the Queen of Elves and
   she didn't hang around whining, [...]'"
@@ -7346,7 +7346,7 @@ LORDS AND LADIES
 
 - [p. 287/207] "Ancient fragments chimed together now in Magrat's head."
 
-  The six lines given make up three different poems. From _The Fairies_, by
+  The six lines given make up three different poems. From "`The Fairies`_", by
   Irish poet William Allingham (1850):
 
         Up the airy mountain, down the rushy glen
@@ -7385,7 +7385,7 @@ LORDS AND LADIES
   Ixolite the banshee, and he's very good about slipping us a note under
   the door when he's going to be about."
 
-  If you haven't read _Reaper Man_ yet, you may not realise that the reason
+  If you haven't read "`Reaper Man`_" yet, you may not realise that the reason
   why Mr Ixolite slips notes under the door is that he is the only banshee
   in the world with a speech impediment.
 
@@ -7425,13 +7425,13 @@ LORDS AND LADIES
 
 - [p. 307/221] "'Hiho, hiho --'"
 
-  See the annotation for p. 88/73 of _Moving Pictures_.
+  See the annotation for p. 88/73 of "`Moving Pictures`_".
 
 - [p. 308/222] "'It's some old king and his warriors [...] supposed to wake
   up for some final battle when a wolf eats the sun.'"
 
   Another one of Terry's famous Mixed Legends along the lines of the
-  princess and the pea fairy tale in _Mort_.
+  princess and the pea fairy tale in "Mort_".
 
   The wolf bit is straight from Norse mythology. The wolf Fenris, one of
   Loki's monster children, will one day break free from his chains and eat
@@ -7445,15 +7445,15 @@ LORDS AND LADIES
   The sleeping king is one of the oldest and deepest folk-myths of western
   culture, some versions of the popular legend even have King Arthur and
   his warriors sleeping on the island of Anglesea. For more information,
-  see e.g. the section about the Fisher King in Frazer's _The Golden
-  Bough_, Jessie Weston's _From Ritual To Romance_ and all the stuff that
-  this leads into, such as Elliot's _The Wasteland_ and David Lodge's
-  _Small World_.
+  see e.g. the section about the Fisher King in Frazer's "`The Golden
+  Bough`_", Jessie Weston's "`From Ritual To Romance`_" and all the stuff that
+  this leads into, such as Elliot's "`The Wasteland`_" and David Lodge's
+  "`Small World`_".
 
 - [p. 316/227] "The place looked as though it had been visited by Genghiz
   Cohen."
 
-  Much later, in _Interesting Times_, we learn that Cohen the Barbarian's
+  Much later, in "`Interesting Times`_", we learn that Cohen the Barbarian's
   first name is, in fact, Genghiz.
 
   With respect to the original pun on Genghiz Kahn, Terry says:
@@ -7471,7 +7471,7 @@ LORDS AND LADIES
 - [p. 321/231] "...I think at some point I remember someone asking us to
   clap our hands..."
 
-  From J. M. Barrie's _Peter Pan_:
+  From J. M. Barrie's "`Peter Pan_:
 
   [...] [Tinkerbell the Fairy] was saying that she thought she could get
   well again if children believed in fairies. [...] "If you believe,"
@@ -7480,8 +7480,8 @@ LORDS AND LADIES
 - [p. 324/233] "'Millennium hand and shrimp.'"
 
   One of the truly frequently asked questions on alt.fan.pratchett is
-  "Where does this phrase come from?" (Foul Ole Ron also uses it, in _Soul
-  Music_.)
+  "Where does this phrase come from?" (Foul Ole Ron also uses it, in "`Soul
+  Music`_".)
 
   The answer concerns Terry's experiments with computer-generated texts:
 
@@ -7492,7 +7492,7 @@ LORDS AND LADIES
 
   One of the other things Terry must have fed it were the lyrics to the
   song 'Particle Man' by They Might Be Giants (see the annotation for p.
-  264/199 of _Soul Music_):
+  264/199 of "`Soul Music`_"):
 
         Universe man, universe man
         Size of the entire universe man
@@ -7502,37 +7502,37 @@ LORDS AND LADIES
         When they meet it's happyland
         Powerful man, universe man.
 
-- [p. 328/236] "'I've got five years' worth of _Bows And Ammo_, Mum,' said
+- [p. 328/236] "'I've got five years' worth of "`Bows And Ammo`_", Mum,' said
   Shawn."
 
-  In our world there is a magazine _Guns And Ammo_; this appears to be the
+  In our world there is a magazine "`Guns And Ammo_; this appears to be the
   Discworld equivalent.
 
 - [p. 328/236] Shawn's speech.
 
   Shawn's speech is a parody of the 'St Crispin's Day' speech in
-  Shakespeare's _King Henry V_. See also the annotation for p. 239/303 of
-  _Wyrd Sisters_.
+  Shakespeare's "`King Henry V`_". See also the annotation for p. 239/303 of
+  "`Wyrd Sisters`_".
 
 - [p. 329/236] "[...] imitate the action of the Lancre Reciprocating Fox
   and stiffen some sinews while leaving them flexible enough [...]"
 
   And this one is from the even more famous 'Once more unto the breach'
-  speech, also from _King Henry V_:
+  speech, also from "`King Henry V_:
 
       "Then imitate the action of the tiger; stiffen the sinews, summon up
       the blood."
 
 - [p. 341/245] "'Ain't that so, Fairy Peaseblossom?'"
 
-  One of the fairies in _A Midsummer Night's Dream_ is called Peasblossom.
+  One of the fairies in "`A Midsummer Night's Dream`_" is called Peasblossom.
   In itself this is not very interesting, but it is directly relevant when
   you consider the point Granny is trying to make to the Elf Queen.
 
 - [p. 350/252] "The King held out a hand, and said something. Only Magrat
   heard it. Something about meeting by moonlight, she said later."
 
-  In _A Midsummer Night's Dream_ (act 2, scene 2), Oberon, King of the
+  In "`A Midsummer Night's Dream`_" (act 2, scene 2), Oberon, King of the
   Fairies, says to Titania, Queen of the Fairies (with whom he has a kind
   of love/hate relationship): "Ill met by moonlight, proud Titania".
 
@@ -7541,7 +7541,7 @@ LORDS AND LADIES
   *stones*.'"
 
   This paraphrases Isaac Newton. The original quote can be found in
-  Brewster's _Memoirs of Newton_, Volume II, Chapter 27:
+  Brewster's "`Memoirs of Newton`_", Volume II, Chapter 27:
 
   "I do not know what I may appear to the world, but to myself I seem to
   have been only like a boy playing on the seashore, and diverting myself
@@ -7551,15 +7551,15 @@ LORDS AND LADIES
 
 - [p. 363/261] "'Go ahead, [...] bake my quiche.'"
 
-  Clint Eastwood's _Dirty Harry_ again, another satire of the line which
+  Clint Eastwood's "`Dirty Harry`_" again, another satire of the line which
   also inspired "FABRICATI DIEM, PVNC" (see the annotation for p. 51/48 of
-  _Guards! Guards!_).
+  "`Guards! Guards!`_").
 
 - [p. 364/261] "'On with the motley. Magrat'll appreciate it.'"
 
   "On with the motley" is a direct translation of the Italian "Vesti la
-  giubba" which is the first line of a famous aria from the opera _I
-  Pagliacci_. (Operatic arias are usually known by their first line or
+  giubba" which is the first line of a famous aria from the opera "`I
+  Pagliacci`_". (Operatic arias are usually known by their first line or
   first few words). It is the bitter aria in which the actor Canio laments
   that he must go on stage even though his heart is breaking, and climaxes
   with the line 'Ridi Pagliaccio'.
@@ -7568,7 +7568,7 @@ LORDS AND LADIES
   ones. They are not all that subtle."
 
   Definitely a Tolkien reference this time. See the annotation for p.
-  183/149 of _Mort_.
+  183/149 of "Mort_".
 
   There is a version frequently seen on the net in people's .signatures,
   which I am sure will have Terry's full approval. It runs: "Do not meddle
@@ -7585,13 +7585,13 @@ LORDS AND LADIES
   "A tin bath isn't made out of tin. It's invariably galvanised iron -- ie,
   zinc dipped. They certainly rust after a while."
 
-- [p. 382/274] "[...] he called it _The Taming Of The Vole_ [...]"
+- [p. 382/274] "[...] he called it "`The Taming Of The Vole`_" [...]"
 
   Shakespeare again, of course. A vole is a small animal, somewhat similar
   to a shrew.
 
 
-MEN AT ARMS
+Men at Arms
 ~~~~~~~~~~~
 
 - Starting with "Men at Arms", the word 'Discworld' appeared on the
@@ -7613,7 +7613,7 @@ MEN AT ARMS
   lever if there's a BIG problem."
 
 - Someone complained on the net that the picture of the Gonne on the back
-  cover of _Men at Arms_ gives away too much information about the story.
+  cover of "`Men at Arms`_" gives away too much information about the story.
   Terry replied:
 
   "Hmm. We wondered about the cover 'giving away half the plot' and decided
@@ -7643,7 +7643,7 @@ MEN AT ARMS
 
 - [p. 20/14] "'Twurp's P-eerage,' he shouted."
 
-  Burke's Peerage. See the annotation for p. 191/138 of _Lords and Ladies_.
+  Burke's Peerage. See the annotation for p. 191/138 of "`Lords and Ladies`_".
 
 - [p. 20/15] "'My nurse told me,' said Viscount Skater, 'that a *true* king
   could pull a sword from a stone.'"
@@ -7661,7 +7661,7 @@ MEN AT ARMS
   Columbo had a glass eye (or rather, Peter Falk, who played the part, had
   one). And he was rather short.
 
-- [p. 29/22] "'Oh, _nil desperandum_, Mr Flannel, _nil desperandum_,' said
+- [p. 29/22] "'Oh, _nil desperandum`_", Mr Flannel, _nil desperandum`_",' said
   Carrot cheerfully."
 
   "Nil desperandum" is a genuine old Latin phrase, still occasionally in
@@ -7672,7 +7672,7 @@ MEN AT ARMS
 
   Reference to Prometheus, who gave fire to man and got severely shafted
   for it by the previous owners. See also the annotation for p. 131/107 of
-  _Eric_.
+  "Eric_".
 
 - [p. 44/33] "Fingers-Mazda, the first thief in the world, stole fire from
   the gods."
@@ -7682,7 +7682,7 @@ MEN AT ARMS
 
 - [p. 46/34] "'Remember,' he said, 'let's be careful out there.'"
 
-  The desk sergeant in _Hill Street Blues_ used to say this in each episode
+  The desk sergeant in "`Hill Street Blues`_" used to say this in each episode
   of the TV series, at the end of the force's morning briefing.
 
 - [p. 49/37] "'Morning, Mr Bauxite!'"
@@ -7723,7 +7723,7 @@ MEN AT ARMS
   rain nor heat nor gloom of night stay these couriers from the swift
   completion of their appointed rounds".
 
-  In Tom Burnam's _More Misinformation_ it is explained that this quote by
+  In Tom Burnam's "`More Misinformation`_" it is explained that this quote by
   Herodotus is not really the official motto of the Postal service, since
   there is no such thing. But it is a quote that is inscribed on the
   General Post Office building in New York, and has been construed as a
@@ -7763,8 +7763,8 @@ MEN AT ARMS
 - [p. 94/71] "There's a bar like it in every big city. It's where the
   coppers drink."
 
-  Quite stereotypical of course, but the bar from the TV series _Hill
-  Street Blues_ is the one that I was immediately reminded of.
+  Quite stereotypical of course, but the bar from the TV series "`Hill
+  Street Blues`_" is the one that I was immediately reminded of.
 
 - [p. 94/71] "'That's three beers, one milk, one molten sulphur on coke
   with phosphoric acid --'"
@@ -7824,14 +7824,14 @@ MEN AT ARMS
   Note how both the 'gold' etymology and the 'waxy appearance' perfectly
   match Chrysoprase's character as the rich, suave, uptown Mafia-troll.
 
-  Chrysoprase already appears (off-stage) on p. 179/178 of _Wyrd Sisters_,
+  Chrysoprase already appears (off-stage) on p. 179/178 of "`Wyrd Sisters`_",
   but his name is spelled 'Crystophrase' there.
 
 - [p. 127/96] "'What can you make it?' Carrot frowned. 'I could make a
   hat,' he said, 'or a boat. Or [...]'"
 
   This may be far-fetched, but *exactly* the same joke appears in the 1980
-  movie _Airplane!_ (renamed _Flying High_ in some countries).
+  movie "`Airplane!`_" (renamed "`Flying High`_" in some countries).
 
 - [p. 130/98] "[...] a toadstool called Phallus impudicus, [...]"
 
@@ -7848,7 +7848,7 @@ MEN AT ARMS
   goo", "the head exudes a black slime" and "I've smelled these from 50
   paces on a still day".
 
-  And no, the _Phallus Impudicus_ is not edible.
+  And no, the "`Phallus Impudicus`_" is not edible.
 
 - [p. 135/102] "A lot of equipment had been moved away, however, to make
   room for a billiard table. [...] 'My word. Perhaps we're adding just the
@@ -7872,7 +7872,7 @@ MEN AT ARMS
   It can easily be observed that the Mona Lisa's *eyes* follow one around
   the room; Leonardo da Vinci supposedly achieved this by using some
   mysterious painting technique that only the greatest of painters are
-  capable of. But as Tom Burnham explains in his _Dictionary of
+  capable of. But as Tom Burnham explains in his "`Dictionary of
   Misinformation_: "The eyes-that-follow-you trick is a simple one, used by
   innumerable artists in everything from posters to billboards."
 
@@ -7887,14 +7887,14 @@ MEN AT ARMS
   coats hanging in it, you'd break through into a magical fairyland full of
   talking animals and goblins, but it'd probably not be worth it."
 
-  Reference to the children's classic _The Lion, The Witch and the
-  Wardrobe_ by C. S. Lewis. See also the annotation for p. 22/22 of
-  _Sourcery_.
+  Reference to the children's classic "`The Lion, The Witch and the
+  Wardrobe`_" by C. S. Lewis. See also the annotation for p. 22/22 of
+  "Sourcery_".
 
 - [p. 153/116] "I'm on the path, he thought. I don't have to know where it
   leads. I just have to follow."
 
-  This is almost a direct quote from a scene in _Twin Peaks_:
+  This is almost a direct quote from a scene in "`Twin Peaks_:
 
       Cooper: "God help me, I don't know where to start."
       Hawk: "You're on the path. You don't need to know where it leads.
@@ -7908,7 +7908,7 @@ MEN AT ARMS
 
 - [p. 157/119] "'It's Oggham,' said Carrot."
 
-  See the annotation for p. 305/219 of _Lords and Ladies_.
+  See the annotation for p. 305/219 of "`Lords and Ladies`_".
 
 - [p. 157/119] "Soss, egg, beans and rat 12p. Soss, rat and fried slice
   10p. [...]"
@@ -7955,8 +7955,8 @@ MEN AT ARMS
   behaves similarly: it has no protective shell of its own, so it utilises
   the shells of dead land snails. The reason why the hermit crab is one of
   the sadder species in our world as well is given in Stephen Jay Gould's
-  essay 'Nature's Odd Couples' (published in his collection _The Panda's
-  Thumb_): the shells that form the crabs' natural habitat are from a
+  essay 'Nature's Odd Couples' (published in his collection "`The Panda's
+  Thumb`_"): the shells that form the crabs' natural habitat are from a
   species of snail that has been extinct since the 19th century. The hermit
   crabs on Bermuda are only surviving by recycling old fossil shells, of
   which there are fewer and fewer as time goes on, thus causing the hermit
@@ -7970,7 +7970,7 @@ MEN AT ARMS
   The Quirm memorial is less obvious. Perhaps Mausoleus' Tomb?
 
   There is also a similarity between the Colossus of Morpork and the
-  sequence in Rob Reiner's 1985 movie _This Is Spinal Tap_ where a
+  sequence in Rob Reiner's 1985 movie "`This Is Spinal Tap`_" where a
   Stonehenge menhir, supposedly 30 feet high, is constructed to be 30
   inches high, and ends up being trodden on by a dwarf.
 
@@ -7980,13 +7980,13 @@ MEN AT ARMS
 
   Terry is probably just referring to a generic stage musical stereotype
   here, but the production number mentioned most frequently by my
-  correspondents as fitting the context is 'Who Will Buy?' from _Oliver!_,
-  a musical version of Charles Dickens' _Oliver Twist_.
+  correspondents as fitting the context is 'Who Will Buy?' from "`Oliver!`_",
+  a musical version of Charles Dickens' "`Oliver Twist`_".
 
 - [p. 168/127] "'Some in rags, and some in tags, and one in a velvet
   gown... it's in your Charter, isn't it?'"
 
-  This comes from the nursery rhyme _Hark! Hark!_. The Mother Goose version
+  This comes from the nursery rhyme "`Hark! Hark!`_". The Mother Goose version
   goes:
 
         Hark! Hark! The dogs do bark,
@@ -7994,7 +7994,7 @@ MEN AT ARMS
         Some in rags, some in tags,
         And some in velvet gown.
 
-  _Opies' Oxford Dictionary of Nursery Rhymes_ gives the last two lines as:
+  "`Opies' Oxford Dictionary of Nursery Rhymes`_" gives the last two lines as:
 
         Some in rags, some in jags,
         And one in a velvet gown.
@@ -8017,14 +8017,14 @@ MEN AT ARMS
 - [p. 172/131] "'That,' said Vimes, 'was a bloody awful cup of coffee,
   Sham.' [...] 'And a doughnut'."
 
-  This entire scene is a loose parody of David Lynch's cult TV series _Twin
-  Peaks_, where the protagonists are forever eating doughnuts and drinking
+  This entire scene is a loose parody of David Lynch's cult TV series "`Twin
+  Peaks`_", where the protagonists are forever eating doughnuts and drinking
   "damn fine coffee".
 
 - [p. 173/131] "'And give me some more coffee. Black as midnight on a
   moonless night."
 
-  In one of the early _Twin Peaks_ episodes, Agent Cooper praises the
+  In one of the early "`Twin Peaks`_" episodes, Agent Cooper praises the
   coffee at the Great Northern Hotel, and is very precise in ordering
   breakfast, specifying the way the bacon etc. should be cooked and asking
   for a cup of coffee which is "Black as moonlight on a moonless night".
@@ -8102,7 +8102,7 @@ MEN AT ARMS
   the little boy with his kite stuck in a tree,' said Lord Vetinari."
 
   The reference to Charlie Brown's struggle against the kite-eating tree in
-  Charles M. Shultz's comic strip _Peanuts_ will be obvious to most
+  Charles M. Shultz's comic strip "Peanuts_" will be obvious to most
   readers, but perhaps not everyone will realise that in Leonardo da
   Vinci's time a cartoon was also a full-size sketch used to plan a
   painting.
@@ -8136,7 +8136,7 @@ MEN AT ARMS
 
   Take an old, battered car of the type that the Waynes and Kevins of our
   world (boyfriends to Sharon and Tracey -- see the annotation for p.
-  106/95 of _Reaper Man_) often drive -- a Ford Cortina or Capri is the
+  106/95 of "`Reaper Man`_") often drive -- a Ford Cortina or Capri is the
   usual candidate in the UK. Respray it metallic purple. Some go-faster
   stripes, possibly a la 'Starsky and Hutch' may be appropriate at this
   time. Plaster rear window with car stickers in dubious taste: "Passion
@@ -8179,13 +8179,13 @@ MEN AT ARMS
 
 - [p. 238/180] "'Hi-ho -- '-- hi-ho --' 'Oook oook oook oook ook --'"
 
-  The dwarvish hiho-song. See the annotation for p. 88/73 of _Moving
-  Pictures_.
+  The dwarvish hiho-song. See the annotation for p. 88/73 of "`Moving
+  Pictures`_".
 
 - [p. 239/181] "'He said "Do Deformed Rabbit, it's my favourite",' Carrot
   translated."
 
-  Running gag. See also the annotation for p. 226/162 of _Small Gods_.
+  Running gag. See also the annotation for p. 226/162 of "`Small Gods`_".
 
 - [p. 251/190] "'All right, no one panic, just stop what you're doing, stop
   what you're doing, please. I'm Corporal Nobbs, Ankh-Morpork City Ordnance
@@ -8210,7 +8210,7 @@ MEN AT ARMS
   the gravity feed?' he snapped. 'Eh? What you see is what we got,
   mister.'"
 
-  This is straight from _The Terminator_. Arnold says to the gun shop
+  This is straight from "`The Terminator`_". Arnold says to the gun shop
   owner: "Have you got a phase plasma rifle in the 40 watt range?" and the
   shopkeeper responds: "Hey, just what you see, pal".
 
@@ -8223,7 +8223,7 @@ MEN AT ARMS
 
 - [p. 257/195] "'No sir! Taking Flint and Morraine, sir!'"
 
-  These two trolls first appeared as actors in _Moving Pictures_.
+  These two trolls first appeared as actors in "`Moving Pictures`_".
 
   As far as their names go, Flint is obvious, but I had to look up
   Morraine: Webster spells it with one 'r', and defines it as "the debris
@@ -8321,8 +8321,8 @@ MEN AT ARMS
   an'... an'...' he struck out wildly, 'other sortsa rocks! What kind
   *you*, Bauxite?'"
 
-  Detritus in drill sergeant mode replays a scene from the movie _An
-  Officer and a Gentleman_, in which sergeant Foley (played by Louis
+  Detritus in drill sergeant mode replays a scene from the movie "`An
+  Officer and a Gentleman`_", in which sergeant Foley (played by Louis
   Gossett, Jr) has a conversation with a new recruit as follows:
 
       Sgt Foley: "You a queer?"
@@ -8348,7 +8348,7 @@ MEN AT ARMS
   risk -- hence "I'm too short for this shit".
 
   Another popular reference to this expression is "I'm too old for this
-  shit", a catchphrase for Danny Glover's character in the _Lethal Weapon_
+  shit", a catchphrase for Danny Glover's character in the "`Lethal Weapon`_"
   series of movies.
 
   Terry adds:
@@ -8360,17 +8360,17 @@ MEN AT ARMS
   growing hair and stretching,' he whimpered."
 
   Reference to the famous werewolf transformation scenes in the 1981 horror
-  movie _An American Werewolf in London_.
+  movie "`An American Werewolf in London`_".
 
 - [p. 307/234] "'So we're looking for someone else. A third man.'"
 
-  A reference to the film _The Third Man_. Terry says:
+  A reference to the film "`The Third Man`_". Terry says:
 
   "It may be that there is a whole generation now to whom The Third Man is
   just a man after the second man. And after all, it wasn't set in Vienna,
   Ohio, so it probably never got shown in the US :-)"
 
-  The book contains a couple of other resonances with _The Third Man_. In
+  The book contains a couple of other resonances with "`The Third Man`_". In
   the film, the British, French, American and Russian occupation troops in
   Vienna patrol the city in groups of four, one from each country, to keep
   an eye on each other. Carrot sends the Watch out in similar squads of a
@@ -8383,8 +8383,8 @@ MEN AT ARMS
   a-walking...", and I've probably heard all of them, the one I had in mind
   was 'Ratcliffe Highway'."
 
-  'Ratcliffe Highway' (a version which can be found on the album _Liege &
-  Lief_ by Fairport Convention) starts out:
+  'Ratcliffe Highway' (a version which can be found on the album "`Liege &
+  Lief`_" by Fairport Convention) starts out:
 
         As I was a-walking along Ratcliffe Highway,
         A recruiting party came beating my way,
@@ -8405,7 +8405,7 @@ MEN AT ARMS
 - [p. 321/244] "'Yes, sir. Their cohorts all gleaming in purple and gold,
   sir.'"
 
-  Lord Byron, _The Destruction of Sennacherib_:
+  Lord Byron, "`The Destruction of Sennacherib_:
 
         The Assyrian came down like the wolf on the fold,
         And his cohorts were gleaming in purple and gold...
@@ -8424,17 +8424,17 @@ MEN AT ARMS
 
   Johann Sebastian Bach's initials are 'JSB', which is 'BSJ' backwards, and
   Bach was of course also involved in organ music. But Terry has mentioned
-  numerous times (not just on-line but also in _The Discworld Companion_)
+  numerous times (not just on-line but also in "`The Discworld Companion`_")
   that he did not choose the name with this intention at all.
 
 - [p. 332/252] "'Who would have thought you had it in you,' said Vimes,
   [...]"
 
-  Shakespeare. See the annotation for p. 227/226 of _Wyrd Sisters_.
+  Shakespeare. See the annotation for p. 227/226 of "`Wyrd Sisters`_".
 
 - [p. 341/258] "'Detritus! You haven't got *time* to ooze!'"
 
-  "I ain't got time to bleed!" is a line from _Predator_, another Arnold
+  "I ain't got time to bleed!" is a line from "Predator_", another Arnold
   Schwarzenegger action movie.
 
 - [p. 345/262] "It was important to ensure that rumours of his death were
@@ -8443,9 +8443,9 @@ MEN AT ARMS
   Paraphrase of a famous quip Mark Twain cabled to Associated Press after
   they had reported his demise.
 
-- [p. 357/271] "_Cling, bing, a-bing, bong..._"
+- [p. 357/271] ""`Cling, bing, a-bing, bong..._"
 
-  The scene with Vimes' watch mirrors the movie _For a Few Dollars More_.
+  The scene with Vimes' watch mirrors the movie "`For a Few Dollars More`_".
   All the way through this film, the bad guy has been letting a watch
   chime, telling his victims to go for their gun when the chimes stop (of
   course he always draws first and kills them). At the end of the film his
@@ -8462,7 +8462,7 @@ MEN AT ARMS
 
 - [p. 365/277] "'They call me *Mister* Vimes,' he said."
 
-  In the Sidney Poitier movie _In the Heat of the Night_ the most famous
+  In the Sidney Poitier movie "`In the Heat of the Night`_" the most famous
   line (and indeed the name of the sequel) is Poitier saying "They call me
   *Mister* Tibbs."
 
@@ -8480,11 +8480,11 @@ MEN AT ARMS
   they don't know what it is.
 
 
-SOUL MUSIC
+Soul Music
 ~~~~~~~~~~
 
-- [cover] The cover of _Soul Music_ bears more than a passing resemblance
-  to the cover of the album _Bat out of Hell_ by Meatloaf, one of the 70s
+- [cover] The cover of "`Soul Music`_" bears more than a passing resemblance
+  to the cover of the album "`Bat out of Hell`_" by Meatloaf, one of the 70s
   best-selling rock albums.
 
 - [p. 8/5] "This is also a story about sex and drugs and Music With Rocks
@@ -8495,9 +8495,9 @@ SOUL MUSIC
 
 - [p. 8/5] "Well... ...one out of three ain't bad."
 
-  With the many Meatloaf references in _Soul Music_ it is perhaps no
+  With the many Meatloaf references in "`Soul Music`_" it is perhaps no
   surprise many people think they've spotted another one here, namely to
-  the ballad 'Two Out of Three Ain't Bad' on _Bat out of Hell_.
+  the ballad 'Two Out of Three Ain't Bad' on "`Bat out of Hell`_".
 
   But in this case both Terry and Meatloaf are simply using a normal
   English phrase that's been around for ages. There is no connection.
@@ -8505,12 +8505,12 @@ SOUL MUSIC
 - [p. 9/7] "A dark, stormy night."
 
   "It was a dark and stormy night" has entered the English language as
-  *the* canonical opening sentence for bad novels. Snoopy in _Peanuts_
+  *the* canonical opening sentence for bad novels. Snoopy in "`Peanuts`_"
   traditionally starts his novels that way, and Terry and Neil used it on
-  p. 11/viii of _Good Omens_ as well.
+  p. 11/viii of "`Good Omens`_" as well.
 
   I never knew, however, that the phrase actually has its origin in an
-  existing 19th century novel called _Paul Clifford_ by Edward George Earle
+  existing 19th century novel called "`Paul Clifford`_" by Edward George Earle
   Bulwer-Lytton. Someone kindly mailed me the full opening sentence to that
   novel, and only then did I understand how the phrase came by its bad
   reputation:
@@ -8524,14 +8524,14 @@ SOUL MUSIC
   There even exists a Bulwer-Lytton Fiction Contest, in which people try to
   write the worst possible opening sentences for imaginary novels. The
   entries for the 1983 edition of the contest were compiled by Scott Rice
-  in a book titled, what else, _It Was a Dark and Stormy Night_. I am told
+  in a book titled, what else, "`It Was a Dark and Stormy Night`_". I am told
   that there were at least three such compilations released.
 
 - [p. 13/10] "It was always raining in Llamedos."
 
   Llamedos is 'sod em all' backwards. This is a reference to the town of
-  Llareggub in Dylan Thomas' short prose piece _Quite Early One Morning_.
-  That story was later expanded into _Under Milk Wood_, a verse play
+  Llareggub in Dylan Thomas' short prose piece "`Quite Early One Morning`_".
+  That story was later expanded into "`Under Milk Wood`_", a verse play
   scripted for radio. In that version the name of the town was changed to
   the slightly less explicit Llaregyb.
 
@@ -8548,8 +8548,8 @@ SOUL MUSIC
   E. Coyote uses in his attempts to capture the Roadrunnner is purchased
   from Acme.
 
-  One of my proofreaders tells me he has a Pink Floyd _Dark Side of the
-  Moon_ t-shirt manufactured by ACME. Make of that what you will.
+  One of my proofreaders tells me he has a Pink Floyd "`Dark Side of the
+  Moon`_" t-shirt manufactured by ACME. Make of that what you will.
 
 - [p. 14/11] "The harp was fresh and bright and already it sang like a
   bell."
@@ -8568,18 +8568,18 @@ SOUL MUSIC
   IT?"
 
   This philosophical question was of course first posed by none other than
-  the famous Ephebian philosopher Didactylos, in _Small Gods_.
+  the famous Ephebian philosopher Didactylos, in "`Small Gods`_".
 
 - [p. 20/15] "As far as looks were concerned, Susan had always put people
   in mind of a dandelion on the point of telling the time."
 
   To begin with, in order to understand the dandelion reference, read the
-  annotation for p. 10/10 of _The Light Fantastic_.
+  annotation for p. 10/10 of "`The Light Fantastic`_".
 
   Next, many people on a.f.p. have been wondering if Susan was perhaps
   based on somebody specific, especially since Terry describes her
   appearance in such great detail. Various candidates were suggested,
-  ranging from Neil Gaiman's Death (from his _Sandman_ stories) to Siouxsie
+  ranging from Neil Gaiman's Death (from his "Sandman_" stories) to Siouxsie
   Sioux (singer for the Goth band Siouxsie and the Banshees), to Dr Who's
   granddaughter.
 
@@ -8622,7 +8622,7 @@ SOUL MUSIC
         Parking by the lake
         And there was not another car in sight
 
-  In 1981, Steinman recorded the album _Bad For Good_ by himself (he either
+  In 1981, Steinman recorded the album "`Bad For Good`_" by himself (he either
   had a falling out with Meatloaf or the latter had voice problems at the
   time -- the story is not clear on this point) but in any case Steinman
   had originally intended the album as a Meatloaf project, but eventually
@@ -8636,7 +8636,7 @@ SOUL MUSIC
         I was barely seventeen
         and I once killed a boy with a Fender guitar
 
-  When _Soul Music_ came out, it immediately became a question of utmost
+  When "`Soul Music`_" came out, it immediately became a question of utmost
   importance (no, I don't know why, either) to Pratchett annotators all
   over the world to find out whether Terry based Death's outburst on the
   original Meatloaf track, or on the later Steinman song.
@@ -8647,16 +8647,16 @@ SOUL MUSIC
 
   I suppose I might as well mention the rest of the story while I'm at it,
   or else my mailbox will start filling up again: in 1993, Steinman and
-  Meatloaf finally teamed up together again and recorded the album _Bat out
-  of Hell II -- Back to Hell_. The track called 'Wasted Youth' turned out
+  Meatloaf finally teamed up together again and recorded the album "`Bat out
+  of Hell II -- Back to Hell`_". The track called 'Wasted Youth' turned out
   to be a re-recording of 'American Guitar', but it is still recited by Jim
   Steinman himself.
 
 - [p. 26/20] "I MAY BE SOME TIME, said Death."
 
   Terry *likes* this quote -- it's the third time he's used it. See also
-  the annotations for p. 258/226 of _Reaper Man_ and p. 236/170 of _Small
-  Gods_.
+  the annotations for p. 258/226 of "`Reaper Man`_" and p. 236/170 of "`Small
+  Gods`_".
 
 - [p. 28/21] "'You know salmon, sarge' said Nobby. 'It is a fish of which I
   am aware, yes.'"
@@ -8676,7 +8676,7 @@ SOUL MUSIC
 
 - [p. 31/23] "'Lias Bluestone,' said the troll [...]"
 
-  See the annotation for p. 103/86 of _Moving Pictures_.
+  See the annotation for p. 103/86 of "`Moving Pictures`_".
 
 - [p. 31/23] "'Imp y Celyn,' said Imp."
 
@@ -8689,32 +8689,32 @@ SOUL MUSIC
 - [p. 31/24] "'Glod Glodsson,' said the dwarf."
 
   As his name indicates, Glod Glodsson is the son of the irritable dwarf
-  Glod we learned about earlier in the footnotes for _Witches Abroad_.
+  Glod we learned about earlier in the footnotes for "`Witches Abroad`_".
 
 - [p. 33/25] "[...] what you would get if you extracted fossilized genetic
   material from something in amber and then gave it a suit."
 
   What Terry means is that Mr Clete is a bit reptile-like. The reference is
-  to the blockbuster novel/movie _Jurassic Park_, in which various
+  to the blockbuster novel/movie "`Jurassic Park`_", in which various
   murderous lizards were brought to life using prehistoric DNA found in
   amber-fossilized mosquitoes.
 
 - [p. 35/27] "'Gimlet? Sounds dwarfish.'"
 
   "Gimlet, son of Groin" is a dwarf appearing in the well known Harvard
-  Lampoon parody _Bored of the Rings_ by the famous Dutch author Tolkkeen
+  Lampoon parody "`Bored of the Rings`_" by the famous Dutch author Tolkkeen
   with four M's and a silent Q. The original dwarf being, um, lampooned
   here is of course Tolkien's Gimli, son of Gloin.
 
   In the Discworld canon, this is the first time Gimlet makes an actual
   on-stage appearance, though he has been mentioned a number of times
-  before, most notably in _Reaper Man_ (see the annotation for p. 31/30 of
+  before, most notably in "`Reaper Man`_" (see the annotation for p. 31/30 of
   that book).
 
 - [p. 36/27] "'Give me four fried rats.' [...] 'You mean rat heads or rat
   legs?' 'No. Four fried rats.'"
 
-  This is a spoof of the restaurant scene in _The Blues Brothers_. Jake
+  This is a spoof of the restaurant scene in "`The Blues Brothers`_". Jake
   orders "Four fried chickens and a coke", and the waitress (Aretha
   Franklin) asks him whether he'd like chicken wings or legs, etc. Even the
   "best damn fried rat in the city" is a direct paraphrase of a Blues
@@ -8726,7 +8726,7 @@ SOUL MUSIC
   This is partly a continuation of the Blues Brothers reference (after Jake
   asks for the fried chickens, Elwood asks for two slices of dry toast),
   and at the same time a nod to the Marx Brothers. In the cabin scene from
-  _A Night at the Opera_, Groucho is giving his order to the steward
+  "`A Night at the Opera`_", Groucho is giving his order to the steward
   outside the cabin; Chico is calling out "And two hard boiled eggs!" from
   inside, Groucho repeats it to the steward, then Harpo honks his horn and
   Groucho says "Make that three hard boiled eggs." This happens several
@@ -8748,7 +8748,7 @@ SOUL MUSIC
 
   (See also the scene that starts on p. 181.) The attitudes and mannerisms
   of the old woman owning the pawn shop are very like those of Auntie
-  Wainwright in the BBC sitcom _Last of the Summer Wine_.
+  Wainwright in the BBC sitcom "`Last of the Summer Wine`_".
 
   For quite a number of episodes she ran the funny old antiques shop from
   which many props and plot devices were available. When people entered the
@@ -8761,7 +8761,7 @@ SOUL MUSIC
 - [p. 43/33] "Just a stroke of the chalk..."
 
   I'm not sure if it warrants an annotation, but I was fairly puzzled by
-  this bit when I first read _Soul Music_. Only on re-reading did it dawn
+  this bit when I first read "`Soul Music`_". Only on re-reading did it dawn
   on me that what Terry is trying to tell us here is that chalked on the
   guitar is the number '1'. This will turn out to be rather significant,
   later on.
@@ -8769,11 +8769,11 @@ SOUL MUSIC
 - [p. 46/35] "'You're not going to say something like "Oh, my paws and
   whiskers", are you?' she said quietly."
 
-  The White Rabbit in _Alice's Adventures in Wonderland_: "'The Duchess!
+  The White Rabbit in "`Alice's Adventures in Wonderland_: "'The Duchess!
   The Duchess! Oh my dear paws! Oh my fur and whiskers!'".
 
-  Terry doesn't like the Alice books very much, though. See also the _Words
-  From The Master_ section in Chapter 5.
+  Terry doesn't like the Alice books very much, though. See also the "`Words
+  From The Master`_" section in Chapter 5.
 
 - [p. 47/36] "[...] 'Shave and a haircut, two pence' [...]
   Bam-bam-a-bambam, bamBAM."
@@ -8781,9 +8781,9 @@ SOUL MUSIC
   'Shave and a haircut, two bits' is a classic rock 'n' roll rhythm (used
   in just about everything Bo Diddley did, for instance). It was most
   recently reintroduced to the public as a punchline to a joke in the movie
-  _Who Framed Roger Rabbit_.
+  "`Who Framed Roger Rabbit`_".
 
-- [p. 48/37] _A-bam-bop-a-re-bop-a-bim-bam-boom._
+- [p. 48/37] "`A-bam-bop-a-re-bop-a-bim-bam-boom.`_"
 
   A-wap-ba-ba-looba-a-wap-bam-boom, one of rock 'n roll's most famous
   phrases, from Little Richard's 'Tutti Frutti'.
@@ -8791,7 +8791,7 @@ SOUL MUSIC
 - [p. 50/38] "'[...] oh, you're a raven, go on, say the N word...'"
 
   The N word is, of course, 'Nevermore' from Edgar Allan Poe's 'The Raven'.
-  See also the annotation for p. 217/191 of _Reaper Man_.
+  See also the annotation for p. 217/191 of "`Reaper Man`_".
 
 - [p. 55/42] "The wizard who thought he owned him called him Quoth, [...]"
 
@@ -8865,7 +8865,7 @@ SOUL MUSIC
 
   I have received I don't know how many emails pointing out that this
   resonates with the burning tire tracks left by the time-travelling
-  DeLorean in the film _Back to the Future_.
+  DeLorean in the film "`Back to the Future`_".
 
 - [p. 74/56] "[...] the sky ahead of her erupted blue for a moment. Behind
   her, unseen because light was standing around red with embarrassment
@@ -8879,7 +8879,7 @@ SOUL MUSIC
   a home."
 
   The Discworld equivalent of the Easter Bunny. See also the annotation for
-  p. 193/139 of _Lords and Ladies_.
+  p. 193/139 of "`Lords and Ladies`_".
 
 - [p. 79/59] "[...] C. H. Lavatory & Son [...]"
 
@@ -8890,9 +8890,9 @@ SOUL MUSIC
   And before I start getting mail about it: no, Crapper didn't really
   invent the flush toilet himself, but he made several improvements to the
   design (shades of James Watt here, see the annotation for p. 175/153 of
-  _Reaper Man_), and he certainly sold a lot of them to the British army.
-  For more information about Thomas Crapper, read Cecil Adams' _More of the
-  Straight Dope_.
+  "`Reaper Man`_"), and he certainly sold a lot of them to the British army.
+  For more information about Thomas Crapper, read Cecil Adams' "`More of the
+  Straight Dope`_".
 
 - [p. 81/61] "'What d'you call this, then, Klatchian mist?'"
 
@@ -8920,10 +8920,10 @@ SOUL MUSIC
 
 - [p. 103/77] "'Er,' she said, 'ANYONE HERE BEEN KILLED AND CALLED VOLF?'"
 
-  _Anyone Here Been Raped And Speak English?_ was the British title of a
+  "`Anyone Here Been Raped And Speak English?`_" was the British title of a
   book about newspapers' foreign correspondents by Edward Behr, who also
-  wrote _The Last Emperor_. In the US this book was released under the name
-  _Behrings_.
+  wrote "`The Last Emperor`_". In the US this book was released under the name
+  "Behrings_".
 
   The phrase refers to a story concerning a BBC journalist in a refugee
   camp in the Belgian Congo. He was investigating some of the atrocities
@@ -8934,20 +8934,20 @@ SOUL MUSIC
 
 - [p. 104/78] "'Hi-jo-to! Ho! Hi-jo-to! Ho!'"
 
-  This is from Wagner's opera _Die Walkuere_. I don't have to explain what
+  This is from Wagner's opera "`Die Walkuere`_". I don't have to explain what
   valkyries are, do I?
 
 - [p. 109/82] "[...] at war with Hersheba and the D'regs [...]"
 
   The name D'regs is not only a pun on 'dregs', but also refers to the
   Tuaregs, a nomadic Berber tribe in North Africa. The Tuaregs are also the
-  desert marauders who attack Fort Zinderneuf in the movie _Beau Geste_
+  desert marauders who attack Fort Zinderneuf in the movie "`Beau Geste`_"
   (based on the book by P. C. Wren).
 
   The name 'Hersheba' (a pun on 'Hershey Bar' / 'Beersheba') is something
   that Terry came up with in 1992 on a.f.p., when he was more or less
   thinking out loud about the many people who didn't get the Djelibeybi
-  reference (see the annotation for p. 17/17 of _Pyramids_):
+  reference (see the annotation for p. 17/17 of "Pyramids_"):
 
   "[...] say Djelibeybi OUT LOUD -- I must have had twenty letters (and one
   or two emails) from people who didn't twig until the third time round...
@@ -8960,7 +8960,7 @@ SOUL MUSIC
   I'll just let Terry himself handle this one:
 
   "Just so we don't get a zillion postings about cartoon films and comics
-  and movies that _Soul Music_ has been copied from: the whole Klatchian
+  and movies that "`Soul Music`_" has been copied from: the whole Klatchian
   Foreign Legion bit has its roots in 'Beau Geste', which was *the* Foreign
   Legion movie. It must be one of the most parodied, echoed and copied
   movies of all time -- it was so influential that it is probably where
@@ -8971,7 +8971,7 @@ SOUL MUSIC
   This line is a fairly cliche rock 'n roll text fragment. It is used in
   quite a few songs, most notably in 'Riot in Cell Block #9', a song that
   has been performed by everybody from Dr Feelgood to the Blues Brothers.
-  _There's A Riot Goin' On_ is also the name of a famous 1971 funk album by
+  "`There's A Riot Goin' On`_" is also the name of a famous 1971 funk album by
   Sly and the Family Stone.
 
 - [p. 116/88] "[...] the Vox Humana, the Vox Dei and the Vox Diabolica."
@@ -8985,8 +8985,8 @@ SOUL MUSIC
 - [p. 116/88] "He raised his hands."
 
   The Librarian powering up the organ resonates with the scene in which
-  Marty McFly turns on Doc Brown's guitar amplifier in _Back to the
-  Future_.
+  Marty McFly turns on Doc Brown's guitar amplifier in "`Back to the
+  Future`_".
 
 - [p. 117/89] "[...] except the legendary harp of Owen Mwnyy [...]"
 
@@ -8999,7 +8999,7 @@ SOUL MUSIC
   with a name like *Cliff*'."
 
   A reference to Cliff Richard -- see the annotation for p. 48/45 of
-  _Johnny and the Dead_.
+  "`Johnny and the Dead`_".
 
 - [p. 121/91] "'Moving around on your seat like you got a pant full of
   ant.'"
@@ -9022,18 +9022,18 @@ SOUL MUSIC
   [...]"
 
   Stereotypical British policeman's phrase. See the annotation for p. 60/55
-  of _Guards! Guards!_.
+  of "`Guards! Guards!`_".
 
 - [p. 127/95] "'He can't stop us. We're on a mission from Glod.'"
 
   "We're on a mission from God" is perhaps the most famous quote from the
-  _Blues Brothers_ movie.
+  "`Blues Brothers`_" movie.
 
 - [p. 131/98] "'As soon as he saw the duck, Elmer knew it was going to be a
   bad day.'"
 
   A nice double reference. To begin with, the cartoons Terry is referring
-  to here are Gary Larson's _Far Side_ cartoons (which I can highly
+  to here are Gary Larson's "`Far Side`_" cartoons (which I can highly
   recommend. Just try to avoid the collections published after 1990 or so.
   They're not that bad, but the earlier ones are significantly better).
 
@@ -9050,8 +9050,8 @@ SOUL MUSIC
   men.
 
   These cliche-ridden travelogues were already being parodied as early as
-  1930 by George Chappell in his _Through the Alimentary Canal with Gun and
-  Camera_.
+  1930 by George Chappell in his "`Through the Alimentary Canal with Gun and
+  Camera`_".
 
 - [p. 135/101] "'Blert Wheedown's Guitar Primer,' he read."
 
@@ -9064,7 +9064,7 @@ SOUL MUSIC
   of the old temple in Dagon street?"
 
   For a full explanation of Mr Hong's tragic fate, see the annotation for
-  p. 197/149 of _Men at Arms_.
+  p. 197/149 of "`Men at Arms`_".
 
 - [p. 142/107] "'We call him Beau Nidle, sir.'"
 
@@ -9073,7 +9073,7 @@ SOUL MUSIC
 - [p. 146/110] "There was a path, though. It led across the fields for half
   a mile or so, then disappeared abruptly."
 
-  This would be a good description of _Wheatfield with Crows_ by Van Gogh,
+  This would be a good description of "`Wheatfield with Crows`_" by Van Gogh,
   who took his own life shortly after finishing this painting.
 
 - [p. 151/114] "Her mother's favourite dish had been Genocide by
@@ -9085,7 +9085,7 @@ SOUL MUSIC
 - [p. 152/114] "MORPHIC RESONANCE, he said, [...]"
 
   Another reference to Rupert Sheldrake's theories. See the annotation for
-  p. 54/45 of _Mort_.
+  p. 54/45 of "Mort_".
 
 - [p. 161/121] "The next table was occupied by Satchelmouth Lemon [...]"
 
@@ -9126,7 +9126,7 @@ SOUL MUSIC
   what are you rebelling against, and he'd say... he'd say something pretty
   damn memorable, that's what he'd do!"
 
-  In the 1954 movie _The Wild One_, starring Marlon Brando as Johnny, the
+  In the 1954 movie "`The Wild One`_", starring Marlon Brando as Johnny, the
   following exchange occurs:
 
       Girl in a bar: So Johnny, what're you rebelling against?
@@ -9135,7 +9135,7 @@ SOUL MUSIC
 - [p. 173/130] "'mumblemumblemumble', said the Dean defiantly, a rebel
   without a pause."
 
-  The name of the classic movie is _Rebel Without A Cause_. Starring
+  The name of the classic movie is "`Rebel Without A Cause`_". Starring
   James... Dean.
 
 - [p. 174/131] Song Titles.
@@ -9207,22 +9207,22 @@ SOUL MUSIC
 - [p. 198/149] "'The Cavern!'"
 
   The Cavern was the name of the night club in Liverpool where the Beatles
-  played their first performance. It is worth noting that in _The Streets
-  of Ankh-Morpork_ we can see that The Cavern is located on Quarry Lane.
+  played their first performance. It is worth noting that in "`The Streets
+  of Ankh-Morpork`_" we can see that The Cavern is located on Quarry Lane.
   This not only recalls 'Penny Lane', but before the Beatles became the
   Beatles, they called themselves the Quarrymen.
 
 - [p. 198/149] "Gorlick and Hammerjug were songwriters, [...]"
 
   A reference to the musical composers Rogers and Hammerstein, who wrote
-  the songs for _The Sound of Music_ (amongst many other musical scores).
+  the songs for "`The Sound of Music`_" (amongst many other musical scores).
 
   Note also that 'stein' is a word the English (not the Germans) use for
   'jug'.
 
 - [p. 198/150] "Except the one about Hiho."
 
-  The Hiho song is first mentioned in _Moving Pictures_; see the annotation
+  The Hiho song is first mentioned in "`Moving Pictures_; see the annotation
   for p. 88/73 of that book.
 
 - [p. 199/150] "'And me an' my friends can walk towards you with our hats
@@ -9279,8 +9279,8 @@ SOUL MUSIC
 
 - [p. 209/157] "'That's a bodacious audience,' said Jimbo."
 
-  This may well be a reference to the movie _Bill & Ted's Excellent
-  Adventure_, where the two protagonists use this word repeatedly. Later
+  This may well be a reference to the movie "`Bill & Ted's Excellent
+  Adventure`_", where the two protagonists use this word repeatedly. Later
   on, Crash also says 'Excellent!', another catchphrase from the movie.
 
 - [p. 219/165] "'[...] would they remember some felonious monk or shout for
@@ -9302,7 +9302,7 @@ SOUL MUSIC
 - [p. 233/175] "Si non confectus, non reficiat."
 
   "If it ain't broke, don't fix it." See the annotation for the Discworld
-  mottos in _The Discworld Companion_.
+  mottos in "`The Discworld Companion`_".
 
 - [p. 235/177] "[...] a small, greyish-brown mongrel dog [...] sat peering
   into the box for a while."
@@ -9314,20 +9314,20 @@ SOUL MUSIC
   ants...'"
 
   An excellent explanation of the anthill as a metaphor for intelligence
-  can be found in Douglas R. Hofstadter's _Goedel, Escher, Bach_.
+  can be found in Douglas R. Hofstadter's "`Goedel, Escher, Bach`_".
 
 - [p. 239/180] "'I know a golem. Mr Dorfl down in Long Hogmeat.'"
 
-  See the annotation for p. 234/204 of _Reaper Man_. Incidentally, 'long
+  See the annotation for p. 234/204 of "`Reaper Man`_". Incidentally, 'long
   pig' is a name for human meat (we are supposed to taste like pork).
 
-  Dorfl will turn up later in _Feet of Clay_.
+  Dorfl will turn up later in "`Feet of Clay`_".
 
 - [p. 242/182] "'Are you the Watch?' Glod bowed. 'No, ma'am. We're
   musicians.'"
 
-  The _Blues Brothers_ again. See the annotation for p. 122/107 of _Witches
-  Abroad_.
+  The "`Blues Brothers`_" again. See the annotation for p. 122/107 of "`Witches
+  Abroad`_".
 
 - [p. 243/183] "'And this one?' he said. 'It'll make the world end and the
   sky fall on me if I give it a tootle, will it?' 'Interesting you should
@@ -9341,7 +9341,7 @@ SOUL MUSIC
   That's Calliope. A cantaloupe is a kind of melon. Note that in our
   world's classical mythology there were *nine* muses. On the Discworld,
   this of course becomes eight. For another example of this mechanism in
-  action, see the annotation for p. 122/101 of _Eric_.
+  action, see the annotation for p. 122/101 of "Eric_".
 
 - [p. 252/190] "'That's mexical, that is. They put the worm in to show how
   strong it is.'"
@@ -9365,7 +9365,7 @@ SOUL MUSIC
   king's horses and all the king's men / Couldn't put Humpty together
   again."). From the description he gives it is clear that he is
   specifically referring to Humpty as he was portrayed by Tenniel in the
-  illustrations for Lewis Carroll's _Through The Looking Glass_.
+  illustrations for Lewis Carroll's "`Through The Looking Glass`_".
 
 - [p. 263/198] "'So you want to be Music With Rocks In stars, do you?'
   'Yes, sir!' 'Then listen here to what I say...'"
@@ -9397,7 +9397,7 @@ SOUL MUSIC
   back in february 1993:
 
   "Totally off the subject, this came to me last night. Terry's covered
-  tons of stuff, but other than metamorphizing tapes in _Good Omens_,
+  tons of stuff, but other than metamorphizing tapes in "`Good Omens`_",
   little on Rock n Roll. Since he's a fan of TMBG, maybe a dwarvish rock
   band, 'No, We Really Are Dwarves'. Since rock is so central to dwarf
   life, it makes sense to me that they'd have a band, although I understand
@@ -9416,7 +9416,7 @@ SOUL MUSIC
 
   The song mentioned later on in the text, 'Something's gotten into my
   beard' is not directly traceable to They Might Be Giants, or it would
-  have to be to the track 'Fingertips' on _Apollo 18_, which features the
+  have to be to the track 'Fingertips' on "`Apollo 18`_", which features the
   line "Something grabbed a hold of my hand". Most people figure it is
   simply a reference to an entirely different song: Gene Pitney's
   'Something's gotten hold of my Heart'.
@@ -9445,7 +9445,7 @@ SOUL MUSIC
 - [p. 272/204] "And the one they called the Duck Man had a duck on his
   head."
 
-  In Daniel Pinkwater's book _Lizard Music_ a major character is the
+  In Daniel Pinkwater's book "`Lizard Music`_" a major character is the
   Chicken Man, an apparently homeless man who walks around with a chicken
   perched on his head (under a hat). The Chicken Man is a lot more together
   than The Duck Man -- he periodically does little street shows featuring
@@ -9497,7 +9497,7 @@ SOUL MUSIC
   long walk, and the first time someone says to me, "What are dem things on
   your back?" dat's where I'm gonna settle down.'"
 
-  In Homer's _Odyssey_, Odysseus was told by the spirit of Tiresias that if
+  In Homer's "Odyssey_", Odysseus was told by the spirit of Tiresias that if
   he ever made it back to Ithaca, he was to put one oar on his shoulder and
   walk inland, until he reached a people who knew nothing of sailing.
   There, he was to offer a sacrifice to Poseidon, after which he would be
@@ -9506,10 +9506,10 @@ SOUL MUSIC
 - [p. 298/225] "[...] somewhere where no one remembers your name."
 
   Since Death has actually gone to the Mended Drum, it's not too
-  far-fetched to assume this is a nod to the theme song of _Cheers_, the
+  far-fetched to assume this is a nod to the theme song of "Cheers_", the
   bar "where everybody knows your name".
 
-- [p. 299/225] "_He built me a swing_, Susan remembered."
+- [p. 299/225] ""`He built me a swing`_", Susan remembered."
 
   Death's attempts to build a swing for Susan are a Discworld version of a
   cartoon that has been doing the rounds in offices all over the world.
@@ -9526,7 +9526,7 @@ SOUL MUSIC
   sexual transgressions -- at one point he was even charged with statutory
   rape, arrested and brought to trial, then acquitted.
 
-- [p. 306/231] "_I can feel it. Every day. It's getting closer..._"
+- [p. 306/231] ""`I can feel it. Every day. It's getting closer..._"
 
   This is part of the lyrics to Buddy Holly's 'Everyday':
 
@@ -9586,13 +9586,13 @@ SOUL MUSIC
 - [p. 324/244] "'Well, it's got a beat and you can dance to it,' [...]"
 
   This, usually followed by something like "I'll give it a 92", is a cliche
-  made famous by the TV music show _American Bandstand_, hosted by Dick
-  Clark in the 50s and 60s. _American Bandstand_ was televised daily in the
+  made famous by the TV music show "`American Bandstand`_", hosted by Dick
+  Clark in the 50s and 60s. "`American Bandstand`_" was televised daily in the
   afternoon (weekly, in later years) and helped introduce such stars of the
   era as Chubby Checker, Paul Anka and Frankie Avalon.
 
 - [p. 326/245] "'I... won this,' said Buddy, in a small distant world of
-  his own. 'With a song. _Sioni Bod Da_, it was.'"
+  his own. 'With a song. "`Sioni Bod Da`_", it was.'"
 
   'Bod Da' is Welsh for 'be good'. Ergo, 'Sioni Bod Da' = 'Johnny B.
   Goode'. See also the annotation for p. 270/204.
@@ -9630,7 +9630,7 @@ SOUL MUSIC
 
   Death is paraphrasing lines made famous by Arnold Schwarzenegger in his
   role as the Terminator. Interestingly enough, the music accompanying the
-  scene in question in _Terminator II_ is the song 'Bad to the Bone'...
+  scene in question in "`Terminator II`_" is the song 'Bad to the Bone'...
 
   There is an even more subtle reference hidden here, however. After this
   scene, Death will be riding towards the site of the crash in "a coat he
@@ -9641,7 +9641,7 @@ SOUL MUSIC
 - [p. 350/264] "The flower-bed erupted.'"
 
   This is the written counterpart to Josh Kirby's cover painting, and
-  likewise a Discworld version of Meatloaf's _Bat out of Hell_, both the
+  likewise a Discworld version of Meatloaf's "`Bat out of Hell`_", both the
   album sleeve and the song.
 
 - [p. 352/266] "'He... he had a rose in his teeth, sarge.'"
@@ -9651,7 +9651,7 @@ SOUL MUSIC
 
 + [p. 363/274] "He held up a hand. It was transparent."
 
-  Another resonance with the first _Back to the Future_ movie. When the
+  Another resonance with the first "`Back to the Future`_" movie. When the
   timelines start to converge, and Marty is also on the verge of being
   erased from the one he's currently in, his hand becomes transparent, just
   as he's playing (wait for it)... 'Johnny B. Goode'.
@@ -9659,13 +9659,13 @@ SOUL MUSIC
 + [p. 363/274] "There was a roar like the scream of a camel who has just
   seen two bricks."
 
-  See the annotation for p. 221 of _Pyramids_.
+  See the annotation for p. 221 of "Pyramids_".
 
 - [p. 364/275] "A small fingerbone rolled across the stones until it came
   up against another, slightly larger bone."
 
   In light of the earlier Terminator references, most of my correspondents
-  think this scene replays the one in _Terminator II_ where the T-1000
+  think this scene replays the one in "`Terminator II`_" where the T-1000
   model Terminator, after having been frozen by liquid nitrogen and then
   shattered, slowly starts to reassemble itself.
 
@@ -9700,34 +9700,34 @@ SOUL MUSIC
   See the annotation for p. 173/130.
 
 
-INTERESTING TIMES
+Interesting Times
 ~~~~~~~~~~~~~~~~~
 
-- [title] _Interesting Times_
+- [title] "`Interesting Times`_"
 
   One remarkable thing about this book's title is that it changed at least
-  twice since Terry began working on it. It started out as _Unclear
-  Physics_, then became _Imperial Wizard_ for a few days, and finally ended
-  up as _Interesting Times_:
+  twice since Terry began working on it. It started out as "`Unclear
+  Physics`_", then became "`Imperial Wizard`_" for a few days, and finally ended
+  up as "`Interesting Times_:
 
   "Rincewind and Cohen are having such fun -- that is to say, death and
   terror attend them at every step -- on the Counterweight Continent and
   the Forbidden City of the Agatean Empire that it might well end up being
-  called: _Imperial Wizard_ ...which ought to sell well in the US. In some
+  called: "`Imperial Wizard`_" ...which ought to sell well in the US. In some
   States, anyway."
 
   "The editor and my main beta-test reader have raised objections to the
-  title _Unclear Physics_. They think it's a lovely title but they don't
+  title "`Unclear Physics`_". They think it's a lovely title but they don't
   think it's a good one for this book. Nor do I, because I've got a better
   use for it -- I've realised how to utilize the squash court in UU... So
-  it will be the original working title: _Interesting Times_. At least for
+  it will be the original working title: "`Interesting Times`_". At least for
   this week."
 
 - [p. 9/7] "'I accuse the High Priest of the Green Robe in the library with
   the double-handed axe.'"
 
   Fate and the other Gods are playing the Discworld variant of the board
-  game _Clue_ (known as _Cluedo_ outside North America).
+  game "Clue_" (known as "Cluedo_" outside North America).
 
   The object of this game is to deduce not only which of several suspects
   has murdered the unfortunate 'Mr X', but also what weapon was used, and
@@ -9743,7 +9743,7 @@ INTERESTING TIMES
 
   I'm a bit surprised at having to annotate this, but apparently not
   everyone recognises just who the Lady is. She is of course none other
-  than Lady Luck, who was first introduced in _The Colour of Magic_, and
+  than Lady Luck, who was first introduced in "`The Colour of Magic`_", and
   who has always had a soft spot for Rincewind, possibly because he never
   relies on her.
 
@@ -9755,8 +9755,8 @@ INTERESTING TIMES
 
   The presence of the McSweeney name ("very old established family") in
   this list is used as a running gag throughout the book. It also reminded
-  me of James Clavell's Hong Kong novels (_Tai-Pan_, _Noble House_ and
-  _Gai-Jin_), which chronicle the Asian business empire founded and headed
+  me of James Clavell's Hong Kong novels ("`Tai-Pan`_", "`Noble House`_" and
+  "`Gai-Jin`_"), which chronicle the Asian business empire founded and headed
   by various generations of the Scottish Struan family.
 
 - [p. 13/10] "[...] the mandelbrot patterns on the wings are of
@@ -9779,7 +9779,7 @@ INTERESTING TIMES
 
 - [p. 36/29] "'Curiouser and curiouser,' said the Senior Wrangler."
 
-  A famous quote from _Alice in Wonderland_. Not surprisingly, it merely
+  A famous quote from "`Alice in Wonderland`_". Not surprisingly, it merely
   confuses the other wizards.
 
 - [p. 44/35] "'To answer such questions Hex had been built, [...]'"
@@ -9837,14 +9837,14 @@ INTERESTING TIMES
 - [p. 49/39] "[...] the Bursar, still happily living in the valley of the
   dried frogs."
 
-  The 'dolls' in the movie title _Valley of the Dolls_ refers to the pills
+  The 'dolls' in the movie title "`Valley of the Dolls`_" refers to the pills
   to which the starlets were addicted.
 
 - [p. 51/41] "'Wardrobe? Er... Er... Isn't this the Magic Kingdom of
   Scrumptiousness?' [...]"
 
   A reference to the Kingdom of Narnia, from C. S. Lewis' series of books.
-  See the annotation for p. 22/22 of _Sourcery_.
+  See the annotation for p. 22/22 of "Sourcery_".
 
 - [p. 54/43] "'We must storm the Winter Palace! [...] Then we can storm the
   Summer Palace!'"
@@ -9862,7 +9862,7 @@ INTERESTING TIMES
 
 - [p. 56/45] "'Your Wife is a big hippo'"
 
-  In _Interesting Times_, much is made of similar sounding words having
+  In "`Interesting Times`_", much is made of similar sounding words having
   totally different meanings. Languages such as Chinese and Japanese pay
   great attention to the pitch and intonation of words, and the same word
   with a different intonation can indeed have radically different meanings.
@@ -9884,7 +9884,7 @@ INTERESTING TIMES
 
 - [p. 60/48] "'Be afraid. Be very afraid.'"
 
-  A famous line from the 1986 remake of _The Fly_, starring Jeff Goldblum
+  A famous line from the 1986 remake of "`The Fly`_", starring Jeff Goldblum
   and Geena Davis, also used as a tagline to promote the movie.
 
 - [p. 61/48] "... *possibly* the finest lager in the world."
@@ -9896,7 +9896,7 @@ INTERESTING TIMES
   Empire. [...] No one remembered the author. Some said it was One Tzu
   Sung, some claimed it was Three Sun Sung."
 
-  In our world, Sun Tzu's _The Art of War_ is the oldest known military
+  In our world, Sun Tzu's "`The Art of War`_" is the oldest known military
   treatise (around 400 BC). "Know the enemy, and know yourself" is a
   straight quote from the chapter on Offensive Strategy.
 
@@ -9904,8 +9904,8 @@ INTERESTING TIMES
 
   Derived from the 'Golden Horde', one of the successor states to the
   Mongol Empire, based in the steppes of Southern Russia and the Ukraine,
-  and ruled by descendants of Genghiz Khan. There was even a movie, _The
-  Golden Horde_, starring John Wayne as Genghiz Khan. As my correspondent
+  and ruled by descendants of Genghiz Khan. There was even a movie, "`The
+  Golden Horde`_", starring John Wayne as Genghiz Khan. As my correspondent
   puts it: "Disbelief suspended by the neck until dead, dead, dead."
 
 + [p. 72] "'And I was very interested in Auriental studies.'"
@@ -9913,8 +9913,8 @@ INTERESTING TIMES
   'Aurum' is Latin for 'gold'. This is also why 'gold' is signified by
   the symbol 'Au' in the Periodic Table of Elements.
 
-- [p. 107/85] "[...] a complicated pile of ivory tiles, playing _Shibo
-  Yangcong-san_."
+- [p. 107/85] "[...] a complicated pile of ivory tiles, playing "`Shibo
+  Yangcong-san`_"."
 
   In our world the Chinese game of Mahjongg is played with ivory tiles, and
   its rules have many similarities to certain types of western card games.
@@ -9923,7 +9923,7 @@ INTERESTING TIMES
 
 - [p. 111/88] "'Where's the pork?'"
 
-  In the early 80s there was an American TV commercial for the _Wendy's_
+  In the early 80s there was an American TV commercial for the "`Wendy's`_"
   chain of restaurants, featuring an irate old lady looking at her
   hamburger and ranting "Where's the beef?!". This became a national
   catchphrase for a while, and then permanently entered the language when
@@ -9950,7 +9950,7 @@ INTERESTING TIMES
 - [p. 156/125] "There was a corral, for the Luggages."
 
   It is obvious that Luggages are fairly common in the Agatean Empire, yet
-  in _The Light Fantastic_ Twoflower explains that he got his Luggage from
+  in "`The Light Fantastic`_" Twoflower explains that he got his Luggage from
   one of those mysterious magic shops. Terry says:
 
   "That was a long time ago... think of how it's all progressed. They've
@@ -9997,7 +9997,7 @@ INTERESTING TIMES
 - [p. 291/233] "'How lucky do you feel, my lords?'"
 
   Clint Eastwood as Dirty Harry. See the annotation for p. 136/124 of
-  _Guards! Guards!_.
+  "`Guards! Guards!`_".
 
 - [p. 296/238] "A seven foot warrior smiled at him."
 
@@ -10006,7 +10006,7 @@ INTERESTING TIMES
   Province. Huangdi was the first emperor of a unified China (221-207 BC),
   famed for being harsh, autocratic, and intolerant of criticism.
 
-- [p. 303/243] "'_Orrrrr! Itiyorshu! Yutimishu!_'"
+- [p. 303/243] "'"`Orrrrr! Itiyorshu! Yutimishu!_'"
 
   Terry writes:
 
@@ -10032,7 +10032,7 @@ INTERESTING TIMES
   climbing..."
 
   The icons for controlling the Red Clay Army are immediately familiar to
-  anyone who has ever played the computer game _Lemmings_, in which you
+  anyone who has ever played the computer game "Lemmings_", in which you
   have to use similar controls to guide a group of brainlessly wandering
   lemmings across intricate and dangerous underground labyrinths.
 
@@ -10056,25 +10056,25 @@ INTERESTING TIMES
   angular picture of a beagle, standing on its hind legs."
 
   One of the classic computer programs that circulated in the seventies
-  used ASCII characters to 'draw' a picture of Snoopy from _Peanuts_,
+  used ASCII characters to 'draw' a picture of Snoopy from "Peanuts_",
   followed by the year's calendar.
 
 - [p. 351/282] "The old blokes say that sort of thing used to happen all
   the time, back in the Dream."
 
   For an explanation of where exactly Rincewind has landed see the
-  annotation for p. 149/132 of _Reaper Man_ (just in case the significance
+  annotation for p. 149/132 of "`Reaper Man`_" (just in case the significance
   of the word "kangaroo" escaped your attention).
 
   The Dream is a reference to the Aboriginal Dreamtime religion.
 
 
-MASKERADE
+Maskerade
 ~~~~~~~~~
 
-- _Maskerade_, as a parody of _The Phantom of the Opera_, is based largely
+- "Maskerade_", as a parody of "`The Phantom of the Opera`_", is based largely
   upon the musical by Andrew Lloyd Webber, but makes the events and
-  characters more realistic. Hence, in _Phantom_, Christine is the
+  characters more realistic. Hence, in "Phantom_", Christine is the
   beautiful, slim, new star, with a good voice that needs training, holding
   back and reluctant to take her rightful place in the opera. Carlotta is
   the jealous prima donna, with a classical voice on the verge of
@@ -10082,7 +10082,7 @@ MASKERADE
   the owners would be happy to oblige, but for the need to keep Carlotta's
   ego assuaged.
 
-  In _Maskerade_, Christine can't sing, but looks pretty, so both the
+  In "Maskerade_", Christine can't sing, but looks pretty, so both the
   owners and the Phantom fall for her. Agnes, with the voice, is merely
   utilised.
 
@@ -10090,40 +10090,40 @@ MASKERADE
   again,' he said mournfully. 'He's spelt "famine" with seven letters --'"
 
   A reference to the celebrated 'famine' error in the Corgi paperback
-  edition of _Good Omens_. See the annotation for p. 154/98 of _Good
-  Omens_.
+  edition of "`Good Omens`_". See the annotation for p. 154/98 of "`Good
+  Omens`_".
 
 - [p. 12] "'Well, my old granny used to make Spotted Dick --'"
 
-  See the annotation for p. 88/77 of _Witches Abroad_.
+  See the annotation for p. 88/77 of "`Witches Abroad`_".
 
-- [p. 28] "'_Cosi fan Hita_,' she read. '_Die Meistersinger von Scrote_.'"
+- [p. 28] "'"`Cosi fan Hita`_",' she read. '"`Die Meistersinger von Scrote`_".'"
 
   I am almost completely ignorant on the subject of operas, but the titles
-  Terry parodies in _Maskerade_ are so well-known that even I had no
+  Terry parodies in "Maskerade_" are so well-known that even I had no
   problem figuring out the originals. With that in mind I really didn't
   intend to annotate them, but so far nearly everybody who has sent in
-  annotations for _Maskerade_ has mentioned the opera titles, and I fear
+  annotations for "Maskerade_" has mentioned the opera titles, and I fear
   very much that if I don't include them now I will continue to get tons of
   mail about it.
 
-  So: _Cosi fan Hita_ is Mozart's _Cosi fan tutte_, and _Die Meistersinger
-  von Scrote_ is Richard Wagner's _Die Meistersinger von Nuernberg_.
+  So: "`Cosi fan Hita`_" is Mozart's "`Cosi fan tutte`_", and "`Die Meistersinger
+  von Scrote`_" is Richard Wagner's "`Die Meistersinger von Nuernberg`_".
 
 - [p. 32] "She at least respected anyone's right to recreate themselves."
 
-  As does Terry himself -- see the annotation for p. 20/15 of _Soul Music_.
+  As does Terry himself -- see the annotation for p. 20/15 of "`Soul Music`_".
 
-- [p. 36] "'_The Joye of Snacks_,' she read out loud."
+- [p. 36] "'"`The Joye of Snacks`_",' she read out loud."
 
-  The pun on _The Joy of Sex_ is obvious, but what not everybody may know
+  The pun on "`The Joy of Sex`_" is obvious, but what not everybody may know
   is that the title of *that* book, in turn, was inspired by an earlier
-  popular book called _The Joy of Cooking_.
+  popular book called "`The Joy of Cooking`_".
 
 - [p. 42] "'That's why they never sell tickets for Box Eight, didn't you
   know?!'"
 
-  In the _Phantom_, the Phantom's box is Box Five, and it's out of fear
+  In the "Phantom_", the Phantom's box is Box Five, and it's out of fear
   that they don't sell tickets for it. On the Discworld we have seen before
   that important numbers tend to gravitate towards 8, and it's luck (far
   more appropriate in opera) that prevents the sale of tickets.
@@ -10131,7 +10131,7 @@ MASKERADE
 - [p. 43] "'That looks like an accident waiting to happen if I ever saw
   one,' she mumbled."
 
-  In the _Phantom_, one of the most spectacular and well-publicised special
+  In the "Phantom_", one of the most spectacular and well-publicised special
   effects is the crashing of the chandelier onto the stage, at the end of
   act 1. This occurs when Christine and Raoul secretly pledge their love
   for each other, which the Phantom overhears.
@@ -10152,7 +10152,7 @@ MASKERADE
   Nunstuck git und Slotermeyer? Ja! Beiherhund das Oder die Flipperwaldt
   gersput!"
 
-- [p. 56] "'_Schneide meinen eigenen Hals_ --'"
+- [p. 56] "'"`Schneide meinen eigenen Hals`_" --'"
 
   German for: "Cut My Own Throat".
 
@@ -10167,18 +10167,18 @@ MASKERADE
   only way to be sure.'"
 
   Resonates with the famous murder of Rasputin, as well as with the scene
-  in the movie _Aliens_, where Ripley says: "I say we take off and nuke the
+  in the movie "Aliens_", where Ripley says: "I say we take off and nuke the
   site from orbit. It's the only way to be sure."
 
-- [p. 97] "[...] tonight's production of _La Triviata_."
+- [p. 97] "[...] tonight's production of "`La Triviata`_"."
 
-  Verdi's _La Traviata_.
+  Verdi's "`La Traviata`_".
 
 - [p. 97] "'What in fact we would like you to do... Perdita... is *sing*
   the role, indeed, but not, in fact... *play* the role.'"
 
-  This will sound familiar to anyone who has ever seen _Singing in the
-  Rain_, or knows any of the many other stories where this plot device is
+  This will sound familiar to anyone who has ever seen "`Singing in the
+  Rain`_", or knows any of the many other stories where this plot device is
   used. Terry says:
 
   "The idea of an understudy doing all the work for the star is probably a
@@ -10192,9 +10192,9 @@ MASKERADE
   has even been at least one case where the prompter (in the box in front
   of the stage) has tried to jump-start the dumbstruck star with the first
   few words of the song and ended up singing it all the way through. It's
-  not a big step to go from that to the setup in _Maskerade_."
+  not a big step to go from that to the setup in "Maskerade_"."
 
-- [p. 98] "[...] a revival of _The Ring of the Nibelungingung_"
+- [p. 98] "[...] a revival of "`The Ring of the Nibelungingung_"
 
   Wagner's opera is called 'The Ring of the Nibelung', or in German: 'Der
   Ring des Nibelungen'.
@@ -10213,12 +10213,12 @@ MASKERADE
 
   Clarecraft is a company that sells highly popular handcrafted Discworld
   miniatures and jewellery. Information on Clarecraft can be found in the
-  _Discworld Merchandise FAQ_, available from the Pratchett Archives.
+  "`Discworld Merchandise FAQ`_", available from the Pratchett Archives.
 
-  One particular item of jewellery they sell is the _anorankh_, a small
+  One particular item of jewellery they sell is the _anorankh`_", a small
   model of an Egyptian cross wearing an anorak. (Don't ask -- but in case
   you think you want to know: the precise story of how the anorankh came
-  into existence can be found in the _Holy Anorankh_ file, also available
+  into existence can be found in the "`Holy Anorankh`_" file, also available
   from the Pratchett Archives.)
 
   Meanwhile, over on alt.fan.pratchett, it became, for some reason,
@@ -10227,14 +10227,14 @@ MASKERADE
   resident net.goddess and therefore one of the most 'visible' females on
   the group, was one of the most popular proposal targets. (For more
   detailed information about marriage proposals and other characteristic
-  a.f.p. habits, see the _A.f.p. Timeline_ file, also available from -- you
+  a.f.p. habits, see the "`A.f.p. Timeline`_" file, also available from -- you
   guessed it -- the Pratchett Archives.)
 
   With all this background information in mind, I'll let Colette herself
   tell the rest of the story:
 
-  "The interesting earrings thing comes from when I went to the _Discworld
-  Companion_ signing in central London in May 1994. The signing was at
+  "The interesting earrings thing comes from when I went to the "`Discworld
+  Companion`_" signing in central London in May 1994. The signing was at
   lunch-time on a weekday and I was going to see our main computer supplier
   in the afternoon so I was fairly smartly dressed, but I was wearing my
   anorankh earrings, which Terry suddenly noticed while I was standing in
@@ -10242,7 +10242,7 @@ MASKERADE
   them made into earrings.
 
   On 31st December 1994, completely out of the blue, I got an email from
-  Terry. In it he said he was doing the polishing draft of _Maskerade_ and
+  Terry. In it he said he was doing the polishing draft of "Maskerade_" and
   which of the following two characters would I like to be called Colette
   -- the make-up girl at the Opera House, or one of the 'young ladies' at
   Mrs. Palm's and that mention might be made of her interesting earrings.
@@ -10252,7 +10252,7 @@ MASKERADE
   lady' would be much more likely not only to wear interesting earrings,
   but also to receive lots of marriage proposals from men she hardly knew.
 
-  When I got my copy of _Maskerade_ signed, Terry wrote in it 'What's a
+  When I got my copy of "Maskerade_" signed, Terry wrote in it 'What's a
   nice girl like you doing in a book like this?' -- a dedication in the
   same league as that which he wrote when he signed my Discworld game
   booklet, which was 'To Colette, Will you marry me?'"
@@ -10260,12 +10260,12 @@ MASKERADE
 - [p. 99] "'What? You've been here before?' said Nanny, [...]"
 
   Granny met Mrs Palm during her earlier stay in Ankh-Morpork. See the
-  annotation for p. 121/119 in _Equal Rites_.
+  annotation for p. 121/119 in "`Equal Rites`_".
 
 - [p. 123] "'They beat him to death!' [...] 'And they throw him into the
   river!'"
 
-  This is how the silent movie version of _The Phantom of the Opera_ ends.
+  This is how the silent movie version of "`The Phantom of the Opera`_" ends.
 
 + [p. 126] "'Walter's your son?' said Granny. 'Wears a beret?'"
 
@@ -10276,7 +10276,7 @@ MASKERADE
   Many people have also spotted that the description Terry gives of Walter
   Plinge -- beret, brown coat, nervousness, clumsy -- is very similar to
   that of Frank Spencer, the lead character in the British television
-  comedy _Some Mothers Do 'Ave 'Em_. Frank Spencer was played by Michael
+  comedy "`Some Mothers Do 'Ave 'Em`_". Frank Spencer was played by Michael
   Crawford, who went on to become truly famous as the original... Phantom
   of the Opera in Andrew Lloyd Webber's musical. When asked about this,
   Terry said:
@@ -10291,9 +10291,9 @@ MASKERADE
 
 - [p. 138] Grand Guignol
 
-  See the annotation for p. 239/172 of _Lords and Ladies_.
+  See the annotation for p. 239/172 of "`Lords and Ladies`_".
 
-- [p. 149] "Let us examine the role of Laura in _Il Truccatore_ -- "The
+- [p. 149] "Let us examine the role of Laura in "`Il Truccatore`_" -- "The
   Master Of Disguise", also sometimes vulgarly known as "The Man with a
   Thousand Faces"...'"
 
@@ -10305,7 +10305,7 @@ MASKERADE
   the secret?' 'You've got to make sure there's no newts in the water,'
   said Granny."
 
-  This echoes back to the quote in _Reaper Man_:
+  This echoes back to the quote in "`Reaper Man_:
 
   "People have believed for hundreds of years that newts in a well mean
   that the water's fresh and drinkable, and *in all that time* never asked
@@ -10322,7 +10322,7 @@ MASKERADE
   on a cold night wonderin' about when you could be getting on the outside
   of a big drink.'"
 
-  Sherlock Holmes. See the annotation for p. 118/108 of _Guards! Guards!_.
+  Sherlock Holmes. See the annotation for p. 118/108 of "`Guards! Guards!`_".
 
 - [p. 232] Opera names.
 
@@ -10341,7 +10341,7 @@ MASKERADE
 - [p. 247] "'Says here "Cable Street Particulars"...'"
 
   A reference to Conan Doyle's Baker Street Irregulars. See also the entry
-  for the City Watch in _The Discworld Companion_.
+  for the City Watch in "`The Discworld Companion`_".
 
 - [p. 257] "[...] as the opening bars of the duet began, opened her mouth
   -- 'Stop right there!'"
@@ -10358,7 +10358,7 @@ MASKERADE
 - [p. 270] "'Don't cry for me, Genua.'"
 
   'Don't cry for me, Argentina', is the famous ballad from the musical
-  _Evita_.
+  "Evita_".
 
 + [p. 276] "Nanny grinned. 'Ah,' she said, '*Now* the opera's over.'"
 
@@ -10368,20 +10368,20 @@ MASKERADE
 + [p. 276] "He wore red: a red suit with red lace, a red cloak, [...]"
 
   Death dressing up for Salzella makes a nice finishing touch to the
-  whole 'masquerade' theme of the book. It resonates with the _Phantom
-  of the Opera_ musical where the Phantom gatecrashes a party "dressed
+  whole 'masquerade' theme of the book. It resonates with the "`Phantom
+  of the Opera`_" musical where the Phantom gatecrashes a party "dressed
   all in crimson, with a death's head visible inside the hood of his
-  robe", and both scenes in turn evoke Edgar Allan Poe's _The Masque of
-  the Red Death_ (see also the annotation for p. 26/26 of _The Light
-  Fantastic_).
+  robe", and both scenes in turn evoke Edgar Allan Poe's "`The Masque of
+  the Red Death`_" (see also the annotation for p. 26/26 of "`The Light
+  Fantastic`_").
 
 
-FEET OF CLAY
+Feet of Clay
 ~~~~~~~~~~~~
 
-+ [title] _Feet of Clay_
++ [title] "`Feet of Clay`_"
 
-  The original working title for this book was _Words in the Head_.
+  The original working title for this book was "`Words in the Head`_".
 
   "Feet of Clay" is a biblical reference. The Babylonian king
   Nebuchadnezzar had a dream in which he saw a statue whose head was made
@@ -10412,8 +10412,8 @@ FEET OF CLAY
         Thieves' Guild: "acutus id verberat" -- "sharp's the word"
 
         Vimes family: "protego et servio" -- "I protect and serve". In the
-          centre of the crest is the number 177, which -- we learnt in _Men
-          at Arms_ -- is Vimes' own badge number.
+          centre of the crest is the number 177, which -- we learnt in "`Men
+          at Arms`_" -- is Vimes' own badge number.
 
 + [p. 7] "WE HEAR YOU WANT A GOLEM."
 
@@ -10432,9 +10432,9 @@ FEET OF CLAY
   One episode in the life of the golem of Prague -- the best known of the
   mythical creatures -- tells that the golem was ordered to fetch water,
   but never told to stop, thus causing a flood. This is very similar to
-  (and may be borrowed from) the classic children's story _The Sorcerer's
-  Apprentice_ (_Der Zauberlehrling_, a German poem by Goethe), also used in
-  Disney's classic animated film _Fantasia_. A spell used to animate a
+  (and may be borrowed from) the classic children's story "`The Sorcerer's
+  Apprentice`_" ("`Der Zauberlehrling`_", a German poem by Goethe), also used in
+  Disney's classic animated film "Fantasia_". A spell used to animate a
   broom to speed housework gets out of control, leading to a frightening
   procession of hundreds of brooms bringing water from the well. The French
   composer Paul Dukas based the music on Goethe's poem. A more direct
@@ -10447,7 +10447,7 @@ FEET OF CLAY
 + [p. 17] "[...] I am sure I have told you about the Cable Street
   Particulars, [...]"
 
-  See the annotation for p. 247 of _Maskerade_.
+  See the annotation for p. 247 of "Maskerade_".
 
 + [p. 19] "I AM DEATH, NOT TAXES."
 
@@ -10471,7 +10471,7 @@ FEET OF CLAY
 
 + [p. 24] "'Where the sun doesn't shine'"
 
-  A running gag from _Lords and Ladies_: the place where the sun does not
+  A running gag from "`Lords and Ladies_: the place where the sun does not
   shine, on the Discworld, is a valley in Slice, near Lancre.
 
 + [p. 25] "Clinkerbell"
@@ -10490,17 +10490,17 @@ FEET OF CLAY
   parody of a Yorkshire accent, presumably for similar reasons.
 
 + [p. 30] The shield design described is the Ankh-Morpork coat of arms, not
-  shown in the front of the book (but on the cover of _Streets of
-  Ankh-Morpork_).
+  shown in the front of the book (but on the cover of "`Streets of
+  Ankh-Morpork`_").
 
 + [p. 27] "'[...] he's got a loaded wolf.'"
 
-  Possibly a reference to the Australian story of _The Loaded Dog_.
+  Possibly a reference to the Australian story of "`The Loaded Dog`_".
 
 + [p. 29] 'Daphne's ancestors came all the way from some islands on the
   other side of the Hub.'
 
-  See the annotation for p. 9/9 of _The Colour Of Magic_, but specifically
+  See the annotation for p. 9/9 of "`The Colour Of Magic`_", but specifically
   referring to the brown owls of New Zealand, which, to a British
   viewpoint, are 'some islands on the other side of the world'. Thus the
   morpork could be compared to the New Zealand brown owl.
@@ -10515,7 +10515,7 @@ FEET OF CLAY
   Senior to the pursuivants are the kings of arms, although none really
   corresponds to 'Dragon'. This has been linked with 'Dracula' -- the most
   famous vampire of all -- which is itself a title meaning 'little dragon'.
-  It also harks back to _Guards! Guards!_, in which a dragon actually
+  It also harks back to "`Guards! Guards!`_", in which a dragon actually
   *became* king of Ankh-Morpork, albeit briefly.
 
 + [p. 35] "'There are plenty of kosher butchers down in Long Hogmeat.'"
@@ -10525,7 +10525,7 @@ FEET OF CLAY
   Hogmeat', however, is a bit more disturbing: apart from the question of
   how 'hogmeat' could be kosher, it also sounds suspiciously like 'long
   pig', which is pidgin for 'human flesh'. (See also the annotation for p.
-  239/180 of _Soul Music_.
+  239/180 of "`Soul Music`_".
 
 + [p. 36] "Commander of the City Watch in 1688"
 
@@ -10555,14 +10555,14 @@ FEET OF CLAY
 + [p. 41] "Commander Vimes, on the other hand, was all for giving criminals
   a short, sharp shock."
 
-  "Short sharp shock" was coined in Gilbert & Sullivan's _The Mikado_ as a
+  "Short sharp shock" was coined in Gilbert & Sullivan's "`The Mikado`_" as a
   euphemism for 'execution'. In 1980s Britain, Tory home secretaries used
   the phrase to refer to the brief-but-harsh imprisonment of young
   offenders.
 
 + [p. 44] "'Delphine Angua von Uberwald,' read the Dragon aloud."
 
-  Uberwald (on _The Discworld Mapp_ spelled with an umlaut over the U) is
+  Uberwald (on "`The Discworld Mapp`_" spelled with an umlaut over the U) is
   'Over/beyond the forest' in German. In Latin, that's "Transylvania" -- a
   part of Romania traditionally associated with the undead (most
   prominently, Count Dracula).
@@ -10578,7 +10578,7 @@ FEET OF CLAY
 
 + [p. 46] "Constable Visit was an Omnian, [...]"
 
-  Read _Small Gods_ for much more information about Omnia. Brutha seems to
+  Read "`Small Gods`_" for much more information about Omnia. Brutha seems to
   have taken a religion devoted to violent conquest and turned it into
   something closely akin to modern evangelical Christianity.
 
@@ -10596,14 +10596,14 @@ FEET OF CLAY
 + [p. 55] "Lord Vetinari had always said that punctuality was the
   politeness of princes."
 
-  In our world, the _Oxford Dictionary of Quotations_ attributes this
+  In our world, the "`Oxford Dictionary of Quotations`_" attributes this
   saying to Louis XVIII.
 
 + [p. 55] "It is a pervasive and beguiling myth that the people who design
   instruments of death end up being killed by them."
 
   This myth may have been started by William Makepeace Thackery, who asked
-  in his novel _The Adventures of Philip on His Way Through the World_:
+  in his novel "`The Adventures of Philip on His Way Through the World_:
   "Was not good Dr Guillotin executed by his own neat invention?". As Terry
   notes, he was not.
 
@@ -10611,13 +10611,13 @@ FEET OF CLAY
   as you can.'"
 
   This idea has been used in many detective stories, but most famously in
-  _Blade Runner_, where the main character is able to blow up a reflection
+  "`Blade Runner`_", where the main character is able to blow up a reflection
   in a photograph far beyond plausible limits.
 
 + [p. 63] "[...], or dribble some in their ear while they slept."
 
   A curious method of administering poison, most famously mentioned in
-  _Hamlet_.
+  "Hamlet_".
 
 + [p. 64] "'Crushed diamonds used to be in vogue for hundreds of years,
   despite the fact that they never worked.'"
@@ -10651,9 +10651,9 @@ FEET OF CLAY
   Parliamentarian soldiers of Oliver Cromwell, clearly the model for
   Suffer-Not-Injustice Vimes.
 
-+ [p. 71] "_Twurp's Peerage_"
++ [p. 71] ""`Twurp's Peerage_"
 
-  See the annotation for p. 191/138 of _Lords and Ladies_.
+  See the annotation for p. 191/138 of "`Lords and Ladies`_".
 
 + [p. 72] "But kill one wretched king and everyone calls you a regicide."
 
@@ -10680,7 +10680,7 @@ FEET OF CLAY
   potter's wheel."
 
   Igneous' shop has several parallels with a shop in the Sherlock Holmes
-  story of _The Six Napoleons_.
+  story of "`The Six Napoleons`_".
 
   Holmes encounters a pottery/stonework shop staffed mainly by Italians,
   who were also hiding out from the law and various other enemies, and is
@@ -10706,15 +10706,15 @@ FEET OF CLAY
 
   The perfect name for an undead bar. Puns on "beer", which you would
   normally associate with a tavern, and on "bier", which you would normally
-  associate with being dead. Also puns on _Cheers_, the fictional Boston
+  associate with being dead. Also puns on "Cheers_", the fictional Boston
   tavern in the long-running US TV comedy of the same name.
 
 + [p. 85] "'But sometimes it's good to go where everybody knows your
   shape.'"
 
-  The theme song of _Cheers_ contains the line "sometimes you want to go
+  The theme song of "Cheers_" contains the line "sometimes you want to go
   where everybody knows your name". See the annotation for p. 84, and the
-  annotation for p. 298/225 of _Soul Music_.
+  annotation for p. 298/225 of "`Soul Music`_".
 
 + [p. 86] "'That's Old Man Trouble,' said Angua. 'If you know what's good
   for you, you *don't* mind him.'"
@@ -10730,7 +10730,7 @@ FEET OF CLAY
   seduction by Zeus, had been transformed into a cow in an attempt to
   keep Hera from getting suspicious. No such luck.
 
-+ [p. 90] "'*These* words are from the Cenotine _Book of Truth_, [...]'"
++ [p. 90] "'*These* words are from the Cenotine "`Book of Truth`_", [...]'"
 
   There have been a number of suggestions for the derivation of this name.
   The root "ken" in Hebrew means "honest, truthful, correct". "Cenogenesis"
@@ -10741,8 +10741,8 @@ FEET OF CLAY
 
 + [p. 91] Magazine titles.
 
-  _Unadorned Facts_ and _Battle Call_ are plays on _The Plain Truth_,
-  published by the Worldwide Church of God, and _War Cry_, published by the
+  "`Unadorned Facts`_" and "`Battle Call`_" are plays on "`The Plain Truth`_",
+  published by the Worldwide Church of God, and "`War Cry`_", published by the
   Salvation Army.
 
 + [p. 92] "'[...] Mr Dorfl.'"
@@ -10781,25 +10781,25 @@ FEET OF CLAY
   Jewish holy days do, indeed, run from sunset to sunset. Cf. Genesis 1:5:
   "The evening and the morning were the first day."
 
-+ [p. 109] "_The Rites of Man_"
++ [p. 109] ""`The Rites of Man_"
 
-  Thomas Paine wrote a justification of the French Revolution entitled _The
-  Rights of Man_
+  Thomas Paine wrote a justification of the French Revolution entitled "`The
+  Rights of Man`_"
 
 + [p. 110] "[...], licking his fingers delicately to turn the thin pages."
 
   Another red herring. Putting poison on the pages of a book, so that it is
   self-administered to the reader in this way, is an idea famously used in
-  Umberto Eco's medieval mystery _The Name of the Rose_.
+  Umberto Eco's medieval mystery "`The Name of the Rose`_".
 
 + [p. 115] "You came with me when they had that course at the YMPA.'"
 
-  See the annotation for p. 88/88 of _The Light Fantastic_. The YMCA runs
+  See the annotation for p. 88/88 of "`The Light Fantastic`_". The YMCA runs
   summer courses for children, and presumably for adults as well.
 
 + [p. 120] "'*Nobblyesse obligay*,' [...]"
 
-  See the annotation for p. 235/206 of _Reaper Man_.
+  See the annotation for p. 235/206 of "`Reaper Man`_".
 
 + [p. 123] "'It's "a mess of pottage", [...]'"
 
@@ -10814,7 +10814,7 @@ FEET OF CLAY
 
 + [p. 123]  "'Who streals my prurse streals trasph, right?'"
 
-  Iago would rather be robbed than slandered in _Othello_, act 3, scene 3:
+  Iago would rather be robbed than slandered in "Othello_", act 3, scene 3:
 
         Who steals my purse steals trash; 'tis something, nothing;
         'Twas mine, 'tis his, and has been slave to thousands:
@@ -10826,8 +10826,8 @@ FEET OF CLAY
 
   The copper within days or hours of retirement has become a police movie
   cliche; traditionally, anyone who starts talking like this is likely to
-  die within the short time left. Two examples occur in the films _Lethal
-  Weapon 2_ and _Falling Down_.
+  die within the short time left. Two examples occur in the films "`Lethal
+  Weapon 2`_" and "`Falling Down`_".
 
 + [p. 129] "'[...] ole Zhlob just used to plod along, [...]'"
 
@@ -10857,11 +10857,11 @@ FEET OF CLAY
 
 + [p. 135] "One had a duck on his head, [...]"
 
-  See the annotation for p. 272/204 of _Soul Music_.
+  See the annotation for p. 272/204 of "`Soul Music`_".
 
 + [p. 136] "'Buggrit, millennium hand and shrimp!'"
 
-  See the annotation for p. 324/233 of _Lords and Ladies_.
+  See the annotation for p. 324/233 of "`Lords and Ladies`_".
 
 + [p. 138] "'Dibbuk? Where the hell are you?'"
 
@@ -10871,7 +10871,7 @@ FEET OF CLAY
 + [p. 140] "'We're all lyin' in the gutter, Fred. But some of us're lookin'
   at the stars...'"
 
-  From Oscar Wilde, _Lady Windermere's Fan_, Act 3. Although it can't be
+  From Oscar Wilde, "`Lady Windermere's Fan`_", Act 3. Although it can't be
   easy to see the stars through all that fog.
 
 + [p. 142] "He distrusted the kind of person who'd take one look at
@@ -10891,7 +10891,7 @@ FEET OF CLAY
   Another dig at Holmes, who said precisely this.
 
 + [p. 145] The description of Vetinari's drawing matches the cover of the
-  original publication of Thomas Hobbes' _Leviathan_, possibly *the* most
+  original publication of Thomas Hobbes' "Leviathan_", possibly *the* most
   influential work of mainstream political theory.
 
   The book argues that for people to come together in a society, they
@@ -10906,7 +10906,7 @@ FEET OF CLAY
   See the annotation for p. 65.
 
   A number of people also wrote to say that they were reminded of Charlotte
-  Perkins Gilman's story _The Yellow Wallpaper_ (1892), about a woman who
+  Perkins Gilman's story "`The Yellow Wallpaper`_" (1892), about a woman who
   is indeed driven mad by wallpaper.
 
 + [p. 148] "'We're known for rings, sir.'"
@@ -10930,7 +10930,7 @@ FEET OF CLAY
 
   The decoration in the ceiling of the Rats Chamber -- a group of rats with
   their tails tied together -- is called a rat king. According to Maarten
-  't Hart, in _Rats_ (translated from the Dutch), some 57 rat kings have
+  't Hart, in "Rats_" (translated from the Dutch), some 57 rat kings have
   been found since the 17th century, although several are of dubious
   authenticity. They are often found alive, and can contain as few as three
   or as many as 32 members, although seven is the commonest number. Members
@@ -10951,7 +10951,7 @@ FEET OF CLAY
 + [p. ???] "[...] Mrs Rosemary Palm, head of the Guild of Seamstresses
   [...]"
 
-  See the annotation for p. 121/119 of _Equal Rites_.
+  See the annotation for p. 121/119 of "`Equal Rites`_".
 
 + [p. 155] "'Remember when he made his horse a city councillor?'"
 
@@ -10995,7 +10995,7 @@ FEET OF CLAY
 
 + [p. 189] "*'She feels the need,' [...] 'Yeah, the need to feed.'*"
 
-  In the movie _Top Gun_, the pilots boast that they 'feel the need; the
+  In the movie "`Top Gun`_", the pilots boast that they 'feel the need; the
   need for speed.'
 
 + [p. 190] "That horrible green wallpaper."
@@ -11071,7 +11071,7 @@ FEET OF CLAY
   of old junk and tools to make a fully functional armoured car."
 
   Most correspondent feel that the "extreme cases" are exactly the kind
-  that the heroes of the television series _The A-Team_ for years
+  that the heroes of the television series "`The A-Team`_" for years
   encountered on an almost weekly basis.
 
 + [p. 203] "[...] the crowd opened up like a watercourse in front of
@@ -11090,8 +11090,8 @@ FEET OF CLAY
   putting itself together.'"
 
   The monster breaking into pieces and then reassembling itself is probably
-  best known from _Terminator 2_ (see also the annotation for p. 364/275 of
-  _Soul Music_), but there are earlier references. In _The Iron Man_ by Ted
+  best known from "`Terminator 2`_" (see also the annotation for p. 364/275 of
+  "`Soul Music`_"), but there are earlier references. In "`The Iron Man`_" by Ted
   Hughes (1968) the iron man/robot falls over the edge of a cliff and
   breaks into many pieces. The fingers put the hands together then they
   pick up an eye and start putting the rest of the body together.
@@ -11100,7 +11100,7 @@ FEET OF CLAY
   especially when your lighted cigar is in the way."
 
   ...unless, of course, you *want* a small fireball. This trick is used in
-  the 1959 film _The League of Gentlemen_.
+  the 1959 film "`The League of Gentlemen`_".
 
 + [p. 230] "'I wanted to buy a farm!' moaned Colon. 'Could be,' said
   Arthur."
@@ -11118,8 +11118,8 @@ FEET OF CLAY
 
 + [p. 236] "'Hello hello hello, what's all this, then?'"
 
-  Catchphrase from the _Dixon of Dock Green_ TV series. See the annotation
-  for p. 60/55 of _Guards! Guards!_.
+  Catchphrase from the "`Dixon of Dock Green`_" TV series. See the annotation
+  for p. 60/55 of "`Guards! Guards!`_".
 
 + [p. 245] "'That's Mr Catterail, sir."
 
@@ -11137,20 +11137,20 @@ FEET OF CLAY
   and began to pound on its head with the hilt of his sword. It staggered
   and tried to reach up to pull him off."
 
-  In _Robocop 2_, our hero (Robo) jumped on the back of the 'Robocop 2' and
+  In "`Robocop 2`_", our hero (Robo) jumped on the back of the 'Robocop 2' and
   tried to open its head.
 
 + [p. 260] "'They gave their own golem too many, I can see that."
 
   The way the king golem is driven mad by the number of rules in its head
-  reminded many people of a scene in _Robocop 2_, where Robocop is rendered
+  reminded many people of a scene in "`Robocop 2`_", where Robocop is rendered
   useless by programming with several, partly conflicting rules. This
   slightly tenuous connection is reinforced by several further similarities
   between Dorfl and Robocop.
 
   Never mind Robocop, however: one correspondent has posited that the
   entire candle factory sequence is a clever amalgam of the endings to
-  *both* _Terminator_ movies. I will let him explain this to you in his
+  *both* "Terminator_" movies. I will let him explain this to you in his
   own words -- I couldn't bring myself to paraphrase or edit it down:
 
   "The candle factory itself, with all the candle production lines is
@@ -11188,7 +11188,7 @@ FEET OF CLAY
 + [p. 260] "'We can rebuild him,' said Carrot hoarsely. 'We have the
   pottery.'"
 
-  From the 70s TV series _The Six Million Dollar Man_: "We can rebuild him.
+  From the 70s TV series "`The Six Million Dollar Man`"_: "We can rebuild him.
   We have the technology."
 
 + [p. 272] "'Undead Or Alive, You Are Coming With Me!'"
@@ -11253,13 +11253,13 @@ FEET OF CLAY
   However, Dorfl has just told Vimes that he will never *be* off duty...
 
 
-HOGFATHER
+Hogfather
 ~~~~~~~~~
 
 + [dedication] "To the guerilla bookshop manager known to friends as
   'ppint' [...]"
 
-  The bookshop in question is _Interstellar Master Traders_ in Lancaster.
+  The bookshop in question is "`Interstellar Master Traders`_" in Lancaster.
   ppint is a longtime contributor to alt.fan.pratchett, well-known for,
   amongst many other things, maintaining a number of that group's
   "Frequently Asked Questions" documents.
@@ -11272,10 +11272,10 @@ HOGFATHER
   question to him: "'Actually... where *do* [the Tooth Fairies] take the
   teeth?'"
 
-+ When _Hogfather_ was being written, Terry answered the question what it
++ When "Hogfather_" was being written, Terry answered the question what it
   was going to be about as follows:
 
-  "Let's see, now...in _Hogfather_ there are a number of stabbings,
+  "Let's see, now...in "Hogfather_" there are a number of stabbings,
   someone's killed by a man made of knives, someone's killed by the dark,
   and someone just been killed by a wardrobe.
 
@@ -11286,7 +11286,7 @@ HOGFATHER
   Most physicists believe the universe started with a 'big bang.' The
   contrary view is that the universe is essentially a 'steady state'
   system, though this is difficult to reconcile with the available
-  evidence. See also the annotation for p. 8/8 of _The Colour of Magic_.
+  evidence. See also the annotation for p. 8/8 of "`The Colour of Magic`_".
 
 + [p. 8] "[...] the Verruca Gnome is running around [...]"
 
@@ -11298,32 +11298,32 @@ HOGFATHER
   need for the Sandman.'"
 
   The Sandman supposedly sends children to sleep by throwing sand in their
-  eyes, although we have found out (in _Soul Music_) that, on the
+  eyes, although we have found out (in "`Soul Music`_") that, on the
   Discworld, he doesn't bother to take the sand out of the sack first.
 
 + [p. 13] "'And, since I can carry a tune quite well, I suspect I'm not
   likely to attract the attention of Old Man Trouble.'"
 
   A character from the Gershwin song 'I've Got Rhythm'. See also the
-  annotation for p. 86 of _Feet of Clay_.
+  annotation for p. 86 of "`Feet of Clay`_".
 
 + [p. 16] "'Let us call him the Fat Man.'"
 
   This nickname has an honourable history, dating back at least as far as
-  the 1941 classic film _The Maltese Falcon_. It was also the codename of
+  the 1941 classic film "`The Maltese Falcon`_". It was also the codename of
   the second (and, so far, the last) atomic bomb ever used in war, which
   was dropped on Nagasaki in August 1945.
 
 + [p. 24] "She'd got Gawain on the military campaigns of General Tacticus,
   [...]"
 
-  We learn a lot more about this character in _Jingo_. The name seems to be
+  We learn a lot more about this character in "Jingo_". The name seems to be
   a conflation of the word 'tactics' with the Roman historian Tacitus.
 
 + [p. 25] "[...] if she did indeed ever find herself dancing on rooftops
   with chimney sweeps [...]"
 
-  A famous scene from the 1964 film _Mary Poppins_. Miss Poppins used her
+  A famous scene from the 1964 film "`Mary Poppins`_". Miss Poppins used her
   umbrella as a sort of magic wand to grant wishes for the children in her
   charge. See also the annotation for p. 56.
 
@@ -11341,8 +11341,8 @@ HOGFATHER
 + [p. 26] "'[...] *yes*, Twyla: there *is* a Hogfather.'"
 
   Susan's response to Twyla's question loosely parodies a delightfully
-  sentimental editorial that first appeared in _The New York Sun_ in
-  December 1897. The editorial _Yes, Virginia, There Is a Santa Claus_,
+  sentimental editorial that first appeared in "`The New York Sun`_" in
+  December 1897. The editorial "`Yes, Virginia, There Is a Santa Claus`_",
   appropriately enough, uses the ideas of 'deeper truths' and 'values' to
   demonstrate that Santa *must* exist.
 
@@ -11373,12 +11373,12 @@ HOGFATHER
 
 + [p. 42] "'Give me a child until he seven and he is mine for life.'"
 
-  A Jesuit maxim. See the annotation for p. 12/10 of _Small Gods_.
+  A Jesuit maxim. See the annotation for p. 12/10 of "`Small Gods`_".
 
 + [p. 44] "It was the night before Hogwatch. All through the house...
   ...one creature stirred. It was a mouse."
 
-  In Clement Clarke Moore's poem _The Night Before Christmas_, "not a
+  In Clement Clarke Moore's poem "`The Night Before Christmas`_", "not a
   creature was stirring, not even a mouse".
 
 + [p. 47] "[...] the Quirmian philosopher Ventre, who said, 'Possibly the
@@ -11395,7 +11395,7 @@ HOGFATHER
 
 + [p. 47] "'You could try "Pig-hooey!"'"
 
-  In P. G. Wodehouse's _Blandings Castle_, this cry was recommended to
+  In P. G. Wodehouse's "`Blandings Castle`_", this cry was recommended to
   Clarence, Earl of Emsworth, as an all-purpose call to food, and used in
   the enforced absence of his pig man to get the mighty Empress back to the
   trough. As such it is perhaps not surprising that Gouger, Rooter, Tusker
@@ -11410,8 +11410,8 @@ HOGFATHER
 + [p. 49] "In Biers no one took any notice."
 
   The bar "Cheers", from the TV show of the same name, has often been
-  parodied as "Beers". See also the annotation for p. 84 of _Feet of
-  Clay_.
+  parodied as "Beers". See also the annotation for p. 84 of "`Feet of
+  Clay`_".
 
 + [p. 50] "'Now then, Shlimazel'"
 
@@ -11434,25 +11434,25 @@ HOGFATHER
 
 + [p. 56] "the window opened into the branches of a cherry tree."
 
-  Possibly another echo of _Mary Poppins_ (see the annotation for p.
+  Possibly another echo of "`Mary Poppins`_" (see the annotation for p.
   25), who lived at 10 Cherry Tree Road. The raven's constant harping on
   about robins also echoes the movie.
 
 + [p. 60] "'The rat says: you'd better watch out...'"
 
   The song "Santa Claus is coming to town" takes on a whole new meaning on
-  the Discworld. See also the annotation for p. 69/52 of _Soul Music_.
+  the Discworld. See also the annotation for p. 69/52 of "`Soul Music`_".
 
 + [p. 66] "She'd never looked for eggs laid by the Soul Cake Duck."
 
   The Discworld equivalent of the Easter Bunny. See also the annotation
-  for p. 193/139 of _Lords and Ladies_.
+  for p. 193/139 of "`Lords and Ladies`_".
 
 + [p. 67] "'I happen to like fern patterns,' said Jack Frost coldly."
 
   A Tom Swiftie, followed by another one on the next page: "'I don't
-  sleep,' said Frost icily, [...]". See the annotation for p. 26/26 of _The
-  Light Fantastic_.
+  sleep,' said Frost icily, [...]". See the annotation for p. 26/26 of "`The
+  Light Fantastic`_".
 
 + [p. 73] "In general outline, at least. But with more of a PG rating."
 
@@ -11464,23 +11464,23 @@ HOGFATHER
 
   In mathematics, between every rational number there are an infinite
   number of irrational numbers. A rational number is a number that can be
-  expressed in the form of _p/q_ where _p_ and _q_ are integers. Irrational
-  numbers are ones that can't, such as _pi_ or the square root of 2.
+  expressed in the form of _p/q`_" where _p`_" and _q`_" are integers. Irrational
+  numbers are ones that can't, such as _pi`_" or the square root of 2.
 
 + [p. 77] "A man might spend his life peering at the private life of
   elementary particles and then find he either knew who he was or where he
   was, but not both."
 
   A lovely reference to Heisenberg's Uncertainty Principle (see the
-  annotation for p. 178/171 of _Pyramids_). Also plays on the stereotype of
+  annotation for p. 178/171 of "Pyramids_"). Also plays on the stereotype of
   the absent-minded old scientist.
 
 + [p. 79] "'Archchancellor Weatherwax only used it once [...]'"
 
-  Archchancellor Weatherwax was in charge of UU in the time of _The Light
-  Fantastic_, estimated (by some deeply contorted calculation) to be set
-  about 25 years before the time of _Hogfather_. See also the annotation
-  for p. 8/8 of _The Light Fantastic_.
+  Archchancellor Weatherwax was in charge of UU in the time of "`The Light
+  Fantastic`_", estimated (by some deeply contorted calculation) to be set
+  about 25 years before the time of "Hogfather_". See also the annotation
+  for p. 8/8 of "`The Light Fantastic`_".
 
 + [p. 82] 'Old Faithful' is the name of the famous big regular geyser in
   Yellowstone Park. No wonder Ridcully feels 'clean'.
@@ -11516,7 +11516,7 @@ HOGFATHER
 
   Flower fairies are a Victorian invention, often illustrated in
   sickeningly cute pictures and still widely popular in America. See also
-  _Witches Abroad_.
+  "`Witches Abroad`_".
 
 + [p. 86] "Oh, how the money was coming in."
 
@@ -11560,10 +11560,10 @@ HOGFATHER
 
 + [p. 95] "+++ Why Do You Think You Are A Tickler? +++"
 
-  The conversation between the Bursar and Hex is reminiscent of the _Eliza_
+  The conversation between the Bursar and Hex is reminiscent of the "`Eliza`_"
   program.
 
-  _Eliza_ is a program written in the dark ages of computer science by
+  "Eliza_" is a program written in the dark ages of computer science by
   Joseph Weizenbaum to simulate an indirect psychiatrist. It works by
   transforming whatever the human says into a question using a few very
   simple rules. To his grave concern, Weizenbaum discovered that people
@@ -11615,7 +11615,7 @@ HOGFATHER
 
 + [p. 104] "The Aurora Corealis"
 
-  See the annotation for p. 85/69 of _Mort_.
+  See the annotation for p. 85/69 of "Mort_".
 
 + [p. 118] "YES INDEED, HELLO, SMALL CHILD CALLED VERRUCA LUMPY, [...]"
 
@@ -11627,7 +11627,7 @@ HOGFATHER
 
 + [p. 121] "'[...] that drink, you know, there's a worm in the bottle...'"
 
-  Mescal. See also the annotation for p. 252/190 of _Soul Music_.
+  Mescal. See also the annotation for p. 252/190 of "`Soul Music`_".
 
 + [p. 121] "'[...] surrounded by naked maenads.'"
 
@@ -11642,15 +11642,15 @@ HOGFATHER
   hangover cure), used the line "Plop, plop, fizz, fizz" to describe the
   sound of the pills dropping into water and dissolving.
 
-+ [p. 126] "'*I saw this in _Bows and Ammo_!*'"
++ [p. 126] "'*I saw this in "`Bows and Ammo_!*'"
 
-  See the annotation for p. 328/236 of _Lords and Ladies_.
+  See the annotation for p. 328/236 of "`Lords and Ladies`_".
 
 + [p. 132] "While evidence says that the road to Hell is paved with good
   intentions, [...]"
 
   This is confirmed by the eyewitness testimony of Rincewind and Eric (in
-  _Eric_).
+  "Eric_").
 
 + [p. 134] "'Sarah the little match girl, [...]'"
 
@@ -11687,8 +11687,8 @@ HOGFATHER
   rhymes with 'B-drive', which is how one usually refers to the secondary
   floppy drive in a personal computer.
 
-  Interestingly, Douglas R. Hofstader's _Goedel, Escher, Bach: an Eternal
-  Golden Braid_ contains a chapter in which one of the characters (the
+  Interestingly, Douglas R. Hofstader's "`Goedel, Escher, Bach: an Eternal
+  Golden Braid`_" contains a chapter in which one of the characters (the
   Anteater) describes how an anthill can be viewed as a brain, in which the
   movements of ants are the thoughts of the heap.
 
@@ -11698,8 +11698,8 @@ HOGFATHER
   an error at a certain memory address, expressed as a number. This
   information is completely useless to anyone except a programmer.
 
-  Based on _The Streets of Ankh-Morpork_, it has been suggested that this
-  may be the address of CMOT Dibbler's cellar, mentioned in _Reaper Man_.
+  Based on "`The Streets of Ankh-Morpork`_", it has been suggested that this
+  may be the address of CMOT Dibbler's cellar, mentioned in "`Reaper Man`_".
 
 + [p. 141] "'I know it sounds stupid, Archchancellor, but we think it might
   have caught something off the Bursar.'"
@@ -11731,8 +11731,8 @@ HOGFATHER
   Recovered And Enthusiastic About My Tasks +++"
 
   Hex's polite phrasing here parodies that of the famous computer HAL from
-  Stanley Kubrick and Arthur C. Clarke's movie _2001: A Space Odyssey_ (and
-  the sequel _2010_), who said things like: "Good afternoon, gentlemen. I
+  Stanley Kubrick and Arthur C. Clarke's movie _2001: A Space Odyssey`_" (and
+  the sequel _2010`_"), who said things like: "Good afternoon, gentlemen. I
   am a HAL 9000 computer" and "I am completely operational and all my
   systems are functioning perfectly".
 
@@ -11750,8 +11750,8 @@ HOGFATHER
   point to the origin of this phrase, I'd be interested to know it --
   possibly from the US civil rights movement of the 1960s.
 
-  It's been mentioned more than once that the Stanley Kubrick movie _Full
-  Metal Jacket_, the character Joker bandies words with a marine called
+  It's been mentioned more than once that the Stanley Kubrick movie "`Full
+  Metal Jacket`_", the character Joker bandies words with a marine called
   Animal Mother, who answers: "You talk the talk but do you walk the walk?"
   This encounter may be significant purely because Animal Mother's helmet
   bears the text "I AM BECOME DEATH".
@@ -11779,13 +11779,13 @@ HOGFATHER
   trace without modern cartographical techniques.
 
   For the most bizarre extrapolation of this belief, see Erich von Daniken,
-  _Chariots of the Gods_, which claims not only that aliens visited the
+  "`Chariots of the Gods`_", which claims not only that aliens visited the
   earth in ancient times, but also that they actually started human
   civilisation.
 
   The footnote ties together a number of modern myths about aliens, ending
   with the "The truth may be out there...", the catchphrase of the 90s TV
-  series _The X-Files_.
+  series "`The X-Files`_".
 
 + [p. 155] "'Lares and Penates? What were they when they were at home?'
   said Ridcully."
@@ -11842,7 +11842,7 @@ HOGFATHER
 
   A common device to help visualise the effect of gravity on the fabric of
   the universe, similarly useless beyond a certain point. See also the
-  annotation for p. 230/207 of _Sourcery_.
+  annotation for p. 230/207 of "Sourcery_".
 
 + [p. 177] "'It's brass monkeys out here.'"
 
@@ -11858,7 +11858,7 @@ HOGFATHER
 + [p. 181] "[...] OTHER PEOPLE HAVE NO HOMES. IS THIS FAIR? 'Well, of
   course, that's the big issue --' Albert began."
 
-  In the UK and Australia, _The Big Issue_ is a magazine sold by the
+  In the UK and Australia, "`The Big Issue`_" is a magazine sold by the
   homeless. In many cities all over the world similar projects have been
   started.
 
@@ -11872,13 +11872,13 @@ HOGFATHER
 + [p. 185] "'Remember when we had all that life force all over the place? A
   man couldn't call his trousers his own!'"
 
-  For the details of the time Ridcully is referring to, read _Reaper Man_.
+  For the details of the time Ridcully is referring to, read "`Reaper Man`_".
 
 + [p. 190] "'Excuse me madam' said Ridcully. 'But is that a chicken on your
   shoulder?' 'It's, er, it's, er, it's the Blue Bird of Happiness' said the
   Cheerful Fairy."
 
-  In _The Blue Bird_ by Maurice Maeterlinck, published in German in 1909,
+  In "`The Blue Bird`_" by Maurice Maeterlinck, published in German in 1909,
   two children set off on a long journey to find the Blue Bird of
   Happiness, only to learn that it was in their own back garden all along.
 
@@ -11937,20 +11937,20 @@ HOGFATHER
 
 + [p. 195] "'Ah, Humbugs?' he said."
 
-  In Charles Dickens' _A Christmas Carol_, Scrooge has the catchphrase
+  In Charles Dickens' "`A Christmas Carol`_", Scrooge has the catchphrase
   "Bah! Humbug!".
 
 + [p. 208] "'[...] letting me hire a boat and sail around to the islands of
   --'"
 
   Darwin gathered much of the data for his version of evolutionary theory
-  while in the Galapagos Islands, which he visited on HMS _Beagle_.
+  while in the Galapagos Islands, which he visited on HMS "Beagle_".
 
 + [p. 212] "'You know what happens to kids who suck their thumbs, there's
   this big monster with scissors all --'"
 
   There is a classic set of children's stories called (in English)
-  _Slovenly Peter_, by Heinrich Hoffman, originally written in German circa
+  "`Slovenly Peter`_", by Heinrich Hoffman, originally written in German circa
   1840. One of the stories is about the scissor man, who comes in and cuts
   the thumbs off of a little girl who refuses to stop sucking her thumbs.
 
@@ -11958,12 +11958,12 @@ HOGFATHER
   the inside than on the outside. Her grandfather had never been able to
   get a handle on dimensions."
 
-  In the legendary BBC TV series _Dr Who_, the Tardis is famous for being
+  In the legendary BBC TV series "`Dr Who`_", the Tardis is famous for being
   "bigger on the inside than on the outside". When the series began in
   1963, the Doctor was accompanied by his "granddaughter", Susan.
 
   However, before jumping to any conclusions, see the annotation for p.
-  20/15 of _Soul Music_.
+  20/15 of "`Soul Music`_".
 
 + [p. 219] "'You could get them to open Dad's wallet and post the contents
   to some address?'"
@@ -11989,9 +11989,9 @@ HOGFATHER
   Bilirubin is formed when haemoglobin is broken down, and is basically the
   the pigment that makes faeces brown.
 
-  In _The Silence of the Lambs_, by Thomas Harris, Hannible Lecter at one
+  In "`The Silence of the Lambs`_", by Thomas Harris, Hannible Lecter at one
   point says that the killer 'Buffalo Bill' is a former patient of his
-  named Bill Rubin. In Harris' previous book _Red Dragon_ the killer
+  named Bill Rubin. In Harris' previous book "`Red Dragon`_" the killer
   Francis Dolorhyde had no teeth and was known as the Tooth Fairy.
 
   Terry explains the name as follows:
@@ -12010,24 +12010,24 @@ HOGFATHER
   The Greek gods, particularly Zeus, were fond of incarnating themselves as
   animals of this sort, usually as part of a scheme to seduce or ravish
   some unsuspecting young woman. On the Discworld, Om used to do the same
-  sort of thing. See _Small Gods_ for details.
+  sort of thing. See "`Small Gods`_" for details.
 
 + [p. 232] "'There *are* magic wardrobes,' said Violet nervously. 'If
   you go into them, you come out in a magic land.'"
 
-  A land such as Narnia. See the annotation for p. 22/22 of _Sourcery_.
+  A land such as Narnia. See the annotation for p. 22/22 of "Sourcery_".
 
 + [p. 235] "'I thought you had to clap your hands and say you believed in
   'em,' [...] 'That's just for the little shiny ones,' [...]"
 
-  The fairies in J M Barrie's _Peter Pan_, Tinkerbell in particular, are
+  The fairies in J M Barrie's "`Peter Pan`_", Tinkerbell in particular, are
   generally kept happy (and alive) in this fashion. I don't know if there's
   an earlier reference.
 
 + [p. 236] "The Dean took a small glass cube from his pocket and ran it
   over the corpse."
 
-  A scene familiar to anyone who's ever watched an episode of _Star Trek_.
+  A scene familiar to anyone who's ever watched an episode of "`Star Trek`_".
 
 + [p. 236] "+++ Big Red Lever Time +++ Query +++"
 
@@ -12050,16 +12050,16 @@ HOGFATHER
   Write-Only memory has a real world precedence in a practical joke
   perpetrated by an engineer working for Signetics corporation. The joke
   was eventually given a wider audience in the April 1972 issue of
-  _Electronics_ magazine.
+  "Electronics_" magazine.
 
-+ [p. 239] "Family motto _Non timetis messor_"
++ [p. 239] "Family motto "`Non timetis messor_"
 
   This translates to "Don't fear the reaper", the title of a well-known
   song by Blue Oyster Cult.
 
 + [p. 258] "'I didn't even *have* any of that salmon mousse!'"
 
-  In _Monty Python's The Meaning of Life_, a dinner party is rather spoiled
+  In "`Monty Python's The Meaning of Life`_", a dinner party is rather spoiled
   when Death visits (a Death not entirely unlike the Discworld's). The
   visit is occasioned by the hostess serving tinned salmon mousse, and the
   American guest complains that he didn't have any salmon mousse.
@@ -12068,9 +12068,9 @@ HOGFATHER
 
   "What are you waiting for? Christmas?" is a mild taunt used to encourage
   someone to start doing something. It is, for instance, what Duke Nukem in
-  the computer game _Duke Nukem 3D_ says after the player has been inactive
+  the computer game "`Duke Nukem 3D`_" says after the player has been inactive
   for a while. Given Terry Pratchett's love of other games in that genre
-  (such as _Doom_ and _Tombraider_) a familiarity with Duke Nukem may
+  (such as "Doom_" and "Tombraider_") a familiarity with Duke Nukem may
   perhaps have contributed to his use of the phrase here.
 
 + [p. 267] "The man was tattooed. Blue whorls and spirals haunted his
@@ -12087,8 +12087,8 @@ HOGFATHER
   Coca Cola promotion. However, the idea was around long before then. See
   <http://www.snopes.com/cokelore/santa.asp> for details.
 
-  The modern red-and-white image of Santa derives from the poem _The Night
-  Before Christmas_ (see the annotation for p. 44), first published in
+  The modern red-and-white image of Santa derives from the poem "`The Night
+  Before Christmas`_" (see the annotation for p. 44), first published in
   1822. Coca-Cola adopted him as an advertising symbol in the 1920s, and
   only since then have the colours become 'fixed'. However, it is worth
   mentioning that St Nicholas was a 4th century bishop, who would have worn
@@ -12096,7 +12096,7 @@ HOGFATHER
 
 + [p. 270] "TO BE THE PLACE WHERE THE FALLING ANGEL MEETS THE RISING APE."
 
-  Desmond Morris, in _The Naked Ape_: "I viewed my fellow man not as a
+  Desmond Morris, in "`The Naked Ape_: "I viewed my fellow man not as a
   fallen angel, but as a risen ape." However, Terry says that he was
   unaware of this prior use.
 
@@ -12104,7 +12104,7 @@ HOGFATHER
 
   An echo of Beatrix Potter's nursery stories and their illustrations, most
   obviously Peter Rabbit. The "gold watches and top hats" suggests the
-  White Rabbit from _Alice's Adventures in Wonderland_.
+  White Rabbit from "`Alice's Adventures in Wonderland`_".
 
 + [p. 277] "AND GOODNIGHT, CHILDREN... EVERYWHERE."
 
@@ -12130,14 +12130,14 @@ HOGFATHER
 
 + [p. 284] "'And god bless us, every one,' said Arnold Sideways."
 
-  This is the last line of Dickens' _A Christmas Carol_, spoken by Tiny
+  This is the last line of Dickens' "`A Christmas Carol`_", spoken by Tiny
   Tim, who also had something wrong with his legs.
 
 
-JINGO
+Jingo
 ~~~~~
 
-+ [title] _Jingo_
++ [title] "Jingo_"
 
   "By jingo!" is an archaic, jocular oath, of obscure origin, used in
   Britain in the 18th and 19th centuries. The word -- with derived forms
@@ -12154,7 +12154,7 @@ JINGO
   it is also the name of a warlike Japanese empress of the 2nd/3rd
   centuries, credited by legend with the power of controlling the tides.
 
-+ [p. 8] "'Whose squid _are_ they, dad?'"
++ [p. 8] "'Whose squid _are`_" they, dad?'"
 
   Fishing rights have been a frequent cause of dispute between the UK and
   neighbours, most dramatically in the 'Cod Wars' between the UK and
@@ -12167,26 +12167,26 @@ JINGO
 
 + [p. 11] "'Who's going to *know*, dad?'"
 
-  In the 1963 comedy _Mouse on the Moon_, the Duchy of Grand Fenwick
+  In the 1963 comedy "`Mouse on the Moon`_", the Duchy of Grand Fenwick
   competes with the USA and USSR to put the first human on the moon. The
   Fenwick rocket gets there first, but someone points out that this doesn't
   matter -- the glory will go to whoever gets *home* first. The Americans
   and Russians quickly make their excuses and leave, pausing only to enter
   the wrong capsules before sorting themselves out.
 
-+ [p. 13] "'His ship is the _Milka_, I believe.'"
++ [p. 13] "'His ship is the "Milka_", I believe.'"
 
-  One of Christopher Columbus' ships was named the _Pinta_. A UK
+  One of Christopher Columbus' ships was named the "Pinta_". A UK
   milk-marketing slogan from the 1980s exhorted people to 'Drinka pinta
   milka day'.
 
 + [p. 16] "'I believe the word "assassin" actually comes from Klatch?'"
 
-  In our world, it does. See the annotation for p. 126/114 of _Sourcery_.
+  In our world, it does. See the annotation for p. 126/114 of "Sourcery_".
 
 + [p. 17] "'Have you ever heard of the D'regs, my lord?'"
 
-  See the annotation for p. 109/82 of _Soul Music_.
+  See the annotation for p. 109/82 of "`Soul Music`_".
 
 + [p. 18] "'It's about time Johnny Klatchian was taught a lesson,'"
 
@@ -12196,7 +12196,7 @@ JINGO
 
 + [p. 20] "'It is no longer considered... *nice*... to send a warship over
   there to, as you put it, show Johnny Foreigner the error of his ways. For
-  one thing, we haven't had any warships since the _Mary-Jane_ sank four
+  one thing, we haven't had any warships since the "`Mary-Jane`_" sank four
   hundred years ago.'"
 
   In the latter part of the 19th century, the phrase "gunboat diplomacy"
@@ -12206,7 +12206,7 @@ JINGO
   vulnerable it might appear on land, Britannia still Ruled the Waves, and
   could make life very difficult for anyone who got too obstreperous.
 
-  The _Mary-Jane_ is a reference to Henry VIII's flagship, the _Mary Rose_,
+  The "`Mary-Jane`_" is a reference to Henry VIII's flagship, the "`Mary Rose`_",
   which (most embarrassingly) sank, in calm seas, immediately after being
   launched from Portsmouth in 1545. The ship was recovered in the 1980s,
   and is now a tourist attraction.
@@ -12228,12 +12228,12 @@ JINGO
 + [p. 23] "'Let's have no fighting, please. This is, after all, a council
   of war.'"
 
-  Echoes the movie _Dr Strangelove_. See also the annotation for p.156
-  of _The Colour of Magic_.
+  Echoes the movie "`Dr Strangelove`_". See also the annotation for p.156
+  of "`The Colour of Magic`_".
 
 + [p. 25] "The Artful Nudger scowled."
 
-  A character in Dickens' _Oliver Twist_ is called the Artful Dodger.
+  A character in Dickens' "`Oliver Twist`_" is called the Artful Dodger.
 
 + [p. 26] "'Wib wib wib.' 'Wob wob wob.'"
 
@@ -12246,8 +12246,8 @@ JINGO
   mermaid,'"
 
   This sounds very much like the story of young Tom the chimney sweep's
-  transformation, told in moralistic Victorian children's tale _The Water
-  Babies_, written in 1863 by Charles Kingsley.
+  transformation, told in moralistic Victorian children's tale "`The Water
+  Babies`_", written in 1863 by Charles Kingsley.
 
 + [p. 28] "'But after the big plague, he got press-ganged.'"
 
@@ -12271,7 +12271,7 @@ JINGO
 + [p. 30] "'_[...] it is even better than Ironcrufts ('T'Bread Wi' T'Edge')
   [...]_'"
 
-  See the annotation for p. 26 of _Feet of Clay_.
+  See the annotation for p. 26 of "`Feet of Clay`_".
 
 + [p. 31] "'This *is* all right, Reg? It's not coercion, is it?'"
 
@@ -12295,15 +12295,15 @@ JINGO
 + [p. 34] "'Hey, that's Reg Shoe! He's a zombie! He falls to bits all the
   time!' 'Very big man in the undead community, sir.'"
 
-  Reg Shoe first appeared in _Reaper Man_ as the founder of the Campaign
+  Reg Shoe first appeared in "`Reaper Man`_" as the founder of the Campaign
   for Dead Rights (slogans included "Undead, yes! Unperson, no!"). Possibly
   Vimes has forgotten that he personally ordered zombies to be recruited
-  into the Watch, towards the end of _Feet of Clay_.
+  into the Watch, towards the end of "`Feet of Clay`_".
 
 + [p. 35] "'That's Probationary Constable Buggy Swires, sir.'"
 
   Swires was the name of the gnome Rincewind and Twoflower encountered in
-  _The Light Fantastic_. Given that gnome lives are described in that book
+  "`The Light Fantastic`_". Given that gnome lives are described in that book
   as 'nasty, brutish and short', it seems unlikely that this is the same
   gnome. Possibly a relative, though.
 
@@ -12335,7 +12335,7 @@ JINGO
   creation, R'lyeh -- an ancient, now submerged island in the Pacific,
   inhabited by alien Things with strange architecture, which rises at very
   long intervals and sends people mad all over the world. For full details,
-  see Lovecraft's _The Call of Cthulhu_.
+  see Lovecraft's "`The Call of Cthulhu`_".
 
 + [p. 47] "'Oh, Lord Venturi says it'll all be over by Hogswatch, sir.'"
 
@@ -12348,7 +12348,7 @@ JINGO
 + [p. 55] "'I go, I *h*come back.'"
 
   Ahmed's catchphrase is borrowed from Signior So-So, a comic Italian
-  character in the famous wartime radio series _It's That Man Again_
+  character in the famous wartime radio series "`It's That Man Again`_"
   (ITMA).
 
 + [p. 55] "'Doctor of Sweet *F*anny Adams'"
@@ -12436,9 +12436,9 @@ JINGO
   in some *very* strange ways through his body. Conspiracy theorists
   disparage this as the "magic bullet theory".
 
-+ [p. 76] "'It looks like a complete run of _Bows and Ammo_!'"
++ [p. 76] "'It looks like a complete run of "`Bows and Ammo_!'"
 
-  See the annotation for p. 126 of _Hogfather_.
+  See the annotation for p. 126 of "Hogfather_".
 
 + [p. 77] "'Bugger all else but sand in Klatch. Still got some in his
   sandals.'"
@@ -12461,13 +12461,13 @@ JINGO
   "Flying Squad", an elite unit of the Metropolitan Police).
 
   The story was the most successful of a spate of such shockers dating from
-  the early 19th century. _Sawney Bean, the Man-Eater of Midlothian_ was
+  the early 19th century. "`Sawney Bean, the Man-Eater of Midlothian`_" was
   supposedly based on a real 13th-century Scottish legal case; also
   published about this time were two French versions, both set in Paris.
   All of these were claimed to be based on true stories -- but then, this
   pretence was standard practice for novelists at the time. The "original"
   version of Sweeney Todd was written by Edward Lloyd under the title of
-  _The String of Pearls_, published around 1840.
+  "`The String of Pearls`_", published around 1840.
 
 + [p. 81] "'He was shot from the University?' 'Looks like the library
   building,'"
@@ -12479,7 +12479,7 @@ JINGO
 
   Mr Potato Head is a child's toy based on putting facial features on a
   potato. Nowadays, Mr Potato Head, produced by Hasbro Inc, has a plastic
-  body and has achieved great fame by starring in the _Toy Story_ films.
+  body and has achieved great fame by starring in the "`Toy Story`_" films.
 
 + [p. 85] "'He just kills people for money. Snowy can't read and write.'"
 
@@ -12530,7 +12530,7 @@ JINGO
 
 + [p. 104] "'Hah,' said the Dis-organizer."
 
-  See the annotation for p. 73 of _Feet of Clay_. According to legend, Dis
+  See the annotation for p. 73 of "`Feet of Clay`_". According to legend, Dis
   is also the name of a city in Hell -- particularly appropriate to a
   demon-powered organiser.
 
@@ -12562,15 +12562,15 @@ JINGO
 + [p. 119] "'War, Vimes, is a continuation of diplomacy by other means.'"
 
   Carl Philipp Gottfried von Clausewitz (1780-1831), a Prussian general who
-  fought against Napoleon, wrote a standard textbook _On War_ (_Vom
-  Kriege_, first published 1833), in which he said that "war is simply a
+  fought against Napoleon, wrote a standard textbook "`On War`_" ("`Vom
+  Kriege`_", first published 1833), in which he said that "war is simply a
   continuation of political intercourse, with the addition of other means".
   If you want to understand Lord Rust's mindset as expressed by someone
   with a working brain, read Clausewitz.
 
 + [p. 119] "'You've all got Foaming Sheep Disease.'"
 
-  When _Jingo_ was being written, there was much speculation about whether
+  When "Jingo_" was being written, there was much speculation about whether
   "mad cow disease" had first been transmitted from sheep to cattle, and
   whether it could be transmitted from cattle to humans. Both ideas are now
   widely accepted.
@@ -12590,10 +12590,10 @@ JINGO
   all the way through to the last page before stopping, look.'"
 
   Apparently there are "well-documented" cases of this sort of miraculous
-  escape, but it has become a much-parodied staple of _Boys' Own_-style
+  escape, but it has become a much-parodied staple of "`Boys' Own_-style
   fiction. One well-known occurrence comes at the very end of the
-  _Blackadder III_ television series. Another can be found in the 1975
-  movie _The Man Who Would Be King_, starring Sean Connery and Michael
+  "`Blackadder III`_" television series. Another can be found in the 1975
+  movie "`The Man Who Would Be King`_", starring Sean Connery and Michael
   Caine.
 
 + [p. 126] "'[...] the moon rising over the Mountains of the Sun'"
@@ -12604,7 +12604,7 @@ JINGO
 + [p. 128] "'My strength is as the strength of ten because my heart is
   pure.'"
 
-  A direct quote from Tennyson's poem _Sir Galahad_:
+  A direct quote from Tennyson's poem "`Sir Galahad_:
 
         My good blade carves the casques of men,
         My tough lance thrusteth sure,
@@ -12617,19 +12617,19 @@ JINGO
   There's a pub in Bath called "The Saracen's Head", which supposedly has a
   similarly colourful history.
 
-+ [p. 138] "'_VENI VIDI VICI: A Soldier's Life_ by Gen. A. Tacticus'"
++ [p. 138] "'"`VENI VIDI VICI: A Soldier's Life`_" by Gen. A. Tacticus'"
 
   'Veni vidi vici' ('I came, I saw, I conquered') is a quotation attributed
   to Julius Caesar, one of several great generals who contributed to the
   composite figure of Tacticus. For more on Tacticus, see the annotation
-  for p. 158 of _Feet of Clay_.
+  for p. 158 of "`Feet of Clay`_".
 
   There are similarities between Tacticus' book, as expounded later in
-  _Jingo_, and _The Art of War_ by the Chinese general Sun Tzu.
+  "Jingo_", and "`The Art of War`_" by the Chinese general Sun Tzu.
 
-+ [p. 142] "'_It is always useful to face an enemy who is prepared to die
-  for his country_,' he read. '_This means that both you and he have
-  exactly the same aim in mind_.'"
++ [p. 142] "'"`It is always useful to face an enemy who is prepared to die
+  for his country`_",' he read. '"`This means that both you and he have
+  exactly the same aim in mind`_".'"
 
   General Patton, addressing his troops in 1942: "No bastard ever won a war
   by dying for his country. He won it by making the other poor dumb bastard
@@ -12637,8 +12637,8 @@ JINGO
 
 + [p. 143] "'[...] this note will self-destruct in five seconds[...]'"
 
-  From the beginning of every episode of the television series _Mission:
-  Impossible_.
+  From the beginning of every episode of the television series "`Mission:
+  Impossible`_".
 
 + [p. 143] "[...] extending from the cylinder for all the world like the
   horn of a unicorn [...]"
@@ -12648,7 +12648,7 @@ JINGO
 
 + [p. 145] "'But usually I just think of it as the Boat.'"
 
-  _Das Boot_ (The Boat) was an epic German film, made by Wolfgang Petersen
+  "`Das Boot`_" (The Boat) was an epic German film, made by Wolfgang Petersen
   in 1981, telling the story of a German submarine in 1941.
 
 + [p. 150] "'[...] which kills people but leaves buildings standing.'"
@@ -12669,7 +12669,7 @@ JINGO
   The first working submarine was a one-man, hand-propelled vessel called
   the Turtle, designed to use an augur to attach explosive charges to the
   hulls of enemy ships, the enemy in this case being the British during the
-  American War of Independence. The Turtle attacked HMS _Eagle_ in New York
+  American War of Independence. The Turtle attacked HMS "Eagle_" in New York
   Harbor on 6 September 1776, but the hull was lined with copper and the
   screw failed to pierce it.
 
@@ -12684,7 +12684,7 @@ JINGO
   The description matches St Elmo's Fire, a corona discharge of static
   electricity sometimes seen on highly exposed surfaces (such as ships)
   during thunderstorms. In our world, it's supposed to be a good omen. For
-  more on St Ungulant, see _Small Gods_.
+  more on St Ungulant, see "`Small Gods`_".
 
 + [p. 167] "'According to the Testament of Mezerek, the fisherman Nonpo
   spent four days in the belly of a giant fish.'"
@@ -12705,7 +12705,7 @@ JINGO
 + [p. 180] "The motor of his cooling helmet sounded harsh for a moment
   [...]"
 
-  For the story of Detritus' helmet, read _Men at Arms_.
+  For the story of Detritus' helmet, read "`Men at Arms`_".
 
 + [p. 181] "'"Give a man a fire and he's warm for a day, but set him on
   fire and he's warm for the rest of his life."'"
@@ -12716,7 +12716,7 @@ JINGO
 + [p. 183] "'those nautical stories about giant turtles that sleep on the
   surface, thus causing sailors to think they are an island.'"
 
-  One of the many adventures of Sinbad, in _The Thousand and One Nights_.
+  One of the many adventures of Sinbad, in "`The Thousand and One Nights`_".
 
 + [p. 192] "'"If you would seek peace, prepare for war."'"
 
@@ -12747,7 +12747,7 @@ JINGO
   Vetinari's patter seems to be based on that of the fez-wearing British
   comedian Tommy Cooper.
 
-+ [p. 223] "'_En al Sams la Laisa_'"
++ [p. 223] "'"`En al Sams la Laisa_'"
 
   This is, as Vetinari later translates, almost-Arabic for "where the sun
   shines not".
@@ -12755,14 +12755,14 @@ JINGO
 + [p. 224] "'Oh, I've got a thousand and one of 'em.'"
 
   One of the best-known (in the west, at least) works of Arabic literature
-  is _The Thousand and One Nights_. Several classics of children's
+  is "`The Thousand and One Nights`_". Several classics of children's
   literature -- including Aladdin and Sinbad the Sailor -- appear in this
   collection. Nobby's version would appear to be rather more PG-rated.
 
 + [p. 224] "'Especially the one about the man who went into the tavern with
   the very small musician.'"
 
-  See the annotation for p. 195 of _Feet of Clay_.
+  See the annotation for p. 195 of "`Feet of Clay`_".
 
 + [p. 227] "'Donkey, minaret,' said Lord Vetinari. 'Minaret, donkey.' 'Just
   like that?'"
@@ -12777,8 +12777,8 @@ JINGO
 + [p. 230] "A statue must have stood here [...] Now it had gone, and there
   were just feet, broken off at the ankles."
 
-  A reference to Shelley's sonnet _Ozymandias_. See the annotation for p.
-  271/259 of _Pyramids_.
+  A reference to Shelley's sonnet "Ozymandias_". See the annotation for p.
+  271/259 of "Pyramids_".
 
 + [p. 243] "We were going to sail into Klatch and be in Al-Khali by
   teatime, drinking sherbet with pliant young women in the Rhoxi."
@@ -12790,7 +12790,7 @@ JINGO
 
 + [p. 245] "'That's "Evil Brother-in-Law of a Jackal",' said Ahmed."
 
-  See _Pyramids_ for the Discworld convention on the naming of camels.
+  See "Pyramids_" for the Discworld convention on the naming of camels.
 
 + [p. 246] "'That is a reason to field such a contemptible little army?'"
 
@@ -12804,7 +12804,7 @@ JINGO
   invented only last year.'"
 
   Judging from the name, this could be one of Leonard's creations -- but
-  actually we've learned in _Soul Music_ (p. 137) that this particular
+  actually we've learned in "`Soul Music`_" (p. 137) that this particular
   invention was the work of Ponder Stibbons at Unseen University.
 
 + [p. 257] "'And Captain Carrot is organizing a football match.'"
@@ -12819,7 +12819,7 @@ JINGO
   mistrust and opinions. For you the war is over. Enjoy the sunshine. I
   trust we shall all be returning home shortly.'"
 
-  This speech is very similar to the end of the film _Lawrence of Arabia_
+  This speech is very similar to the end of the film "`Lawrence of Arabia`_"
   (David Lean, 1962). Prince Feisal tells Lawrence: "There's nothing
   further here, for a warrior. We drive bargains, old men's work. Young men
   makes wars and the virtues of war are the virtues of young men: courage
@@ -12828,7 +12828,7 @@ JINGO
 
 + [p. 264] "'The trick is not to mind that it hurts.'"
 
-  Early in the film _Lawrence of Arabia_, Lawrence is sitting in an office
+  Early in the film "`Lawrence of Arabia`_", Lawrence is sitting in an office
   drawing maps and talking to his compatriot about the Bedouin attacking
   the Turks. Another man joins them and Lawrence lights a cigarette,
   putting the match out with his fingers. The newcomer tries the same
@@ -12846,7 +12846,7 @@ JINGO
 
 + [p. 282] "'It is a far, far better thing I do now [...]'"
 
-  At the end of Dickens' _A Tale of Two Cities_, Sydney Carton,
+  At the end of Dickens' "`A Tale of Two Cities`_", Sydney Carton,
   good-natured layabout and occasional drunk, goes to the guillotine in the
   place of his beloved's beloved.
 
@@ -12858,15 +12858,15 @@ JINGO
   I go to than I have ever known.'".
 
 
-THE LAST CONTINENT
+The Last Continent
 ~~~~~~~~~~~~~~~~~~
 
-+ [title] _The Last Continent_
++ [title] "`The Last Continent`_"
 
   The title puns on "The Lost Continent", a literary phrase associated with
-  vanished worlds, both literal (e.g. Col James Churchward's 1931 _The Lost
-  Continent of Mu_) as well as metaphorical (Bill Bryson's 1990 _The Lost
-  Continent_, about his rediscovery of and journey through the lesser known
+  vanished worlds, both literal (e.g. Col James Churchward's 1931 "`The Lost
+  Continent of Mu`_") as well as metaphorical (Bill Bryson's 1990 "`The Lost
+  Continent`_", about his rediscovery of and journey through the lesser known
   parts of his native USA).
 
 + [p. 9] "[...] one particular planet whose inhabitants watched, with mild
@@ -12882,7 +12882,7 @@ THE LAST CONTINENT
   see the fall of a tiny bird."
 
   Matthew 10:29. Terry has referred to this "test" before, see e.g. the
-  annotation for p. 35 of _Hogfather_.
+  annotation for p. 35 of "Hogfather_".
 
 + [p. 11] "'The Archchancellor's Keys!'"
 
@@ -12911,9 +12911,9 @@ THE LAST CONTINENT
   [...]"
 
   'Lydia the Tattooed Lady' is one of Groucho Marx' most famous songs,
-  originally performed in the 1939 Marx Brothers movie _At the Circus_.
+  originally performed in the 1939 Marx Brothers movie "`At the Circus`_".
   Kermit the Frog did a great cover of 'Lydia' on the Connie Stevens
-  episode of _The Muppet Show_.
+  episode of "`The Muppet Show`_".
 
         Oh Lydia, oh Lydia, say, have you met Lydia?
         Lydia The Tattooed Lady.
@@ -12929,7 +12929,7 @@ THE LAST CONTINENT
 
   Teaching artifical intelligences to sing songs, recite poetry, or tell
   jokes is a well-established science fiction theme, with probably the most
-  famous example being HAL in the movie _2001: A Space Odyssey_ reverting
+  famous example being HAL in the movie _2001: A Space Odyssey`_" reverting
   back to his 'childhood' and singing 'Daisy' for Bowman. Possibly, that
   scene might not have been *quite* as poignant had HAL sung 'Lydia',
   instead...
@@ -12938,12 +12938,12 @@ THE LAST CONTINENT
   about political economy [...]"
 
   Karl Marx spent a lot of time in the old Reading Room of the British
-  Museum when he was writing _Das Kapital_.
+  Museum when he was writing "`Das Kapital`_".
 
 + [p. 28] "'You see, we think he's on EcksEcksEcksEcks, Archchancellor,'
   said Ponder."
 
-  See the annotation for p. 149/132 of _Reaper Man_ for much more
+  See the annotation for p. 149/132 of "`Reaper Man`_" for much more
   information on why the Last Continent is called 'Xxxx'.
 
 + [p. 31] "'"Egregious Professor of Cruel and Unusual Geography",' he
@@ -12963,7 +12963,7 @@ THE LAST CONTINENT
 + [p. 35] "'Sir Roderick Purdeigh spent many years looking for the alleged
   continent and was very emphatic that it didn't exist.'"
 
-  _The Discworld Mapp_ chronicles Sir Roderick's career in some detail, his
+  "`The Discworld Mapp`_" chronicles Sir Roderick's career in some detail, his
   principal achievement being three epic voyages of discovery around the
   Disc, during which he completely failed to find XXXX, the Counterweight
   Continent, or indeed any land of any consequence at all.
@@ -12975,7 +12975,7 @@ THE LAST CONTINENT
 
 + [p. 35] "'[...] men who go around on one big foot'"
 
-  C. S. Lewis' _The Voyage of the Dawn Treader_, book three of the Narnia
+  C. S. Lewis' "`The Voyage of the Dawn Treader`_", book three of the Narnia
   series, features the island of the Dufflepuds, who do this. Terry himself
   traces the story back much further:
 
@@ -13007,7 +13007,7 @@ THE LAST CONTINENT
 + [p. 41] "'Many a poor sailorman has washed up on them fatal shores rather
   than get carried right over the Rim,'"
 
-  _The Fatal Shore_, by Robert Hughes, is one of the seminal history texts
+  "`The Fatal Shore`_", by Robert Hughes, is one of the seminal history texts
   concerning the British colonisation of Australia and the transportation
   of convicts.
 
@@ -13037,9 +13037,9 @@ THE LAST CONTINENT
 
 + [p. 55] "'Oh that means "come quick, someone's fallen down a deep hole"'"
 
-  Scrappy the Kangaroo parodies _Skippy the Bush Kangaroo_, an Australian
+  Scrappy the Kangaroo parodies "`Skippy the Bush Kangaroo`_", an Australian
   children's television series. See also the annotation for p. 91/83 of
-  _Guards! Guards!_.
+  "`Guards! Guards!`_".
 
 + [p. 60] "It looked as though the artist hadn't just wanted to draw a
   kangaroo from the outside but had wanted to show the inside as well."
@@ -13059,11 +13059,11 @@ THE LAST CONTINENT
 + [p. 75] "'Are you coming the raw prawn?'"
 
   Australian for lying or pulling someone's leg. See also the annotation
-  for p. 149/132 of _Reaper Man_.
+  for p. 149/132 of "`Reaper Man`_".
 
 + [p. 81] "'There's only one of everything.'"
 
-  In _Hobbyist_, a short story by science fiction writer Eric Frank
+  In "Hobbyist_", a short story by science fiction writer Eric Frank
   Russell, the hero finds a planet where there is, indeed, only one of
   every kind of animal and plant. It turns out to be run by an alien
   super-being who creates life forms.
@@ -13075,7 +13075,7 @@ THE LAST CONTINENT
   eight horses), with a supercharger (which Mad also engages, although
   Max's version didn't involve feedbags). The description of the pursuing
   road gang certainly looks as if it might have been inspired by a scene
-  from the movie _Mad Max 2: The Road Warrior_.
+  from the movie "`Mad Max 2: The Road Warrior`_".
 
 + [p. 91] "'Mental as anything'"
 
@@ -13083,8 +13083,8 @@ THE LAST CONTINENT
 
 + [p. 97] "[..] The Small Boring Group of Faint Stars [...]"
 
-  Appropriately enough, Rincewind's birth sign, according to _The Light
-  Fantastic_.
+  Appropriately enough, Rincewind's birth sign, according to "`The Light
+  Fantastic`_".
 
 + [p. 98] "'[...] the important thing is not to kill your own
   grandfather.'"
@@ -13098,41 +13098,41 @@ THE LAST CONTINENT
 + [p. 99] "'You might ... tread on an ant now and it might entirely prevent
   someone from being born in the future!'"
 
-  In Ray Bradbury's short story _A Sound of Thunder_, the killing of a
+  In Ray Bradbury's short story "`A Sound of Thunder`_", the killing of a
   butterfly in the distant past completely changes history. See also the
-  annotation for p. 118/86 of _Lords and Ladies_.
+  annotation for p. 118/86 of "`Lords and Ladies`_".
 
 + [p. 101] "'Because, in fact, history already *depends* on your treading
   on any ants that you happen to step on.'"
 
   The "closed loop" theory of time travel -- that all the loose ends *will*
   be tied up, even if it's not immediately obvious how -- contrasts with
-  the "trousers of time" model. It was well expressed in the film _The
-  Terminator_, although the sequel promptly abandoned the idea.
+  the "trousers of time" model. It was well expressed in the film "`The
+  Terminator`_", although the sequel promptly abandoned the idea.
 
 + [p. 104] "'Dijabringabeeralong: Check your Weapons.'"
 
   You can actually get doormats and house name plates with the inscription
   "didjabringabeeralong". The first description of the town, including the
-  sign, is similar to Bartertown in the movie _Mad Max 3: Beyond
-  Thunderdome_.
+  sign, is similar to Bartertown in the movie "`Mad Max 3: Beyond
+  Thunderdome`_".
 
 + [p. 104] "It's run by Crocodile.'"
 
-  Signals a shift in the films being parodied, from the _Mad Max_ series to
-  _Crocodile Dundee_. (In the film, Crocodile was a human, nicknamed for
+  Signals a shift in the films being parodied, from the "`Mad Max`_" series to
+  "`Crocodile Dundee`_". (In the film, Crocodile was a human, nicknamed for
   his prowess at wrestling or otherwise dealing with crocs.)
 
 + [p. 105] "'[...] one day he found a footprint in the sand. There was a
   woodcut.'"
 
-  The book the Chair is talking about is known, in our world, as _Robinson
-  Crusoe_, by Daniel Defoe. See the annotation for p. 35.
+  The book the Chair is talking about is known, in our world, as "`Robinson
+  Crusoe`_", by Daniel Defoe. See the annotation for p. 35.
 
 + [p. 106] "'If you were marooned on a desert island, eh Dean... what kind
   of music would you like to listen to, eh?'"
 
-  _Desert Island Discs_ is a long-running BBC radio programme, in which
+  "`Desert Island Discs`_" is a long-running BBC radio programme, in which
   celebrity guests are asked to pick eight records to be stuck with on a
   hypothetical desert island.
 
@@ -13165,8 +13165,8 @@ THE LAST CONTINENT
   [...] is what I call a crossbow.'"
 
   Two film references for the price of one. The competitive knife-sizing is
-  straight out of _Crocodile Dundee_; Mad's move of trumping the whole
-  issue by pulling a crossbow comes from _Raiders of the Lost Ark_, where
+  straight out of "`Crocodile Dundee_; Mad's move of trumping the whole
+  issue by pulling a crossbow comes from "`Raiders of the Lost Ark`_", where
   Harrison Ford pulls a revolver on a show-off swordsman.
 
 + [p. 112] "'Er... there's a great big spider on the toilet seat.'"
@@ -13192,7 +13192,7 @@ THE LAST CONTINENT
 
 + [p. 124] "'Everything is so completely *selfish* about it.'"
 
-  Possibly a reference to _The Selfish Gene_, a book on evolution by
+  Possibly a reference to "`The Selfish Gene`_", a book on evolution by
   Richard Dawkins. The term has stuck in the current consensus about the
   mechanics of evolution.
 
@@ -13205,15 +13205,15 @@ THE LAST CONTINENT
 + [p. 129] "'[...] playing Two Up. [...] Kept bettin' they wouldn't come
   down at all.'"
 
-  See the annotation for p. 200/151 of _Soul Music_. Back in _The Colour of
-  Magic_, Rincewind witnessed a coin being tossed in the air and not coming
+  See the annotation for p. 200/151 of "`Soul Music`_". Back in "`The Colour of
+  Magic`_", Rincewind witnessed a coin being tossed in the air and not coming
   down at all.
 
 + [p. 131] "The purple cart rumbled off. Painted crudely on the back were
   the words: Petunia, The Desert Princess."
 
-  The scenes with Letitia, Darleen and Neilette resonate with _The
-  Adventures of Priscilla, Queen of the Desert_, the 1994 movie about two
+  The scenes with Letitia, Darleen and Neilette resonate with "`The
+  Adventures of Priscilla, Queen of the Desert`_", the 1994 movie about two
   transvestites and a transsexual crossing Australia in a bus.
 
 + [p. 133] "[...] enquiries as to whether it required something for the
@@ -13230,7 +13230,7 @@ THE LAST CONTINENT
 + [p. 137] "'Why Snowy? That's an odd name for a horse.'"
 
   Because Banjo Patterson, poet and author of many fine Australian tales,
-  wrote a narrative poem called _The Man from Snowy River_, telling of a
+  wrote a narrative poem called "`The Man from Snowy River`_", telling of a
   man who rode a creature "something like a racehorse undersized".
 
   Patterson's other writing credits include the lyrics to 'Waltzing
@@ -13246,19 +13246,19 @@ THE LAST CONTINENT
 
 + [p. 145] "'Old Remorse says [...]'"
 
-  _The Man from Snowy River_ (see annotation for p. 137) describes the
+  "`The Man from Snowy River`_" (see annotation for p. 137) describes the
   pursuit of a horse identified as "the colt from old Regret".
 
 + [p. 146] "Snowy's nostrils flared and, without even pausing, he continued
   down the slope."
 
   Rincewind's ride across the canyon, while the rest of the gang can't
-  follow, again echoes _The Man from Snowy River_.
+  follow, again echoes "`The Man from Snowy River`_".
 
 + [p. 148] "'Where was it he wanted to go, Clancy?'"
 
-  _Clancy of the Overflow_ was another poem by Banjo Patterson, and Clancy
-  also plays a major role in _The Man from Snowy River_.
+  "`Clancy of the Overflow`_" was another poem by Banjo Patterson, and Clancy
+  also plays a major role in "`The Man from Snowy River`_".
 
 + [p. 154] "It was the front half of an elephant."
 
@@ -13280,7 +13280,7 @@ THE LAST CONTINENT
   Haldane's, who often repeated it, but the story of it being a riposte to
   an actual theological question cannot be verified.)
 
-  Haldane was also the author of a children's book, _My Friend Mr Leakey_,
+  Haldane was also the author of a children's book, "`My Friend Mr Leakey`_",
   which has a very Pratchettian tone, and is strongly recommended.
 
 + [p. 157] "'Big bills, short bills, bills for winkling insects out of bark
@@ -13295,7 +13295,7 @@ THE LAST CONTINENT
 
   'Petra' (a Greek word meaning 'stone') is the name of an ancient
   pre-Roman city in Jordan. Victorian traveler and poet John William Burgon
-  describes the city in his poem _Petra_, ending with the line: "A rose-red
+  describes the city in his poem "Petra_", ending with the line: "A rose-red
   city, 'half as old as Time!'"
 
 + [p. 170] "Once a moderately jolly wizard camped by a waterhole under the
@@ -13447,7 +13447,7 @@ THE LAST CONTINENT
 + [p. 223] "Rincewind leapt from the cart, landed on someone's shoulder,
   jumped again very briefly on to someone's head."
 
-  At the end of the movie _Crocodile Dundee_, our Australian hero makes his
+  At the end of the movie "`Crocodile Dundee`_", our Australian hero makes his
   way across a packed New York subway station platform in this fashion.
 
 + [p. 233] "'A sarong.' 'Looks right enough to me, haha.'"
@@ -13459,8 +13459,8 @@ THE LAST CONTINENT
 
 + [p. 239] "'When Darleen sings "Prancing Queen" [...]'"
 
-  The heroines of the film _The Adventures of Priscilla, Queen of the
-  Desert_ perform (well, playback to) a repertoire of Abba songs. See the
+  The heroines of the film "`The Adventures of Priscilla, Queen of the
+  Desert`_" perform (well, playback to) a repertoire of Abba songs. See the
   annotation for p. 131.
 
 + [p. 240] "'Look, it's the new brewery because we built it to replace the
@@ -13482,7 +13482,7 @@ THE LAST CONTINENT
   It's been said, cruelly, that a platypus is what a duck would look like
   if it was designed by a committee.
 
-+ [p. 248] "'"_Nulli Sheilae sanguineae_"'"
++ [p. 248] "'""`Nulli Sheilae sanguineae_"'"
 
   "No bloody Sheilas".
 
@@ -13495,13 +13495,13 @@ THE LAST CONTINENT
 
   Bullroars were apparently used traditionally by the aborigines as a means
   of communicating and signalling over distances of several miles. Its use
-  is demonstrated in the movie _Crocodile Dundee II_, where he uses one to
+  is demonstrated in the movie "`Crocodile Dundee II`_", where he uses one to
   call for help from nearby Aborigines.
 
 + [p. 253] "'You're trying to tell me you've got a tower that's taller at
   the top than it is at the *bottom*?'"
 
-  Once again, a nod to the classic BBC TV series _Dr Who_ -- characters
+  Once again, a nod to the classic BBC TV series "`Dr Who`_" -- characters
   were forever remarking on how the Doctor's ship, the Tardis, was bigger
   on the inside than it was on the outside. Given that the outside was the
   size of a large phone box, this was just as well.
@@ -13607,7 +13607,7 @@ THE LAST CONTINENT
   never climb the rock, although many tourists do.
 
 
-CARPE JUGULUM
+Carpe Jugulum
 ~~~~~~~~~~~~~
 
 + [p. 6] "'Nac mac Feegle!'"
@@ -13621,7 +13621,7 @@ CARPE JUGULUM
 
   Of the 'battle cries', 'Bigjobs!' is the catchphrase of Mek-Quake, one of
   the 'ABC Warriors' in the cult comic _2000 AD_; 'Dere c'n onlie be whin
-  t'ousand!' seems to be based on the tagline of the film _Highlander_:
+  t'ousand!' seems to be based on the tagline of the film "`Highlander_:
   'There can be only one!'; and 'Nac mac Feegle wha hae!' echoes Robert
   Burns's 'Scots wha hae' -- although this makes little sense on its own...
 
@@ -13629,12 +13629,12 @@ CARPE JUGULUM
   anyone?"
 
   There are many vampire movies in which this trick works remarkably well:
-  in _Son of Dracula_ (1943), Count 'Alucard' travels to the southern USA
-  to marry a disturbed woman who wants to be immortal; in _Dracula's Last
-  Rites_ (1979), vampire Dr A. Lucard runs a mortuary, which keeps him
-  well-stocked with fresh bodies. The same trick occurs in _Dracula: the
-  Series_ (1990), and the films _Dr Terror's Galaxy of Horrors_ (1966) and
-  _Dracula: the Dirty Old Man_ (1969).
+  in "`Son of Dracula`_" (1943), Count 'Alucard' travels to the southern USA
+  to marry a disturbed woman who wants to be immortal; in "`Dracula's Last
+  Rites`_" (1979), vampire Dr A. Lucard runs a mortuary, which keeps him
+  well-stocked with fresh bodies. The same trick occurs in "`Dracula: the
+  Series`_" (1990), and the films "`Dr Terror's Galaxy of Horrors`_" (1966) and
+  "`Dracula: the Dirty Old Man`_" (1969).
 
 + [p. 11] "Not, of course, with her reflection in the glass, because *that*
   kind of heroine will sooner or later end up singing a duet with Mr Blue
@@ -13642,10 +13642,10 @@ CARPE JUGULUM
 
   Various Disney heroines have done this: Snow White was the first, but
   Cinderella and Sleeping Beauty perpetrated similar offences. In the film
-  _Mary Poppins_, Julie Andrews sings in harmony with her own reflection
+  "`Mary Poppins`_", Julie Andrews sings in harmony with her own reflection
   ('A Spoonful of Sugar') and does indeed go on to sing with other
   creatures. 'Mr Blue Bird' comes into the song 'Zippedy Doo-Dah', from the
-  Disney film _Song of the South_, although there may be some older
+  Disney film "`Song of the South`_", although there may be some older
   reference.
 
 + [p. 13] "If you needed to boil an egg, you sang fifteen verses of 'Where
@@ -13667,7 +13667,7 @@ CARPE JUGULUM
 + [p. 18] "WELL, I HAVE A SMALL AMOUNT OF MONEY. A couple of coins landed
   on the frosty road."
 
-  See the annotation for p. 30/25 of _Mort_.
+  See the annotation for p. 30/25 of "Mort_".
 
 + [p. 19] "Later on, there'd be a command performance by that man who put
   weasels down his trousers,"
@@ -13691,8 +13691,8 @@ CARPE JUGULUM
 
 + [p. 27] "Lancre people didn't bother much with letterboxes."
 
-  All the same, it seems that arrangements have moved on since _Lords and
-  Ladies_, in which the mail was left hanging in a sack in the town for
+  All the same, it seems that arrangements have moved on since "`Lords and
+  Ladies`_", in which the mail was left hanging in a sack in the town for
   people to collect in their own time.
 
 + [p. 30] "'[...] an' it's bein' used up on der Copperhead road tonight.'"
@@ -13713,7 +13713,7 @@ CARPE JUGULUM
   nappies and keepin' you awake at night. That's hardly *sinful*, to my
   mind.'"
 
-  St Augustine, in his _Confessions_, pointed to the attention-seeking
+  St Augustine, in his "Confessions_", pointed to the attention-seeking
   behaviour of babies as evidence that even the most innocent are selfish,
   because of original sin.
 
@@ -13733,7 +13733,7 @@ CARPE JUGULUM
 + [p. 41] "'"shave and a haircut, no legs"'"
 
   The usual tune is 'Shave and a haircut, two pence'. See also the
-  annotation for p. 47/36 of _Soul Music_.
+  annotation for p. 47/36 of "`Soul Music`_".
 
 + [p. 51] "'We eat only fish this month. [...] Because the prophet Brutha
   eschewed meat, um, while he was wandering in the desert, see.'"
@@ -13741,18 +13741,18 @@ CARPE JUGULUM
   The Christian fast of Lent, originally a period of abstaining from all
   'rich food', commemorates Christ's time spent fasting in the wilderness,
   during which Satan tempted him with bread. See Matthew 4:1-11 and Luke
-  4:1-14. For the full story of Brutha, read _Small Gods_.
+  4:1-14. For the full story of Brutha, read "`Small Gods`_".
 
 + [p. 52] "'Wstfgl?' said Agnes."
 
   The earliest occurrence of this non-word that anyone has yet reported is
-  in _Asterix the Legionary_, when Obelix catches sight of the beautiful
+  in "`Asterix the Legionary`_", when Obelix catches sight of the beautiful
   Fabella. Terry says: "You've got me there... I thought I'd just strung
   together some letters!"
 
   But there's something about this set of letters, because Ptraci says the
-  same thing in _Pyramids_, and in _Feet of Clay_, in her sleep, Sybil says
-  'wsfgl'. There's also Astfgl, the 'villain' of _Eric_. More
+  same thing in "Pyramids_", and in "`Feet of Clay`_", in her sleep, Sybil says
+  'wsfgl'. There's also Astfgl, the 'villain' of "Eric_". More
   significantly, if you search for "wstfgl" on the Web, you'll find it
   cropping up in all sorts of apparently unrelated stories in a similar
   context -- the noise people make when they're either asleep or lost for
@@ -13763,12 +13763,12 @@ CARPE JUGULUM
 + [p. 54] "'I do not drink... wine,' said Igor haughtily."
 
   This line, with the dramatic pause before the word 'wine', appears in
-  many different movie versions of _Dracula_, starting with Bela Lugosi's
-  1931 classic version, down to the Francis Ford Coppola 1992 remake _Bram
-  Stoker's Dracula_.
+  many different movie versions of "Dracula_", starting with Bela Lugosi's
+  1931 classic version, down to the Francis Ford Coppola 1992 remake "`Bram
+  Stoker's Dracula`_".
 
   The line itself does not occur in the book, but originated in the
-  Hamilton Deane stage-play _Dracula_, which was hugely successful in New
+  Hamilton Deane stage-play "Dracula_", which was hugely successful in New
   York in the 1920s.
 
 + [p. 55] "'There wath none of thith fumble-finger thtuff and then pinching
@@ -13825,13 +13825,13 @@ CARPE JUGULUM
 + [p. 62] "'The Queen makes up some sort of headache pills out of willow
   bark."
 
-  As previously noted (see the annotation for p. 119 of _Hogfather_),
+  As previously noted (see the annotation for p. 119 of "Hogfather_"),
   willow bark contains aspirin.
 
 + [p. 63] "Agnes's left arm twitched [...] as if guided by a mind of its
   own."
 
-  The hero of the cult horror parody _Evil Dead II_ has a similar problem,
+  The hero of the cult horror parody "`Evil Dead II`_" has a similar problem,
   which he eventually resolves by cutting off his own hand; this scene
   could well be partly inspired by the film.
 
@@ -13840,7 +13840,7 @@ CARPE JUGULUM
   length, until everyone remembers the last line of the first verse and
   sings it as loudly as they can."
 
-  Not long after the publication of _Carpe Jugulum_, Terry wrote the
+  Not long after the publication of "`Carpe Jugulum`_", Terry wrote the
   Ankh-Morpork national anthem along these lines, set to original music by
   Carl Davis.
 
@@ -13865,7 +13865,7 @@ CARPE JUGULUM
         Five for silver, six for gold,
         Seven for a secret never to be told.
 
-  Nanny's version seems closer to the Scots version given in _Brewer's
+  Nanny's version seems closer to the Scots version given in "`Brewer's
   Dictionary of Phrase & Fable_:
 
         One's sorrow, two's mirth,
@@ -13896,7 +13896,7 @@ CARPE JUGULUM
 + [p. 91] "'That is the double snake symbol of the Djelibeybian water
   cult,' he said calmly."
 
-  In _Pyramids_, the Djelibeybian high priest Dios had a staff with two
+  In "Pyramids_", the Djelibeybian high priest Dios had a staff with two
   serpents entwined around it -- possibly the same symbol. There are at
   least three distinct theories about why holy symbols repel vampires. The
   Catholic theory is that the repelling force is the faith of the holder,
@@ -13942,15 +13942,15 @@ CARPE JUGULUM
   British children's entertainment featuring theft, extreme violence,
   wife-beating and multiple murders, using glove puppets. The performer
   would use a special throat-whistle, called a swozzle, to produce the
-  character's squeaky voice. See also the Discworld short story _Theatre of
-  Cruelty_.
+  character's squeaky voice. See also the Discworld short story "`Theatre of
+  Cruelty`_".
 
 + [p. 103] "A huge gilded china beer stein that played 'Ich Bin Ein
-  Rattarsedschwein' from _The Student Horse_ [...]"
+  Rattarsedschwein' from "`The Student Horse`_" [...]"
 
   'Ich Bin Ein Rattarsedschwein' means 'I am a Drunken Pig', rat-arsed
-  being British slang for very drunk. _The Student Horse_ refers to _The
-  Student Prince_, an operetta by Romberg about a prince who studies at
+  being British slang for very drunk. "`The Student Horse`_" refers to "`The
+  Student Prince`_", an operetta by Romberg about a prince who studies at
   Heidelberg and falls for a barmaid. In the film, allegedly, Mario Lanza
   was supposed to play the part of the prince, but got too fat, so his
   voice is just dubbed over the lead actor's when singing. Songs include
@@ -13994,13 +13994,13 @@ CARPE JUGULUM
 + [p. 123] "They stared into the abyss, which didn't stare back."
 
   A famous quotation from Nietzsche: "If you gaze for long into an abyss,
-  the abyss gazes also into you." (From _Beyond Good and Evil_.)
+  the abyss gazes also into you." (From "`Beyond Good and Evil`_".)
 
 + [p. 126] "She pushed gently until her toes were pointed at the sky and
   she was doing a handstand on the edge."
 
-  Agnes is imitating Lara Croft, hero of the hugely successful _Tomb
-  Raider_ series of video games. Terry admits to being a Lara fan.
+  Agnes is imitating Lara Croft, hero of the hugely successful "`Tomb
+  Raider`_" series of video games. Terry admits to being a Lara fan.
 
 + [p. 128] "'Oh, that's the witch,' said Nanny. 'She's not a problem.'"
 
@@ -14010,7 +14010,7 @@ CARPE JUGULUM
 + [p. 138] "'Like the hero in Tsort or wherever it was, who was completely
   invincible except for his heel [...]'"
 
-  See the annotation for p. 274/241 of _Witches Abroad_.
+  See the annotation for p. 274/241 of "`Witches Abroad`_".
 
 + [p. 139] "The man lowered the thimble. 'Pictsies!'"
 
@@ -14023,15 +14023,15 @@ CARPE JUGULUM
   Combined with the blue skin, this suggests a decidedly Smurf-like quality
   to the Feegles. Terry says:
 
-  "1 I wanted some background to Wee Mad Arthur, of _Feet of Clay_ and so
+  "1 I wanted some background to Wee Mad Arthur, of "`Feet of Clay`_" and so
   they'd be small. 2 I'd been listening to Laureena McKennitt singing 'The
   Stolen Child'. 3 Since (see 1) the tribe would be cod-Scottish, then
-  _Braveheart_ and _Rob Roy_ ("let's bash the English" movies made by
+  "Braveheart_" and "`Rob Roy`_" ("let's bash the English" movies made by
   people sitting on the biggest piece of land ever stolen from its owners
   by trickery, genocide and war) were natural targets... which meant that
   the NmF would be blue..."
 
-+ [p. 143] "'_Yez lukin' at a faceful o'heid!_'"
++ [p. 143] "'"`Yez lukin' at a faceful o'heid!_'"
 
   Typical Glaswegian greeting. See also p. 169 "'What ya' lookin a', chymie
   (Jimmy)?'"
@@ -14048,9 +14048,9 @@ CARPE JUGULUM
 
 + [p. 150] "'Ah... Aunt Carmilla...'"
 
-  _Carmilla_, by J. Sheridan LeFanu, was one of the earliest literary
+  "Carmilla_", by J. Sheridan LeFanu, was one of the earliest literary
   vampire stories, published in 1872, a good quarter of a century before
-  _Dracula_. The story about bathing in the blood of virgins is told of
+  "Dracula_". The story about bathing in the blood of virgins is told of
   Erzsebet Bathory (1560-1614), a Hungarian princess who believed that it
   would keep her young; her name is often associated with vampire stories.
 
@@ -14068,7 +14068,7 @@ CARPE JUGULUM
 + [p. 154] "'... *The blood is the life [...] porphyria, lack of?*'"
 
   Oats has crammed an impressive collection of vampire stories into one
-  page of notes. "The blood is the life" is a catchphrase from _Dracula_;
+  page of notes. "The blood is the life" is a catchphrase from "`Dracula_;
   it is closely associated with the Christian view of the vampire -- just
   as the Christian gains eternal life through the sacrament of Christ's
   blood, so the vampire earns a perverted version of the same.
@@ -14086,14 +14086,14 @@ CARPE JUGULUM
   have a similar story of how humanity was *almost* wiped out by a flood,
   but saved by one good person building a boat.
 
-+ [p. 159] "'This is from Ossory's _Malleus Maleficarum_,'"
++ [p. 159] "'This is from Ossory's "`Malleus Maleficarum`_",'"
 
-  The _Malleus Maleficarum_ (usually translated _Hammer of Witches_) was
+  The "`Malleus Maleficarum`_" (usually translated "`Hammer of Witches`_") was
   written by two Dominican monks in the 15th century as a manual for
   dealing with witches and possessing spirits. Many of the popular myths
   about medieval treatment of witches, including many of the various tests
   by ordeal, first appeared in this book. See also the annotation for p.
-  375/262 of _Good Omens_.
+  375/262 of "`Good Omens`_".
 
 + [p. 168] "'yin, tan, TETRA!'"
 
@@ -14119,14 +14119,14 @@ CARPE JUGULUM
 + [p. 180] "Up the airy mountain and down the rushy glen ran the Nac mac
   Feegle,"
 
-  From _The Fairies_, by William Allingham:
+  From "`The Fairies`_", by William Allingham:
 
         Up the airy mountain
         Down the rushy glen,
         We daren't go a-hunting,
         For fear of little men;
 
-  See also the annotation for p.287/207 of _Lords and Ladies_.
+  See also the annotation for p.287/207 of "`Lords and Ladies`_".
 
 + [p. 180] "'Hakkis lugs awa'!'"
 
@@ -14160,7 +14160,7 @@ CARPE JUGULUM
 + [p. 199] "'Oh, yes, sir, 'cos of when the other side are yelling "We're
   gonna cut yer tonk-- yer *tongue* off,"'"
 
-  In _Interesting Times_ we learned that, on the Disc, 'psychological
+  In "`Interesting Times`_" we learned that, on the Disc, 'psychological
   warfare' is defined as drumming on your shield and shouting "We're gonna
   cut yer *tonkers* off."
 
@@ -14174,7 +14174,7 @@ CARPE JUGULUM
 + [p. 205] "'Ach, I wouldna' gi'ye skeppens for him --'"
 
   This is very similar to a recurrent line "I wadna gie a button for her",
-  in Robert Burns's poem _Sic a Wife as Willie's Wife_. The poem describes
+  in Robert Burns's poem "`Sic a Wife as Willie's Wife`_". The poem describes
   the vile, vile looking wife of a wee 'greasy weaver' (no Adonis himself),
   and when performed usually has the audience in stitches when the
   descriptions of the wife are mimed. It is a good party piece for a Burns
@@ -14187,7 +14187,7 @@ CARPE JUGULUM
 
 + [p. 206] "'I thought you turned into bats!' she shouted to Vlad."
 
-  Discworld vampires used to do this (in _Reaper Man_ and _Witches Abroad_,
+  Discworld vampires used to do this (in "`Reaper Man`_" and "`Witches Abroad`_",
   for instance), but more recently they have taken to flying without
   changing form. Presumably it's another aspect of being a Modern vampire.
 
@@ -14211,7 +14211,7 @@ CARPE JUGULUM
   has its compensations', this suggests that B. S. Johnson was active
   within the past hundred years -- the first solid clue we've had about his
   lifetime. The 'children of the night' quote is one of the most famous
-  lines from the original 1931 _Dracula_ movie.
+  lines from the original 1931 "Dracula_" movie.
 
   'Johnson' is American slang for a penis, so this single entendre is quite
   an admission from Nanny.
@@ -14233,18 +14233,18 @@ CARPE JUGULUM
 
 + [p. 247] "'Do you remember Mr and Mrs Harker?'"
 
-  Jonathan and Mina Harker are two of the leading characters in _Dracula_.
+  Jonathan and Mina Harker are two of the leading characters in "Dracula_".
 
 + [p. 247] "'Do onions hurt us? Are we frightened of shallots? No.'"
 
-  The hero of the classic 1954 novel _I am Legend_, the last living human
+  The hero of the classic 1954 novel "`I am Legend`_", the last living human
   on an earth where everyone else has become a vampire, actually
   experiments with this possibility.
 
 + [p. 248] "Greebo sheathed his claws and went back to sleep."
 
   This is the second time Greebo has taken out a vampire -- he ate a bat in
-  _Witches Abroad_ -- which suggests that there *are* other ways of killing
+  "`Witches Abroad`_" -- which suggests that there *are* other ways of killing
   them than those sophisticated methods prescribed by folklore.
 
 + [p. 249] "'-- burn, with a clear bright light --'"
@@ -14266,18 +14266,18 @@ CARPE JUGULUM
 
 + [p. 256] "'Lines and crosses and circles... oh, my...'"
 
-  Echoes 'Lions and tigers and bears, oh my!' from _The Wizard of Oz_.
+  Echoes 'Lions and tigers and bears, oh my!' from "`The Wizard of Oz`_".
 
 + [p. 257] "'And I'd watch that bloke with the stake. He's altogether too
   keen on it. I reckon there's some psychology there --'"
 
-  It's become a commonplace observation, about _Dracula_, that a man
+  It's become a commonplace observation, about "Dracula_", that a man
   driving a stake into a female vampire is about as strong a sexual image
   as it was possible to publish in Victorian times...
 
 + [p. 261] "'They've killed Thcrapth! The bathtardth!'"
 
-  A running joke in the adult cartoon _South Park_ is how the character
+  A running joke in the adult cartoon "`South Park`_" is how the character
   Kenny is killed, in some deeply implausible way, in every episode,
   whereupon Kyle and Stan exchange the comments "Oh my god! They've killed
   Kenny!" "You bastards!"
@@ -14285,7 +14285,7 @@ CARPE JUGULUM
 + [p. 266] "'Griminir the Impaler, she was.'"
 
   Grimnir the Impaler (1514-1553, 1553-1557, 1557-1562, 1562-1567 and
-  1568-1573) is mentioned in _Wyrd Sisters_. The difference in spelling is
+  1568-1573) is mentioned in "`Wyrd Sisters`_". The difference in spelling is
   presumably a typo.
 
 + [p. 268] "'Old Red Eyeth ith back!'"
@@ -14320,7 +14320,7 @@ CARPE JUGULUM
   it could scan to the tune of 'The Battle-Hymn of the Republic.'
 
 
-THE FIFTH ELEPHANT
+The Fifth Elephant
 ~~~~~~~~~~~~~~~~~~
 
 + [p. 20] "'The crowning of the Low King,' said Carrot."
@@ -14335,7 +14335,7 @@ THE FIFTH ELEPHANT
   enigma.'"
 
   A slight paraphrase of what Churchill originally said about Russia. See
-  also the annotation for p. 176/133 of _Men At Arms_.
+  also the annotation for p. 176/133 of "`Men At Arms`_".
 
 + [p. 28] "'The Scone of Stone. A replica, of course.'"
 
@@ -14373,7 +14373,7 @@ THE FIFTH ELEPHANT
 
 + [p. 49] "'Inigo Skimmer, sir. Mhm-mhm.'"
 
-  People tried to read a reference to _The Princess Bride_'s Inigo Montoya
+  People tried to read a reference to "`The Princess Bride_'s Inigo Montoya
   character in the name, but Terry said:
 
   "Inigo is just a name. So is Skimmer. It's not an intentional reference
@@ -14420,14 +14420,14 @@ THE FIFTH ELEPHANT
 + [p. 61] "'Silver has not been mined in Uberwald since the Diet of Bugs in
   AM 1880 [...]'"
 
-  The Diet of Worms (or _Reichstag zu Worms_ as the Germans refer to it)
+  The Diet of Worms (or "`Reichstag zu Worms`_" as the Germans refer to it)
   was a political council (influenced by the Roman Catholic church) that
   took place in the town of Worms in 1521. It was during this session that
   Martin Luther was called upon to defend his Reformist teachings against
   Pope Leo X's threat of excommunication. When he refused to recant, he was
   ordered to leave and declared to be an outlaw as per the Edict of Worms.
 
-+ [p. 65] "[...] a production of _Chicken Lake_."
++ [p. 65] "[...] a production of "`Chicken Lake`_"."
 
   Chicken Lake -> Swan Lake.
 
@@ -14442,7 +14442,7 @@ THE FIFTH ELEPHANT
   the pigeons."
 
   Overtones of St. Francis of Assisi, who famously preached to the birds.
-  See also the annotation for p. 68/40 of _Good Omens_.
+  See also the annotation for p. 68/40 of "`Good Omens`_".
 
 + [p. 174] "'Sybil wants to go to take the waters at Bad Heisses Bad---"
 
@@ -14450,7 +14450,7 @@ THE FIFTH ELEPHANT
 
 + [p. 226] "'How beautiful the snow is, sisters...'"
 
-  This whole section is a riff on Chekhov's 1901 play _Three Sisters_,
+  This whole section is a riff on Chekhov's 1901 play "`Three Sisters`_",
   complete with Chekhovian misunderstandings and pauses.
 
 + [p. 227] "'If we moved to Bonk [...]'"
@@ -14462,7 +14462,7 @@ THE FIFTH ELEPHANT
 + [p. 228] "'We have the gloomy and purposeless trousers of Uncle Vanya,'
   said one, doubtfully."
 
-  _Uncle Vanya_ is the other great Chekhov play. "Gloomy and purposeless"
+  "`Uncle Vanya`_" is the other great Chekhov play. "Gloomy and purposeless"
   sums up much Chekhovian drama quite accurately. The Russian word is
   "toska" -- a sort of weary, faded ennui.
 
@@ -14478,7 +14478,7 @@ THE FIFTH ELEPHANT
 + [p. 255] "Blow the bloody doors off!"
 
   Intentional or not, this piece has resonances with the UK classic cult
-  movie _The Italian Job_. One character is instructed by another to open a
+  movie "`The Italian Job`_". One character is instructed by another to open a
   safe and ends up blowing up the entire van, thus leading to the famous
   line "You were only supposed to blow the bloody doors off!". Detritus
   exhibits a similar amount of overkill here.
@@ -14492,7 +14492,7 @@ THE FIFTH ELEPHANT
   "Strength through Joy" ("Kraft durch Freude") was the name of a large
   German National Socialist labour organisation, which provided affordable
   leisure activities for its members such as concerts and cruises. Early
-  prototypes of the Volkswagen Beetle were in fact known as _KdF-Wagen_.
+  prototypes of the Volkswagen Beetle were in fact known as "`KdF-Wagen`_".
 
 + [p. 310] "'Is that why he's got human ears all over his back?' 'Early
   experiment, thur.'"
@@ -14508,7 +14508,7 @@ THE FIFTH ELEPHANT
   human ear, neither of which was the case.
 
 
-THE TRUTH
+The Truth
 ~~~~~~~~~
 
 + [p. 11] "Then the two watchmen trailed through the slush and muck to the
@@ -14529,13 +14529,13 @@ THE TRUTH
 
   The characters of Pin and Tulip are somewhat frustrating for Terry in the
   sense that many, many people feel that they are 'obviously' based on Mr
-  Croup and Mr Vandemar in Neil Gaiman's _Neverwhere_ (who refer to
+  Croup and Mr Vandemar in Neil Gaiman's "Neverwhere_" (who refer to
   themselves as the Old Firm, and call each other 'Mr'). Or 'obviously'
   based on the thugs Jules Winfield and Vincent Vega from the 1994 movie
-  _Pulp Fiction_ (and there are a good number of _Pulp Fiction_ references
-  in _The Truth_). Or obviously based on Mr Wint and Mr Kidd from the James
-  Bond movie _Diamonds are Forever_. Or obviously based on the two Rons
-  (who called themselves 'The Management') from the BBC _Hale and Pace_
+  "`Pulp Fiction`_" (and there are a good number of "`Pulp Fiction`_" references
+  in "`The Truth`_"). Or obviously based on Mr Wint and Mr Kidd from the James
+  Bond movie "`Diamonds are Forever`_". Or obviously based on the two Rons
+  (who called themselves 'The Management') from the BBC "`Hale and Pace`_"
   series. Or...
 
   Terry himself had this to say:
@@ -14544,7 +14544,7 @@ THE TRUTH
   first turned up amongst bookies, but I've even seen the Kray Brothers
   referred to that way. Since the sixties at least the 'the firm' has
   tended to mean 'criminal gang.' And, indeed, the term turned up in DW
-  long before _Neverwhere_.
+  long before "Neverwhere_".
 
   2. Fiction and movies are full of pairs of bad guys that pretty much
   equate to Pin and Tulip. They go back a long way. That's why I used 'em,
@@ -14575,13 +14575,13 @@ THE TRUTH
 + [p. 22] "'We are a bodyguard of lies, gentlemen.'".
 
   Winston Churchill said "In war-time, truth is so precious that she should
-  always be attended by a bodyguard of lies". Any book called _The Truth_
+  always be attended by a bodyguard of lies". Any book called "`The Truth`_"
   should therefore have one.
 
 + [p. 27] "And then there had been the war against Klatch..."
 
   The story of this particular war has been told in great detail in
-  _Jingo_.
+  "Jingo_".
 
 + [p. 29] "'M-a-k-e-$-$-$-I-n-n-Y-o-u-r-e-S-p-a-r-e-T-y-m--' he murmured."
 
@@ -14601,7 +14601,7 @@ THE TRUTH
   and gave the High Priest another smile. 'Don't you wonder what shape it
   will turn out to be tomorrow?'"
 
-  In the 1997 movie _Men in Black_, Tommy Lee Jones' character says: "1500
+  In the 1997 movie "`Men in Black`_", Tommy Lee Jones' character says: "1500
   years ago, everybody knew that the Earth was the centre of the universe.
   500 years ago, everybody knew that the Earth was flat. And 15 minutes
   ago, you knew that humans were alone on this planet. Imagine what you'll
@@ -14615,17 +14615,17 @@ THE TRUTH
 
 + [p. 41] "[...] that Holy Wood moving picture fiasco a few years ago..."
 
-  This fiasco is detailed in _Moving Pictures_.
+  This fiasco is detailed in "`Moving Pictures`_".
 
 + [p. 41] "[...] that Music with Rocks In business a few years after..."
 
-  And this story is told in _Soul Music_.
+  And this story is told in "`Soul Music`_".
 
 + [p. 41] "'[...] when the late Mr Hong chose to open his Three Jolly Luck
   Take-Away Fish Bar in Dagon Street during the lunar eclipse.'"
 
   An H. P. Lovecraft reference. See also the annotation for p. 197/149 of
-  _Men at Arms_.
+  "`Men at Arms`_".
 
 + [p. 47] "Boddony, who seemed to be second in command of the print room,
   [...]"
@@ -14638,12 +14638,12 @@ THE TRUTH
 + [p. 51] "'Gottle o' geer, gottle o' geer,' said Ron mysteriously."
 
   A reference to the old ventriloquist "bottle of beer" routine. See the
-  annotation for p. 64/62 of _Pyramids_ for a full explanation.
+  annotation for p. 64/62 of "Pyramids_" for a full explanation.
 
 + [p. 60] "The *tons* acted like society lords."
 
   The tons are troll heavies, the equivalent of Mafia capos or dons. But
-  they are also trying to join _The Ton_, an eighteenth century term for
+  they are also trying to join "`The Ton`_", an eighteenth century term for
   leaders of fashion.
 
 + [p. 61] "[...] the P'gi Su dynasty?"
@@ -14661,7 +14661,7 @@ THE TRUTH
 + [p. 79] "'Do you know what they called a sausage-in-a-bun in Quirm?' said
   Mr Pin, [...]"
 
-  Riffs on the famous "Quarter Pounder with Cheese" dialogue from _Pulp
+  Riffs on the famous "Quarter Pounder with Cheese" dialogue from "`Pulp
   Fiction_:
 
       Vincent: "And you know what they call a... a... a Quarter Pounder
@@ -14680,7 +14680,7 @@ THE TRUTH
   A boxing troll called Rocky, who keeps getting knocked down... It's
   really astonishing that it took Terry so long to come up with this
   particular troll name. The reference is, of course, to Sylvester
-  Stallone's _Rocky_ movies.
+  Stallone's "Rocky_" movies.
 
 + [p. 90] "The Truth Shall Make Ye Free"
 
@@ -14727,7 +14727,7 @@ THE TRUTH
 
 + [p. 147] "'A dog has got personality. Personality counts for a lot.'"
 
-  Another _Pulp Fiction_ quote from Jules: "I wouldn't go so far as to call
+  Another "`Pulp Fiction`_" quote from Jules: "I wouldn't go so far as to call
   a dog filthy, but they're definitely dirty. But, a dog's got personality.
   Personality goes a long way."
 
@@ -14736,11 +14736,11 @@ THE TRUTH
   swarm of bees.'"
 
   This has many Roundworld counterparts; see also the annotation for p.
-  289/262 of _Guards! Guards!_
+  289/262 of "`Guards! Guards!`_"
 
 + [p. 149] "'An' then... then I'm gonna get *medieval* on his arse.'"
 
-  A quote from _Pulp Fiction_, spoken by Marcellus Wallace as an indication
+  A quote from "`Pulp Fiction`_", spoken by Marcellus Wallace as an indication
   of his intended course of action concerning the person who had, um,
   displeased him.
 
@@ -14758,12 +14758,12 @@ THE TRUTH
   and every time he got it to the top it rolled down again?'"
 
   A reference to Sisyphus from Greek mythology. See also annotation for p.
-  132/108 of _Eric_.
+  132/108 of "Eric_".
 
 + [p. 176] "'Have you still got the box it came in?' said Mr Tulip, turning
   the candlestick over and over in his hands."
 
-  This scene spoofs the _Antiques Roadshow_ type television programs, where
+  This scene spoofs the "`Antiques Roadshow`_" type television programs, where
   people bring their old items to be identified and appraised by experts.
 
   When asked if the reference was deliberate, Terry said:
@@ -14779,8 +14779,8 @@ THE TRUTH
   The "Mothman" was a large creature (man-sized, but with wings) seen by
   several people in West Virginia in the second half of the 1960s, and
   reported on extensively by the regular newspapers at the time as well as
-  by the Fortean Times (see also the annotation for p. 155/99 of _Good
-  Omens_).
+  by the Fortean Times (see also the annotation for p. 155/99 of "`Good
+  Omens`_").
 
 + [p. 189] "Hobson's Livery Stable"
 
@@ -14810,14 +14810,14 @@ THE TRUTH
 + [p. 275] "'"Not A Very Nice Person At All",' she read. 'I wonder what
   kind of person would put *that* on a wallet?'"
 
-  A person such as Jules from _Pulp Fiction_ might. Only his wallet read
-  _Bad Motherfucker_.
+  A person such as Jules from "`Pulp Fiction`_" might. Only his wallet read
+  "`Bad Motherfucker`_".
 
 + [p. 279] "'Let us use your "ing" presses or I'll "ing" shoot your "ing"
   head "ing" off!' she screamed."
 
   Very reminiscent of Honey Bunny's sudden and unexpected yelling at the
-  cafe denizens in _Pulp Fiction_: "Any of you fuckin' pricks move and I'll
+  cafe denizens in "`Pulp Fiction_: "Any of you fuckin' pricks move and I'll
   execute every motherfuckin' last one of ya!".
 
 + [p. 289] "WHO KNOWS WHAT EVIL LURKS IN THE HEART OF MEN?"
@@ -14825,8 +14825,8 @@ THE TRUTH
   *The Shadow Knows!*
 
   This question and answer made up the opening lines from one of the most
-  popular radio shows in history, _Detective Story_ (later quickly renamed
-  to _The Shadow_).
+  popular radio shows in history, "`Detective Story`_" (later quickly renamed
+  to "`The Shadow`_").
 
 + [p. 296] "'Every day, in every vay, ve get better and better.'"
 
@@ -14837,13 +14837,13 @@ THE TRUTH
 + [p. 310] "'Have you locked him up,' said Sacharissa suspiciously, 'in a
   deep cell, and made him wear a mask all the time [...]"
 
-  Reference to Alexandre Dumas' 1846 novel _The Man in the Iron Mask_.
+  Reference to Alexandre Dumas' 1846 novel "`The Man in the Iron Mask`_".
 
 
-THIEF OF TIME
+Thief Of Time
 ~~~~~~~~~~~~~
 
-+ Terry comments on the inspiration for _Thief of Time_:
++ Terry comments on the inspiration for "`Thief of Time_:
 
   "The genesis for ToT, for me, was an article I read a few years ago about
   a genuine glass clock, with one metal component (the image of it
@@ -14853,7 +14853,7 @@ THIEF OF TIME
   creature of time... which brought in Death and the Auditors, with their
   known animosity to life... and so it went."
 
-+ [title] "_Thief of Time_"
++ [title] ""`Thief of Time_"
 
   From the old saying: Procrastination is the thief of time.
 
@@ -14866,13 +14866,13 @@ THIEF OF TIME
 + [p. 7] "Tragedy loomed in the shape of thousands of tons of unaccountably
   floating iron and an exciting soundtrack..."
 
-  A reference to the 1997 movie _Titanic_.
+  A reference to the 1997 movie "Titanic_".
 
 + [p. 15] "There were snatches of sound, too, of laughter, tears, screams
   and for some reason a brief burst of xylophone music, which caused him to
   pause for a moment."
 
-  Refers back to the conversation Susan had with Albert back in _Soul
+  Refers back to the conversation Susan had with Albert back in "`Soul
   Music_:
 
        Susan:  "I mean I'm an ordinary kid!"
@@ -14880,7 +14880,7 @@ THIEF OF TIME
        Albert: "Listen, ordinary kids get a xylophone. They don't just ask
                their granddad to take his shirt off!"
 
-+ [p. 18] "'We are Myria LeJean. _Lady_ Myria LeJean.'"
++ [p. 18] "'We are Myria LeJean. "Lady_" Myria LeJean.'"
 
   The name "Myria" resonated with the English word "myriad", meaning "a
   vast number" or "comprised of a large number of things".
@@ -14898,11 +14898,11 @@ THIEF OF TIME
 + [p. 21] "'It's Xeno's Paradox.'"
 
   We've encountered Xeno the philosopher and his paradoxes before, in
-  _Pyramids_. See the various 'philosopher' annotations for that book.
+  "Pyramids_". See the various 'philosopher' annotations for that book.
 
-+ [p. 21] "'_Grim Fairy Tales_?' he said."
++ [p. 21] "'"`Grim Fairy Tales_?' he said."
 
-  Reference to our world's _Grimm's Fairy Tales_, after the influential
+  Reference to our world's "`Grimm's Fairy Tales`_", after the influential
   volumes of folk and fairy tales collected and published in the nineteenth
   century by the German brothers Jacob and Wilhelm Grimm.
 
@@ -14911,8 +14911,8 @@ THIEF OF TIME
 
   I don't think there has ever been a philosopher who has made
   pronouncements about spoons, but "There is no spoon" is of course one of
-  the better-known metaphysical mumbo-jumbo quotes from the original _The
-  Matrix_ movie.
+  the better-known metaphysical mumbo-jumbo quotes from the original "`The
+  Matrix`_" movie.
 
 + [p. 29] "'Master Soto sent him. You know?'"
 
@@ -14921,7 +14921,7 @@ THIEF OF TIME
 
 + [p. 31] "'Soto said he saw him perform the Stance of the Coyote!'"
 
-  Echoes of the 'Crane' technique' made famous by the _The Karate Kid_
+  Echoes of the 'Crane' technique' made famous by the "`The Karate Kid`_"
   movies. Martial Arts in general, and Kung Fu in particular, have many
   techniques and styles named after animals, e.g. 'Stance of Horse'.
 
@@ -14947,13 +14947,13 @@ THIEF OF TIME
   Ankh-Morpork, Rooms For Rent, Very Reasonable.'"
 
   We have met Mrs Marietta Cosmopilite in several previous books starting
-  from _Moving Pictures_.
+  from "`Moving Pictures`_".
 
 + [p. 72] "'Word one is, you don't call me "master" and I don't name you
   after some damn insect.'"
 
-  A reference to the 'grasshopper' nickname from the _Kung Fu_ television
-  series (see also the annotation for p. 165/107 of _Good Omens_).
+  A reference to the 'grasshopper' nickname from the "`Kung Fu`_" television
+  series (see also the annotation for p. 165/107 of "`Good Omens`_").
 
 + [p. 110] "Oh, maybe fishermen would start to dredge up strange whiskery
   fish that they'd only ever seen before as fossils [...]"
@@ -14966,7 +14966,7 @@ THIEF OF TIME
 + [p. 121] "'You've disobeyed my *baababa* orders before, though. In Omnia,
   I remember.'"
 
-  Indeed he has. This story is told in greater detail in _Small Gods_.
+  Indeed he has. This story is told in greater detail in "`Small Gods`_".
 
 + [p. 124] "'Qu's having fun, I see,' said Lu-Tze."
 
@@ -14997,8 +14997,8 @@ THIEF OF TIME
 + [p. 136] "[footnote: '*We* belong dead? Ecthcuthe me? Where doeth it thay
   "we"?']"
 
-  From the _Bride of Frankenstein_ movie. See also the annotation for p.
-  305/255 of _Moving Pictures_.
+  From the "`Bride of Frankenstein`_" movie. See also the annotation for p.
+  305/255 of "`Moving Pictures`_".
 
 + [p. 150] "'Is it a book?' said one who was slightly intellectual. 'How
   many words?'"
@@ -15009,15 +15009,15 @@ THIEF OF TIME
   Old Man Trouble, it amazed Susan that she had grown up to be mostly
   human, nearly normal."
 
-  Susan met the Tooth Fairy in _Hogfather_. For the Soul Cake Duck see the
-  annotation for p. 75/57 of _Soul Music_, and for Old Man Trouble see the
-  annotation for p. 86 of _Feet of Clay_.
+  Susan met the Tooth Fairy in "Hogfather_". For the Soul Cake Duck see the
+  annotation for p. 75/57 of "`Soul Music`_", and for Old Man Trouble see the
+  annotation for p. 86 of "`Feet of Clay`_".
 
 + [p. 188] "'Mr Black. Mr Green. Miss Brown. Miss White. Miss... Yellow.
   And Mr Blue.'"
 
   Reminiscent of the criminal protagonists in Quentin Tarantino's 1992
-  movie _Reservoir Dogs_ (Mr White, Mr Orange, Mr Blonde, Mr Pink, Mr Brown
+  movie "`Reservoir Dogs`_" (Mr White, Mr Orange, Mr Blonde, Mr Pink, Mr Brown
   and Mr Blue). Note how 'Mr Blonde' maps to 'Miss... Yellow'.
 
 + [p. 274] "The idea was strangely attractive."
@@ -15033,10 +15033,10 @@ THIEF OF TIME
 
 + [p. 283] "'"Oh, my paws and whiskers"?'"
 
-  The White Rabbit in _Alice's Adventures in Wonderland_ is always late
+  The White Rabbit in "`Alice's Adventures in Wonderland`_" is always late
   (i.e. having trouble with time) and anxious: "Oh my ears and whiskers,
-  how late it's getting!". See also the annotation for p. 46/35 of _Soul
-  Music_.
+  how late it's getting!". See also the annotation for p. 46/35 of "`Soul
+  Music`_".
 
 + [p. 289] "The Death of Rats had scurried up the side of the clock [...]"
 
@@ -15049,18 +15049,18 @@ THIEF OF TIME
         Hickory Dickory Dock
 
 
-THE LAST HERO
+The Last Hero
 ~~~~~~~~~~~~~
 
-+ [cover] The hardcover version of _The Last Hero_ shows Cohen in typical
++ [cover] The hardcover version of "`The Last Hero`_" shows Cohen in typical
   Conan pose, but the softcover version ("16 pages of all-new
   illustrations!") has Rincewind doing his rendition of Edvard Munch's
-  painting _The Scream_.
+  painting "`The Scream`_".
 
 + [title page] The tapestry depicted on the title pages (and on pp. 152-3)
   not only tells the story of Cohen and the Silver Horde, but is also a
   pretty awesome parody (down to the positioning of the characters at the
-  beginning) of the _Bayeux Tapestry_, a 230 feet long embroidery telling
+  beginning) of the "`Bayeux Tapestry`_", a 230 feet long embroidery telling
   the story of the Battle of Hastings in 1066.
 
 + [p. 8] The circular illustration of Fingers Mazda, Io and the eagle is
@@ -15072,7 +15072,7 @@ THE LAST HERO
 + [p. 12] One of the birds Leonardo is feeding in the picture is a parrot
   with "dog" written on its body.
 
-  Back in _The Truth_, William de Worde offered a $25 reward to anybody who
+  Back in "`The Truth`_", William de Worde offered a $25 reward to anybody who
   could find the Patrician's dog. This lead to Sacharissa having to explain
   to an enterprising citizen of Ankh-Morpork: "--- no, that's not it. No,
   sir, I *know* that's not it. Because it's a parrot, that's why. You've
@@ -15108,7 +15108,7 @@ THE LAST HERO
   that) he 'got' Unseen University from Hogwarts, etcetera, etcetera.
 
   In this case, the first drawing of Ponder Stibbons (looking exactly as he
-  does here) appeared in the 1996 _Discworld Portfolio_, whereas the first
+  does here) appeared in the 1996 "`Discworld Portfolio`_", whereas the first
   Harry Potter novel was not published until 1997...
 
   Terry says:
@@ -15121,7 +15121,7 @@ THE LAST HERO
 + [p. 29] "'That's what heroes want, isn't it? To crush the thrones of the
   world beneath their sandalled feet, as the poet puts it?'"
 
-  Every issue of the classic _Conan the Barbarian_ comic series from Marvel
+  Every issue of the classic "`Conan the Barbarian`_" comic series from Marvel
   Comics used to start out with the following quote:
 
   "Know, O prince, that between the years when the oceans drank Atlantis
@@ -15144,7 +15144,7 @@ THE LAST HERO
 + [p. 31] "'I recall an old story about a ship that was pulled by swans and
   flew all the way to --"
 
-  In 1638, Bishop Francis Godwin of Hereford wrote _The Man In The Moone_,
+  In 1638, Bishop Francis Godwin of Hereford wrote "`The Man In The Moone`_",
   in which a Spaniard travels to the moon in a chariot drawn by swans. It
   is one of the earliest published accounts of space travel.
 
@@ -15153,21 +15153,21 @@ THE LAST HERO
   Seventeen syllables (5+7+5) is the length that English-language haiku
   poems are supposed to have.
 
-+ [p. 36] "'And also, if you recall... the _Maria Pesto_?"
++ [p. 36] "'And also, if you recall... the "`Maria Pesto_?"
 
-  This name echoes that of the mysteriously lost Roundworld ship _Marie
-  Celeste_ (see also the annotation for p. 204/195 of _Pyramids_).
+  This name echoes that of the mysteriously lost Roundworld ship "`Marie
+  Celeste`_" (see also the annotation for p. 204/195 of "Pyramids_").
 
 + [p. 36] "'My God, it's full of elephants!'"
 
   This parallels Dave Bowman's famous line, "My God, it's full of stars!"
-  at the end of the movie _2001: A Space Odyssey_.
+  at the end of the movie _2001: A Space Odyssey`_".
 
 + [p. 37] "[...] he could paint pictures that didn't just follow you around
   the room but went home with you [...]"
 
   Da Vinci's Mona Lisa is said to have eyes that follow one around the
-  room. See also the annotation for p. 137/104 of _Men At Arms_.
+  room. See also the annotation for p. 137/104 of "`Men At Arms`_".
 
 + [p. 38] "[...], Leonard had drawn a perfect circle."
 
@@ -15184,8 +15184,8 @@ THE LAST HERO
 
 + [p. 40] "Vena the Raven-Haired"
 
-  Both name and behaviour echo that of the main character in the _Xena:
-  Warrior Princess_ television series, and Paul Kidby has drawn her armour
+  Both name and behaviour echo that of the main character in the "`Xena:
+  Warrior Princess`_" television series, and Paul Kidby has drawn her armour
   to look *very* similar to what Xena typically wears (although it's
   difficult to tell whether that's a deliberate likeness or just your
   generic fantasy female warrior outfit in both cases)
@@ -15232,7 +15232,7 @@ THE LAST HERO
   playing here" to the instrument panel of the 'Freedom 7' Mercury flight
   that was to make Alan Shepard the first American in space.
 
-+ [p. 98] "The _Kite_ rose from the splintering barge."
++ [p. 98] "The "Kite_" rose from the splintering barge."
 
   Terry says:
 
@@ -15246,16 +15246,16 @@ THE LAST HERO
 + [p. 100] "'Think of it as a sort of... well, a magic carpet ride...'"
 
   Steppenwolf's song 'Magic Carpet Ride' is featured on the soundtrack of
-  many genre films. Amongst others, it can be heard in _Apollo 13_, _Austin
-  Powers 2_, _Coneheads_, _The Dish_, _Jay and Silent Bob strike Back_, and
-  _Star Trek: First Contact_.
+  many genre films. Amongst others, it can be heard in "`Apollo 13`_", "`Austin
+  Powers 2`_", "Coneheads_", "`The Dish`_", "`Jay and Silent Bob strike Back`_", and
+  "`Star Trek: First Contact`_".
 
   Terry says:
 
   "It tends to turn up a lot in SF movies, to the extent that I think
   directors do it deliberately. I just added to the list."
 
-  "I'd swear that it was in _My Stepmother Was An Alien_, too..."
+  "I'd swear that it was in "`My Stepmother Was An Alien`_", too..."
 
   "Anyway, Magic Carpet Ride is definitely a movie tradition. I'm just
   wondering how many directors put it in because they'd seen it on the
@@ -15264,7 +15264,7 @@ THE LAST HERO
 + [p. 101] "'I've got to get one of these,' he murmured."
 
   Rincewind is saying the same thing Will Smith's character's says in the
-  1996 movie _Independence Day_ upon admiring a new piece of technology,
+  1996 movie "`Independence Day`_" upon admiring a new piece of technology,
   after having just blasted off into space.
 
   As an afper put it: "The contrast between Will Smith ("I've got to get
@@ -15294,28 +15294,28 @@ THE LAST HERO
 
 + [p. 157] "'Second star to the left and straight on 'til morning?'"
 
-  Those are the directions to Never-Never Land in _Peter Pan_.
+  Those are the directions to Never-Never Land in "`Peter Pan`_".
 
 + [p. 159] The spiraling machine that Leonard is using in this illustration
   is actually based on a drawing of a helicopter designed by Leonardo da
   Vinci.
 
 
-THE AMAZING MAURICE AND HIS EDUCATED RODENTS
+The Amazing Maurice and his Educated Rodents
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-+ _The Amazing Maurice_ presents a new take on the old fairy tale of _The
-  Pied Piper of Hamelin_.
++ "`The Amazing Maurice`_" presents a new take on the old fairy tale of "`The
+  Pied Piper of Hamelin`_".
 
-+ [p. 9] "_Mr Bunnsy Has an Adventure_"
++ [p. 9] "`Mr Bunnsy Has an Adventure`_"
 
-  Mr Bunnsy's adventures are a parody of the Beatrix Potter _Peter Rabbit_
+  Mr Bunnsy's adventures are a parody of the Beatrix Potter "`Peter Rabbit`_"
   children's stories, most of which concern fluffy animals being rather
   nice to each other.
 
 + [p. 9] "Rats! They chased the dogs and bit the cats, they --"
 
-  An allusion to Robert Browning's well known 1842 version of _The Pied
+  An allusion to Robert Browning's well known 1842 version of "`The Pied
   Piper of Hamelin_:
 
         Rats!
@@ -15340,19 +15340,19 @@ THE AMAZING MAURICE AND HIS EDUCATED RODENTS
 + [p. 69] "Of all the kitchens in all the town he could turn up in, he's
   turned up in this one."
 
-  _Casablanca_ reference. See the annotation for p. 51/48 of _Sourcery_.
+  "Casablanca_" reference. See the annotation for p. 51/48 of "Sourcery_".
 
 + [p. 77] "'Haven't you heard of the Sisters Grim? Agoniza and Eviscera
   Grim? [...]'"
 
   The Discworld versions of our Brothers Grimm. See also the annotation for
-  p. 21 of _Thief of Time_.
+  p. 21 of "`Thief of Time`_".
 
 + [p. 87] "'[...] four children and a dog, which is the right number for an
   adventure, [...]'"
 
-  A reference to Enid Blyton's _Famous Five_ stories. See also the
-  annotation for p. 127/80 of _Good Omens_.
+  A reference to Enid Blyton's "`Famous Five`_" stories. See also the
+  annotation for p. 127/80 of "`Good Omens`_".
 
 + [p. 90] "[...] the doubting rat, who was called Tomato."
 
@@ -15363,7 +15363,7 @@ THE AMAZING MAURICE AND HIS EDUCATED RODENTS
 + [p. 106] "'[...] the Acme Poison Company [...]'"
 
   The Acme company rears its head again. See the annotation for p. 14/10 of
-  _Soul Music_.
+  "`Soul Music`_".
 
 + [p. 182] "'[...] of course everyone knows about Dick Livingstone and his
   wonderful cat, don't they?'"
@@ -15400,18 +15400,18 @@ THE AMAZING MAURICE AND HIS EDUCATED RODENTS
   for p. 9).
 
 
-NIGHT WATCH
+Night Watch
 ~~~~~~~~~~~
 
-+ _Night Watch_ has a number of influences from the book and musical _Les
-  Miserables_, but these are a lot less obvious than e.g. the usage of _The
-  Phantom of the Opera_ in _Maskerade_ (sometimes they are mirror
++ "`Night Watch`_" has a number of influences from the book and musical "`Les
+  Miserables`_", but these are a lot less obvious than e.g. the usage of "`The
+  Phantom of the Opera`_" in "Maskerade_" (sometimes they are mirror
   inversions of themes rather than straight references).
 
-  Some of the parallels include the fact that in _Les Miserables_ the plot
+  Some of the parallels include the fact that in "`Les Miserables`_" the plot
   concerns Jean Valjean, who is being pursued by an officer of the law many
   years before the start of the book/musical, which mirrors what happens to
-  Carcer in _Night Watch_.
+  Carcer in "`Night Watch`_".
 
   In LM, Jean Valjean is essentially a good man whose crime is the theft of
   a loaf of bread. Carcer is a murdererous murderous psychopath (who later
@@ -15439,17 +15439,17 @@ NIGHT WATCH
   Having said all that, it is of course eminently possible that Terry never
   intended any of these specific references -- his sources of inspiration
   can just as easily have been other revolutionary settings, from Charles
-  Dickens' _A Tale of Two Cities_ to the actual Paris Commune of 1871, and
+  Dickens' "`A Tale of Two Cities`_" to the actual Paris Commune of 1871, and
   everything in between.
 
-+ [title] _Night Watch_
++ [title] "`Night Watch`_"
 
-  The working title for this book was _The Nature of the Beast_, but this
+  The working title for this book was "`The Nature of the Beast`_", but this
   was discarded when Frances Fyfield published a book with exactly that
   title in the UK in late 2001.
 
 + [cover] Paul Kidby's cover parodies the famous Rembrandt painting
-  commonly known as _The Night Watch_.
+  commonly known as "`The Night Watch`_".
 
 + [p. 16] "Sammies, they were called, [...]"
 
@@ -15461,7 +15461,7 @@ NIGHT WATCH
 
 + [p. 22] "'None of that "comic gravedigger" stuff.'"
 
-  A nod to Shakespeare's gravediggers in _Hamlet_.
+  A nod to Shakespeare's gravediggers in "Hamlet_".
 
 + [p. 26] "'[...] the only species I've heard of there in any numbers are
   the kvetch, sir.'"
@@ -15472,7 +15472,7 @@ NIGHT WATCH
   clockmaker's shop in the Street of Cunning Artificers, stopping all the
   clocks at that instant."
 
-  Refers to the events in _Thief of Time_.
+  Refers to the events in "`Thief of Time`_".
 
 + [p. 82] "The Abbot of the History Monks (the Men In Saffron, No Such
   Monastery... they had many names) [...]"
@@ -15491,17 +15491,17 @@ NIGHT WATCH
   phrase became common, but I am not sure if the saying originates with
   him, or if, in fact, he ever actually said it.
 
-+ [p. 131] "_Morphic Street, 9 o'clock tonight. Password: swordfish._
-  Swordfish? _Every_ password was swordfish!"
++ [p. 131] ""`Morphic Street, 9 o'clock tonight. Password: swordfish.`_"
+  Swordfish? "Every_" password was swordfish!"
 
-  A reference to the 1932 Marx Brothers' movie _Horsefeathers_, in which
+  A reference to the 1932 Marx Brothers' movie "Horsefeathers_", in which
   'Swordfish' was the password for entering the speakeasy, and passed into
   history as the archetypical password.
 
 + [p. 148] "For a moment, the tiger burned brightly."
 
   A passing reference to William Blake's poem 'The Tyger' (see the
-  annotation for p. 46 of _The Last Continent_).
+  annotation for p. 46 of "`The Last Continent`_").
 
 + [p. 156] "'Turned out he didn't know the ginger beer trick.'"
 
@@ -15515,7 +15515,7 @@ NIGHT WATCH
   Hint: expanding bubbles, and the sensitivity of the sinuses.
 
   I seem to recall a brief shot of something very like this in the movie
-  _Traffic_."
+  "Traffic_"."
 
   Both Amnesty Internation and Human Rights Watch confirm that this kind of
   torture is regularly reported as being used by the Mexican police.
@@ -15539,12 +15539,12 @@ NIGHT WATCH
 + [p. 209] "Leggy Gaskin"
 
   This is actually Herbert Gaskin, whose funeral occurs just before the
-  start of _Guards! Guards!_: "It had been a hard day for the Watch. There
+  start of "`Guards! Guards!_: "It had been a hard day for the Watch. There
   had been the funeral of Herbert Gaskin, for one thing."
 
   It is also mentioned he died because he ran too fast and actually caught
   up with the criminal he was chasing -- hence, presumably, the nickname
-  'Leggy'. His widow also gets a mention in _Men at Arms_.
+  'Leggy'. His widow also gets a mention in "`Men at Arms`_".
 
 + [p. 224] "Dark sarcasm ought to be taught in schools, he thought."
 
@@ -15566,8 +15566,8 @@ NIGHT WATCH
 + [p. 230] "Who knew what evil lurked in the hearts of men? A copper,
   that's who."
 
-  Another reference to the question made famous by the _The Shadow_ radio
-  series. See also the annotation for p. 289 of _The Truth_.
+  Another reference to the question made famous by the "`The Shadow`_" radio
+  series. See also the annotation for p. 289 of "`The Truth`_".
 
 + [p. 243] "'That's right!' he said. 'The people are the sea in which the
   revolutionary swims!'"
@@ -15609,11 +15609,11 @@ NIGHT WATCH
   goat.' "
 
 
-THE WEE FREE MEN
+The Wee Free Men
 ~~~~~~~~~~~~~~~~
 
-+ [title] The working title of this book was _For Fear of Little Men_. See
-  also the annotation for p. 287/207 of _Lords and Ladies_.
++ [title] The working title of this book was "`For Fear of Little Men`_". See
+  also the annotation for p. 287/207 of "`Lords and Ladies`_".
 
 + The Nac Mac Feegle appear to be very Scottish in nature. Terry says:
 
@@ -15631,8 +15631,8 @@ THE WEE FREE MEN
 
   The term 'the Chalk', by the way, is not from Kipling as suggested
   elsewhere. It used to be, and may still be, a general term for, well, the
-  chalk country. I actually do have a copy of an old book called _Wild
-  Flowers of the Chalk_..."
+  chalk country. I actually do have a copy of an old book called "`Wild
+  Flowers of the Chalk`_"..."
 
 + [p. 24] "'I can't *do*,' said Miss Tick, straightening up. 'But I *can*
   teach!'"
@@ -15651,23 +15651,23 @@ THE WEE FREE MEN
   toad."
 
   So, clearly, what we have here is a yellow sick toad. See also the
-  annotation for p. 159/132 of _Moving Pictures_.
+  annotation for p. 159/132 of "`Moving Pictures`_".
 
   Terry says: "I just happened to note a toad had a skin which had had
   unfortunately gone a bit yellow because it had been ill, Far be it from
   me to make a pun. *You* did that:-)"
 
-+ [p. 41] "_Yan Tan Tethera_"
++ [p. 41] ""`Yan Tan Tethera_"
 
   This is indeed the ancient counting language of shepherds in Northern
-  England. It was also used by the Nac Mac Feegle themselves in _Carpe
-  Jugulum_.
+  England. It was also used by the Nac Mac Feegle themselves in "`Carpe
+  Jugulum`_".
 
 + [p. 42] "[...] especially ones strong enough to withstand falling
   farmhouses."
 
-  A _Wizard of Oz_ reference. See also the annotation for p. 139/122 of
-  _Witches Abroad_.
+  A "`Wizard of Oz`_" reference. See also the annotation for p. 139/122 of
+  "`Witches Abroad`_".
 
 + [p. 51] "[...] she climbed to the top of Arken Hill [...]"
 
@@ -15692,7 +15692,7 @@ THE WEE FREE MEN
 
 + [p. 74] "The headless man would catch her on the flat."
 
-  From _The Legend of Sleepy Hollow_ by Washington Irving -- and many other
+  From "`The Legend of Sleepy Hollow`_" by Washington Irving -- and many other
   similar folk tales.
 
 + [p. 75] "'[...] yer bogle [...]'"
@@ -15721,19 +15721,19 @@ THE WEE FREE MEN
 
 + [p. 93] "'See their swords? They glow blue in the presence of lawyers.'"
 
-  In the _The Lord of The Rings_ books, various weapons glow blue in the
+  In the "`The Lord of The Rings`_" books, various weapons glow blue in the
   presence of Orcs and other evil creatures.
 
 + [p. 107] "There were odd carvings in the chalk, too [...]"
 
   Chalk figures like the Rude Man of Cerne or the horses (such as the
   Uffington White Horse) that you find all over the chalk areas of Britain.
-  See also the annotation for p. 302/217 of _Lords and Ladies_.
+  See also the annotation for p. 302/217 of "`Lords and Ladies`_".
 
 + [p. 113] "'Onna black horse.'"
 
   The Elf Queen rides a black steed in the ballad of 'Tam Lin'. See also
-  the annotation for p. 141/103 of _Lords and Ladies_.
+  the annotation for p. 141/103 of "`Lords and Ladies`_".
 
 + [p. 116] "Grimhounds!"
 
@@ -15762,8 +15762,8 @@ THE WEE FREE MEN
   accredited to bards in Celtic tradition. Note that the gonnagle turns out
   to be called William.
 
-  William McGonagall's most famous poem is probably _The Tay Bridge
-  Disaster_ which recounts the events of the evening of 28 December 1879,
+  William McGonagall's most famous poem is probably "`The Tay Bridge
+  Disaster`_" which recounts the events of the evening of 28 December 1879,
   when, during a severe gale, the Tay Rail Bridge near Dundee collapsed as
   a train was passing over it. The first verse reads:
 
@@ -15821,7 +15821,7 @@ THE WEE FREE MEN
 
   "They can tak' oour lives, but they cannae tak' oour troousers!" This is
   "They can take our lives, but they'll never take our freedom", from the
-  movie _Braveheart_.
+  movie "Braveheart_".
 
   "Bang went saxpence!" is of those punchlines everyone's forgotten the
   joke to, reflecting the alleged meanness of the Scots. It comes from a
@@ -15834,7 +15834,7 @@ THE WEE FREE MEN
   road, and I'll tak' the low road".
 
   "There can only be one t'ousand!" is still based on the "There can be
-  only one" quote from Highlander, as already seen in _Carpe Jugulum_.
+  only one" quote from Highlander, as already seen in "`Carpe Jugulum`_".
 
   "Nae king! Nae quin! Nae laird! Nae master! We willnae be fooled again!"
   echoes the sentiments of The Who's song 'Won't get fooled again'.
@@ -15861,8 +15861,8 @@ THE WEE FREE MEN
   dismay, [...]'"
 
   *Exactly* the sort of thing McGonagall wrote. Although the "oooooo" bit
-  seems to have crept in from Spike Milligan's _William McGonagall: The
-  Truth At Last_.
+  seems to have crept in from Spike Milligan's "`William McGonagall: The
+  Truth At Last`_".
 
 + [p. 204] "Tiffany looked up at a white horse. [...] And there was a boy
   on it."
@@ -15873,7 +15873,7 @@ THE WEE FREE MEN
 + [p. 204] "'This is *my* forest!,' said the boy. 'I command you to do what
   I say!'"
 
-  More 'Tam Lin': see the annotation for p. 141/103 of _Lords and Ladies_.
+  More 'Tam Lin': see the annotation for p. 141/103 of "`Lords and Ladies`_".
 
 + [p. 204] "'Your name is Roland, isn't it?' she said."
 
@@ -15920,7 +15920,7 @@ THE WEE FREE MEN
 
   Tam Lin was captured while hunting, although the circumstances were
   different. When Thomas the Rhymer (see the annotation for p. 174/126 of
-  _Lords and Ladies_] met the Queen "At ilka tett of her horse's mane/Hung
+  "`Lords and Ladies_] met the Queen "At ilka tett of her horse's mane/Hung
   fifty siller bells and nine".
 
 + [p. 285] "'[...] ye bloustie ol' callyack that ye are!'"
@@ -15943,14 +15943,14 @@ THE WEE FREE MEN
 
 + [p. 289] Nac Mac Feegle legal battlecries.
 
-  "Twelve hundred angry men!" comes from the film title _Twelve Angry Men_.
+  "Twelve hundred angry men!" comes from the film title "`Twelve Angry Men`_".
 
   "We ha' the law on oour side!" *This* phrase, OTOH, has been used so
   often that if there was ever an original source (which there probably
   wasn't), it's long gone. Chalk it up as a cliche.
 
   "The law's made to tak' care o' raskills!" is an almost verbatim quote
-  from _The Mill on the Floss_ by George Elliot, who spelt "rascals" like
+  from "`The Mill on the Floss`_" by George Elliot, who spelt "rascals" like
   that all the time. Note that in *that* book "take care of" means "deal
   with". The Feegles seem to be using it to mean "protect"...
 
@@ -15964,17 +15964,17 @@ THE WEE FREE MEN
 
 + [p. 298] "The broomsticks descended."
 
-  There was some confusion on afp as to the place where _The Wee Free Men_
+  There was some confusion on afp as to the place where "`The Wee Free Men`_"
   fits in the Discworld chronology. With Granny Weatherwax and Nanny Ogg
   flying to the Chalk, is the third witch left holding the fort in Lancre
   Magrat or Agnes?
 
   Terry says:
 
-  "As for the chronology, it's 'now' -- or at least, after _Carpe Jugulum_.
-  Since _Carpe Jugulum_ *a* clan of NMF have been living in Lancre, too."
+  "As for the chronology, it's 'now' -- or at least, after "`Carpe Jugulum`_".
+  Since "`Carpe Jugulum`_" *a* clan of NMF have been living in Lancre, too."
 
-  "_The Wee Free Men_ was doodled around the time of _Carpe Jugulum_, but
+  ""`The Wee Free Men`_" was doodled around the time of "`Carpe Jugulum`_", but
   with a young male hero and set in Lancre. It evolved for all kinds of
   good and vindicated reasons, but among them was the realisation that it'd
   be too damn hard to keep the witches from taking a major role.
@@ -15997,13 +15997,13 @@ THE WEE FREE MEN
   of high, open, uncultivated land or moor.
 
 
-MONSTROUS REGIMENT
+Monstrous Regiment
 ~~~~~~~~~~~~~~~~~~
 
-+ [title] _Monstrous Regiment_
++ [title] "`Monstrous Regiment`_"
 
-  The title of this book is a reference to the pamphlet _The First Blast of
-  the Trumpet against the Monstrous Regiment of Women_, written by John
+  The title of this book is a reference to the pamphlet "`The First Blast of
+  the Trumpet against the Monstrous Regiment of Women`_", written by John
   Knox in 1558, complaining about the sudden appearance of female monarchs
   such as Elizabeth of England and Mary of Scotland pre-empting the natural
   position and authority of men.
@@ -16012,7 +16012,7 @@ MONSTROUS REGIMENT
 
   The name 'Borogravia' invokes the made-up word 'borogove' (often
   misprinted as 'borogrove') from the poem 'Jabberwocky' in Lewis Carroll's
-  _Through the Looking Glass_:
+  "`Through the Looking Glass_:
 
         Twas brillig, and the slithy toves
         Did gyre and gimble in the wabe;
@@ -16021,13 +16021,13 @@ MONSTROUS REGIMENT
 
   Carroll described borogoves as an extinct variety of wingless parrot with
   an upturned beak, which nested on sundials and lived on veal. Terry's
-  dislike of the Alice books has been previously noted (see the _Words From
-  The Master_ section).
+  dislike of the Alice books has been previously noted (see the "`Words From
+  The Master`_" section).
 
 + [p. 13] "[...] if you had a billygoat."
 
   A reference to the "The Three Billygoats Gruff" fairy tale. See also the
-  annotation for p. 193/140 of _Lords and Ladies_.
+  annotation for p. 193/140 of "`Lords and Ladies`_".
 
 + [p. 14] "The songs had been part of her childhood."
 
@@ -16142,15 +16142,15 @@ MONSTROUS REGIMENT
   For what it's worth, very few national anthems start with 'awake',
   although many begin with 'arise'.
 
-+ [p. 21] "'[...] the _Book of Nuggan_.'"
++ [p. 21] "'[...] the "`Book of Nuggan`_".'"
 
-  We have seen Nuggan before, in _The Last Hero_. He is therein depicted as
+  We have seen Nuggan before, in "`The Last Hero`_". He is therein depicted as
   short and irritable; perhaps his stature indicates his demise is already
   underway.
 
 + [p. 25] "They're cutting the continent in half"
 
-  The _Discworld Mapp_ shows that the location of Borogravia indeed falls
+  The "`Discworld Mapp`_" shows that the location of Borogravia indeed falls
   neatly across Clacks lines between Ankh-Morpork and Genua.
 
 + [p. 28] "you can call me Maladict"
@@ -16162,7 +16162,7 @@ MONSTROUS REGIMENT
 + [p. 30] "'I, of course, don't drink... horse piss, [...]'"
 
   Terry loves to play with this famous Dracula "I don't drink... wine"
-  line. See also the annotation for p. 54 of _Carpe Jugulum_.
+  line. See also the annotation for p. 54 of "`Carpe Jugulum`_".
 
 + [p. 32] "'Don't ask, don't tell.'"
 
@@ -16199,7 +16199,7 @@ MONSTROUS REGIMENT
 + [p. 39] "'Hands off -- well, you lot wouldn't be able to find 'em...'"
 
   "Hands off cocks, on with socks!" is the traditional military wake-up
-  shout (see also the annotation for p. 317/241 of _Men At Arms_). Does it
+  shout (see also the annotation for p. 317/241 of "`Men At Arms`_"). Does it
   need pointing out that in this particular case, unbeknownst to Strappi,
   there are very *good* reasons why these soldiers wouldn't be able to
   "find 'em"...?
@@ -16229,10 +16229,10 @@ MONSTROUS REGIMENT
   Borogravian pike may be the "tool formerly used for lifting beets"
   referred to in the National Anthem.
 
-+ [p. 76] "_The Craft of War_"
++ [p. 76] ""`The Craft of War_"
 
-  Sun Tzu's _The Art Of War_ is the standard text of military philosophy.
-  See also the annotation for p. 63 of _Interesting Times_.
+  Sun Tzu's "`The Art Of War`_" is the standard text of military philosophy.
+  See also the annotation for p. 63 of "`Interesting Times`_".
 
 + [p. 85] "[...] a banknote [...]"
 
@@ -16268,7 +16268,7 @@ MONSTROUS REGIMENT
 
   These days, however, the better known version is probably Walt Kelly's
   "We have met the enemy, and they are us", used in his classic comic strip
-  _Pogo_, during the Vietnam years.
+  "Pogo_", during the Vietnam years.
 
 + [p. 96] "'[...] you bloody beeteater, [...]'"
 
@@ -16284,7 +16284,7 @@ MONSTROUS REGIMENT
 + [p. 103] "'Oh damn', said Maladict"
 
   Maladict curses; a rather clever Tom Swiftie. (See the annotation for p.
-  26/26 of _The Light Fantastic_.)
+  26/26 of "`The Light Fantastic`_".)
 
 + [p. 108] "Road to perdition"
 
@@ -16292,13 +16292,13 @@ MONSTROUS REGIMENT
   service to an ideal."
 
 + [p. 112] "'So you're not actually waylaying field reports from the
-  _Times_, then, sir?' [...]"
+  "Times_", then, sir?' [...]"
 
   During the 1991 Persian Gulf War, both sides relied on television news
   for information; private journalists were often better-informed than
   military intelligence.
 
-+ [p. 136] "_I'm lonesome since I crossed the hill_"
++ [p. 136] ""`I'm lonesome since I crossed the hill_"
 
   From "The Girl I Left Behind Me"; see the annotation for p. 14.
 
@@ -16316,19 +16316,19 @@ MONSTROUS REGIMENT
 
 + [p. 151] "Jolly Sailor"
 
-  The same tobacco seen in _The Wee Free Men_.
+  The same tobacco seen in "`The Wee Free Men`_".
 
 + [p. 165] "Lord Rust's regiment"
 
-  Lord Rust's style of command is described thoroughly in _Jingo_ and
-  _Night Watch_.
+  Lord Rust's style of command is described thoroughly in "Jingo_" and
+  "`Night Watch`_".
 
 + [p. 166] "One, Two, Three! What We Are Fighting For!"
 
   Another reference to the 'I-Feel-Like-I'm-Fixin'-To-Die Rag' by Country
   Joe and the Fish (see the annotation for p. 50). Maladict, in her coffee
-  withdrawal hallucinations, is apparently starting to channel _Apocalypse
-  Now_ type Vietnam scenes.
+  withdrawal hallucinations, is apparently starting to channel "`Apocalypse
+  Now`_" type Vietnam scenes.
 
 + [p. 177] "'Our cartoonist Fizz drew this for the special edition.'"
 
@@ -16382,7 +16382,7 @@ MONSTROUS REGIMENT
 
 + [p. 222] "_'Tis Pity She's A Tree_"
 
-  From John Ford's 1633 _'Tis Pity She's a Whore_, a play with an
+  From John Ford's 1633 _'Tis Pity She's a Whore`_", a play with an
   important, sexually-based female role played by a man.
 
 + [p. 223] "[...] a stick thicker than the regulation one inch"
@@ -16508,30 +16508,30 @@ MONSTROUS REGIMENT
 
 + [p. 348] "Generals and majors and captains, oh my."
 
-  Echoes Dorothy's "Lions and Tigers and Bears, oh my!" in _The Wizard of
-  Oz_.
+  Echoes Dorothy's "Lions and Tigers and Bears, oh my!" in "`The Wizard of
+  Oz`_".
 
 
-A HAT FULL OF SKY
+A Hat Full Of Sky
 ~~~~~~~~~~~~~~~~~
 
 + [p. 19] "Miss Tick was a sort of witch-finder"
 
   A neat reversal of the Roundworld witch-finder concept (in the same vein
-  as the Witch Trials). See the annotation for p. 167/109 of _Good Omens_.
+  as the Witch Trials). See the annotation for p. 167/109 of "`Good Omens`_".
 
 + [p. 39] "Kelda Jeannie was from the Long Lake clan, up in the mountains
   -- and they *did* write things down."
 
-  This could well be the Nac Mac Feegle clan from _Carpe Jugulum_. The lake
-  they settled at wasn't actually named but, looking at the _Lancre Mapp_,
+  This could well be the Nac Mac Feegle clan from "`Carpe Jugulum`_". The lake
+  they settled at wasn't actually named but, looking at the "`Lancre Mapp`_",
   it certainly is long. And they do indeed write things down: "We of the
   Nac Mac Feegle are a simple folk, but we write verra comp-lic-ated
   documents".
 
 + [p. 47] "'There can only be one, is that not so?'"
 
-  Highlander, again. See the annotation for p. 6 of _Carpe Jugulum_.
+  Highlander, again. See the annotation for p. 6 of "`Carpe Jugulum`_".
 
 + [p. 52] "'It's a shamble'"
 
@@ -16542,8 +16542,8 @@ A HAT FULL OF SKY
 + [p. 73] "a dobby stone"
 
   The idea that stones with holes in them are magical first appeared in
-  _Guards! Guards!_ On the Discworld, they were first called 'dobby stones'
-  in the _Thieves' Guild Diary_, after a con-man called Dobby Stone.
+  "`Guards! Guards!`_" On the Discworld, they were first called 'dobby stones'
+  in the "`Thieves' Guild Diary`_", after a con-man called Dobby Stone.
 
   Here on Roundworld, "dobby stones" are hollow stones with a hole in the
   top, into which are poured offerings of milk to spirits. In Scotland they
@@ -16562,7 +16562,7 @@ A HAT FULL OF SKY
 
 + [p. 93] "The ill-fated First Expedition to the Loko Region"
 
-  The story of this expedition is told in _The Science of Discworld_. The
+  The story of this expedition is told in "`The Science of Discworld`_". The
   former inhabitants of Loko seem to have *specialised* in Meddling With
   Things Man Was Not Meant To Know.
 
@@ -16572,12 +16572,12 @@ A HAT FULL OF SKY
   Little Fishes", where she challenged a centipede to an arse-kick...
   sorry, challenged Granny Weatherwax's authority.
 
-  In some ways the second half of _A Hat Full Of Sky_ is as much as sequel
-  to _The Sea and Little Fishes_ as it is to _The Wee Free Men_.
+  In some ways the second half of "`A Hat Full Of Sky`_" is as much as sequel
+  to "`The Sea and Little Fishes`_" as it is to "`The Wee Free Men`_".
 
 + [p. 179] "'It's pronounced Ah-wij,' said Mrs Earwig coldly."
 
-  In the _Keeping Up Appearances_ BBC television comedy, the very snobbish
+  In the "`Keeping Up Appearances`_" BBC television comedy, the very snobbish
   Mrs-Earwig-like Hyacinth Bucket always insists her name is pronounced
   "Bouquet".
 
@@ -16608,17 +16608,17 @@ A HAT FULL OF SKY
 
   Ducking stool type things *are* popular at modern fairs, but the
   significance of their presence at Witch Trials goes without saying. (See
-  also the annotation for p. 62/54 of _Witches Abroad_.
+  also the annotation for p. 62/54 of "`Witches Abroad`_".
 
 + [p. 317] "'I'm telling you this as a friend.'"
 
-  A phrase Mrs Earwig used to Granny Weatherwax in _The Sea And Little
-  Fishes_, prompting Nanny Ogg to think that "Nobody even remotely friendly
+  A phrase Mrs Earwig used to Granny Weatherwax in "`The Sea And Little
+  Fishes`_", prompting Nanny Ogg to think that "Nobody even remotely friendly
   would say a thing like that."
 
 + [p. 323] "There were no judges, and no prizes."
 
-  In _The Sea And Little Fishes_ Mrs Earwig does set up a judging panel,
+  In "`The Sea And Little Fishes`_" Mrs Earwig does set up a judging panel,
   and spends ten dollars on a trophy cup. However, given how that turned
   out it's unsurprising she hasn't tried it again.
 
@@ -16634,38 +16634,38 @@ ONCE MORE, WITH FOOTNOTES
   September 2004. No annotations yet.
 
 
-GOING POSTAL
+Going Postal
 ~~~~~~~~~~~~
 
 + This book was released in November 2004. No annotations yet.
 
 
-THUD
+Thud
 ~~~~
 
 + This book was released in October 2005. No annotations yet.
 
 
-WHERE'S MY COW?
+Where's My Cow?
 ~~~~~~~~~~~~~~~
 
 + This Discworld picture book, illustrated by Melvin Grant, was released in
   October 2005. No annotations yet.
 
 
-WINTERSMITH
+Wintersmith
 ~~~~~~~~~~~
 
 + This book was released in September 2006. No annotations yet.
 
 
-MAKING MONEY
+Making Money
 ~~~~~~~~~~~~
 
 + This book was released in September 2007. No annotations yet.
 
 
-I SHALL WEAR MIDNIGHT
+I Shall Wear Midnight
 ~~~~~~~~~~~~~~~~~~~~~
 
 + This book is in the planning stages only. No scheduled release date is
@@ -16676,32 +16676,32 @@ I SHALL WEAR MIDNIGHT
   there may be a fifth one. But either fourth or fifth book will be the
   last one.
 
-+ For an explanation of the title, see the annotation for p. 333 of _A Hat
-  Full Of Sky_
++ For an explanation of the title, see the annotation for p. 333 of "`A Hat
+  Full Of Sky`_"
 
 
-UNSEEN ACADEMICALS
+Unseen Academicals
 ~~~~~~~~~~~~~~~~~~
 
 + This book is in the planning stages only. No scheduled release date is
   known.
 
 
-SCOUTING FOR TROLLS
+Scouting For Trolls
 ~~~~~~~~~~~~~~~~~~~
 
 + This book is in the planning stages only. No scheduled release date is
   known.
 
 
-RAISING TAXES
+Raising Taxes
 ~~~~~~~~~~~~~
 
 + This book is in the planning stages only. No scheduled release date is
   known.
 
 
-THE DISCWORLD COMPANION
+The Discworld Companion
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 - [p. 18] "In the bottom-left half two croix d'or on a sable field."
@@ -16727,13 +16727,13 @@ THE DISCWORLD COMPANION
   end. But then, as Terry wrote in a subsequent posting: "Of course it's
   daft, it's traditional".
 
-- [p. 179] "As he wrote in his unpublished MS entitled _The Servant_, a
+- [p. 179] "As he wrote in his unpublished MS entitled "`The Servant`_", a
   sort of handbook for the politically ambitious: [...]"
 
-  Lord Vetinari's handbook brings to mind Machiavelli's _The Prince_.
+  Lord Vetinari's handbook brings to mind Machiavelli's "`The Prince`_".
 
   Alistair McAlpine (one of Mrs Thatcher's closest advisers) has also
-  written a book called _The Servant_, subtitled 'A New Machiavelli'.
+  written a book called "`The Servant`_", subtitled 'A New Machiavelli'.
 
 - [p. 252] "Wizards of the Disc, known"
 
@@ -16744,14 +16744,14 @@ THE DISCWORLD COMPANION
 - [p. 254] "de Worde, William"
 
   William de Worde did not appear in an actual Discworld novel until 2000,
-  when _The Truth_ was released, six years after _The Discworld Companion_
+  when "`The Truth`_" was released, six years after "`The Discworld Companion`_"
   was written. His name is a composition of the names Wynkyn de Worde and
   William Caxton. In 1474 Caxton printed the first book in the English
-  language, a translation of _The Recuyell of the Historyes of Troy_. In
+  language, a translation of "`The Recuyell of the Historyes of Troy`_". In
   his career he printed more than 70 books, 20 of them his own translations
   from the Latin, French, and Dutch. Wynkyn de Worde was his successor.
 
-- _The Discworld Companion_ contains neat illustrations and heraldic
+- "`The Discworld Companion`_" contains neat illustrations and heraldic
   descriptions of all the coats of arms of the various important guilds and
   institutions in Ankh-Morpork. (Note: the Mappe also shows a few, but is
   not complete. The Companion also gives the dog-Latin motto for each of
@@ -16785,7 +16785,7 @@ THE DISCWORLD COMPANION
         Clowns): DICO, DICO, DICO -- I Say, I Say, I Say
 
         The Gambler's Guild: EXCRETVS EX FORTVNA -- Shit Out Of Luck.
-          (_The Discworld Companion_: "Loosely speaking: 'Really out of luck'")
+          ("`The Discworld Companion_: "Loosely speaking: 'Really out of luck'")
 
         The Klatchian Foreign Legion: OBLIVISCOR -- I forget
 
@@ -16793,7 +16793,7 @@ THE DISCWORLD COMPANION
           Price
 
         Mort, Duke of Sto Helit: NON TIMETIS MESSOR -- Don't Fear The
-          Reaper (see also the annotation for p. 239 of _Hogfather_)
+          Reaper (see also the annotation for p. 239 of "Hogfather_")
 
         The Musician's Guild: ID MVRMVRATIS, ID LVDAMVS -- You Hum It,
           We'll Play It
@@ -16821,15 +16821,15 @@ THE DISCWORLD COMPANION
         Unseen University: NVNC ID VIDES, NVNC NE VIDES -- Now You See it,
           Now You Don't
 
-        The City Watch: FABRICATI DIEM, PVNC -- Make My Day, Punk (_Guards!
+        The City Watch: FABRICATI DIEM, PVNC -- Make My Day, Punk ("`Guards!
           Guards!_: "To Protect and Serve")
 
 
-THE SCIENCE OF DISCWORLD
+The Science Of Discworld
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 + [cover] The cover of the book is a Discworld version of the 1768 painting
-  _An Experiment on a Bird in the Air Pump_ by Joseph Wright, depicting the
+  "`An Experiment on a Bird in the Air Pump`_" by Joseph Wright, depicting the
   formation of a vacuum by withdrawing air from a glass bowl containing a
   white cockatoo.
 
@@ -16839,7 +16839,7 @@ THE SCIENCE OF DISCWORLD
 + [p. 19] "'Lots of centaurs and fauns and other curiously shaped magical
   whatnots are there, [...]'"
 
-  Centaurs first appeared in _Carpe Jugulum_, and are now being mentioned
+  Centaurs first appeared in "`Carpe Jugulum`_", and are now being mentioned
   again in the very next book. Apparently they're regarded as some sort of
   magical mutation, rather than as part of the original Creation. Would
   that account for more of the denizens of Uberwald?
@@ -16881,7 +16881,7 @@ THE SCIENCE OF DISCWORLD
 + [p. 101] "Things fall apart, but centres hold."
 
   Plays on a well-known quote from W. B. Yeats's poem 'The Second Coming'
-  (see also the annotation for p. 383/268 of _Good Omens_ for another
+  (see also the annotation for p. 383/268 of "`Good Omens`_" for another
   mention of this poem):
 
         Things fall apart; the centre cannot hold;
@@ -16914,7 +16914,7 @@ THE SCIENCE OF DISCWORLD
 
   "Reversing the polarity" of the something or other as a last desperate
   measure has become the archetypical example of the kind of meaningless
-  technobabble often used in the various _Star Trek_ television series.
+  technobabble often used in the various "`Star Trek`_" television series.
 
   Similarly, Dr Who was also often seen "reversing the polarity of the
   neutron flow" of something with his sonic screwdriver.
@@ -16922,9 +16922,9 @@ THE SCIENCE OF DISCWORLD
 + [p. 271] "[...] the big black rectangle looming over them."
 
   A reference to the black monolith that teaches the apes in the movie
-  _2001: A Space Odyssey_. The subsequent "throwing the thighbone up into
+  _2001: A Space Odyssey`_". The subsequent "throwing the thighbone up into
   the air" sequence is another. (See also the annotation for p. 259/233 of
-  _Sourcery_).
+  "Sourcery_").
 
 + [p. 272] "Rincewind was wandering in the next bay, staring at the
   cliffs."
@@ -16936,12 +16936,12 @@ THE SCIENCE OF DISCWORLD
   of evolution with the story of creation.
 
 
-THE SCIENCE OF DISCWORLD II: THE GLOBE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The Science Of Discworld III: The Globe
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 + [p. 12] "[...] the Reader in Slood Dynamics"
 
-  Slood was mentioned first in _The Last Continent_. It is a mysterious
+  Slood was mentioned first in "`The Last Continent`_". It is a mysterious
   substance that appears to have not been discovered yet (either on
   Roundworld or on Discworld), so it is an eminently suitable research
   subject for Rincewind. See also the footnote on p. 58.
@@ -16949,35 +16949,36 @@ THE SCIENCE OF DISCWORLD II: THE GLOBE
 + [p. 64] "'This world is a cheap parody of our own. As Above, So Below and
   all that.'"
 
-  See the annotation for p. 61 of _The Science Of Discworld_.
+  See the annotation for p. 61 of "`The Science Of Discworld`_".
 
 + [p. 126] "The Shellfish Scene"
 
-  Puns on _The Selfish Gene_, the title of a well-known book by biologist
+  Puns on "`The Selfish Gene`_", the title of a well-known book by biologist
   Richard Dawkins.
 
 + [p. 301] "Worlds Of If"
 
-  _Worlds of If_ was the name of an American pulp science fiction magazine
+  "`Worlds of If`_" was the name of an American pulp science fiction magazine
   published in the 1950s.
 
 
-THE SCIENCE OF DISCWORLD III: DARWIN'S WATCH
+The Science Of Discworld III: Darwin's Watch
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 + This book was released in May 2005. No annotations yet.
 
 
-THE STREETS OF ANKH-MORPORK 
+The Streets of Ankh-Morpork
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - B4--D4 Chrononhotonthologos Street.
 
-  _Chrononhotonthologos_ is the name of an 18th century burlesque stage
+  "Chrononhotonthologos_" is the name of an 18th century burlesque stage
   farce by Henry Carey. I have no idea why there is a Chrononhotonthologos
   Street in Ankh-Morpork -- except that it is one heck of a cool word.
 
 
-THE DISCWORLD MAPP
+The Discworld Mapp
 ~~~~~~~~~~~~~~~~~~
 
 + "[...] XXXX and its companion islands ('Foggy Islands', reputedly the
@@ -16987,10 +16988,10 @@ THE DISCWORLD MAPP
   long white cloud".
 
   For the XXXX/Australia connection, see the annotation for p. 149/132 of
-  _Reaper Man_.
+  "`Reaper Man`_".
 
 
-A TOURIST GUIDE TO LANCRE
+A Tourist Guide To Lancre
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 + "A rain-proof, hooded overgarment (Orac Oracssons's outfitters in Ohulan
@@ -17014,27 +17015,27 @@ A TOURIST GUIDE TO LANCRE
   Or the legend of Sleepy Hollow in Roundworld terms.
 
 
-DEATH'S DOMAIN
+Death's Domain
 ~~~~~~~~~~~~~~
 
 + "[...] the dandelion clocks won't strike..."
 
-  See the annotation for p. 10/10 of _The Light Fantastic_.
+  See the annotation for p. 10/10 of "`The Light Fantastic`_".
 
 
 ---------------------------------------------------------------------------
 Other Annotations
 ---------------------------------------------------------------------------
 
-GOOD OMENS
+Good Omens
 ~~~~~~~~~~
 
 - [cover] The weird blue/red neon thingy surrounding the '666' on the cover
-  of the UK hardcover version of _Good Omens_ is actually a map of the M25
+  of the UK hardcover version of "`Good Omens`_" is actually a map of the M25
   London orbital motorway, mentioned in the text as "evidence for the
   hidden hand of Satan in the affairs of Man".
 
-  If you have Internet access, you can get a copy of the _Good Omens_ cover
+  If you have Internet access, you can get a copy of the "`Good Omens`_" cover
   from the Pratchett Archives.
 
 + [p. 9/vii] "[...] the angel, whose name was Aziraphale."
@@ -17050,44 +17051,44 @@ GOOD OMENS
   could be shoved in a list of 'real' angels and would fit right in..."
 
   For instance, Islam recognizes the Archangels Jibril, Mikhail, Azrael
-  (see also the annotation for p. 7/9 of _Reaper Man_), and Israfel (whom
+  (see also the annotation for p. 7/9 of "`Reaper Man`_"), and Israfel (whom
   Edgar Allan Poe wrote a well-known poem about), whereas from Christianity
   we get such names as Raphael, Gabriel, Michael, and Uriel.
 
 - [p. 11/viii] "It was going to be a dark and stormy night."
 
-  See the annotation for p. 9/7 of _Soul Music_.
+  See the annotation for p. 9/7 of "`Soul Music`_".
 
-- [p. 17/1] "Archbishop James Usher (1581-1656) published _Annales Veteris
-  Et Novi Testamenti_ in 1654, which suggested that the Heaven and the
+- [p. 17/1] "Archbishop James Usher (1581-1656) published "`Annales Veteris
+  Et Novi Testamenti`_" in 1654, which suggested that the Heaven and the
   Earth were created in 4004 BC."
 
   This is true in spirit, but almost completely wrong in nit-picking
   detail, which leads me to conclude that Terry and Neil used sloppy
   secondary sources for their research.
 
-  The man's name was spelled Ussher, the book's name was actually _Annales
-  Veteris Testamenti_ (Annals of the *Old* Testament), it was published in
+  The man's name was spelled Ussher, the book's name was actually "`Annales
+  Veteris Testamenti`_" (Annals of the *Old* Testament), it was published in
   1650, and it was Ussher himself who pinpointed the time of creation at
   noon, October 23, 4004 BC -- not nine o'clock in the morning.
 
   For a fascinating explanation of why it would really be very unfair of us
   to ridicule Ussher's findings, I refer the interested reader to the essay
   'Fall in the House of Ussher' by Stephen Jay Gould, which appeared in his
-  excellent collection _Eight Little Piggies_.
+  excellent collection "`Eight Little Piggies`_".
 
 - [p. 19/3] "[...] all tapes left in a car for more than about a fortnight
   metamorphose into 'Best of Queen' albums."
 
-  In an interview in _Comics Buyer's Guide_ with Terry and Neil, shortly
-  after the American release of _Good Omens_, Terry proposed the theory
+  In an interview in "`Comics Buyer's Guide`_" with Terry and Neil, shortly
+  after the American release of "`Good Omens`_", Terry proposed the theory
   that, when you're driving through the country late at night, and there's
   nothing on the radio, you find yourself stopping in at an all-night gas
   station and looking through the tape rack; the only thing there remotely
-  tolerable is a _Best of Queen_, so you buy that. Two weeks later you
+  tolerable is a "`Best of Queen`_", so you buy that. Two weeks later you
   can't remember how the thing got there, so you get rid of it, only to go
   through the same process again. Neil's theory was that tapes really do
-  turn into _Best of Queen_ albums.
+  turn into "`Best of Queen`_" albums.
 
 - [p. 20/3] "[...] he was currently wondering vaguely who Moey and Chandon
   were".
@@ -17107,32 +17108,32 @@ GOOD OMENS
 - [p. 32/13] "Sister Mary had expected an American diplomat to look like
   Blake Carrington or J.R. Ewing."
 
-  Leading male characters in the 1980s Power Soaps _Dynasty_ (Blake
-  Carrington played by John Forsythe) and _Dallas_ (J. R. Ewing played by
+  Leading male characters in the 1980s Power Soaps "Dynasty_" (Blake
+  Carrington played by John Forsythe) and "Dallas_" (J. R. Ewing played by
   Larry Hagman). The general image is of somewhat rugged American
   masculinity. In a suit.
 
-  The _Good Omens_ paperback replaces "an American diplomat" with "the
+  The "`Good Omens`_" paperback replaces "an American diplomat" with "the
   American Cultural Attache".
 
 - [p. 33/13] "With a little old lady as the sleuth, [...]"
 
   Not a reference to Agatha Christie's Miss Marple, but rather to Angela
-  Landsbury's character in the TV show _Murder, She Wrote_ (there are not
+  Landsbury's character in the TV show "`Murder, She Wrote`_" (there are not
   many "avuncular sheriffs" in the Miss Marple books).
 
 - [p. 35/15] "He'd seen a Ken Russell film once. There had been nuns in
   it."
 
-  This might have been, for instance, the 1971 film _The Devils_, a study
+  This might have been, for instance, the 1971 film "`The Devils`_", a study
   of a French nunnery that had supposedly turned to Satanism.
 
 - [p. 37/17] "'Wormwood's a nice name,' said the nun, remembering her
   classics. 'Or Damien. Damien's very popular.'"
 
-  Damien refers to the protagonist of the various _Omen_ movies (see the
+  Damien refers to the protagonist of the various "Omen_" movies (see the
   annotation for p. 67/40). Wormwood is the name of the junior devil in
-  _The Screwtape Letters_ by C. S. Lewis. This is a series of letters from
+  "`The Screwtape Letters`_" by C. S. Lewis. This is a series of letters from
   a senior devil (Screwtape) to a junior devil (Wormwood) about Wormwood's
   attempted temptation of a man in war-time London.
 
@@ -17142,7 +17143,7 @@ GOOD OMENS
 
 - [p. 41/19] "'Hell is empty, and all the devils are here.'"
 
-  A well-known quote from Shakespeare's _The Tempest_, act 1, scene 2.
+  A well-known quote from Shakespeare's "`The Tempest`_", act 1, scene 2.
 
 - [p. 41/19] "That Hieronymus Bosch. What a weirdo."
 
@@ -17159,43 +17160,43 @@ GOOD OMENS
   individually named from errors in typesetting."
 
   There have been many Infamous Bibles, and all of the ones mentioned in
-  this paragraph, except for the _Charing Cross Bible_ and the _Buggre Alle
-  This Bible_, actually did exist.
+  this paragraph, except for the "`Charing Cross Bible`_" and the "`Buggre Alle
+  This Bible`_", actually did exist.
 
   As usual, it is Brewer who has all the relevant information. The
-  _Unrighteous Bible_ and the _Wicked Bible_ are as Terry and Neil describe
+  "`Unrighteous Bible`_" and the "`Wicked Bible`_" are as Terry and Neil describe
   them. In addition, there is:
 
-  _Discharge Bible_: An edition printed in 1806 containing "discharge" for
+  "`Discharge Bible_: An edition printed in 1806 containing "discharge" for
   "charge" in 1 Timothy 5:21: "I discharge thee before God [...] that thou
   observe these things [...]".
 
-  _Treacle Bible_: A popular name for the Bishops' Bible, 1568 because in
+  "`Treacle Bible_: A popular name for the Bishops' Bible, 1568 because in
   it, Jeremiah 8:22 reads "Is there no treacle in Gilead" instead of "Is
   there no balm in Gilead".
 
-  _Standing Fishes Bible_: An edition of 1806 in which Ezekiel 47:10 reads:
+  "`Standing Fishes Bible_: An edition of 1806 in which Ezekiel 47:10 reads:
   "And it shall come to pass that the fishes [instead of: fishers] shall
   stand upon it."
 
-  Also mentioned by Brewer are the _Ears To Ear Bible_, the _Rosin Bible_
-  and the _Rebecca's Camels Bible_.
+  Also mentioned by Brewer are the "`Ears To Ear Bible`_", the "`Rosin Bible`_"
+  and the "`Rebecca's Camels Bible`_".
 
 - [p. 52/28] The three lost Shakespeare plays.
 
-  _The Trapping Of The Mouse_ refers to Agatha Christie's _The Mousetrap_
+  "`The Trapping Of The Mouse`_" refers to Agatha Christie's "`The Mousetrap`_"
   (which has now been running for more than 42 consecutive years in
   London), who in turn named her play after the play-within-a-play that
-  occurs in... _Hamlet_.
+  occurs in... "Hamlet_".
 
-  _Golde Diggers Of 1589_ refers to the series of movie musicals with
+  "`Golde Diggers Of 1589`_" refers to the series of movie musicals with
   similar names made in 1933, 1935 and 1937.
 
-  _The Comedie Of Robin Hoode, Or The Forest Of Sherwoode_ is not directly
+  "`The Comedie Of Robin Hoode, Or The Forest Of Sherwoode`_" is not directly
   traceable to something specific, but there have been of course many
   famous Robin Hood movies, from the legendary 1938 production with Errol
   Flynn, Basil Rathbone and Olivia de Havilland through the more
-  contemporary 1991 _Robin Hood: Prince of Thieves_, starring Kevin
+  contemporary 1991 "`Robin Hood: Prince of Thieves`_", starring Kevin
   Costner.
 
 - [p. 56/31] "'I mean, d'you know what eternity is? There's this big
@@ -17203,17 +17204,17 @@ GOOD OMENS
   thousand years there's this little bird--'"
 
   Crowley's description of eternity is from the hell-and-damnation speech
-  in James Joyce's _Portrait of the Artist as a Young Man_.
+  in James Joyce's "`Portrait of the Artist as a Young Man`_".
 
 + [p. 62/36] "They were doing drinks in a restaurant called Top of the
   Sixes, on the top of 666 Fifth Avenue, New York."
 
-  The name and address were real when _Good Omens_ was written: there
+  The name and address were real when "`Good Omens`_" was written: there
   actually used to be such a restaurant on top of 666 Fifth Avenue.
   Somewhen in the 90s it was closed and converted to a club.
 
   The rest of the building is of course also still very much in use. On the
-  37th floor, for instance, resides _Demon Internet Inc_, the American arm
+  37th floor, for instance, resides "`Demon Internet Inc`_", the American arm
   of the well-known British Internet Service Provider, which Terry himself
   uses.
 
@@ -17226,7 +17227,7 @@ GOOD OMENS
 - [p. 67/40] "'What a delightful child,' she said. 'He'll be wanting a
   little tricycle soon.'"
 
-  The 'mother' in the 1976 horror movie _The Omen_ (which is all about the
+  The 'mother' in the 1976 horror movie "`The Omen`_" (which is all about the
   Antichrist being raised in a normal household) was forced by little
   Damien over the edge of an upstairs railing with his tricycle.
 
@@ -17260,16 +17261,16 @@ GOOD OMENS
   "flocks of birds settled all over him at every opportunity" bit earlier
   on.
 
-- [p. 70/42] "The message had come during _Cheers_, one of Crowley's
+- [p. 70/42] "The message had come during "Cheers_", one of Crowley's
   favourite television programmes. Woody the barman had [...]"
 
-  In the American edition of _Good Omens_, this scene was changed to refer
-  to the series _The Golden Girls_ and the character Rose. (The effect
+  In the American edition of "`Good Omens`_", this scene was changed to refer
+  to the series "`The Golden Girls`_" and the character Rose. (The effect
   remains the same).
 
   Nobody knows the reason for this change, since both are American sitcoms
-  anyway. Speaking personally, I think Crowley is definitely a _Cheers_
-  person, and would *not* have liked _The Golden Girls_ at all.
+  anyway. Speaking personally, I think Crowley is definitely a "`Cheers`_"
+  person, and would *not* have liked "`The Golden Girls`_" at all.
 
 - [p. 75/43] "He had attended a class in the 1870s run by John Maskelyne
   [...]"
@@ -17292,11 +17293,11 @@ GOOD OMENS
   successive 'lucky's, not five.
 
 - [p. 79/46] The scenes of Adam growing up in Tadfield are an affectionate
-  parody of the _Just William_ books by Richmal Crompton.
+  parody of the "`Just William`_" books by Richmal Crompton.
 
   They are a series of books about William Brown (age 11) and his gang of
-  Outlaws: Ginger, Douglas and Henry. The Johnsonites in _Good Omens_
-  parallel the Laneites in _Just William_, Hubert Lane being a similarly
+  Outlaws: Ginger, Douglas and Henry. The Johnsonites in "`Good Omens`_"
+  parallel the Laneites in "`Just William`_", Hubert Lane being a similarly
   lugubrious podgy kid.
 
 - [p. 82/49] "'I'll call him Dog,' said his Master, positively."
@@ -17308,7 +17309,7 @@ GOOD OMENS
   To Break Free' and 'Fat-Bottomed Girls' are all songs by Queen (see the
   annotation for p. 20/3).
 
-  Queen fans have pointed out that at the time _Good Omens_ was released,
+  Queen fans have pointed out that at the time "`Good Omens`_" was released,
   there was no (or at least no easily available) Queen greatest hits album
   that actually contained all of these songs. A recently released double
   album has remedied this situation.
@@ -17316,24 +17317,24 @@ GOOD OMENS
 - [p. 94/58] "'It's probably compline, unless that's a slimming aid.'"
 
   No, compline is indeed one of the periods of the religious day (around
-  18.00 h, according to my copy of _The Name of the Rose_). The slimming
+  18.00 h, according to my copy of "`The Name of the Rose`_"). The slimming
   aid is 'complan'.
 
 - [p. 103/65] "The contingent from Financial Planning were lying flat on
   their faces in what had once been the haha, although they weren't very
   amused."
 
-  If you don't know what a haha is, see the annotation for p. 77/58 of _Men
-  at Arms_.
+  If you don't know what a haha is, see the annotation for p. 77/58 of "`Men
+  at Arms`_".
 
-- [p. 110/70] "_...Bee-elzebub has a devil put aside for me, for me..._"
+- [p. 110/70] "`_"...Bee-elzebub has a devil put aside for me, for me..._"
 
-  Another line from Queen's _Bohemian Rhapsody_.
+  Another line from Queen's "`Bohemian Rhapsody`_".
 
-- [p. 114/73] "_The Nice And Accurate Prophecies_ made the _Hitler Diaries_
+- [p. 114/73] ""`The Nice And Accurate Prophecies`_" made the "`Hitler Diaries`_"
   look like, well, a bunch of forgeries."
 
-  _Stern_ magazine published a series of Hitler's diaries in the mid-80s
+  "Stern_" magazine published a series of Hitler's diaries in the mid-80s
   which, in fact, turned out to be forgeries.
 
 - [p. 116/75] "[...] Elvis was taken by Space Aliens in 1976 because he was
@@ -17361,13 +17362,13 @@ GOOD OMENS
 
   The Hole-in-the-Chalk gang refers to Butch Cassidy's Hole-in-the-Wall
   Gang, The Really Well-Known Four to The Famous Five, The Legion of Really
-  Super-Heroes to DC Comics' _Legion of Super-Heroes_ series, The Justice
-  Society of Tadfield to DC's _Justice Society of America_.
+  Super-Heroes to DC Comics' "`Legion of Super-Heroes`_" series, The Justice
+  Society of Tadfield to DC's "`Justice Society of America`_".
 
 - [p. 129/81] "Pepper's given first names were Pippin Galadriel Moonchild."
 
-  Both Pippin and Galadriel are characters from Tolkien's _The Lord of the
-  Rings_ (although Pippin is actually a male hobbit). Terry explains that
+  Both Pippin and Galadriel are characters from Tolkien's "`The Lord of the
+  Rings`_" (although Pippin is actually a male hobbit). Terry explains that
   Pepper's names are not really a parody of hippie practices:
 
   "It's an observation. I have *signed books* for two Galadriels at least
@@ -17384,7 +17385,7 @@ GOOD OMENS
   could have had quite a nice game of squash in it."
 
   For the connection between nuclear reactors and squash courts, see the
-  annotation for p. 156/138 of _Reaper Man_.
+  annotation for p. 156/138 of "`Reaper Man`_".
 
 - [p. 154/98] "Sable signed for it, his real name -- one word, seven
   letters. Sounds like examine."
@@ -17411,21 +17412,21 @@ GOOD OMENS
   establishment using every possible means at his disposal.
 
   For more information about Fort I refer the reader to Martin Gardner's
-  wonderful book _Fads and Fallacies in the Name of Science_ (1957), or to
-  the Fortean Society's newspaper _The Fortean Times_, still being
+  wonderful book "`Fads and Fallacies in the Name of Science`_" (1957), or to
+  the Fortean Society's newspaper "`The Fortean Times`_", still being
   published in both UK and US today.
 
 - [p. 156/100] "[...] a highly successful film series with lasers, robots
   and a princess who wore her hair like a pair of stereo headphones(TM)."
 
-  This is of course the _Star Wars_ saga, directed by George Lucas. The
+  This is of course the "`Star Wars`_" saga, directed by George Lucas. The
   princess is Princess Leia Organa; and the person with the coal scuttle
   helmet who is allowed to blow up planets is Darth Vader.
 
 + [p. 160/103] "If Cortez, on his peak in Darien, had had slightly damp
   feet [...]"
 
-  From _On First Looking into Chapman's Homer_ by John Keats, where the
+  From "`On First Looking into Chapman's Homer`_" by John Keats, where the
   experience of reading Chapman's translation of Homer is compared to the
   feeling Cortez must have had:
 
@@ -17458,8 +17459,8 @@ GOOD OMENS
   mountains, other people learning kung-fu in ancient temples [...]"
 
   David Carradine's character Kwai-Chang Caine was given the nickname
-  'Grasshopper' by his mentor, Master Po, in the television series _Kung
-  Fu_.
+  'Grasshopper' by his mentor, Master Po, in the television series "`Kung
+  Fu`_".
 
   Incidentally, the head of the Shaolin monastery where Caine studied was
   Chen Ming Kan, and the subsidiary monks were the masters Shun, Teh, Yuen,
@@ -17467,16 +17468,16 @@ GOOD OMENS
 
   If you are the kind of person who enjoys learning this type of
   mindboggling trivia, then *run*, don't walk to your bookstore, and buy
-  the _Straight Dope_ books by Cecil Adams. Your life will be vastly
+  the "`Straight Dope`_" books by Cecil Adams. Your life will be vastly
   enriched. There is even a Pratchett connection as well: Terry uses the
-  _Straight Dope_ books as reference works.
+  "`Straight Dope`_" books as reference works.
 
 - [p. 167/109] "There is no longer a real Witchfinder General."
 
   Just for the record: the story as Terry and Neil give it in this section
   is entirely true. Matthew Hopkins existed, and was indeed hanged as a
   witch himself. I am told he was portrayed fairly accurately by Vincent
-  Price in the film _The Conqueror Worm_, aka _Witchfinder General_.
+  Price in the film "`The Conqueror Worm`_", aka "`Witchfinder General`_".
 
 - [p. 167/109] "There is also, now, a Witchfinder Private. His name is
   Newton Pulsifer."
@@ -17493,7 +17494,7 @@ GOOD OMENS
 
   American readers should be aware that some English tabloid papers
   traditionally showed a photo of a topless girl on page three, although I
-  am told these days only _The Sun_ still follows this practice.
+  am told these days only "`The Sun`_" still follows this practice.
 
 - [p. 172/113] "'Women wi' too many arms.'"
 
@@ -17503,11 +17504,11 @@ GOOD OMENS
 
   Two lines further down there is a reference to Baron Saturday, who is of
   course our old friend Baron Samedi (see the annotation for p. 179/157 of
-  _Witches Abroad_).
+  "`Witches Abroad`_").
 
 - [p. 188/123] "Red sky in the morning. It was going to rain."
 
-  See the annotation for p. 202/197 of _Equal Rites_.
+  See the annotation for p. 202/197 of "`Equal Rites`_".
 
 - [p. 192/126] "Newt's car was a Wasabi."
 
@@ -17522,10 +17523,10 @@ GOOD OMENS
   and fell over at the bottom. The other two ignored its frantic beeping
   [...]"
 
-  The Daleks in the television series _Dr Who_ are robots that look very
+  The Daleks in the television series "`Dr Who`_" are robots that look very
   much like pepper pots. They don't beep much, though.
 
-  R2D2 in the movie _Star Wars_ (and sequels) is a robot that does a lot of
+  R2D2 in the movie "`Star Wars`_" (and sequels) is a robot that does a lot of
   frantic beeping. It doesn't look that much like a pepper pot, though.
 
   (In an earlier release of the APF, this annotation listed only R2D2 as a
@@ -17538,14 +17539,14 @@ GOOD OMENS
 - [p. 205/136] "[...] a wall clock with a free-swinging pendulum that E. A.
   Poe would cheerfully have strapped someone under."
 
-  See the annotation for p. 15/16 of _Reaper Man_.
+  See the annotation for p. 15/16 of "`Reaper Man`_".
 
 - [p. 217/144] "'And then giant ants take over the world,' said Wensleydale
   nervously. 'I saw this film. Or you go around with sawn-off shotguns and
   everyone's got these cars with, you know, knives and guns stuck on --'"
 
-  The films Wensleydale is referring to are _Them!_ (how appropriate...)
-  and the various _Mad Max_ movies.
+  The films Wensleydale is referring to are "`Them!`_" (how appropriate...)
+  and the various "`Mad Max`_" movies.
 
 - [p. 227/152] "The Kappamaki, a whaling research ship, [...]"
 
@@ -17571,8 +17572,8 @@ GOOD OMENS
   efficient plant-mister in the world. It can squirt a fine spray of water
   into the air.'"
 
-  Dirty Harry again. See the annotation for p. 136/124 of _Guards!
-  Guards!_.
+  Dirty Harry again. See the annotation for p. 136/124 of "`Guards!
+  Guards!`_".
 
 - [p. 257/174] "'"Puppet on a String"! Sandie Shaw! Honest. I'm bleeding
   positive!'"
@@ -17590,18 +17591,18 @@ GOOD OMENS
 - [p. 258/175] "He had LOVE tattooed on one set of knuckles, HATE on the
   other."
 
-  Originally, this movie reference dates back to Robert Mitchum in _Night
-  of the Hunter_. Later it was used by many, many others, including Marlon
-  Brando in _The Wild One_, Meatloaf in _The Rocky Horror Picture Show_ (an
+  Originally, this movie reference dates back to Robert Mitchum in "`Night
+  of the Hunter`_". Later it was used by many, many others, including Marlon
+  Brando in "`The Wild One`_", Meatloaf in "`The Rocky Horror Picture Show`_" (an
   appearance entirely built around Brando's), and more recently by Robert
-  de Niro in the remake of _Cape Fear_.
+  de Niro in the remake of "`Cape Fear`_".
 
-  And then there's _The Blues Brothers_, where Jake has his name tattooed
+  And then there's "`The Blues Brothers`_", where Jake has his name tattooed
   across the knuckles of one hand, while Elwood needs both hands to spell
-  his name; _The Simpsons_, where Sideshow Bob (who, like most cartoon
+  his name; "`The Simpsons`_", where Sideshow Bob (who, like most cartoon
   characters has only three fingers and a thumb) has LUV on one set of
   knuckles and HAT (with a line across the A) on the other; and of course
-  _The Last Remake of Beau Geste_ (see also the annotation for p. 109/82)
+  "`The Last Remake of Beau Geste`_" (see also the annotation for p. 109/82)
   where Peter Ustinov, as the sadistic sergeant, has a scene where he sits
   with one hand partially obscured. We get the impression that he too has
   HATE and LOVE tattooed on his knuckles. Eventually he moves, and reveals
@@ -17618,10 +17619,10 @@ GOOD OMENS
 - [p. 263/179] "'Ere, I seen you before,' he said. 'You was on the cover of
   that Blue Oyster Cult album."
 
-  This would be _Some Enchanted Evening_ (1978), the Blue Oyster Cult's
+  This would be "`Some Enchanted Evening`_" (1978), the Blue Oyster Cult's
   second live album. Death painted by T. R. Shorr.
 
-  See also the annotation for p. 239 of _Hogfather_.
+  See also the annotation for p. 239 of "Hogfather_".
 
 - [p. 265/180] The name Citron Deux-Chevaux refers to the Citroen 2CV, or
   deux-chevaux as it is commonly called in Europe ("chevaux" means horses
@@ -17632,7 +17633,7 @@ GOOD OMENS
   A transatlantic amalgamation of British and American telephone number
   formats.
 
-- [p. 270/184] "..._All we need is, Radio Gaga_... sang Freddie Mercury."
+- [p. 270/184] "..."`All we need is, Radio Gaga`_"... sang Freddie Mercury."
 
   Terry and Neil definitely seem to have trouble rendering songs correctly.
   According to my source (I can't *stand* the bloody song myself) the line
@@ -17640,7 +17641,7 @@ GOOD OMENS
 
 - [p. 277/189] "[...] formerly Curl Up and Dye, [...]"
 
-  People have noticed that this name also occurs in the _Blues Brothers_
+  People have noticed that this name also occurs in the "`Blues Brothers`_"
   movie, but Terry assures us that the name goes back much further than
   that, and that there in fact at one time actually existed a hair dresser
   named like this.
@@ -17648,7 +17649,7 @@ GOOD OMENS
   I have subsequently been informed that currently existing 'Curl Up and
   Dye' hairdressers can be found in both Birmingham and Chepstow.
 
-- [p. 280/191] _Sprechen Sie Deutsch_ and _Parlez-vous Francais_ are German
+- [p. 280/191] "`Sprechen Sie Deutsch`_" and "`Parlez-vous Francais`_" are German
   and French respectively for "do you speak German/French", but "Wo bu hui
   jiang zhongwen" is Chinese for "I can't speak Chinese".
 
@@ -17658,12 +17659,12 @@ GOOD OMENS
 - [p. 287/196] "'*You're thinking that any second now this head is going to
   go round and round, and I'm going to start vomiting pea soup.*'"
 
-  This is an obvious reference to Linda Blair in _The Exorcist_.
+  This is an obvious reference to Linda Blair in "`The Exorcist`_".
 
 - [p. 288/197] "Something about sheets of glass falling off lorries and
   slicing people's heads off, as he recalled [...]"
 
-  The film referred to is _The Omen_.
+  The film referred to is "`The Omen`_".
 
 - [p. 296/203] "'Heigh ho,' said Anthony Crowley, and just drove anyway."
 
@@ -17696,13 +17697,13 @@ GOOD OMENS
 - [p. 297/204] "[...] they burrowed into eyes, noses, ears, lights [...]"
 
   'Lights' is colloquial British for 'internal organs'. See the annotation
-  for p. 64/62 of _Pyramids_.
+  for p. 64/62 of "Pyramids_".
 
 - [p. 303/208] "'There's a red sky,' he said [...] 'Or is it shepherds who
   are delighted at night? I can never remember.'"
 
-  See the annotations for p. 202/197 of _Equal Rites_ and p. 174/126 of
-  _Lords and Ladies_.
+  See the annotations for p. 202/197 of "`Equal Rites`_" and p. 174/126 of
+  "`Lords and Ladies`_".
 
 - [p. 310/214] "There was also a man selling hot dogs."
 
@@ -17719,7 +17720,7 @@ GOOD OMENS
   like a friendly turd in a bike basket?'"
 
   A reference to the telekinetic bike-riding scene at the end of the movie
-  _E.T._.
+  "`E.T.`_".
 
 - [p. 348/242] "'You think wars get started because some old duke gets
   shot, or someone cuts off someone's ear, or someone's sited their
@@ -17729,7 +17730,7 @@ GOOD OMENS
   Sarajevo in 1914 sparked the beginning of World War I, and that the
   Soviet placement of missiles on Cuba in 1962 almost led to World War III
   is common knowledge. But to non-Brits the second reference may not be so
-  obvious. In 1739 Capt Robert Jenkins, of the brig _Rebecca_, claimed to
+  obvious. In 1739 Capt Robert Jenkins, of the brig "Rebecca_", claimed to
   have been attacked by a Spanish ship and to have had his ear cut off. He
   complained to the king on his return to England, the incident was taken
   up by the general public, and the Prime Minister used it as a pretext to
@@ -17755,22 +17756,22 @@ GOOD OMENS
         There were angels dining at the Ritz
         And a nightingale sang in Berkeley Square
 
-- [p. 375/262] The _Necrotelecomnicom_ also appears (but spelled
+- [p. 375/262] The "Necrotelecomnicom_" also appears (but spelled
   'Necrotelicomnicom') in the Discworld books.
 
-  See the annotation for p. 111/109 of _Equal Rites_).
+  See the annotation for p. 111/109 of "`Equal Rites`_").
 
-- [p. 375/262] The _Malleus Maleficarum_ is the name of an existing 15th
+- [p. 375/262] The "`Malleus Maleficarum`_" is the name of an existing 15th
   century guidebook for witch-hunters, written by Heinrich Kramer and
   Joseph Sprenger (one a Dominican Inquisitor, the other the Mayor of
   Cologne), two high-ranking officials of the Catholic church. This book
   apparently became Europe's first best-seller after the invention of the
   printing press, and the (early 20th century) English translation of this
-  book, _The Hammer of Witches_, is still in print today.
+  book, "`The Hammer of Witches`_", is still in print today.
 
 - [p. 377/264] "It was Sunday afternoon."
 
-  According to Terry, the U.S. edition of _Good Omens_ has about 700 extra
+  According to Terry, the U.S. edition of "`Good Omens`_" has about 700 extra
   words in it, because:
 
   "After the MS had been accepted and edited by Gollancz, the *American*
@@ -17788,7 +17789,7 @@ GOOD OMENS
   And then since the one done for Workman was technically the final MS the
   UK paperback was set from it."
 
-  For the people owning the British hardcover of _Good Omens_, here is the
+  For the people owning the British hardcover of "`Good Omens`_", here is the
   text of the added section:
 
   "It was Sunday afternoon.
@@ -17844,22 +17845,22 @@ GOOD OMENS
 
 - [p. 383/268] "Slouching hopefully towards Tadfield."
 
-  From W. B. Yeats' poem _The Second Coming_:
+  From W. B. Yeats' poem "`The Second Coming_:
 
         And what rough beast, its hour come round at last
         Slouches toward Bethlehem to be born?
 
 - Terry Pratchett and Neil Gaiman did have the title _668 -- The Neighbour
-  of the Beast_ on hand for a _Good Omens_ sequel, but since Neil Gaiman
+  of the Beast`_" on hand for a "`Good Omens`_" sequel, but since Neil Gaiman
   lives in the US now, Terry says: "I can't see it ever being written".
 
   There are many documented occurrences of this joke in other contexts, by
   the way (including a recently released actual novel with this name), some
-  of them predating _Good Omens_. Terry again points out that it's only to
+  of them predating "`Good Omens`_". Terry again points out that it's only to
   be expected since the joke is so obvious.
 
-- There is a British KitKat chocolate bar TV commercial that predates _Good
-  Omens_, and which involves an angel and a devil who are just starting
+- There is a British KitKat chocolate bar TV commercial that predates "`Good
+  Omens`_", and which involves an angel and a devil who are just starting
   their respective coffee breaks. Both exit from separate elevators, the
   angel accompanied by several pure-white animals, while the devil turns
   back into his elevator and screams, in a British accent, "Shut up!" to
@@ -17870,12 +17871,12 @@ GOOD OMENS
   following piece of information (when some folks were having further
   discussions on how old this ad exactly was):
 
-  "I'm pretty sure [this ad] started about the same time as _Good Omens_,
+  "I'm pretty sure [this ad] started about the same time as "`Good Omens`_",
   because:
 
   One night I was sitting there typing away when I looked up and there the
   angel and the devil were, having a teabreak (it's not really a
-  particularly _Good Omens_ idea, but I know why people like it...) And I
+  particularly "`Good Omens`_" idea, but I know why people like it...) And I
   thought, hey, great...
 
   And about half an hour later there was an ad (some UK viewers might
@@ -17884,12 +17885,12 @@ GOOD OMENS
 
   And then, just when I was doing the bit where Crowley muses that people
   are much better than demons at thinking up horrible things to do to one
-  another, I switched on the radio; there was a performance of _The
-  Tempest_, and someone said "Hell is empty and all the devils are here".
+  another, I switched on the radio; there was a performance of "`The
+  Tempest`_", and someone said "Hell is empty and all the devils are here".
   It was a weird evening, really."
 
-- People have been wondering (a) where the back cover photograph of _Good
-  Omens_ was taken, and (b) which one of them is Terry Pratchett.
+- People have been wondering (a) where the back cover photograph of "`Good
+  Omens`_" was taken, and (b) which one of them is Terry Pratchett.
 
   Terry provides the answer to both questions: "In Kensal Green Cemetery,
   one frosty January day. Since white clothes tend to be thinner than dark
@@ -17908,11 +17909,11 @@ GOOD OMENS
   Archives.
 
 
-STRATA
+Strata
 ~~~~~~
 
 - The whole book is, in a very general way, modelled on Larry Niven's
-  classic _Ringworld_ novel: a group of differently-raced beings explore an
+  classic "Ringworld_" novel: a group of differently-raced beings explore an
   improbable, artificial world and try to find its mysterious builders.
 
   Terry explains:
@@ -17926,7 +17927,7 @@ STRATA
 
   Previous editions of the APF considered this sentence proof of a true
   Josh Kirby goof-up, since he pictured Kin Arad as a Caucasian woman on
-  the _Strata_ cover.
+  the "Strata_" cover.
 
   However, it had totally escaped my attention that on p. 22/26 we read:
   "Now her skin was silver [...]", indicating that skin-colour is not a
@@ -17942,11 +17943,11 @@ STRATA
   caretaker Morris."
 
   I think this is the earliest reference to Morris dancing in a Terry
-  Pratchett novel. See also the _...and Dance_ section in Chapter 5.
+  Pratchett novel. See also the `_"...and Dance`_" section in Chapter 5.
 
 + [p. 130] "Kin rose like a well-soaped Venus Anadyomene [...]"
 
-  See the annotation for p. 128/127 of _Wyrd Sisters_.
+  See the annotation for p. 128/127 of "`Wyrd Sisters`_".
 
 - [p. 76/92] "To introduce phase two Kin began to whistle the old
   robot-Morris tune *Mrs Widgery's Lodger*."
@@ -17956,23 +17957,23 @@ STRATA
   calls several to mind: 'Blue-Eyed Stranger', 'Mrs Casey', and 'Old Woman
   Tossed Up in a Blanket', for instance. 'Mrs Widgery's Lodger' would also
   resurface later on the Discworld as one of the eight orders of wizardry.
-  For more information, see the 'Unseen University' entry in the _Discworld
-  Companion_.
+  For more information, see the 'Unseen University' entry in the "`Discworld
+  Companion`_".
 
 - [p. 107/132] "'Cape illud, fracturor', [...]"
 
   Dog-Latin which roughly translates to "Take this, buster".
 
 
-THE DARK SIDE OF THE SUN
+The Dark Side Of The Sun
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Just as _Strata_ borrows from Larry Niven, so does _The Dark Side of the
-  Sun_ pay homage to the famous SF-writer Isaac Asimov.
+- Just as "Strata_" borrows from Larry Niven, so does "`The Dark Side of the
+  Sun`_" pay homage to the famous SF-writer Isaac Asimov.
 
-- [p. 5/5] _The Lights In The Sky Are Photofloods_
+- [p. 5/5] "`The Lights In The Sky Are Photofloods`_"
 
-   _The Lights in the Sky are Stars_ is the title of a science fiction
+   "`The Lights in the Sky are Stars`_" is the title of a science fiction
    novel by Fredric Brown (who was most famous for his 'twisted-ending'
    short-short stories, but who is unfortunately almost completely
    forgotten today).
@@ -17980,15 +17981,15 @@ THE DARK SIDE OF THE SUN
 - [p. 6/6] The best dagon fishers could ride a shell with their toes.
 
   For an explanation of the word 'dagon' see the annotation for p. 197/149
-  of _Men at Arms_.
+  of "`Men at Arms`_".
 
 - [p. 24/28] "'Probability math predicts the future.'"
 
-  A parallel to Asimov's psychohistory in the _Foundation Series_.
+  A parallel to Asimov's psychohistory in the "`Foundation Series`_".
 
 - [p. 27/31] The robot Isaac is obviously modelled on Asimov's well-known
   positronic robots (and less obviously inspired by a similar robot that
-  appears in Robert Sheckley's _Dimension of Miracles_). Isaac [the robot]
+  appears in Robert Sheckley's "`Dimension of Miracles`_"). Isaac [the robot]
   follows a more extended version of Asimov's equally famous 'Three Laws of
   Robotics', though: on p. 53/62: "'[...] Eleventh Law of Robotics, Clause
   C, As Amended,' said the robot firmly."
@@ -18002,7 +18003,7 @@ THE DARK SIDE OF THE SUN
 
   These are of course religious festivals on the Discworld as well, though
   the Soul Cake festivities moved to a different day there (see the
-  annotation for p. 289/262 of _Guards! Guards!_). Later in the book, on p.
+  annotation for p. 289/262 of "`Guards! Guards!`_"). Later in the book, on p.
   89/106, Hogswatchnight is also mentioned.
 
 - [p. 73/87] "'It has been impossible for the Bank to be physically present
@@ -18026,7 +18027,7 @@ THE DARK SIDE OF THE SUN
 - [p. 118/141] "'Born of the sun, we travel a little way towards the sun,'
   misquoted Isaac, tactlessly."
 
-  Isaac is misquoting the last two lines of the poem _I Think Continually_
+  Isaac is misquoting the last two lines of the poem "`I Think Continually`_"
   by the English poet Stephen Spender:
 
         Born of the sun, they travelled a short while towards the sun,
@@ -18037,7 +18038,7 @@ THE DARK SIDE OF THE SUN
 
   The play being performed is an updated version of Old Attic Comedy, as
   written by the poet Aristophanes. This section specifically parodies
-  Aristophanes' _The Frogs_, in which a chorus of (logically enough) frogs
+  Aristophanes' "`The Frogs`_", in which a chorus of (logically enough) frogs
   sings an onomatopoeic song involving the lyric: "Brekekex, ko-ax, ko-ax".
 
   I am told that Steven Sondheim once wrote a musical version of "The
@@ -18045,7 +18046,7 @@ THE DARK SIDE OF THE SUN
   both Sigourney Weaver and Meryl Streep in the chorus.
 
 
-TRUCKERS
+Truckers
 ~~~~~~~~
 
 - [cover] The drawing of the old nome Torrit (the one holding the Thing) in
@@ -18064,9 +18065,9 @@ TRUCKERS
 
 - [p. 55/51] "'Life, but not as we know it.'"
 
-  Refers to another cliche _Star Trek_ phrase, also parodied in the _Star
-  Trekkin'_ song by The Firm (see the annotation for p. 84/78 of _Johnny
-  and the Dead_).
+  Refers to another cliche "`Star Trek`_" phrase, also parodied in the "`Star
+  Trekkin'`_" song by The Firm (see the annotation for p. 84/78 of "`Johnny
+  and the Dead`_").
 
 - [p. 58/53] "'Um. It was my idea of what an Outsider would look like, you
   see,' said Dorcas."
@@ -18075,7 +18076,7 @@ TRUCKERS
   fiction magazines, which would often feature elaborate drawings
   depicting, for example, what a Martian might 'scientifically' look like.
 
-  In fact, I have in my possession a 1965 issue of _Fantastic Stories_,
+  In fact, I have in my possession a 1965 issue of "`Fantastic Stories`_",
   featuring on the cover a reprint of a 1939 painting by Frank R. Paul
   called 'The Man from Mars', with an accompanying explanation that Dorcas'
   description of the Outsiders is almost an exact equivalent of. This
@@ -18126,14 +18127,14 @@ TRUCKERS
   like a nome who has boldly gone where no nome has gone before and can't
   wait to be asked about it."
 
-  _Star Trek_ reference. See the annotation for p. 221/191 for _The Colour
-  of Magic_.
+  "`Star Trek`_" reference. See the annotation for p. 221/191 for "`The Colour
+  of Magic`_".
 
 - [p. 154/141] "'Amazing things, levers. Give me a lever long enough, and a
   firm enough place to stand, and I could move the Store.'"
 
   Another reference to the famous Archimedes quote. See the annotation for
-  p. 139/101 of _Small Gods_.
+  p. 139/101 of "`Small Gods`_".
 
 - [p. 171/157] "He recalled the picture of Gulliver. [...] it would be nice
   to think that nomes could agree on something long enough to be like the
@@ -18141,7 +18142,7 @@ TRUCKERS
 
   If it's been a while since you actually read Swift, the rather bitter
   irony of Masklin's musings may escape you. The point being that the
-  Lilliputters in _Gulliver's Travels_ were anything but capable of
+  Lilliputters in "`Gulliver's Travels`_" were anything but capable of
   "agreeing on something long enough"; in fact they were waging a
   generation-spanning civil war with each other over the burning question
   of whether one should open one's breakfast egg at the pointy end or at
@@ -18165,31 +18166,31 @@ TRUCKERS
   fictional setting after all.
 
 
-DIGGERS
+Diggers
 ~~~~~~~
 
-- [title] _Diggers_
+- [title] "`Diggers`_"
 
-  In the Corgi paperback editions I have, _Diggers_ and _Wings_ are
+  In the Corgi paperback editions I have, "Diggers_" and "Wings_" are
   subtitled "The Second [respectively Third] Book Of The Nomes".
 
-  Apparently, in the first edition(s), the trilogy was called _The
-  Bromeliad_ (and the last two books accordingly subtitled).
+  Apparently, in the first edition(s), the trilogy was called "`The
+  Bromeliad`_" (and the last two books accordingly subtitled).
 
   This refers to the central theme of the frogs living in a bromeliad, but
-  is also a pun on _The Belgariad_, a well-known fantasy series by David
-  Eddings. And of course both names have their origin in Homer's _Iliad_.
+  is also a pun on "`The Belgariad`_", a well-known fantasy series by David
+  Eddings. And of course both names have their origin in Homer's "Iliad_".
 
   This subtitle was dropped from the British editions, because the editor
   didn't like it. In the US, there were no objections, so to this day US
-  editions of the Nome trilogy are subtitled _The Bromeliad_.
+  editions of the Nome trilogy are subtitled "`The Bromeliad`_".
 
 - People have commented on the similarity between the Nome trilogy and
   other childrens stories involving "little people". In particular, the
   question has arisen a few times whether Terry was inspired by the
-  _Borrowers_ books.
+  "Borrowers_" books.
 
-  Terry answers: "I know about the _Borrowers_, and read one of the books
+  Terry answers: "I know about the "Borrowers_", and read one of the books
   in my teens, but I disliked them; they seemed unreal, with no historical
   background, and it seemed odd that they lived this cosy family life more
   or less without any supporting 'civilisation'. The nomes are communal,
@@ -18232,7 +18233,7 @@ DIGGERS
   Jehovah.
 
 
-WINGS
+Wings
 ~~~~~
 
 - [p. 135/121] "'The other humans around it are trying to explain to it
@@ -18249,17 +18250,17 @@ WINGS
   known to humans."
 
   Refers to the climactic scene of Steven Spielberg's science fiction movie
-  _Close Encounters of the Third Kind_, where contact with the aliens is
+  "`Close Encounters of the Third Kind`_", where contact with the aliens is
   indeed established by shining lights and playing tunes at their
   spaceship.
 
 
-ONLY YOU CAN SAVE MANKIND
+Only You Can Save Mankind
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In order to fully appreciate this novel it may not be necessary, but I
 think it will greatly add to your enjoyment and understanding, if you have
-seen at least one of the _Alien_ movies, and have played at least one
+seen at least one of the "Alien_" movies, and have played at least one
 computer shoot-em-up arcade game.
 
 - [p. 7/7] "The Mighty ScreeWee(TM) Empire(TM) is poised to attack Earth!"
@@ -18272,14 +18273,14 @@ computer shoot-em-up arcade game.
 
 - [p. 9/9] The Hero With A Thousand Extra Lives
 
-  A reference to the title of Joseph Campbell's _The Hero with a Thousand
-  Faces_, an anthropological work comparing and contrasting Hero myths from
+  A reference to the title of Joseph Campbell's "`The Hero with a Thousand
+  Faces`_", an anthropological work comparing and contrasting Hero myths from
   different cultures.
 
 - [p. 13/13] "My dad brought me back 'Alabama Smith and the Jewels of Fate'
   from the States."
 
-  Puns on the movie title _Indiana Jones and the Temple of Doom_. Alabama
+  Puns on the movie title "`Indiana Jones and the Temple of Doom`_". Alabama
   and Indiana are both American states.
 
 - [p. 19/19] "Hey, I really need a computer because that way I can play
@@ -18300,28 +18301,28 @@ computer shoot-em-up arcade game.
 
   The serial/cereal pun itself is of course fairly obvious, and can be
   found in many other places, from old Infocom adventure games to Neil
-  Gaiman's _Sandman_ comics.
+  Gaiman's "Sandman_" comics.
 
 - [p. 42/42] "'I saw this film once, right, where there were these computer
   games and if you were really good the aliens came and got you and you had
   to fly a spaceship and fight a whole bad alien fleet,' said Bigmac."
 
-  Bigmac is describing the 1984 science fiction movie _The Last
-  Starfighter_ here (starring Lance Guest and Robert Preston).
+  Bigmac is describing the 1984 science fiction movie "`The Last
+  Starfighter`_" here (starring Lance Guest and Robert Preston).
 
   As a movie this was decidedly a so-so experience (you can take my word
   for it, I have seen it), but it deserves credit for one major
-  achievement: after the box-office disaster of _Tron_ it was the first
+  achievement: after the box-office disaster of "Tron_" it was the first
   Hollywood film to make extensive use of computer-generated animation. And
-  since _The Last Starfighter_ was not a commercial failure, it effectively
+  since "`The Last Starfighter`_" was not a commercial failure, it effectively
   opened the road again for further use of computer graphics in movies.
 
-- [p. 72/72] "But everyone watched _Cobbers_."
+- [p. 72/72] "But everyone watched "Cobbers_"."
 
   'Cobber' is an Australian word meaning 'companion' or 'friend'; these
   days used more as an informal slang label for addressing someone (as in:
   "Now look here, cobber, ..."). Terry's use of this title reflects the
-  fact that Australian soap operas (such as e.g. _Neighbours_) are
+  fact that Australian soap operas (such as e.g. "Neighbours_") are
   extremely popular in the UK (as in the rest of Europe, I should add). As
   Terry explained:
 
@@ -18333,49 +18334,49 @@ computer shoot-em-up arcade game.
 - [p. 109/109] "What's your game name?' 'Sigourney -- *you're laughing!*'"
 
   Sigourney Weaver is the actress who plays the heroine in all three
-  _Alien_ movies.
+  "Alien_" movies.
 
 - [p. 118/118] "On Earth, No-one Can Hear You Say 'Um'"
 
   The now famous slogan used in the advertising campaigns for the first
-  _Alien_ movie was: _In Space, No-one Can Hear You Scream_.
+  "Alien_" movie was: "`In Space, No-one Can Hear You Scream`_".
 
 - [p. 133/133] "'I saw a film where there was an alien crawling around
   inside a spaceship's air ducts and it could come out wherever it liked,'
   said Johnny reproachfully. 'Doubtless it had a map,' said the Captain."
 
-  The movie Johnny refers to is, of course, _Alien_.
+  The movie Johnny refers to is, of course, "Alien_".
 
 - [p. 147/147] "'Is there anything I can do?' [...] 'I don't know,' she
   said. 'Is there *anything* you can do?'"
 
   The same dialogue occurs between Ripley and Sergeant Apone in the film
-  _Aliens_.
+  "Aliens_".
 
 - [p. 158/158] "'You're thinking: He'll be in there somewhere, hiding.'"
 
-  In _Alien_, the alien creature eventually hid itself in the escape
+  In "Alien_", the alien creature eventually hid itself in the escape
   capsule Sigourney Weaver tried to get away in at the end.
 
 - [p. 162/162] "'If we find a cat I'm going to kick it!'"
 
-  In _Alien_, Sigourney goes *back* into the mother ship because she did
+  In "Alien_", Sigourney goes *back* into the mother ship because she did
   not want to leave the cat behind.
 
 
-JOHNNY AND THE DEAD
+Johnny And The Dead
 ~~~~~~~~~~~~~~~~~~~
 
 - [p. 11/10] "'Singing "Here we go, here we go, here we go"?' said Johnny.
   'And "Viva a spanner"?'"
 
-  For "here we go, here we go", see the annotation for p. 76/70 of _Guards!
-  Guards!_.
+  For "here we go, here we go", see the annotation for p. 76/70 of "`Guards!
+  Guards!`_".
 
   'Viva a spanner' is Johnny's version of the song 'Y Viva Espana', an
   early 70s hit which appeared at about the time that many Brits were first
   going on package tours to Spain (see also the annotation for p. 176/116
-  of _Good Omens_).
+  of "`Good Omens`_").
 
 - [p. 13/12] "'He said the Council sold it to some big company for
   fivepence because it was costing so much to keep it going.'"
@@ -18401,7 +18402,7 @@ JOHNNY AND THE DEAD
 - [p. 24/22] "The last thing to go was the finger, still demonstrating its
   total disbelief in life after death."
 
-  See the Cheshire Cat annotation for p. 142/141 of _Wyrd Sisters_.
+  See the Cheshire Cat annotation for p. 142/141 of "`Wyrd Sisters`_".
 
 - [p. 26/25] "[...] a skinny kid with short hair and flat feet and asthma
   who had difficulty even *walking* in Doc Martens, [...]"
@@ -18417,13 +18418,13 @@ JOHNNY AND THE DEAD
   Bigmac."
 
   There are of course dozens of films that this description could apply to
-  (starting with _Superman_, for instance), but the best candidate would
-  appear to be the 1963 Roger Corman movie _X -- The Man With X-Ray Eyes_,
+  (starting with "Superman_", for instance), but the best candidate would
+  appear to be the 1963 Roger Corman movie "`X -- The Man With X-Ray Eyes`_",
   starring Ray Milland.
 
-- [p. 29/27] "'After _Cobbers_,' said Bigmac."
+- [p. 29/27] "'After "Cobbers_",' said Bigmac."
 
-  _Cobbers_ is obviously modelled on the Australian soap opera _Neighbours_
+  "Cobbers_" is obviously modelled on the Australian soap opera "`Neighbours`_"
   and its cousins.
 
 - [p. 30/28] "[...] the new Council named it the Joshua Che N'Clement block
@@ -18440,10 +18441,10 @@ JOHNNY AND THE DEAD
 
 - [p. 40/38] "'His head'll spin round in a minute!'"
 
-  A reference to the 1973 horror movie _The Exorcist_, starring Linda
+  A reference to the 1973 horror movie "`The Exorcist`_", starring Linda
   Blair, which actually turned out to be a watchable movie, rather to my
   surprise. For a good laugh, I recommend instead that you try to get a
-  hold of either its 1977 sequel _The Exorcist II_, or alternatively (if
+  hold of either its 1977 sequel "`The Exorcist II`_", or alternatively (if
   you like more intentional humour) of that one Saturday Night Live sketch
   with Richard Pryor ("the *bed* is *on* my *foot*!"). But I digress.
 
@@ -18457,7 +18458,7 @@ JOHNNY AND THE DEAD
   built on an old graveyard and someone dug a swimming pool and all the
   skeletons came out and tried to strangle people --'"
 
-  This movie is of course the famous 1982 movie _Poltergeist_.
+  This movie is of course the famous 1982 movie "Poltergeist_".
 
 - [p. 48/45] "'[...] the messages from God he heard when he played Cliff
   Richard records backwards --'"
@@ -18486,12 +18487,12 @@ JOHNNY AND THE DEAD
   seventies. Consequently, any backwards messages in *his* music, will most
   definitely not be Satanic, but rather the opposite.
 
-- [p. 49/46] "Grandad was watching _Video Whoopsy_."
+- [p. 49/46] "Grandad was watching "`Video Whoopsy`_"."
 
-  Although obviously meant as an equivalent to shows like _America's
-  Funniest Home Videos_, this is not the name of any existing show (the
-  British version is called _You've Been Framed_). The word 'whoopsy' was
-  popularised by the 70s UK sitcom _Some Mother's Do 'Ave 'Em_ as a
+  Although obviously meant as an equivalent to shows like "`America's
+  Funniest Home Videos`_", this is not the name of any existing show (the
+  British version is called "`You've Been Framed`_"). The word 'whoopsy' was
+  popularised by the 70s UK sitcom "`Some Mother's Do 'Ave 'Em`_" as a
   euphemism for excrement, as in "The cat's done a whoopsy on the carpet".
 
 - [p. 58/54] "*WHEEEsssh* ... we built this city on ... *ssshshhh* [...]
@@ -18502,7 +18503,7 @@ JOHNNY AND THE DEAD
   the legendary Jefferson Airplane.
 
   The "scaramouche" line is, of course, from Queen's 'Bohemian Rhapsody'
-  (see also the annotation for p. 26/8 of _Good Omens_).
+  (see also the annotation for p. 26/8 of "`Good Omens`_").
 
 - [p. 66/61] "'Who *is* Shakespeare's Sister and why is she singing on the
   wireless?'"
@@ -18519,7 +18520,7 @@ JOHNNY AND THE DEAD
 
 - [p. 68/63] "'You have to have three A-levels.'"
 
-  See the annotation for p. 296/203 of _Good Omens_.
+  See the annotation for p. 296/203 of "`Good Omens`_".
 
 - [p. 72/67] "*The People's Shroud is Deepest Black*"
 
@@ -18530,12 +18531,12 @@ JOHNNY AND THE DEAD
 - [p. 74/68] "'Ghosts don't phone up radio stations!' 'I saw this film once
   where they came out of the telephone,' said Bigmac, [...]"
 
-  Refers to the 1986 movie _Poltergeist II_, starring JoBeth Williams and
+  Refers to the 1986 movie "`Poltergeist II`_", starring JoBeth Williams and
   Craig T. Nelson.
 
 - [p. 84/78] "'It's worse than that. I'm dead, Jim.'"
 
-  Refers to the _Star Trek_-associated catch phrase: "It's worse than that,
+  Refers to the "`Star Trek_-associated catch phrase: "It's worse than that,
   he's dead Jim."
 
   The phrase "He's dead, Jim" was a classic line from the television
@@ -18548,8 +18549,8 @@ JOHNNY AND THE DEAD
   Captain". (This information courtesy of the newsgroup
   rec.arts.startrek.misc.)
 
-  The "It's worse than that" part of the quote did not originate with _Star
-  Trek_ itself, but with the 1987 song 'Star Trekkin', by The Firm, which
+  The "It's worse than that" part of the quote did not originate with "`Star
+  Trek`_" itself, but with the 1987 song 'Star Trekkin', by The Firm, which
   was a huge novelty hit set to a simple 'London Bridge is falling down'
   tune, and featuring lyrics along the lines of:
 
@@ -18566,7 +18567,7 @@ JOHNNY AND THE DEAD
 - [p. 123/113] "'Wasn't there an Elm Street down by Beech Lane?' [...]
   'Freddie. Now that's a NICE name.'"
 
-  Refers to the main character of the _Nightmare on Elm Street_ series of
+  Refers to the main character of the "`Nightmare on Elm Street`_" series of
   horror movies.
 
 - [p. 132/122] "[...] he'd never been able to remember all that 'Foxtrot
@@ -18587,14 +18588,14 @@ JOHNNY AND THE DEAD
 - [p. 133/123] "'These aliens landed and replaced everyone in the town with
   giant vegetables.'"
 
-  Refers to the 1978 movie _Invasion of the Body Snatchers_, starring
+  Refers to the 1978 movie "`Invasion of the Body Snatchers`_", starring
   Donald Sutherland. (Or perhaps to the original 1956 cult movie starring
   Kevin McCarthy.)
 
 - [p. 140/129] "There is a night that never comes to an end..."
 
   The idea of racing the sun around the world is used in the opening pages
-  of Larry Niven's novel _Ringworld_, in which Louis Wu spends 48 hours
+  of Larry Niven's novel "Ringworld_", in which Louis Wu spends 48 hours
   celebrating his 200th birthday by using matter transmitter booths to stay
   a step ahead of midnight.
 
@@ -18605,7 +18606,7 @@ JOHNNY AND THE DEAD
   went on sale. It was corrected in the second printing. The first printing
   is, as you might guess, a very rare collector's item.
 
-  Since we can be pretty certain Terry's read _Ringworld_ (see _Strata_),
+  Since we can be pretty certain Terry's read "Ringworld_" (see "Strata_"),
   and since Niven's mistake is one of the most famous SF flubs of all time,
   Fletcher's admonition to Stanley Roundway ("We're going *west*, Stanley.
   For once in your death, try to get the directions right.") is probably no
@@ -18613,8 +18614,8 @@ JOHNNY AND THE DEAD
 
   On the other hand it should be noted that for some strange reason people
   on a.f.p. are always annoying Terry by trying to pin Larry Niven
-  influences on him (see e.g. the annotation for p. 64/59 of _Guards!
-  Guards!_). Maybe this annotation, too, is just a far-fetched coincidence.
+  influences on him (see e.g. the annotation for p. 64/59 of "`Guards!
+  Guards!`_"). Maybe this annotation, too, is just a far-fetched coincidence.
   It wouldn't be the first in this document, now would it?
 
 - [p. 142/130] "'New York, New York.' 'Why did they name it twice?' 'Well,
@@ -18632,7 +18633,7 @@ JOHNNY AND THE DEAD
         Now isn't it a pity
         What they say about New York City
 
-  See also the annotation for p. 72/65 of _Reaper Man_.
+  See also the annotation for p. 72/65 of "`Reaper Man`_".
 
 - [p. 148/136] "In a neglected corner, Mrs Tachyon was industriously
   Vim-ing a gravestone."
@@ -18645,13 +18646,13 @@ JOHNNY AND THE DEAD
 - [p. 158/146] "'Met Hannibal Lecter in a dark alley, did it?' said
   Yo-less."
 
-  A reference to the cannibalistic, eh, hero of the 1991 movie _The Silence
-  of the Lambs_.
+  A reference to the cannibalistic, eh, hero of the 1991 movie "`The Silence
+  of the Lambs`_".
 
 - [p. 159/147] "'Baron Samedi, the voodoo god,' said Yo-Less. 'I got the
   idea out of James Bond.'"
 
-  The James Bond movie Yo-less means is _Live and Let Die_.
+  The James Bond movie Yo-less means is "`Live and Let Die`_".
 
 - [p. 164/151] "'Body snatchers!' said Wobbler. 'Burke 'n Head!' said
   Bigmac."
@@ -18674,40 +18675,40 @@ JOHNNY AND THE DEAD
   have a Jolly Good Time.
 
 
-JOHNNY AND THE BOMB
+Johnny And The Bomb
 ~~~~~~~~~~~~~~~~~~~
 
 + [p. 16] "'Like in that film where the robot is sent back to kill the
   mother of the boy who's going to beat the robots when he grows up.'"
 
-  A reference to the original 1984 _The Terminator_ movie.
+  A reference to the original 1984 "`The Terminator`_" movie.
 
 + [p. 40] "'Millennium hand and shrimp?'"
 
   Ah, clearly Mrs Tachyon is somehow receiving on the same astral frequency
   as the Bursar and Foul Ole Ron. See also the annotation for p. 324/233 of
-  _Lords and Ladies_.
+  "`Lords and Ladies`_".
 
 + [p. 50] "'[...] the mysterious rain of fish we had in September [...]'"
 
-  A Fortean resonance (see also the annotation for p. 155/99 of _Good
-  Omens_.
+  A Fortean resonance (see also the annotation for p. 155/99 of "`Good
+  Omens`_".
 
-+ [p. 64] "_The Truth is Out Of Here_"
++ [p. 64] ""`The Truth is Out Of Here_"
 
-  Puns on the famous tagline for the _The X-Files_ television series (see
-  also the annotation for p. 154 of _Hogfather_).
+  Puns on the famous tagline for the "`The X-Files`_" television series (see
+  also the annotation for p. 154 of "Hogfather_").
 
 + [p. 67] "D'you see that film where the car travelled in time [...]'"
 
-  Undoubtedly this is the original _Back To The Future_ movie.
+  Undoubtedly this is the original "`Back To The Future`_" movie.
 
 + [p. 73] "'Me, and four token boys. Oh, dear. Oh, dear. It's only a mercy
   we haven't got a dog.'"
 
   A reference to the Famous Five. See also the annotation for p. 127/80 of
-  _Good Omens_ and the annotation for p. 87 of _The Amazing Maurice and his
-  Educated Rodents_.
+  "`Good Omens`_" and the annotation for p. 87 of "`The Amazing Maurice and his
+  Educated Rodents`_".
 
 + [p. 203] "She held up a pickled onion."
 
@@ -18735,7 +18736,7 @@ JOHNNY AND THE BOMB
   also has the playing card missing from his grandad's pack (and grandad
   got a medal for running a distance which couldn't possibly be run in the
   time). But what happens is the familiar 'history reasserting itself'
-  motif, as in _Back to the Future III_ -- there have to be *clues* that
+  motif, as in "`Back to the Future III`_" -- there have to be *clues* that
   the process misses, of course, otherwise there'd be no point. Remember
   that (in addition to all the other stuff) it's not the pickle that's the
   clue, it's the fact that Kirsty now *remembers*."
@@ -18774,7 +18775,7 @@ JOHNNY AND THE BOMB
   just waving, but particalling."
 
 
-THE CARPET PEOPLE
+The Carpet People
 ~~~~~~~~~~~~~~~~~
 
 - [p. 120/110] "'For me, all possibilities are real. I live them all. [...]
@@ -18787,7 +18788,7 @@ THE CARPET PEOPLE
   directly observed is one of the best-known concepts in quantum mechanics.
 
 
-THE UNADULTERATED CAT
+The Unadulterated Cat
 ~~~~~~~~~~~~~~~~~~~~~
 
 - [p. 7] "The Campaign for Real Cats is against fizzy keg cats."
@@ -18801,22 +18802,22 @@ THE UNADULTERATED CAT
 - [p. 18] "[...] good home in this case means anyone who doesn't actually
   arrive in a van marked J. Torquemada and Sons, Furriers."
 
-  See the annotation for p. 137/88 of _Good Omens_ if you don't know who
+  See the annotation for p. 137/88 of "`Good Omens`_" if you don't know who
   Torquemada was.
 
 - [p. 28] "Or perhaps there is now a Lorry cat undreamed of by T. S.
   Eliot."
 
-  T. S. Eliot, 20th century poet and critic. He wrote the book _Old
-  Possum's Book of Practical Cats_, which the musical _Cats_ was based on.
+  T. S. Eliot, 20th century poet and critic. He wrote the book "`Old
+  Possum's Book of Practical Cats`_", which the musical "Cats_" was based on.
 
 - [p. 28] "[...] growing fat on Yorkie bars."
 
-  See the annotation for p. 130/119 of _Truckers_.
+  See the annotation for p. 130/119 of "Truckers_".
 
 - [p. 35] "You need a word with a cutting edge. *Zut!* is pretty good."
 
-  'Zut' is also a French exclamation, meaning _Damn_ or "drop dead".
+  'Zut' is also a French exclamation, meaning "Damn_" or "drop dead".
 
 - [p. 44] "[...] sitting proudly beside a miniature rodent Somme on the
   doorstep."
@@ -18855,7 +18856,7 @@ THE UNADULTERATED CAT
   evolutionary theory, in favour of modified versions of natural selection.
 
 
-NATION
+Nation
 ~~~~~~
 
 + This standalone, non-Discworld, Young Adult (YA) book is scheduled to be
@@ -18866,7 +18867,7 @@ NATION
 Thoughts and Themes
 ---------------------------------------------------------------------------
 
-THE TURTLE MOVES!
+The Turtle Moves!
 ~~~~~~~~~~~~~~~~~
 
 It was already mentioned in one of the annotations: on alt.fan.pratchett
@@ -18894,7 +18895,7 @@ a lotus flower growing out of Vishnu's navel. Swimming in a pool in the
 lotus flower is the world turtle, on whose back stand four elephants facing
 in the four compass directions. On their backs is balanced the flat,
 disc-shaped world. See also Josh Kirby's magnificent drawing of the
-Discworld in the illustrated version of _Eric_.
+Discworld in the illustrated version of "Eric_".
 
   Terry: "The myth that the world is flat and goes through space on the
   back of a turtle is, with variations, found on every continent. An
@@ -18914,7 +18915,7 @@ and ending of quotes from different Usenet articles):
 
   The *shell* of the turtle is slightly smaller than the world, but the
   flippers and head and tail are all visible from the Rim, looking down --
-  as Rincewind does in _The Colour of Magic_."
+  as Rincewind does in "`The Colour of Magic`_"."
 
   "The Discworld revolves. The sun and moon orbit it as well. This enables
   the Disc to have seasons. And the DW 'universe' -- turtle, world, sun,
@@ -18928,7 +18929,7 @@ and ending of quotes from different Usenet articles):
 On the subject of constellations and what they would look like (see also
 the file discworld-constellations available from the Pratchett Archives):
 
-  "GA must move fairly fast -- in _The Light Fantastic_ a star goes from a
+  "GA must move fairly fast -- in "`The Light Fantastic`_" a star goes from a
   point to a sun (I assume GA halted somewhere in the temperate orbits) in
   a few weeks. I've always thought that Discworld astrology would largely
   consist of research; we already know the character traits, what we're
@@ -18970,25 +18971,25 @@ the Pratchett Archives):
 
   Genua was designed to be a 'Magic Kingdom' but in a New Orleans setting
   -- I hope the voodoo, cooking etc. made that reasonably obvious. Genua
-  and the other countries mentioned in _Witches Abroad_ are all on the
+  and the other countries mentioned in "`Witches Abroad`_" are all on the
   other side of the Ramtops, which more or less bisect the continent.
 
   As far as the Ankh-Morpork map is concerned, we've decided to get it
   right *at a point in time*. In any case, it's a developing city; the city
-  of _Guards! Guards!_ has evolved some way from the one in _The Colour of
-  Magic_."
+  of "`Guards! Guards!`_" has evolved some way from the one in "`The Colour of
+  Magic`_"."
 
 
 SONG... 
 
 The one song that all Discworld fans will be familiar with, is of course
 Nanny Ogg's favourite ballad: 'The Hedgehog Can Never Be Buggered At All'
-(see also the annotation for p. 36/35 of _Wyrd Sisters_).
+(see also the annotation for p. 36/35 of "`Wyrd Sisters`_").
 
 I will start this section with the complete text to the song that might
 have been the prototype for the hedgehog-song -- except that it wasn't. It
-can be found in Michael Green's book _Why Was He Born So Beautiful and
-Other Rugby Songs_ (1967, Sphere UK), it is called 'The Sexual Life of the
+can be found in Michael Green's book "`Why Was He Born So Beautiful and
+Other Rugby Songs`_" (1967, Sphere UK), it is called 'The Sexual Life of the
 Camel', it probably dates back to the 1920s/30s, and it goes:
 
         The carnal desires of the camel
@@ -19061,13 +19062,13 @@ I have compromised and chosen to reproduce just my own favourite verses:
 
         For prosimian fun, you can bugger a lemur
         To bolster your name as a pervert and schemer
-        The lemurs cry _Frink!_ as a coy mating call
+        The lemurs cry "`Frink!`_" as a coy mating call
         But the hedgehog can never be buggered at all.
 
 Finally, we come to the old drinking song mentioned in the annotation for p.
-99/82 of _Eric_: 'The Ball of Kerrymuir'. This song can, coincidentally
-enough, also be found in Michael Green's _Why Was He Born So Beautiful and
-Other Rugby Songs_. That version appears to have the dirty words replaced
+99/82 of "`Eric_: 'The Ball of Kerrymuir'. This song can, coincidentally
+enough, also be found in Michael Green's "`Why Was He Born So Beautiful and
+Other Rugby Songs`_". That version appears to have the dirty words replaced
 by rows of asterisks -- a rather useless form of editorial restraint, since
 in this particular case it means the song now contains more asterisks than
 normal alphabetic characters. Enter alt.fan.pratchett correspondent Tony
@@ -19119,19 +19120,19 @@ be talking about one thing: Morris Dancing, a subject that most non-Brits
 will be almost completely in the dark about. Brewer has this to say on the
 subject:
 
-_Morris Dance_: brought to England in the reign of Edward III, when John of
+"`Morris Dance_: brought to England in the reign of Edward III, when John of
 Gaunt returned from Spain. In the dance, bells were jingled, and staves or
 swords clashed. It was a military dance of the Moors or Moriscos, in which
 five men and a boy engaged; the boy wore a 'morione' or head-piece, and was
-called _Mad Morion_.
+called "`Mad Morion`_".
 
 Which is interesting, but doesn't really explain anything in a 20th century
 context. Luckily, a newsgroup like alt.fan.pratchett attracts contemporary
 Morris Dancers like flies, and for the rest of this section I will give the
 floor to Rich Holmes:
 
-"In a number of books (including _Strata_, _Guards! Guards!_, _Reaper Man_,
-and _Lords and Ladies_) Pratchett refers to morris dancing. These allusions
+"In a number of books (including "Strata_", "`Guards! Guards!`_", "`Reaper Man`_",
+and "`Lords and Ladies`_") Pratchett refers to morris dancing. These allusions
 may be lost on the typical American reader. Picture, then, six men in white
 shirts and trousers, decorated with ribbons, wearing bells on their legs,
 in a two-by-three formation -- the men, not the bells. To a tune played on
@@ -19168,7 +19169,7 @@ There is also a web page for the Morris Dancing Discussion List. The URL
 is: <http://web.syr.edu/~hytelnet/mddl/>.
 
 
-REVERSE ANNOTATIONS
+Reverse Annotations
 ~~~~~~~~~~~~~~~~~~~
 
 With the Discworld canon growing and reaching an increasingly wider
@@ -19178,10 +19179,10 @@ into their books.
 
 The examples I have had reported to me so far:
 
-- _Due South_
+- "`Due South`_"
 
   The most often remarked-upon reverse annotation of the past year or so
-  concerns the television series _Due South_, which is about the adventures
+  concerns the television series "`Due South`_", which is about the adventures
   of a Canadian Mountie (Constable Benton Fraser), stationed in Chicago.
 
   The similarities between Benton Fraser and Carrot are, especially in the
@@ -19196,15 +19197,15 @@ The examples I have had reported to me so far:
   I doubt very much whether Benton Fraser is *really* based on Carrot
   (after all, the archetype that both characters are based on goes back a
   long way), but sometimes I wonder: Fraser's faithful companion is a wolf,
-  and in one episode of _Due South_ Fraser and his partner are locked in a
+  and in one episode of "`Due South`_" Fraser and his partner are locked in a
   meat storage room and nearly freeze to death...
 
 - Computer Games.
 
   References to the Discworld have occasionally been cropping up in
-  otherwise unrelated computer games. In _Angband_, for instance, one of
+  otherwise unrelated computer games. In "Angband_", for instance, one of
   the owners of the general store is 'Rincewind the Chicken'. In the
-  legendary game _Nethack_ you can explore the Dungeons as a tourist,
+  legendary game "Nethack_" you can explore the Dungeons as a tourist,
   starting out your quest with lots of gold and food, a credit card, and an
   expensive camera. Although the tourist character class wasn't originally
   created as a Discworld reference, there have been many Discworld-inspired
@@ -19213,7 +19214,7 @@ The examples I have had reported to me so far:
   the special quest level. And if you're hallucinatory, you may get to see
   the Luggage.
 
-- _Dream Park: The Californian Voodoo Game_, by Larry Niven and Stephen
+- "`Dream Park: The Californian Voodoo Game`_", by Larry Niven and Stephen
   Barnes, 1991.
 
   The UK edition of this book describes the character Alan Myers as "a
@@ -19228,7 +19229,7 @@ The examples I have had reported to me so far:
 
   Note the misspelling of Discworld.
 
-- _Object-Oriented Languages, Systems and Applications_, by Blair,
+- "`Object-Oriented Languages, Systems and Applications`_", by Blair,
   Hutchinson, Gallagher and Shepherd, 1991.
 
   "Consider the domain of Colours. If we have Red, Green and Blue, but now
@@ -19238,10 +19239,10 @@ The examples I have had reported to me so far:
   narrowing the domain, [...]"
 
   Again, note the misspelling, this time of 'Octarine'. Since this is a
-  formal text book, _The Colour of Magic_ gets a proper mention in the
+  formal text book, "`The Colour of Magic`_" gets a proper mention in the
   references.
 
-- The _British Medical Journal_, January 1996 edition.
+- The "`British Medical Journal`_", January 1996 edition.
 
   The BMJ has a 'Soundings' page, where doctors get a chance to write about
   a subject of their choice. In this issue, Liam Farrell, a GP from
@@ -19250,19 +19251,19 @@ The examples I have had reported to me so far:
   "This is only common sense, but, as we have said before, in academic
   general practice, common sense is as rare as a tourist in Ankh-Morpork."
 
-- _The Books of Magic_, by John Ney Rieber, issue #13, April 1995.
+- "`The Books of Magic`_", by John Ney Rieber, issue #13, April 1995.
 
   Tim and Molly on their way through Soho, London, pass a movie theatre.
   The Billboard says: "PRATCHETT THEATRE -- now playing: Unseen Demo..."
   (the rest is cut off).
 
-- _The Books of Magic II_, by Neil Gaiman and Scott Hampton, 1990.
+- "`The Books of Magic II`_", by Neil Gaiman and Scott Hampton, 1990.
 
   Tim is told of an occult battle taking place offstage in Calcutta: "You
   wouldn't believe it. The cult of Kali, three Ninja death squads, the
   Brotherhood of the Cold Flame, a thousand elephants..."
 
-- _Dirty Work_, by Dan McGirt, 1993, Pan Books, ISBN 0 330 32391 1, p. 215.
+- "`Dirty Work`_", by Dan McGirt, 1993, Pan Books, ISBN 0 330 32391 1, p. 215.
 
   The relevant quotation is:
 
@@ -19280,7 +19281,7 @@ The examples I have had reported to me so far:
   to be a good read.
 
 
-WORDS FROM THE MASTER
+Words From The Master
 ~~~~~~~~~~~~~~~~~~~~~
 
 Here are a number of excerpts from articles by Terry Pratchett that I think
@@ -19448,7 +19449,7 @@ editorial text in square brackets ([ ]) for the rest of this section.
 - Why Terry switched his German publishers (from Heyne to Goldmann).
 
   "There were a number of reasons for switching to Goldmann, but a deeply
-  personal one for me was the way Heyne (in _Sourcery_, I think, although
+  personal one for me was the way Heyne (in "Sourcery_", I think, although
   it may have been in other books) inserted a soup advert *in the text* ...
   a few black lines and then something like 'Around about now our heroes
   must be pretty hungry and what better than a nourishing bowl'... etc,
@@ -19635,15 +19636,15 @@ editorial text in square brackets ([ ]) for the rest of this section.
   [no doubt there are readers out there who could construct the correct
   phrase that might have fallen from the lips of Dirty Hadrian]."
 
-- On the writing of _Good Omens_.
+- On the writing of "`Good Omens`_".
 
   "Neil and I had known each other since early 1985. Doing it was our idea,
   not a publisher's deal."
 
-  "I think this is an honest account of the process of writing _Good
-  Omens_. It was fairly easy to keep track of because of the way we sent
+  "I think this is an honest account of the process of writing "`Good
+  Omens`_". It was fairly easy to keep track of because of the way we sent
   discs to one another, and because I was Keeper of the Official Master
-  Copy I can say that I wrote a bit over two thirds of _Good Omens_.
+  Copy I can say that I wrote a bit over two thirds of "`Good Omens`_".
   However, we were on the phone to each other every day, at least once. If
   you have an idea during a brainstorming session with another guy, whose
   idea is it? One guy goes and writes 2,000 words after thirty minutes on
@@ -19651,7 +19652,7 @@ editorial text in square brackets ([ ]) for the rest of this section.
 
   I did most of the physical writing because:
 
-      1) I had to. Neil had to keep _Sandman_ going -- I could take time
+      1) I had to. Neil had to keep "Sandman_" going -- I could take time
          off from the DW;
 
       2) One person has to be overall editor, and do all the stitching and
@@ -19679,7 +19680,7 @@ editorial text in square brackets ([ ]) for the rest of this section.
   No-one should die because he was alive."
 
 - On rumours that Neil Gaiman claims to have come up with some of the ideas
-  in _Reaper Man_, most notably the title and the Death storyline.
+  in "`Reaper Man`_", most notably the title and the Death storyline.
 
   "To the best of my recollection the Reaper Man title was suggested by
   Faith Brooker at Gollancz (although I can't swear to this). But I know,
@@ -19703,7 +19704,7 @@ editorial text in square brackets ([ ]) for the rest of this section.
   being, we'd like you to do other stuff). And the answer is, no, you can't
   work like that. It works the other way round -- I say I'm planning two
   more, they say, fine, here's a contract. The DW is sufficiently big and
-  vague that it can cover _Small Gods_ and _Eric_, so I've got a wide field
+  vague that it can cover "`Small Gods`_" and "Eric_", so I've got a wide field
   to work in. But... I'll say here again... the days of twice-yearly DW
   books have probably gone. I'm still planning to write them regularly, in
   fact publishing schedules might end up bringing out two in a year, but I
@@ -19750,7 +19751,7 @@ editorial text in square brackets ([ ]) for the rest of this section.
   "Current cover policy is to have a fairly small graphic on the front of
   the hardcovers but a full traditional design on the front of the
   paperback; I'm not too unhappy about this, because I wasn't very keen on
-  the _Lords and Ladies_ hardcover artwork."
+  the "`Lords and Ladies`_" hardcover artwork."
 
 - On American editions of his books.
 
@@ -19760,7 +19761,7 @@ editorial text in square brackets ([ ]) for the rest of this section.
   American writers think is normal British conversation ("I say, good
   show!") and I'd hate to be guilty of that sort of thing in reverse."
 
-  "As far as _Johnny and the Dead_ and _Only You Can Save Mankind_ are
+  "As far as "`Johnny and the Dead`_" and "`Only You Can Save Mankind`_" are
   concerned: well, I dunno. It was bad enough having to translate Truckers
   into American, and then it was published so badly by Dell in hardcover we
   took the paperback rights away from them (which we are looking to sell
@@ -19770,15 +19771,15 @@ editorial text in square brackets ([ ]) for the rest of this section.
 
 - On reference books.
 
-  "I've got Brewer's, of course <<See the annotation for p. 117/103 of _The
+  "I've got Brewer's, of course <<See the annotation for p. 117/103 of "`The
   Colour of Magic_>>, and if I need an instant reference it's a handy book.
-  He also did a _Reader's Companion_ which is even better. But Ebenezer is
+  He also did a "`Reader's Companion`_" which is even better. But Ebenezer is
   only the tip of an iceberg of similar books, of which the Victorians were
   very fond."
 
   "Whenever I go to the States I always return with my luggage stuffed with
-  Panati's and _Straight Dope_ books <<See the annotation for p. 165/107 of
-  _Good Omens_>> (I've seen the _Straight Dope_ books here, but never seen
+  Panati's and "`Straight Dope`_" books <<See the annotation for p. 165/107 of
+  "`Good Omens_>> (I've seen the "`Straight Dope`_" books here, but never seen
   an imported Panati (they've got titles like "Extraordinary Origins of
   Everyday Things")). I'm afraid I spend money like water in American book
   shops; I dunno, they just seem more inviting. The oddest book shop I've
@@ -19794,10 +19795,10 @@ editorial text in square brackets ([ ]) for the rest of this section.
   When I was a kid the books created in me about the same revulsion as you
   get when, aged seven, you're invited to kiss your great-grandmother."
 
-  "May I also add that the film _The Return of Captain Invincible_, which
+  "May I also add that the film "`The Return of Captain Invincible`_", which
   is a series of bad moments pasted together with great songs and a budget
   of fourpence, is also a regularly-viewed video in the Pratchett
-  household. And David Byrne's _True Stories_ also. Flame me if you wish. I
+  household. And David Byrne's "`True Stories`_" also. Flame me if you wish. I
   laugh with scorn at threats."
 
   "These are modern authors whose books I will automatically buy knowing
@@ -19814,7 +19815,7 @@ editorial text in square brackets ([ ]) for the rest of this section.
   [About Joanna Trollope:] "An intelligent lady who writes worthwhile books
   for an audience largely neglected by 'real' writers, and who occasionally
   comes up with a bit of description I really wish I'd thought of. The
-  current TV adaptation of _The Rector's Wife_ is pretty awful."
+  current TV adaptation of "`The Rector's Wife`_" is pretty awful."
 
   [About P. J. O'Rourke:] "PJ may be many things, but fascist he is not, as
   becomes obvious when you read his slightly more serious writings -- but
@@ -19822,28 +19823,28 @@ editorial text in square brackets ([ ]) for the rest of this section.
   'fascist' accusations. He's so far to the right that on many issues he's
   coming back at you from the left. [...] I like PJ."
 
-  "I got Corgi to republish Roy Lewis' _The Evolution Man_ a few years ago.
+  "I got Corgi to republish Roy Lewis' "`The Evolution Man`_" a few years ago.
   To the best of my knowledge it's the only fiction he's done. Like I said
   in my intro, it's honest, genuine sf... and one of my all-time favourite
   funny books."
 
   "If anyone can ever get hold of it, the classic funny cricket match was
-  in the book _England, Their England_ by A. G. McDonnell. A forgotten
+  in the book "`England, Their England`_" by A. G. McDonnell. A forgotten
   masterpiece."
 
   "[Carl Hiaassen] is a writer I try to promote here at every opportunity.
-  He hasn't written a bad book. I recommend _Native Tongue_ or maybe
-  _Double Whammy_."
+  He hasn't written a bad book. I recommend "`Native Tongue`_" or maybe
+  "`Double Whammy`_"."
 
 - Is there any truth to the rumour that you and Neil Gaiman had a fall-out
-  over the _Good Omens_ film project?
+  over the "`Good Omens`_" film project?
 
   "Me and Neil... oh gawd. Yes, it's true to say we didn't agree over the
   way the film should be going. But that's about it. There's no flying
   daggers -- at least, I haven't thrown any and none have hit me."
 
 - Speaking of movies, what happened to the plans for a movie based on
-  _Mort_?
+  "`Mort_?
 
   "A production company was put together and there was US and Scandinavian
   and European involvement, and I wrote a couple of script drafts which
@@ -19860,13 +19861,13 @@ editorial text in square brackets ([ ]) for the rest of this section.
 
   "The person also said that Americans "weren't ready for the treatment of
   Death as an amusing and sympathetic character". This was about 18
-  months/2 years before _Bill and Ted's Bogus Journey_."
+  months/2 years before "`Bill and Ted's Bogus Journey`_"."
 
   "Currently, since the amount of money available for making movies in
   Europe is about sixpence, the consortium is looking for some more
   intelligent Americans in the film business. This may prove difficult.
 
-  It could have been worse. I've heard what _Good Omens_ was looking like
+  It could have been worse. I've heard what "`Good Omens`_" was looking like
   by the time Sovereign's option mercifully ran out -- set in America, no
   Four Horsemen... oh god."
 
@@ -19894,7 +19895,7 @@ editorial text in square brackets ([ ]) for the rest of this section.
   scream at them."
 
   "IF IT ALL HAPPENS ('cos we're dealing with screen here) then there would
-  be _Guards! Guards!_ as the pilot and _Men at Arms_ as 'the series'."
+  be "`Guards! Guards!`_" as the pilot and "`Men at Arms`_" as 'the series'."
 
 - Why does the Librarian have such troubles communicating with humans?
   Surely, as a highly trained, intelligent librarian he is literate, and
@@ -19905,7 +19906,7 @@ editorial text in square brackets ([ ]) for the rest of this section.
 - Responding to newspaper articles mentioning "Estimated wealth of sci-fi
   novelist Terry Pratchett: UK# 26,500,000".
 
-  "This began with some survey done by a magazine called _Business Age_.
+  "This began with some survey done by a magazine called "`Business Age`_".
   Since it's off by the national debt of Belgium my agent rang them up to
   find out what the hell was going on. Various factoids emerged, like
   frinstance their assumption that I sell pro rata as much in the States as
@@ -19928,24 +19929,24 @@ editorial text in square brackets ([ ]) for the rest of this section.
 
   "I can only repeat: my last publishers were so good they spelled my name
   wrong in the books, made sure they had covers in 50 shades of mud, and
-  kept them out of the shops. HarperCollins are bringing out _Small Gods_
+  kept them out of the shops. HarperCollins are bringing out "`Small Gods`_"
   in January and are talking about some kind of accelerated schedule to
   catch up.
 
-  I've seen the US _Small Gods_ cover, by the way. It's quite different
+  I've seen the US "`Small Gods`_" cover, by the way. It's quite different
   from anything else of mine, and mainly text... looks rather posh..."
 
-  "HarperCollins have been sent the _Soul Music_ MS and are serious about
+  "HarperCollins have been sent the "`Soul Music`_" MS and are serious about
   publishing it this summer in an effort to 'catch up'. That means in
   theory that new Discworld books should be published in the US at (more or
-  less) the same time as in the UK. But it leaves _Lords and Ladies_ and
-  _Men at Arms_ in a kind of limbo; HC are committed to bringing them out
+  less) the same time as in the UK. But it leaves "`Lords and Ladies`_" and
+  "`Men at Arms`_" in a kind of limbo; HC are committed to bringing them out
   "as soon as possible" and it's in their interests to do so, because
   they've had to front advances which they can't recoup until they start
   selling."
 
-  "Blame publishers. HarperCollins have got _Lords and Ladies_, _Small
-  Gods_, _Men at Arms_ and _Soul Music_. I *think* Roc have got _Eric_. I'd
+  "Blame publishers. HarperCollins have got "`Lords and Ladies`_", "`Small
+  Gods`_", "`Men at Arms`_" and "`Soul Music`_". I *think* Roc have got "Eric_". I'd
   be happy to see them all out in one go. As for the Map... I suspect it'll
   never get a US publication. It seemed to frighten US publishers. They
   don't seem to understand it.
@@ -19966,8 +19967,8 @@ editorial text in square brackets ([ ]) for the rest of this section.
   feels, ugh, European. I'm paraphrasing his far more diplomatically worded
   comments)."
 
-  As I understand it, _Lords and Ladies_ and _Men at Arms_ will come out in
-  trade paperback "fairly soon" after _Soul Music_, to get them out of the
+  As I understand it, "`Lords and Ladies`_" and "`Men at Arms`_" will come out in
+  trade paperback "fairly soon" after "`Soul Music`_", to get them out of the
   way -- ie, to desperately try to catch up on the schedule. But it looks
   as though SM is slipping back, 'cos I saw the proofs only a week or so
   ago. Basically, it's the usual arrogance of US publishers towards their
@@ -19982,13 +19983,13 @@ editorial text in square brackets ([ ]) for the rest of this section.
   leap the gap and publish the next 'new' title as soon as possible,
   bringing out the other two over the next year more or less as 'new
   backlist titles' while also continuing to publish genuinely new Discworld
-  books. This would mean that _Lords and Ladies_ and _Men At Arms_ would be
-  late, but they'd have been late *anyway*, and titles from _Soul Music_ on
+  books. This would mean that "`Lords and Ladies`_" and "`Men At Arms`_" would be
+  late, but they'd have been late *anyway*, and titles from "`Soul Music`_" on
   would have an American pub. date pretty close to the UK one.
 
   That was the theory. Unfortunately, it has contained one major flaw, in
   that it is being put into practice. It seems to be thought that a
-  publication date for _Soul Music_ that is 7-8 months behind the UK one is
+  publication date for "`Soul Music`_" that is 7-8 months behind the UK one is
   'contemporary', which is an interesting use of the word. Moreover, I have
   a horrible suspicion that they'll see two 'new' Pratchett books on their
   list next year and, on the basis that the left hand does not know what
@@ -19998,15 +19999,15 @@ editorial text in square brackets ([ ]) for the rest of this section.
   Sometimes I think I'd have done better staying with Roc, sad covers and
   all -- at least they were catching up..."
 
-- Is _Strata_ a Discworld novel or isn't it?
+- Is "Strata_" a Discworld novel or isn't it?
 
-  "_Strata_ used the idea of a Discworld but I've never thought of it as a
+  ""Strata_" used the idea of a Discworld but I've never thought of it as a
   Discworld novel within the meaning of the act. The first Discworld novel
-  was _The Colour of Magic_. Let the message go throughout the kingdom..."
+  was "`The Colour of Magic`_". Let the message go throughout the kingdom..."
 
 - About the Discworld album by Dave Greenslade.
 
-  "It's called _From The Discworld_. Most of the tracks are themes for the
+  "It's called "`From The Discworld`_". Most of the tracks are themes for the
   books (I particularly like the Small Gods one) but there are two songs,
   'The Shades of Ankh-Morpork' and something about a wizard's staff. There
   is also the insidious tune of the 'Stick and Bucket Dance', even down to
@@ -20031,7 +20032,7 @@ editorial text in square brackets ([ ]) for the rest of this section.
         13. The One Horseman and the Three pedestrians of the Apocralypse
         14. Holy Wood Dreams ]
 
-- At the end of _Wings_ you implied that the Nomes would return some day
+- At the end of "Wings_" you implied that the Nomes would return some day
   for any remaining Nomes. Do you plan to write another book where the
   Nomes return or one about the world the Nomes now call home?
 
@@ -20040,16 +20041,16 @@ editorial text in square brackets ([ ]) for the rest of this section.
 
 - On computer games.
 
-  "I have played _Elite_, _Wing Commander_, _X-Wing_ and altogether too
+  "I have played "Elite_", "`Wing Commander`_", "`X-Wing`_" and altogether too
   many outer-space-shoot-em-ups. I mean, don't they all have shields,
   missiles and stuff?"
 
-  "Well, right now I'm storming through _Privateer_ under the callsign of
+  "Well, right now I'm storming through "Privateer_" under the callsign of
   Flash Bastard, whose career has progressed throughout the whole Wing
   Commander series."
 
-- Are _Diggers_ and _Wings_ going to be made into TV programs as follow-ups
-  to _Truckers_?
+- Are "Diggers_" and "Wings_" going to be made into TV programs as follow-ups
+  to "`Truckers_?
 
   "Cosgrove Hall were just getting them storyboarded when Thames folded.
   They're still not a dead issue, but suffering as do many things when
@@ -20141,7 +20142,7 @@ editorial text in square brackets ([ ]) for the rest of this section.
   "With the exception of requests, like "Can you sign it to Scrummybunikins
   with lots of Hugs", there are about 35 different Discworld dedications
   (some of which I don't have time to do with the queues being the length
-  they are -- if you've got the Death Grin dedication in _Mort_, treasure
+  they are -- if you've got the Death Grin dedication in "Mort_", treasure
   it, because I hardly ever do it these days). As for quality of
   handwriting, well, mine never was good...
 
@@ -20150,8 +20151,8 @@ editorial text in square brackets ([ ]) for the rest of this section.
   Whole New Quantum of Wishes and -- for those people with two carrier bags
   full of books -- Son of Best Wishes, Bride of Best Wishes, and Return of
   the Killer Best Wishes for 20,000 Fathoms). Also look out for the special
-  Boo! in _Mort_ and _Reaper Man_, our new Read it And Reap one in _Reaper
-  Man_, the special turtle drawing in _Small Gods_, and various Now Reads
+  Boo! in "Mort_" and "`Reaper Man`_", our new Read it And Reap one in "`Reaper
+  Man`_", the special turtle drawing in "`Small Gods`_", and various Now Reads
   Ons, Enhanced Wishes, etc, etc. Kids! Collect the Entire Set!"
 
   [ This explanation prompted FAQ maintainer Nathan Torkington to reply
@@ -20186,13 +20187,13 @@ editorial text in square brackets ([ ]) for the rest of this section.
   a.f.p. Terry says that since this discussion appeared on the net he is
   now occasionally asked for specific dedications along these lines. ]
 
-  "Book-specific ones tend to be: _Mort_ and _Reaper Man_: 'Boo!', 'HAVE
-  FUN', the Death grin, or 'Read It And Reap'. _Small Gods_: almost always
-  'The Turtle Moves!' _Pyramids_: usually the 'Hi! in the Pyramid' _Wyrd
+  "Book-specific ones tend to be: "Mort_" and "`Reaper Man_: 'Boo!', 'HAVE
+  FUN', the Death grin, or 'Read It And Reap'. "`Small Gods_: almost always
+  'The Turtle Moves!' "`Pyramids_: usually the 'Hi! in the Pyramid' "`Wyrd
   Sisters_: often 'Really wyrd'..."
 
   "Read It And Reap has now been established as a 'generic' line which
-  doesn't *just* get used in _Reaper Man_."
+  doesn't *just* get used in "`Reaper Man`_"."
 
 - What order are the Discworld books in?
 
@@ -20200,12 +20201,12 @@ editorial text in square brackets ([ ]) for the rest of this section.
   order. Anything that suggests differently is probably because of the
   Trousers of Time, magical leakage from the HEM and so on..."
 
-- It was rumoured in _Octarine_ magazine that you and Robert Rankin were
+- It was rumoured in "Octarine_" magazine that you and Robert Rankin were
   not "the best of friends". Any truth to this? (By the way: I hear that
   Rankin likes to throw wild parties in his jacuzzi.)
 
   "I'll nail this one right now. We don't see much of one another but we
-  get on fine. That was _Octarine_ stirring it up. I know nothing
+  get on fine. That was "Octarine_" stirring it up. I know nothing
   whatsoever about parties in jacuzzis, or rubber chickens."
 
 - More about book shop tours and signing sessions.
@@ -20278,7 +20279,7 @@ editorial text in square brackets ([ ]) for the rest of this section.
   one stopped taking phone orders because the staff got fed up."
 
   "On the latest tour I've heard that some shops have been telling people
-  'he'll only sign _Soul Music_'. This is shopspeak on the lines of "It's
+  'he'll only sign "`Soul Music_'. This is shopspeak on the lines of "It's
   out of print" (which really means "Who cares and bugger off, you pimply
   person"). Shops have no say in what I'll sign or not sign. So I'll
   repeat:
@@ -20310,10 +20311,10 @@ editorial text in square brackets ([ ]) for the rest of this section.
   frankly any old city with a wall and a wiggly river looks like
   London...."
 
-- Do religious fanatics ever get mad at you for writing _Small Gods_?
+- Do religious fanatics ever get mad at you for writing "`Small Gods_?
 
   "I may have posted something on these lines before, but a lot of mail
-  about _Small Gods_ is split between 1) pagans who say that it really
+  about "`Small Gods`_" is split between 1) pagans who say that it really
   shafts the Big Beard In the Sky religions and 2) Christians who say that
   it is an incredibly pro-Christian book.
 
@@ -20348,7 +20349,7 @@ editorial text in square brackets ([ ]) for the rest of this section.
 Editorial Comments
 ---------------------------------------------------------------------------
 
-THE ORIGIN OF THE APF
+The Origin Of The APF
 ~~~~~~~~~~~~~~~~~~~~~
 
 The first person ever to publicly suggest the concept of collecting
@@ -20368,9 +20369,9 @@ cropping up often.
 
 People continued asking for explanations and discovering new references,
 however, and on 29 July 1992 I posted the following message (in a
-discussion about _Small Gods_, which had just been released):
+discussion about "`Small Gods`_", which had just been released):
 
-"It's difficult to come up with more _Small Gods_ gags from memory, though.
+"It's difficult to come up with more "`Small Gods`_" gags from memory, though.
 There were so many I'm sure I did not get all of the references.
 
 Which brings me to the fact that I more and more wish that there was an
@@ -20388,14 +20389,14 @@ large and enthusiastic response on the newsgroup, and from then on the APF
 was a going concern.
 
 
-VERSION HISTORY AND TIMELINE
+Version History And Timeline
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 2 February 2008 -- v9.0.5
 
-      - Making mention of (or correcting) new book titles: _Nation_, _I
-            Shall Wear Midnight_, _Unseen Academicals_, _Scouting For
-            Trolls_, and _Raising Taxes_.
+      - Making mention of (or correcting) new book titles: "Nation_", "`I
+            Shall Wear Midnight`_", "`Unseen Academicals`_", "`Scouting For
+            Trolls`_", and "`Raising Taxes`_".
 
       - A few small fixes and corrections.
 
@@ -20406,7 +20407,7 @@ VERSION HISTORY AND TIMELINE
 2 July 2005 -- v9.0.3
 
       - Updating book release data
-      - Adding an entry for _Where's My Cow?_
+      - Adding an entry for "`Where's My Cow?`_"
 
 
 23 January 2005 -- v9.0.2
@@ -20417,8 +20418,8 @@ VERSION HISTORY AND TIMELINE
 29 August 2004 -- v9.0.1
 
       - A couple of small fixes and corrections.
-      - Adding information about new book titles: _Thud_, _Wintersmith_ and
-            _When I Am Old I Shall Wear Midnight_.
+      - Adding information about new book titles: "Thud_", "Wintersmith_" and
+            "`When I Am Old I Shall Wear Midnight`_".
 
 
 17 August 2004 -- v9.0
@@ -20497,7 +20498,7 @@ VERSION HISTORY AND TIMELINE
       - Posted to alt.fan.pratchett.
 
 
-CREDITS
+Credits
 ~~~~~~~
 
 People who write articles to the Pratchett newsgroups or who email me
@@ -20561,7 +20562,7 @@ fans who, perhaps because of the APF, have begun to think he is incapable
 of writing anything truly original. They should know better.
 
 
-PAGE NUMBERS
+Page Numbers
 ~~~~~~~~~~~~
 
 Up to APF v7a.0, each annotation was identified (in addition to the
@@ -20603,7 +20604,7 @@ suspect that the actual page numbers are used more often by me as editor
 than by the vast majority of APF readers. I doubt that the APF readers
 often have a need to use the page numbers as a link back from individual
 annotations to the source text. Rather, it will be the other way around,
-and on a much more global level: "I have just read _Pyramids_, now I'll go
+and on a much more global level: "I have just read "Pyramids_", now I'll go
 browse through the annotations for that book and see what I've missed".
 
 With all that in mind I have decided that the APF will be switching to
@@ -20613,7 +20614,7 @@ for the older books, but removing them will be one of the first things on
 the TODO list for v10.0.
 
 
-TO ANNOTATE OR NOT TO ANNOTATE
+To Annotate Or Not To Annotate
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In the early years of the APF nearly every annotation that I received was
@@ -20672,10 +20673,10 @@ many readers are simply not getting something that *I* consider obvious
 everybody who is able to read Terry Pratchett's books in the original
 language has enough command of the English language to understand basic
 puns, and enough sense to use a dictionary if they encounter an unfamiliar
-word. I don't want to have to explain why _Equal Rites_ is a funny title.
+word. I don't want to have to explain why "`Equal Rites`_" is a funny title.
 
 
-THE APF IN OTHER FORMATS
+The Apf In Other Formats
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 Currently, the APF is available in three main formats: as a text file, as a
@@ -20692,16 +20693,16 @@ Over the years, a number of non-APF collections of Discworld annotations
 have appeared (mostly on the Web), partially in reaction to the APF going
 without updates for so long.
 
-_The L-Space Wiki_ <http://wiki.lspace.org/wiki/Annotations> collects
+"`The L-Space Wiki`_" <http://wiki.lspace.org/wiki/Annotations> collects
 annotations in a collaborative Wiki environment. Annotations submitted to
 this Wiki may eventually end up incorporated in a future version of the
 APF.
 
-_Bugarup University_
+"`Bugarup University`_"
 <http://www.geocities.com/SoHo/Village/4108/xxxx_explained.htm>
-specifically collects 'Australian' annotations for _The Last Continent_.
+specifically collects 'Australian' annotations for "`The Last Continent`_".
 
-_Google Groups_ <http://groups.google.com/> is not a dedicated web site, but
+"`Google Groups`_" <http://groups.google.com/> is not a dedicated web site, but
 a Usenet search engine that offers a very good way to seek out annotation
 discussions that have appeared on the Pratchett newsgroups.
 
@@ -20709,7 +20710,7 @@ If you know of any other annotation sites or sources, let me know, and I
 will add them to the list.
 
 
-BIBLIOGRAPHY
+Bibliography
 ~~~~~~~~~~~~
 
 In this section I want to list some of the specific resources I use in
@@ -20719,27 +20720,27 @@ A more exhaustive list will have to wait until one of the future updates to
 the APF, but for v9.0 there are a few really heavily-used resources I want
 to mention:
 
-1. _The Complete Works of William Shakespeare_,
+1. "`The Complete Works of William Shakespeare`_",
 <http://www-tech.mit.edu/Shakespeare/>, operated by The Tech at MIT.
 
 The oldest on-line Shakespeare website in existence. All Shakespeare quotes
 in the APF are taken from (and in the Web version linked to) this site.
 
-2. _Bible Gateway_, <http://www.biblegateway.com/>, operated by Gospel
+2. "`Bible Gateway`_", <http://www.biblegateway.com/>, operated by Gospel
 Communications International.
 
 Another web site that goes back to 1993. It is an unsurpassed resource for
 scriptural research, and all Bible quotes in the APF are taken from (and in
 the Web version linked to) the King James Version available on this site.
 
-3. _The Internet Movie Database_, <http://www.imdb.com/>, operated by
+3. "`The Internet Movie Database`_", <http://www.imdb.com/>, operated by
 Internet Movie Database, Inc.
 
 Another dinosaur resource that has been around since the early nineties.
 Much of the movie-related data in the APF is taken from (and in the Web
 version linked to) the IMDB.
 
-4. _Wikipedia -- The Free Encyclopedia_, <http://www.wikipedia.org/>,
+4. "`Wikipedia -- The Free Encyclopedia`_", <http://www.wikipedia.org/>,
 operated by Wikimedia Foundation, Inc.
 
 A relative newcomer among the APF editing resources, but a very important
@@ -20756,7 +20757,7 @@ that the APF would in turn be released under a similar license, and I am
 not sure I can do that yet -- see also the 'Copyright Discussion' section.
 
 
-COPYING THE APF
+Copying The APF
 ~~~~~~~~~~~~~~~
 
 It's really quite simple: I have by now spent *very* considerable amounts
@@ -20786,7 +20787,7 @@ otherwise distribute a modified version of the APF), please first contact
 me at apf@lspace.org, and I will give you more information in email.
 
 
-COPYRIGHT DISCUSSION
+Copyright Discussion
 ~~~~~~~~~~~~~~~~~~~~
 
 Formally speaking, the APF copyright situation is a bit murky. I would love
@@ -20794,7 +20795,7 @@ to release the APF under some form of open document license, which would
 basically formalise the fact that everybody is allowed to copy and modify
 the APF as they see fit. Such a license would also be a prerequisite for
 being allowed to make more intensive use of other free resources such as
-the _Wikipedia_ free encyclopedia.
+the "Wikipedia_" free encyclopedia.
 
 However, with the APF containing so much quoted and contributed material it
 is not clear to me if I actually have the right to release the APF under an
@@ -20839,7 +20840,7 @@ is entirely possible that in a future version some kind of formal license
 will appear. Until then, I merely claim the editorial copyright on the APF
 on behalf of Mike Kew and myself as editors, and I request that everyone
 abide with the informal requests and restrictions outlined in the previous
-section, _Copying the APF_.
+section, "`Copying the APF`_".
 
 ---------------------------------------------------------------------------
 
