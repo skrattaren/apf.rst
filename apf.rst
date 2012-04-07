@@ -4683,7 +4683,7 @@ Reaper Man
   Whatever the original idea behind Morris dancing was, it long ago indeed
   became associated with Spring ("As fit as [...] a morris for May Day" –
   Shakespeare), and nowadays many Morris teams begin their dancing season
-  with a May Day performance. See the `_"...and Dance`_" section of Chapter 5
+  with a May Day performance. See the "`...and Dance`_" section of Chapter 5
   for more on Morris dancing.
 
 - [p. 5/7] "It is danced innocently by raggedy-bearded young mathematicians
@@ -6970,7 +6970,7 @@ Lords And Ladies
   to do with the fact that the name of the dance very probably indicates
   another 'mettyfor' along the lines of maypoles and broomsticks.
 
-  See the `_"...and Dance`_" section in Chapter 5 for more information about
+  See the "`...and Dance`_" section in Chapter 5 for more information about
   Morris dancing.
 
 + [p. 106/77] "'I repaired a pump for one once. Artisan wells.'"
@@ -13950,8 +13950,8 @@ Carpe Jugulum
   British children's entertainment featuring theft, extreme violence,
   wife-beating and multiple murders, using glove puppets. The performer
   would use a special throat-whistle, called a swozzle, to produce the
-  character's squeaky voice. See also the Discworld short story "`Theatre of
-  Cruelty`_".
+  character's squeaky voice. See also the Discworld short story **Theatre of
+  Cruelty**.
 
 + [p. 103] "A huge gilded china beer stein that played 'Ich Bin Ein
   Rattarsedschwein' from **The Student Horse** [...]"
@@ -15122,7 +15122,7 @@ The Last Hero
   that) he 'got' Unseen University from Hogwarts, etcetera, etcetera.
 
   In this case, the first drawing of Ponder Stibbons (looking exactly as he
-  does here) appeared in the 1996 "`Discworld Portfolio`_", whereas the first
+  does here) appeared in the 1996 **Discworld Portfolio**, whereas the first
   Harry Potter novel was not published until 1997...
 
   Terry says:
@@ -16538,7 +16538,7 @@ A Hat Full Of Sky
   – and they *did* write things down."
 
   This could well be the Nac Mac Feegle clan from "`Carpe Jugulum`_". The lake
-  they settled at wasn't actually named but, looking at the "`Lancre Mapp`_",
+  they settled at wasn't actually named but, looking at the **Lancre Mapp**,
   it certainly is long. And they do indeed write things down: "We of the
   Nac Mac Feegle are a simple folk, but we write verra comp-lic-ated
   documents".
@@ -16582,12 +16582,12 @@ A Hat Full Of Sky
 
 + [p. 136] "Mrs Earwig"
 
-  Mrs Earwig first appeared in the Discworld short story "The Sea And
-  Little Fishes", where she challenged a centipede to an arse-kick...
+  Mrs Earwig first appeared in the Discworld short story **The Sea And
+  Little Fishes** where she challenged a centipede to an arse-kick...
   sorry, challenged Granny Weatherwax's authority.
 
   In some ways the second half of "`A Hat Full Of Sky`_" is as much as sequel
-  to "`The Sea and Little Fishes`_" as it is to "`The Wee Free Men`_".
+  to **The Sea and Little Fishes** as it is to "`The Wee Free Men`_".
 
 + [p. 179] "'It's pronounced Ah-wij,' said Mrs Earwig coldly."
 
@@ -16626,13 +16626,13 @@ A Hat Full Of Sky
 
 + [p. 317] "'I'm telling you this as a friend.'"
 
-  A phrase Mrs Earwig used to Granny Weatherwax in "`The Sea And Little
-  Fishes`_", prompting Nanny Ogg to think that "Nobody even remotely friendly
+  A phrase Mrs Earwig used to Granny Weatherwax in **The Sea And Little
+  Fishes**, prompting Nanny Ogg to think that "Nobody even remotely friendly
   would say a thing like that."
 
 + [p. 323] "There were no judges, and no prizes."
 
-  In "`The Sea And Little Fishes`_" Mrs Earwig does set up a judging panel,
+  In **The Sea And Little Fishes** Mrs Earwig does set up a judging panel,
   and spends ten dollars on a trophy cup. However, given how that turned
   out it's unsurprising she hasn't tried it again.
 
@@ -17957,7 +17957,7 @@ Strata
   caretaker Morris."
 
   I think this is the earliest reference to Morris dancing in a Terry
-  Pratchett novel. See also the `_"...and Dance`_" section in Chapter 5.
+  Pratchett novel. See also the "`...and Dance`_" section in Chapter 5.
 
 + [p. 130] "Kin rose like a well-soaped Venus Anadyomene [...]"
 
@@ -20692,7 +20692,7 @@ puns, and enough sense to use a dictionary if they encounter an unfamiliar
 word. I don't want to have to explain why "`Equal Rites`_" is a funny title.
 
 
-The Apf In Other Formats
+The APF In Other Formats
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 Currently, the APF is available in three main formats: as a text file, as a
@@ -20700,30 +20700,33 @@ typeset PDF/PostScript file, and as an on-line collection of HTML web
 pages.
 
 The recommended point of entry for obtaining all these formats remains the
-APF section of the L-Space Web at <http://www.lspace.org/books/apf/>.
+APF section of the L-Space Web at http://www.lspace.org/books/apf/.
 
 
-THIRD-PARTY ANNOTATIONS 
+Third-party Annotations
+~~~~~~~~~~~~~~~~~~~~~~~
 
 Over the years, a number of non-APF collections of Discworld annotations
 have appeared (mostly on the Web), partially in reaction to the APF going
 without updates for so long.
 
-"`The L-Space Wiki`_" <http://wiki.lspace.org/wiki/Annotations> collects
-annotations in a collaborative Wiki environment. Annotations submitted to
-this Wiki may eventually end up incorporated in a future version of the
-APF.
+`The L-Space Wiki`_ collects annotations in a collaborative Wiki environment.
+Annotations submitted to this Wiki may eventually end up incorporated in a
+future version of the APF.
 
-"`Bugarup University`_"
-<http://www.geocities.com/SoHo/Village/4108/xxxx_explained.htm>
-specifically collects 'Australian' annotations for "`The Last Continent`_".
+`Bugarup University`_ specifically collects 'Australian' annotations for "`The
+Last Continent`_".
 
-"`Google Groups`_" <http://groups.google.com/> is not a dedicated web site, but
-a Usenet search engine that offers a very good way to seek out annotation
-discussions that have appeared on the Pratchett newsgroups.
+`Google Groups`_ is not a dedicated web site, but a Usenet search engine that
+offers a very good way to seek out annotation discussions that have appeared on
+the Pratchett newsgroups.
 
 If you know of any other annotation sites or sources, let me know, and I
 will add them to the list.
+
+.. _The L-Space Wiki: http://wiki.lspace.org/wiki/Annotations
+.. _Bugarup University: http://www.geocities.com/SoHo/Village/4108/xxxx_explained.htm
+.. _Google Groups: http://groups.google.com/
 
 
 Bibliography
@@ -20736,42 +20739,42 @@ A more exhaustive list will have to wait until one of the future updates to
 the APF, but for v9.0 there are a few really heavily-used resources I want
 to mention:
 
-1. "`The Complete Works of William Shakespeare`_",
-<http://www-tech.mit.edu/Shakespeare/>, operated by The Tech at MIT.
+1. `The Complete Works of William Shakespeare`_, operated by The Tech at MIT.
 
-The oldest on-line Shakespeare website in existence. All Shakespeare quotes
-in the APF are taken from (and in the Web version linked to) this site.
+   The oldest on-line Shakespeare website in existence. All Shakespeare quotes
+   in the APF are taken from (and in the Web version linked to) this site.
 
-2. "`Bible Gateway`_", <http://www.biblegateway.com/>, operated by Gospel
-Communications International.
+2. `Bible Gateway`_, operated by Gospel Communications International.
 
-Another web site that goes back to 1993. It is an unsurpassed resource for
-scriptural research, and all Bible quotes in the APF are taken from (and in
-the Web version linked to) the King James Version available on this site.
+   Another web site that goes back to 1993. It is an unsurpassed resource for
+   scriptural research, and all Bible quotes in the APF are taken from (and in
+   the Web version linked to) the King James Version available on this site.
 
-3. "`The Internet Movie Database`_", <http://www.imdb.com/>, operated by
-Internet Movie Database, Inc.
+3. `The Internet Movie Database`_, operated by Internet Movie Database, Inc.
 
-Another dinosaur resource that has been around since the early nineties.
-Much of the movie-related data in the APF is taken from (and in the Web
-version linked to) the IMDB.
+   Another dinosaur resource that has been around since the early nineties.
+   Much of the movie-related data in the APF is taken from (and in the Web
+   version linked to) the IMDB.
 
-4. "`Wikipedia – The Free Encyclopedia`_", <http://www.wikipedia.org/>,
-operated by Wikimedia Foundation, Inc.
+4. `Wikipedia – The Free Encyclopedia`_, operated by Wikimedia Foundation, Inc.
 
-A relative newcomer among the APF editing resources, but a very important
-one. The Wikipedia articles have been invaluable in providing and checking
-the facts and definitions that make up so much of the APF.
+   A relative newcomer among the APF editing resources, but a very important
+   one. The Wikipedia articles have been invaluable in providing and checking
+   the facts and definitions that make up so much of the APF.
 
-I have tried to keep my usage of the Wikipedia material at the level of
-'fair use'. Although in many cases I would have liked to use much more
-direct cutting-and-pasting of Wikipedia information, I cannot do this yet
-because I am not sure if this is allowed, copyright-wise. Wikipedia
-information is available under a so-called Free Documentation License,
-which allows unlimited use and modification but only under one condition:
-that the APF would in turn be released under a similar license, and I am
-not sure I can do that yet – see also the 'Copyright Discussion' section.
+   I have tried to keep my usage of the Wikipedia material at the level of
+   'fair use'. Although in many cases I would have liked to use much more
+   direct cutting-and-pasting of Wikipedia information, I cannot do this yet
+   because I am not sure if this is allowed, copyright-wise. Wikipedia
+   information is available under a so-called Free Documentation License,
+   which allows unlimited use and modification but only under one condition:
+   that the APF would in turn be released under a similar license, and I am
+   not sure I can do that yet – see also the 'Copyright Discussion' section.
 
+.. _`The Complete Works of William Shakespeare`: http://www-tech.mit.edu/Shakespeare/
+.. _`Bible Gateway`: http://www.biblegateway.com/
+.. _`The Internet Movie Database`: http://www.imdb.com/
+.. _`Wikipedia – The Free Encyclopedia`: http://www.wikipedia.org/
 
 Copying The APF
 ~~~~~~~~~~~~~~~
@@ -20811,7 +20814,7 @@ to release the APF under some form of open document license, which would
 basically formalise the fact that everybody is allowed to copy and modify
 the APF as they see fit. Such a license would also be a prerequisite for
 being allowed to make more intensive use of other free resources such as
-the "Wikipedia_" free encyclopedia.
+the **Wikipedia** free encyclopedia.
 
 However, with the APF containing so much quoted and contributed material it
 is not clear to me if I actually have the right to release the APF under an
