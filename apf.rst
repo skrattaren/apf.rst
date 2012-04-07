@@ -739,16 +739,16 @@ The Light Fantastic
   The book's title comes from the poem **L'Allegro**, written by John Milton
   in 1631:
 
-        Haste thee, nymph, and bring with thee
-        Jest and youthful Jollity
-        Quips and Cranks, and wanton Wiles
-        Nods, and Becks, and wreathed Smiles
-        Such as hang on Hebe's neck
-        And love to live in dimple sleek
-        Sport that wrinkled Care derides
-        And Laughter holding both his sides
-        Come and trip it as ye go
-        On the Light Fantastic toe.
+     |   Haste thee, nymph, and bring with thee
+     |   Jest and youthful Jollity
+     |   Quips and Cranks, and wanton Wiles
+     |   Nods, and Becks, and wreathed Smiles
+     |   Such as hang on Hebe's neck
+     |   And love to live in dimple sleek
+     |   Sport that wrinkled Care derides
+     |   And Laughter holding both his sides
+     |   Come and trip it as ye go
+     |   On the Light Fantastic toe.
 
 - [p. 6/6] "[...] proves, whatever people say, that there *is* such a thing
   as a free launch."
@@ -785,10 +785,10 @@ The Light Fantastic
   Willie Winkie' is a Mother Goose nursery rhyme, and traditional
   illustrations always show Willie going upstairs carrying a candle.
 
-        Wee Willie Winkie runs through the town,
-        Upstairs and downstairs, in his nightgown.
-        Rapping at the windows, Crying through the lock,
-        'Are the children all in bed? For it's now eight o'clock.'
+    |   Wee Willie Winkie runs through the town,
+    |   Upstairs and downstairs, in his nightgown.
+    |   Rapping at the windows, Crying through the lock,
+    |   'Are the children all in bed? For it's now eight o'clock.'
 
 - [p. 9/9] "[...] the Book of Going Forth Around Elevenish, [...]"
 
@@ -846,10 +846,10 @@ The Light Fantastic
   are sentences of the form "xxx, said he zzz-ly", where the zzz refers
   back to the xxx. Examples:
 
-      "Pass me the shellfish," said Tom crabbily.
-      "Let's look for another Grail!" Tom requested.
-      "I used to be a pilot," Tom explained.
-      "I'm into homosexual necrophilia," said Tom in dead earnest.
+    |   "Pass me the shellfish," said Tom crabbily.
+    |   "Let's look for another Grail!" Tom requested.
+    |   "I used to be a pilot," Tom explained.
+    |   "I'm into homosexual necrophilia," said Tom in dead earnest.
 
 - [p. 30/30] "[...] the only forest in the whole universe to be called –
   in the local language – Your Finger You Fool, [...]"
@@ -1124,15 +1124,15 @@ Equal Rites
   Through the Fair', which has been recorded by (amongst others) Fairport
   Convention, Van Morrison and All About Eve:
 
-        My young love said to me, 'My mother won't mind
-        And my father won't slight you for your lack of kine'.
-        And she stepped away from me and this she did say,
-        'It will not be long now till our wedding day'
+    |   My young love said to me, 'My mother won't mind
+    |   And my father won't slight you for your lack of kine'.
+    |   And she stepped away from me and this she did say,
+    |   'It will not be long now till our wedding day'
 
-        She stepped away from me and she moved through the fair
-        And fondly I watched her move here and move there
-        And she made her way homeward with one star awake
-        As the swan in the evening moves over the lake
+    |   She stepped away from me and she moved through the fair
+    |   And fondly I watched her move here and move there
+    |   And she made her way homeward with one star awake
+    |   As the swan in the evening moves over the lake
 
 - [p. 79/79] "'Gypsies always come here for the fair, [...]'"
 
@@ -1193,9 +1193,9 @@ Equal Rites
   Terry's having fun with a familiar saying that originated with Robert
   Frost's poem **Mending a Wall**:
 
-        My apple trees will never get across
-        And eat the cones under his pines, I tell him.
-        He only says, 'Good fences make good neighbours'.
+    |   My apple trees will never get across
+    |   And eat the cones under his pines, I tell him.
+    |   He only says, 'Good fences make good neighbours'.
 
   And since people keep pointing it out to me I suppose it might as well be
   mentioned here that 'fence' is also the English word for a dealer in
@@ -1215,17 +1215,17 @@ Equal Rites
   still in use at many universities and schools, where it gets sung during
   graduation ceremonies. The actual lyrics are:
 
-        Gaudeamus igitur, iuvenes dum sumus.
-        Post iucundam iuventutem,
-        Post molestam senectutem,
-        Nos habebit humus, nos habebit humus.
+    |   Gaudeamus igitur, iuvenes dum sumus.
+    |   Post iucundam iuventutem,
+    |   Post molestam senectutem,
+    |   Nos habebit humus, nos habebit humus.
 
   Which roughly translates to:
 
-        Let us be merry, therefore, whilst we are young men.
-        After the joys of youth,
-        After the pain of old age,
-        The ground will have us, the ground will have us.
+    |   Let us be merry, therefore, whilst we are young men.
+    |   After the joys of youth,
+    |   After the pain of old age,
+    |   The ground will have us, the ground will have us.
 
 - [p. 132/130] The maid at Unseen University is called Ksandra, which puns
   on Troy's Cassandra; but might also refer to Sandra being yet another
@@ -1384,16 +1384,16 @@ Mort
   fellow'. 'Sto lat' means 'hundred years', and the lyrics to the song are
   as follows:
 
-        Sto lat, sto lat, niech zyje, zyje nam.
-        Sto lat, sto lat, niech zyje, zyje nam.
-        Jeszcze raz, jeszcze raz – niech zyje, zyje nam.
-        Niech zyje nam!
+    |   Sto lat, sto lat, niech zyje, zyje nam.
+    |   Sto lat, sto lat, niech zyje, zyje nam.
+    |   Jeszcze raz, jeszcze raz – niech zyje, zyje nam.
+    |   Niech zyje nam!
 
   Which loosely translates to:
 
-        Hundred years, hundred years, let him live for us,
-        Hundred years, hundred years, let him live for us,
-        Once again, once again, let him live for us!
+    |   Hundred years, hundred years, let him live for us,
+    |   Hundred years, hundred years, let him live for us,
+    |   Once again, once again, let him live for us!
 
   Thinking I was on to something I immediately enquired if 'Sto Helit',
   another name Terry uses often, had a similar background, but my
@@ -1414,10 +1414,10 @@ Mort
   Death is quoting from **Our God, Our Help in Ages Past**, by Isaac Watts.
   The verse in full is:
 
-        Time like an ever-rolling stream
-        Bears all its sons away
-        They fly forgotten as a dream
-        Dies at the opening day.
+    |   Time like an ever-rolling stream
+    |   Bears all its sons away
+    |   They fly forgotten as a dream
+    |   Dies at the opening day.
 
   No wonder Albert thinks Death has been overdoing it.
 
@@ -1671,9 +1671,9 @@ Mort
   whom the Trojan War was started. The exact original quote, from
   Christopher Marlowe's **The Tragical History of Dr Faustus**, goes:
 
-        Was this the face that launched a thousand ships,
-        And burnt the topless towers of Ilium?
-        Sweet Helen, make me immortal with a kiss!
+    |   Was this the face that launched a thousand ships,
+    |   And burnt the topless towers of Ilium?
+    |   Sweet Helen, make me immortal with a kiss!
 
   Ilium is the Latin name for Troy.
 
@@ -1836,11 +1836,11 @@ Sourcery
   dating back to the times of the spread of Christianity in Europe. 'Sator'
   means sower or farmer. The complete square is:
 
-      S A T O R
-      A R E P O
-      T E N E T
-      O P E R A
-      R O T A S
+    |   S A T O R
+    |   A R E P O
+    |   T E N E T
+    |   O P E R A
+    |   R O T A S
 
   This square is palindromic in all directions. The sentence you get reads:
   **Sator Arepo Tenet Opera Rotas**, which means, more or less: "The sower
@@ -1872,8 +1872,8 @@ Sourcery
 
   From Samuel Taylor Coleridge's poem **Kubla Khan**:
 
-        So twice five miles of fertile ground
-        With walls and towers were girded round
+    |   So twice five miles of fertile ground
+    |   With walls and towers were girded round
 
 - [p. 122/111] "[...] 'sherbet and, and – young women.'"
 
@@ -1887,8 +1887,8 @@ Sourcery
 
   Coleridge's **Kubla Khan**:
 
-        It was a miracle of rare device
-        A sunny pleasure-dome with caves of ice!
+    |   It was a miracle of rare device
+    |   A sunny pleasure-dome with caves of ice!
 
 - [p. 125/113] "My name is Creosote, Seriph of Al Khali, [...]"
 
@@ -1929,8 +1929,8 @@ Sourcery
   translation of the **Rubaiyat** of Omar Khayyam. The poem parodied on this
   page goes:
 
-        A book of verses underneath the bough
-        A jug of wine, a loaf of bread, and thou
+    |   A book of verses underneath the bough
+    |   A jug of wine, a loaf of bread, and thou
 
 - [p. 127/115] "'They spent simply ages getting the rills sufficiently
   sinuous.'"
@@ -1953,8 +1953,8 @@ Sourcery
 
   **Kubla Khan**:
 
-        It was an Abyssinian maid,
-        And on her dulcimer she played.
+    |   It was an Abyssinian maid,
+    |   And on her dulcimer she played.
 
 - [p. 128/116] "'Has anyone ever told you your neck is as a tower of
   ivory?'"
@@ -1986,8 +1986,8 @@ Sourcery
 
   The **Rubaiyat**:
 
-        Awake! for morning in the bowl of night
-        Hath flung the stone that puts the stars to flight.
+    |   Awake! for morning in the bowl of night
+    |   Hath flung the stone that puts the stars to flight.
 
 - [p. 130/118] "[...] a falling apple or a boiling kettle or the water
   slopping over the edge of the bath."
@@ -2109,7 +2109,8 @@ Sourcery
   sing goes:
 
         We're poor little lambs, that have lost our way
-        CHORUS: "Baaa, baa, baa."
+
+        *CHORUS:* "Baaa, baa, baa."
 
   and is a favourite of the highly drunk.
 
@@ -2570,8 +2571,8 @@ Wyrd Sisters
 
   Puns on a well-known Shakespeare quote from **Hamlet** (act 2, scene 2):
 
-        The play's the thing
-        Wherein I'll catch the conscience of the king
+    |   The play's the thing
+    |   Wherein I'll catch the conscience of the king
 
   If you have access to the Internet, you can find online versions of all
   of Shakespeare's plays at the URL:
@@ -2683,8 +2684,8 @@ Wyrd Sisters
   One of Shakespeare's more famous sonnets (Sonnet XVIII, to be precise)
   starts out:
 
-        Shall I compare thee to a summer's day?
-        Thou art more lovely and more temperate
+    |   Shall I compare thee to a summer's day?
+    |   Thou art more lovely and more temperate
 
 - [p. 213/212] "'But I never walked like that! Why's he got a hump on his
   back? What's happened to his leg?'"
@@ -2732,16 +2733,16 @@ Wyrd Sisters
 
   **Macbeth**, act 5, scene 5, from a another famous soliloquy:
 
-        To-morrow, and to-morrow, and to-morrow,
-        Creeps in this petty pace from day to day,
-        To the last syllable of recorded time;
-        And all our yesterdays have lighted fools
-        The way to dusty death. Out, out brief candle!
-        Life's but a walking shadow; a poor player
-        That struts and frets his hour upon the stage,
-        And then is heard no more: it is a tale
-        Told by an idiot, full of sound and fury,
-        Signifying nothing.
+    |   To-morrow, and to-morrow, and to-morrow,
+    |   Creeps in this petty pace from day to day,
+    |   To the last syllable of recorded time;
+    |   And all our yesterdays have lighted fools
+    |   The way to dusty death. Out, out brief candle!
+    |   Life's but a walking shadow; a poor player
+    |   That struts and frets his hour upon the stage,
+    |   And then is heard no more: it is a tale
+    |   Told by an idiot, full of sound and fury,
+    |   Signifying nothing.
 
 - [p. 239/238] "They were far more the type of kings who got people to
   charge into battle at five o'clock in the morning..."
@@ -2749,10 +2750,10 @@ Wyrd Sisters
   Shakespeare's Henry V was just such a king, and Terry is referring here
   to the 'St Crispin's Day' speech in **King Henry V**, act 4, scene 3:
 
-        And gentlemen in England now a-bed
-        Shall think themselves accurs'd they were not here,
-        And hold their manhoods cheap whiles any speaks
-        That fought with us upon Saint Crispin's day.
+    |   And gentlemen in England now a-bed
+    |   Shall think themselves accurs'd they were not here,
+    |   And hold their manhoods cheap whiles any speaks
+    |   That fought with us upon Saint Crispin's day.
 
 
 Pyramids
@@ -3177,13 +3178,13 @@ Pyramids
 
   After the children's song called "Teddy Bears' Picnic":
 
-        If you go down to the woods today
-        You're sure of a big surprise
-        If you go down to the woods today
-        You'd better go in disguise
-        For ev'ry bear that ever there was
-        Will gather there for certain, because
-        Today's the day the Teddy Bears have their picnic.
+    |   If you go down to the woods today
+    |   You're sure of a big surprise
+    |   If you go down to the woods today
+    |   You'd better go in disguise
+    |   For ev'ry bear that ever there was
+    |   Will gather there for certain, because
+    |   Today's the day the Teddy Bears have their picnic.
 
 - [p. 176/169] The philosophers shooting arrows at tortoises are discussing
   one of Zeno's three motion paradoxes. See also Douglas Hofstadter's
@@ -3282,8 +3283,8 @@ Pyramids
 
   A famous quotation from John Keats' 'Ode on a Grecian Urn':
 
-        'Beauty is truth, truth beauty,' – that is all
-        Ye know on earth, and all ye need to know.
+    |   'Beauty is truth, truth beauty,' – that is all
+    |   Ye know on earth, and all ye need to know.
 
 - [p. 204/195] "[...] ships called the **Marie Celeste**, [...]"
 
@@ -3317,8 +3318,8 @@ Pyramids
   at Thermopylae as a result of Greek treachery. The full quote is given by
   Simonides (5th century BC) as:
 
-        Go, tell the Spartans, thou who passest by,
-        That here obedient to their laws we lie
+    |   Go, tell the Spartans, thou who passest by,
+    |   That here obedient to their laws we lie
 
 - [p. 270/259] "And it was while he was staring vaguely ahead, [...] that
   there was a faint pop in the air and an entire river valley opened up in
@@ -3338,22 +3339,20 @@ Pyramids
   always been a favourite of mine I hope you will forgive me the indulgence
   of reproducing it here in full:
 
-        Ozymandias
-
-        I met a traveler from an antique land
-        Who said: "Two vast and trunkless legs of stone
-        Stand in the desert... Near them, on the sand,
-        Half sunk, a shattered visage lies, whose frown,
-        And wrinkled lip, and sneer of cold command,
-        Tell that their sculptor well those passions read
-        Which yet survive, stamped on these lifeless things,
-        The hand that mocked them and the heart that fed;
-        And on the pedestal these words appear:
-        'My name is Ozymandias, king of kings:
-        Look on my works, ye Mighty, and despair!'
-        Nothing beside remains. Round the decay
-        Of that colossal wreck, boundless and bare
-        The lone and level sands stretch far away."
+    |   I met a traveler from an antique land
+    |   Who said: "Two vast and trunkless legs of stone
+    |   Stand in the desert... Near them, on the sand,
+    |   Half sunk, a shattered visage lies, whose frown,
+    |   And wrinkled lip, and sneer of cold command,
+    |   Tell that their sculptor well those passions read
+    |   Which yet survive, stamped on these lifeless things,
+    |   The hand that mocked them and the heart that fed;
+    |   And on the pedestal these words appear:
+    |   'My name is Ozymandias, king of kings:
+    |   Look on my works, ye Mighty, and despair!'
+    |   Nothing beside remains. Round the decay
+    |   Of that colossal wreck, boundless and bare
+    |   The lone and level sands stretch far away."
 
   While I was browsing the net in order to find an on-line copy of
   **Ozymandias** so that I could cut-and-paste the text, I came across a
@@ -3369,20 +3368,20 @@ Pyramids
         On a Stupendous Leg of Granite, Discovered Standing by Itself in
         the Deserts of Egypt, with the Inscription Inserted Below.
 
-        In Egypt's sandy silence, all alone,
-        Stands a gigantic Leg, which far off throws
-        The only shadow that the Desert knows.
-        "I am great Ozymandias," saith the stone,
-        "The King of kings: this mighty city shows
-        The wonders of my hand." The city's gone!
-        Naught but the leg remaining to disclose
-        The sight of that forgotten Babylon.
-        We wonder, and some hunter may express
-        Wonder like ours, when through the wilderness
-        Where London stood, holding the wolf in chase,
-        He meets some fragment huge, and stops to guess
-        What wonderful, but unrecorded, race
-        Once dwelt in that annihilated place.
+    |   In Egypt's sandy silence, all alone,
+    |   Stands a gigantic Leg, which far off throws
+    |   The only shadow that the Desert knows.
+    |   "I am great Ozymandias," saith the stone,
+    |   "The King of kings: this mighty city shows
+    |   The wonders of my hand." The city's gone!
+    |   Naught but the leg remaining to disclose
+    |   The sight of that forgotten Babylon.
+    |   We wonder, and some hunter may express
+    |   Wonder like ours, when through the wilderness
+    |   Where London stood, holding the wolf in chase,
+    |   He meets some fragment huge, and stops to guess
+    |   What wonderful, but unrecorded, race
+    |   Once dwelt in that annihilated place.
 
   The poem was cited by Guy Davenport of the University of Kentucky in a
   New York Times article a few years ago, which concluded: "Genius may also
@@ -3739,10 +3738,10 @@ Guards! Guards!
 
   'Nellie Dean' is an old music hall song:
 
-        There's an old mill by the stream
-        Nellie Dean.
-        Where we used to sit and dream
-        Nellie Dean.
+    |   There's an old mill by the stream
+    |   Nellie Dean.
+    |   Where we used to sit and dream
+    |   Nellie Dean.
 
   For an explanation of songs beginning 'As I was a walking...' see the
   annotation for p. 313/238 of "`Men at Arms`_".
@@ -3921,10 +3920,10 @@ Eric
   an English song dating back to the 17th century with about the same
   jingoism factor as 'Rule Britannia' or 'Land of Hope and Glory':
 
-        Some talk of Alexander, and some of Hercules,
-        Of Hector and Lysander, and such great men as these;
-        But of all the world's brave heroes there's none that can compare
-        With a tow, row, row, row, row, row, to the British Grenadier.
+    |   Some talk of Alexander, and some of Hercules,
+    |   Of Hector and Lysander, and such great men as these;
+    |   But of all the world's brave heroes there's none that can compare
+    |   With a tow, row, row, row, row, row, to the British Grenadier.
 
 - [p. 89/75] Lavaeolus is not only a dog-Latin translation of 'Rincewind',
   but the character is also a parody of Ulysses, tragic hero of the Trojan
@@ -3952,10 +3951,10 @@ Eric
   From one of the more printable verses of 'The Ball of Kerrymuir' (see
   previous annotation):
 
-        Four and twenty virgins
-        Came down from Inverness,
-        And when the ball was over
-        There were four and twenty less
+    |   Four and twenty virgins
+    |   Came down from Inverness,
+    |   And when the ball was over
+    |   There were four and twenty less
 
   One page later (p. 100/83) there is a final reference to the song: "--
   the village harpy she was there –"
@@ -4161,9 +4160,9 @@ anecdotes.
   cries in an attempt to imply a certain lack of volume (and hence numbers)
   to the other side's support:
 
-        Yerwhat (pause)
-        Yerwhat (pause)
-        Yerwhatyerwhatyerwhat.
+    |   Yerwhat (pause)
+    |   Yerwhat (pause)
+    |   Yerwhatyerwhatyerwhat.
 
 - [p. 34/28] "'Yob Soddoth,' said Ponder promptly."
 
@@ -4304,15 +4303,16 @@ anecdotes.
   The answer can be found in "`Lords and Ladies`_" as well, however, on p.
   229/165:
 
-      Ridcully: "Elves? Everyone knows elves don't exist any more. Not
+      Ridcully:
+        "Elves? Everyone knows elves don't exist any more. Not
          proper elves. I mean, there's a few folk who say they're elves –"
 
-      Granny Weatherwax: "Oh, yeah. Elvish ancestry. Elves and humans breed
-         all right, as if that's anything to be proud of. But you just get
-         a race o' skinny types with pointy ears and a tendency to giggle
-         and burn easily in sunshine. I ain't talking about them. There's
-         no harm in them. I'm talking about real wild elves, what we ain't
-         seen here for –"
+      Granny Weatherwax:
+        "Oh, yeah. Elvish ancestry. Elves and humans breed all right, as if
+        that's anything to be proud of. But you just get a race o' skinny types
+        with pointy ears and a tendency to giggle and burn easily in sunshine.
+        I ain't talking about them. There's no harm in them. I'm talking about
+        real wild elves, what we ain't seen here for –"
 
 - [p. 88/73] "'We just call it the 'Hiho' song. That's all it was.
   Hihohiho. Hihohiho.'"
@@ -4320,8 +4320,8 @@ anecdotes.
   The best-known song in Walt Disney's 1937 full length animation movie
   **Snow White and the Seven Dwarfs** is sung by the seven dwarfs and starts:
 
-        Heigh-ho, Heigh-ho
-        It's off to work we go
+    |   Heigh-ho, Heigh-ho
+    |   It's off to work we go
 
 + [p. 76] "They were the only witnesses to the manic figure which
   splashed down the dripping street, pirouetted through the puddles,
@@ -4364,11 +4364,11 @@ anecdotes.
   Ruby's song 'Amber and Jasper' is the Discworld version of the folk song
   'Frankie and Johnny':
 
-        Frankie and Johnny were lovers,
-        Oh, Lordie how they could love!
-        They swore to be true to each other,
-        Just as true as the stars above,
-        He was her man, but he done her wrong.
+    |   Frankie and Johnny were lovers,
+    |   Oh, Lordie how they could love!
+    |   They swore to be true to each other,
+    |   Just as true as the stars above,
+    |   He was her man, but he done her wrong.
 
 - [p. 111/93] Ruby's song: "Vunce again I am fallink in luf / Vy iss it I
   now am a blue colour? / Vot is the action I should take this time / I
@@ -4379,10 +4379,10 @@ anecdotes.
   in love with her. In the movie, Marlene performs a song called 'Falling
   in Love':
 
-        Falling in love again
-        Why am I so blue?
-        What am I to do?
-        I can't help it.
+    |   Falling in love again
+    |   Why am I so blue?
+    |   What am I to do?
+    |   I can't help it.
 
   Marlene Dietrich sang this with her characteristic German accent, hence
   the "fallink" and "vy" in the parody.
@@ -4422,8 +4422,8 @@ anecdotes.
 
   In the 1949 movie **Gentlemen Prefer Blondes**, Marilyn Monroe sings:
 
-        A kiss on the hand may be quite continental
-        But diamonds are a girl's best friend
+    |   A kiss on the hand may be quite continental
+    |   But diamonds are a girl's best friend
 
 - [p. 154/129] "'What's it called?' 'Laddie,' said the handler."
 
@@ -4507,11 +4507,13 @@ anecdotes.
   minutes before the end, just as the famous chase scene is about to begin
   and Jake and Elwood are sitting in their car:
 
-      Elwood: "It's a hundred and six miles to Chicago, we've got a full
-               tank of gas, half a pack of cigarettes, it's dark, and we're
-               wearing sunglasses"
+      Elwood:
+        "It's a hundred and six miles to Chicago, we've got a full
+        tank of gas, half a pack of cigarettes, it's dark, and we're
+        wearing sunglasses"
 
-      Jake: "Hit it."
+      Jake:
+        "Hit it."
 
 - [p. 197/164] "'In a word – im-possible!' 'That's two words,' said
   Dibbler."
@@ -4593,8 +4595,8 @@ anecdotes.
   groups Iron Maiden (on the **Live After Death** album cover) and Metallica
   (in the song 'The Thing That Should Not Be')):
 
-        That is not dead which can eternal lie
-        And with strange aeons even death may die
+    |   That is not dead which can eternal lie
+    |   And with strange aeons even death may die
 
   It is supposed to be a quote from Abdul al-Hazred's **Necronomicon** (see
   annotation for p. 174/145), and Lovecraft uses the verse in several
@@ -5256,8 +5258,8 @@ Reaper Man
   Folk Song", quoted in Spike Milligan's autobiography **Adolf Hitler: My
   Part in his Downfall** as follows:
 
-        Apples be ripe, nuts be brown,
-        Petticoats up, trousers down.
+    |   Apples be ripe, nuts be brown,
+    |   Petticoats up, trousers down.
 
 - [p. 275/242] "'I take it you *do* dance, Mr Bill Door?' FAMED FOR IT,
   MISS FLITWORTH."
@@ -5419,12 +5421,12 @@ Witches Abroad
   This refers to an old and very silly song by J. Kendis and Lew Brown,
   which goes:
 
-        When it's night-time in Italy, it's Wednesday over here.
-        Oh! the onions in Sicily make people cry in California.
-        Why does a fly? When does a bee?
-        How does a wasp sit down to have his tea?
-        If you talk to an Eskimo, his breath will freeze your ear.
-        When it's night-time in Italy, it's Wednesday over here.
+    |   When it's night-time in Italy, it's Wednesday over here.
+    |   Oh! the onions in Sicily make people cry in California.
+    |   Why does a fly? When does a bee?
+    |   How does a wasp sit down to have his tea?
+    |   If you talk to an Eskimo, his breath will freeze your ear.
+    |   When it's night-time in Italy, it's Wednesday over here.
 
 - [p. 30/26] "'You can't get the wood,' she said."
 
@@ -5535,30 +5537,30 @@ Witches Abroad
   Just as an example of the type of song Granny may have in mind, here are
   a few verses of 'The Cuckoo's Nest':
 
-        As I went a-walking one morning in May
-        I spied a pretty fair maid and unto her did say
-        For love I am inclined and I'll tell you of my mind
-        That my inclination lies in your cuckoo's nest.
+    |   As I went a-walking one morning in May
+    |   I spied a pretty fair maid and unto her did say
+    |   For love I am inclined and I'll tell you of my mind
+    |   That my inclination lies in your cuckoo's nest.
 
-        Some like a girl who is pretty in the face
-        And some like a girl who is slender in the waist
-        Ah, but give me a girl who will wriggle and will twist
-        At the bottom of the belly lies the cuckoo's nest.
+    |   Some like a girl who is pretty in the face
+    |   And some like a girl who is slender in the waist
+    |   Ah, but give me a girl who will wriggle and will twist
+    |   At the bottom of the belly lies the cuckoo's nest.
 
   When this annotation led to a torrent of similar folk songs being
   discussed on a.f.p., at one point Terry chimed in with: "My favourite was
   something I think by a guy called Diz Disley back in the very early 70s.
   From memory:
 
-        As I walked out one May morning,
-        In the month of Februaryyy,
-        I saw a pretty serving maid a-comin'
-        out the dairy;
+    |   As I walked out one May morning,
+    |   In the month of Februaryyy,
+    |   I saw a pretty serving maid a-comin'
+    |   out the dairy;
 
-        A handsome knight came ridin' by
-        I politely raised my cap and
-        They went behind the stable
-        and I never saw what happened."
+    |   A handsome knight came ridin' by
+    |   I politely raised my cap and
+    |   They went behind the stable
+    |   and I never saw what happened."
 
 - [p. 62/54] "'Thank goodness witches float.'"
 
@@ -6093,25 +6095,25 @@ Small Gods
   This is the title to a song, originally belonging to the evangelist
   revival camp meeting category, which has the chorus:
 
-        Give me that old time religion,
-        Give me that old time religion,
-        Give me that old time religion,
-        Cos it's good enough for me.
+    |   Give me that old time religion,
+    |   Give me that old time religion,
+    |   Give me that old time religion,
+    |   Cos it's good enough for me.
 
   It has been taken up by the SF filk community ('filk' = folk singing, but
   with funny or parodying lyrics), which has added verses like:
 
-        Let's sing praise to Aphrodite
-        She may seem a little flighty,
-        but she wears a green gauze nighty,
-        And she's good enough for me.
+    |   Let's sing praise to Aphrodite
+    |   She may seem a little flighty,
+    |   but she wears a green gauze nighty,
+    |   And she's good enough for me.
 
   and the Lovecraftian:
 
-        We will worship old Cthulhu,
-        Yes, we'll worship old Cthulhu,
-        I can't find a rhyme for Cthulhu
-        And that's good enough for me.
+    |   We will worship old Cthulhu,
+    |   Yes, we'll worship old Cthulhu,
+    |   I can't find a rhyme for Cthulhu
+    |   And that's good enough for me.
 
 - [p. 100/73] "You have to walk a lonesome desert... You have to walk it
   all alone..."
@@ -6132,13 +6134,13 @@ Small Gods
 
   The Bible, Song of Solomon 2:12:
 
-        The flowers appear on the earth;
-        the time of the singing of birds is come,
-        and the voice of the turtle is heard in our land;
+    |   The flowers appear on the earth;
+    |   the time of the singing of birds is come,
+    |   and the voice of the turtle is heard in our land;
 
-        The fig tree putteth forth her green figs,
-        and the vines with the tender grape give a good smell.
-        Arise, my love, my fair one, and come away.
+    |   The fig tree putteth forth her green figs,
+    |   and the vines with the tender grape give a good smell.
+    |   Arise, my love, my fair one, and come away.
 
   Note that the biblical 'turtle' in fact refers to the turtledove.
 
@@ -6734,10 +6736,10 @@ Lords And Ladies
   Things' (it's the song Maria sings for the Von Trapp children when they
   are all frightened of the thunderstorm). The opening verse goes:
 
-        Raindrops on roses and whiskers on kittens,
-        Bright copper kettles and warm woollen mittens,
-        Brown paper packages, tied up with strings,
-        These are a few of my favourite things.
+    |   Raindrops on roses and whiskers on kittens,
+    |   Bright copper kettles and warm woollen mittens,
+    |   Brown paper packages, tied up with strings,
+    |   These are a few of my favourite things.
 
   The Von Trapp children would probably have murdered Magrat if she had
   been their governess.
@@ -6756,10 +6758,12 @@ Lords And Ladies
   This is another Christopher Marlowe quote, from **The Jew of Malta** (act
   IV, scene i):
 
-      Barnadine: "Thou hast committed –"
+      Barnadine:
+        "Thou hast committed –"
 
-      Barabas: "Fornication? But that was in another country; and besides,
-                the wench is dead."
+      Barabas:
+        "Fornication? But that was in another country; and besides, the wench
+        is dead."
 
 - [p. 20/16] "This was the octarine grass country."
 
@@ -6834,16 +6838,19 @@ Lords And Ladies
   When Neil (the hippy) is testing Rick (the nerd) on medieval history, the
   following dialogue ensues (edited somewhat for clarity):
 
-      Rick: 'Crop rotation in the 14th century was considerably more
-            widespread... after... God I know this... don't tell me...
-            after 1172?'
+      Rick:
+        'Crop rotation in the 14th century was considerably more widespread...
+        after... God I know this... don't tell me...  after 1172?'
 
-      Neil: 'John.'
+      Neil:
+        'John.'
 
-      Rick: 'Crop rotation in the 14th century was considerably more
-            widespread after John?'
+      Rick:
+        'Crop rotation in the 14th century was considerably more widespread
+        after John?'
 
-      Neil: '...Lloyd invented the patent crop rotator.'
+      Neil:
+        '...Lloyd invented the patent crop rotator.'
 
 - [p. 29/22] "'I asked Boggi's in Ankh-Morpork to send up their best
   dress-maker [...]'"
@@ -6868,10 +6875,10 @@ Lords And Ladies
 
   Lord Lankin is a character in a traditional folk ballad:
 
-        Then Lankin's tane a sharp knife
-        that hung down by his gaire
-        And he has gi'en the bonny nane
-        A deep wound and a sair
+    |   Then Lankin's tane a sharp knife
+    |   that hung down by his gaire
+    |   And he has gi'en the bonny nane
+    |   A deep wound and a sair
 
 - [p. 67/50] "One of them was known as Herne the Hunted. He was the god of
   the chase and the hunt. More or less."
@@ -7083,10 +7090,10 @@ Lords And Ladies
 
   This has echoes of another traditional ballad, this time 'Tam Lin':
 
-        Why come you to Carterhaugh
-        Without command of me?
-        I'll come and go, young Janet said,
-        And ask no leave of thee
+    |   Why come you to Carterhaugh
+    |   Without command of me?
+    |   I'll come and go, young Janet said,
+    |   And ask no leave of thee
 
   As with some of the other folk song extracts Terry is closer to the
   recorded (in this case Fairport Convention) version than to the very
@@ -7134,14 +7141,14 @@ Lords And Ladies
   from a song by Flanders and Swann, which is called 'P**! P*! B****! B**!
   D******!'. The first verse goes:
 
-        Ma's out, Pa's out, let's talk rude!
-        Pee! Po! Belly! Bum! Drawers!
-        Dance in the garden in the nude,
-        Pee! Po! Belly! Bum! Drawers!
-        Let's write rude words all down the street;
-        Stick out our tongues at the people we meet;
-        Let's have an intellectual treat!
-        Pee! Po! Belly! Bum! Drawers!
+    |   Ma's out, Pa's out, let's talk rude!
+    |   Pee! Po! Belly! Bum! Drawers!
+    |   Dance in the garden in the nude,
+    |   Pee! Po! Belly! Bum! Drawers!
+    |   Let's write rude words all down the street;
+    |   Stick out our tongues at the people we meet;
+    |   Let's have an intellectual treat!
+    |   Pee! Po! Belly! Bum! Drawers!
 
 - [p. 174/126] "'Yeah, everyone knows 'tis your delight on a shining
   night', said Thatcher the carter."
@@ -7150,12 +7157,12 @@ Lords And Ladies
   poacher, because it is a line from the chorus of an English folk song
   called 'The Lincolnshire Poacher':
 
-        When I was bound apprentice in famous Lincolnshire
-        Full well I served my master for more than seven year'
-        'Til I took up to poaching, as you shall quickly hear
+    |   When I was bound apprentice in famous Lincolnshire
+    |   Full well I served my master for more than seven year'
+    |   'Til I took up to poaching, as you shall quickly hear
 
-        Oh 'tis my delight on a shining night
-        In the season of the year!
+    |   Oh 'tis my delight on a shining night
+    |   In the season of the year!
 
 - [p. 174/126] The three paths leading from the cross-roads in the woods
   are variously described as being "all thorns and briars", "all winding",
@@ -7165,20 +7172,20 @@ Lords And Ladies
   This echoes the poem and folk song 'Thomas the Rhymer', about a man who
   followes the Queen of Elves to Elfland:
 
-        O see ye not yon narrow road,
-        So thick beset wi' thorns and riers?
-        That is the Path of Righteousness,
-        Though after it but few enquires.
+    |   O see ye not yon narrow road,
+    |   So thick beset wi' thorns and riers?
+    |   That is the Path of Righteousness,
+    |   Though after it but few enquires.
 
-        And see ye not yon braid, braid road,
-        That lies across the lily leven?
-        That is the Path of Wickedness,
-        Though some call it the Road to Heaven.
+    |   And see ye not yon braid, braid road,
+    |   That lies across the lily leven?
+    |   That is the Path of Wickedness,
+    |   Though some call it the Road to Heaven.
 
-        And see ye not yon bonny road
-        That winds about the fernie brae?
-        That is the Road to fair Elfland,
-        Where thou and I this night maun gae.
+    |   And see ye not yon bonny road
+    |   That winds about the fernie brae?
+    |   That is the Road to fair Elfland,
+    |   Where thou and I this night maun gae.
 
 - [p. 177/128] "'But it ain't April!', neighbours told themselves [...]"
 
@@ -7277,10 +7284,10 @@ Lords And Ladies
   fondness for They Might Be Giants, pointing out their song 'I Lost My
   Lucky Ball and Chain':
 
-        She threw away her baby-doll
-        I held on to my pride
-        But I was young and foolish then
-        I feel old and foolish now
+    |   She threw away her baby-doll
+    |   I held on to my pride
+    |   But I was young and foolish then
+    |   I feel old and foolish now
 
 - [p. 239/172] "This made some of the _grand guignol`_" melodramas a little
   unusual, [...]"
@@ -7355,23 +7362,23 @@ Lords And Ladies
   The six lines given make up three different poems. From **The Fairies**, by
   Irish poet William Allingham (1850):
 
-        Up the airy mountain, down the rushy glen
-        We dare not go a-hunting for fear of little men
+    |   Up the airy mountain, down the rushy glen
+    |   We dare not go a-hunting for fear of little men
 
   From a traditional Cornish prayer:
 
-        From ghoulies and ghosties and long-leggety beasties
-        and things that go bump in the night
-        Good Lord deliver us
+    |   From ghoulies and ghosties and long-leggety beasties
+    |   and things that go bump in the night
+    |   Good Lord deliver us
 
   And finally from a traditional school girls' skipping rhyme:
 
-        My mother said I never should
-        Play with the fairies in the wood
-        If I did, she would say
-        You naughty girl to disobey
-        Your hair won't grow, your shoes won't shine
-        You naughty little girl, you shan't be mine!
+    |   My mother said I never should
+    |   Play with the fairies in the wood
+    |   If I did, she would say
+    |   You naughty girl to disobey
+    |   Your hair won't grow, your shoes won't shine
+    |   You naughty little girl, you shan't be mine!
 
 - [p. 295/213] "'[...] one and six, beetle crushers! [...] one, two,
   forward... bean setting!'"
@@ -7500,13 +7507,13 @@ Lords And Ladies
   song 'Particle Man' by They Might Be Giants (see the annotation for p.
   264/199 of "`Soul Music`_"):
 
-        Universe man, universe man
-        Size of the entire universe man
-        Usually kind to smaller men, universe man
-        He's got a watch with a minute hand
-        A millennium hand, and an eon hand
-        When they meet it's happyland
-        Powerful man, universe man.
+    |   Universe man, universe man
+    |   Size of the entire universe man
+    |   Usually kind to smaller men, universe man
+    |   He's got a watch with a minute hand
+    |   A millennium hand, and an eon hand
+    |   When they meet it's happyland
+    |   Powerful man, universe man.
 
 - [p. 328/236] "'I've got five years' worth of **Bows And Ammo**, Mum,' said
   Shawn."
@@ -7996,15 +8003,15 @@ Men at Arms
   This comes from the nursery rhyme **Hark! Hark!**. The Mother Goose version
   goes:
 
-        Hark! Hark! The dogs do bark,
-        The beggars are coming to town;
-        Some in rags, some in tags,
-        And some in velvet gown.
+    |   Hark! Hark! The dogs do bark,
+    |   The beggars are coming to town;
+    |   Some in rags, some in tags,
+    |   And some in velvet gown.
 
   **Opies' Oxford Dictionary of Nursery Rhymes** gives the last two lines as:
 
-        Some in rags, some in jags,
-        And one in a velvet gown.
+    |   Some in rags, some in jags,
+    |   And one in a velvet gown.
 
   Terry's household nursery rhyme book must strike a balance between these
   two versions. The rhyme is said to be about the mob of Dutchmen that
@@ -8084,12 +8091,12 @@ Men at Arms
 
   From the folk song 'Molly Malone':
 
-        In Dublin's fair city
-        Where the maids are so pretty
-        I first set my eyes on sweet Molly Malone
-        She wheels her wheel-barrow
-        Through streets broad and narrow
-        Crying 'cockles and mussels alive alive-o'
+    |   In Dublin's fair city
+    |   Where the maids are so pretty
+    |   I first set my eyes on sweet Molly Malone
+    |   She wheels her wheel-barrow
+    |   Through streets broad and narrow
+    |   Crying 'cockles and mussels alive alive-o'
 
   I am told that the statue that was put up in Dublin in honour of Molly
   was such an artistic failure, that it is now fondly known by the
@@ -8393,10 +8400,10 @@ Men at Arms
   'Ratcliffe Highway' (a version which can be found on the album **Liege &
   Lief** by Fairport Convention) starts out:
 
-        As I was a-walking along Ratcliffe Highway,
-        A recruiting party came beating my way,
-        They enlisted me and treated me till I did not know
-        And to the Queen's barracks they forced me to go
+    |   As I was a-walking along Ratcliffe Highway,
+    |   A recruiting party came beating my way,
+    |   They enlisted me and treated me till I did not know
+    |   And to the Queen's barracks they forced me to go
 
 - [p. 317/241] "'Hand off rock and on with sock!'"
 
@@ -8414,10 +8421,10 @@ Men at Arms
 
   Lord Byron, **The Destruction of Sennacherib**:
 
-        The Assyrian came down like the wolf on the fold,
-        And his cohorts were gleaming in purple and gold...
-        The sheen of his spears was like stars on the sea,
-        When the blue wave rolls nightly on deep Galilee.
+    |   The Assyrian came down like the wolf on the fold,
+    |   And his cohorts were gleaming in purple and gold...
+    |   The sheen of his spears was like stars on the sea,
+    |   When the blue wave rolls nightly on deep Galilee.
 
   A cohort is not an item of clothing or armour but a division of the old
   Roman Army: the tenth part of a legion, 300 to 600 men.
@@ -8564,12 +8571,12 @@ Soul Music
   Chuck Berry's 'Johnny B. Goode' is, with the possible exception of
   'Louie, Louie', the greatest rock 'n roll song of all time. It begins:
 
-        Way down Louisiana close to New Orleans,
-        Way back up in the woods among the evergreens...
-        There stood a log cabin made of earth and wood,
-        Where lived a country boy name of Johnny B. Goode...
-        He never ever learned to read or write so well,
-        But he could play the guitar like ringing a bell.
+    |   Way down Louisiana close to New Orleans,
+    |   Way back up in the woods among the evergreens...
+    |   There stood a log cabin made of earth and wood,
+    |   Where lived a country boy name of Johnny B. Goode...
+    |   He never ever learned to read or write so well,
+    |   But he could play the guitar like ringing a bell.
 
 - [p. 17/13] "WHAT'S IT ALL ABOUT? SERIOUSLY? WHEN YOU GET RIGHT DOWN TO
   IT?"
@@ -8624,10 +8631,10 @@ Soul Music
   Meatloaf. In 1977 he wrote the all-time classic 'Paradise by the
   Dashboard Light', which opens with the lines:
 
-        Well, I remember every little thing
-        as if it happened only yesterday.
-        Parking by the lake
-        And there was not another car in sight
+    |   Well, I remember every little thing
+    |   as if it happened only yesterday.
+    |   Parking by the lake
+    |   And there was not another car in sight
 
   In 1981, Steinman recorded the album **Bad For Good** by himself (he either
   had a falling out with Meatloaf or the latter had voice problems at the
@@ -8638,10 +8645,10 @@ Soul Music
   similar to 'Paradise', but quickly goes off in an *entirely* different
   direction:
 
-        I remember every little thing
-        as if it happened only yesterday.
-        I was barely seventeen
-        and I once killed a boy with a Fender guitar
+    |   I remember every little thing
+    |   as if it happened only yesterday.
+    |   I was barely seventeen
+    |   and I once killed a boy with a Fender guitar
 
   When "`Soul Music`_" came out, it immediately became a question of utmost
   importance (no, I don't know why, either) to Pratchett annotators all
@@ -9380,14 +9387,14 @@ Soul Music
 
   From The Byrds' 'So You Want to be a Rock 'n' Roll Star':
 
-        So you want to be a rock and roll star?
-        Then listen now to what I say.
-        Just get an electric guitar
-        Then take some time
-        And learn how to play.
-        And with your hair swung right,
-        And your pants too tight
-        It's gonna be all right.
+    |   So you want to be a rock and roll star?
+    |   Then listen now to what I say.
+    |   Just get an electric guitar
+    |   Then take some time
+    |   And learn how to play.
+    |   And with your hair swung right,
+    |   And your pants too tight
+    |   It's gonna be all right.
 
 - [p. 264/199] "'We're Certainly Dwarfs', said Dibbler. 'Yes, that might
   work.'"
@@ -9538,9 +9545,9 @@ Soul Music
 
   This is part of the lyrics to Buddy Holly's 'Everyday':
 
-        Everyday, it's a-gettin' closer,
-        Goin' faster than a roller coaster,
-        Love like yours will surely come my way, (hey hey hey)
+    |   Everyday, it's a-gettin' closer,
+    |   Goin' faster than a roller coaster,
+    |   Love like yours will surely come my way, (hey hey hey)
 
 - [p. 306/231] More song names.
 
@@ -10334,8 +10341,8 @@ Maskerade
 
 - [p. 232] Opera names.
 
-        The Barber of Pseudopolis = The Barber of Seville
-        The Enchanted Piccolo = The Magic Flute
+ * The Barber of Pseudopolis = The Barber of Seville
+ * The Enchanted Piccolo = The Magic Flute
 
 - [p. 233] Musical names.
 
@@ -10358,10 +10365,10 @@ Maskerade
   duet 'Paradise by the Dashboard Light' with Meatloaf halfway through the
   song:
 
-        Stop right there!
-        I gotta know right now
-        Before we go any further
-        Do you love me? Will you love me forever?
+    |   Stop right there!
+    |   I gotta know right now
+    |   Before we go any further
+    |   Do you love me? Will you love me forever?
 
 - [p. 270] "'Don't cry for me, Genua.'"
 
@@ -10556,9 +10563,9 @@ Feet of Clay
 
   From an old nursery rhyme:
 
-        Rub-a-dub-dub, three men in a tub
-        And who do you think they were?
-        The butcher, the baker, the candlestick-maker...
+    |   Rub-a-dub-dub, three men in a tub
+    |   And who do you think they were?
+    |   The butcher, the baker, the candlestick-maker...
 
 + [p. 41] "Commander Vimes, on the other hand, was all for giving criminals
   a short, sharp shock."
@@ -10824,11 +10831,11 @@ Feet of Clay
 
   Iago would rather be robbed than slandered in **Othello**, act 3, scene 3:
 
-        Who steals my purse steals trash; 'tis something, nothing;
-        'Twas mine, 'tis his, and has been slave to thousands:
-        But he that filches from me my good name
-        Robs me of that which not enriches him
-        And makes me poor indeed.
+    |   Who steals my purse steals trash; 'tis something, nothing;
+    |   'Twas mine, 'tis his, and has been slave to thousands:
+    |   But he that filches from me my good name
+    |   Robs me of that which not enriches him
+    |   And makes me poor indeed.
 
 + [p. 124] "[...] he had got only six weeks to retirement [...]"
 
@@ -11341,10 +11348,10 @@ Hogfather
   Susan is thinking of an 18th-century prayer still popular in parts of
   America:
 
-        Now I lay me down to sleep,
-        I pray the Lord my soul to keep.
-        If I should die before I wake,
-        I pray the Lord my soul to take.
+    |   Now I lay me down to sleep,
+    |   I pray the Lord my soul to keep.
+    |   If I should die before I wake,
+    |   I pray the Lord my soul to take.
 
 + [p. 26] "'[...] *yes*, Twyla: there *is* a Hogfather.'"
 
@@ -11503,14 +11510,14 @@ Hogfather
 
   The song is 'The Holly and the Ivy':
 
-        The Holly and the Ivy, when they are both full grown,
-        Of all the trees that are in the wood, the holly bears the crown.
+    |   The Holly and the Ivy, when they are both full grown,
+    |   Of all the trees that are in the wood, the holly bears the crown.
 
-        Oh, the rising of the sun, and the running of the deer,
-        The playing of the merry organ, sweet singing in the choir.
+    |   Oh, the rising of the sun, and the running of the deer,
+    |   The playing of the merry organ, sweet singing in the choir.
 
-        The Holly bears a berry, as red as any blood,
-        And Mary bore sweet Jesus Christ to do poor sinners good...
+    |   The Holly bears a berry, as red as any blood,
+    |   And Mary bore sweet Jesus Christ to do poor sinners good...
 
   etc.
 
@@ -11595,13 +11602,13 @@ Hogfather
 
   There is a folksong about the hunting of the wren:
 
-        Oh where are you going, says Milder to Maulder
-        Oh we may not tell you, says Festle to Fose
-        We're off to the woods, says John the red nose
-        We're off to the woods, says John the red nose
+    |   Oh where are you going, says Milder to Maulder
+    |   Oh we may not tell you, says Festle to Fose
+    |   We're off to the woods, says John the red nose
+    |   We're off to the woods, says John the red nose
 
-        And what will you do there...
-        We'll hunt the cutty wren...
+    |   And what will you do there...
+    |   We'll hunt the cutty wren...
 
   In Ireland until quite recently, the hunting of the wren on St. Stephen's
   day – Dec. 26th – was a very real tradition. People did kill a wren and
@@ -11923,10 +11930,10 @@ Hogfather
 
   There is a song that goes:
 
-        Christmas is coming, and the goose is getting fat
-        Won't you put a penny in the old man's hat?
-        If you haven't got a penny a ha'penny will do
-        And if you haven't got a ha'penny then God bless you.
+    |   Christmas is coming, and the goose is getting fat
+    |   Won't you put a penny in the old man's hat?
+    |   If you haven't got a penny a ha'penny will do
+    |   And if you haven't got a ha'penny then God bless you.
 
 + [p. 195] "'– nobody knows how good we can live, on boots three times a
   day...'"
@@ -11934,14 +11941,14 @@ Hogfather
   A standard children's song, once (apparently) popular at Girl Guide
   camps, went:
 
-        Everybody hates me, nobody loves me,
-        Think I'll go and eat worms.
-        Long thin slimy ones, short fat stubby ones,
-        Juicy, juicy, juicy, juicy worms.
-        Bite their heads off, suck their juice out,
-        Throw their skins away.
-        Nobody knows how good we can live
-        On worms three times a day.
+    |   Everybody hates me, nobody loves me,
+    |   Think I'll go and eat worms.
+    |   Long thin slimy ones, short fat stubby ones,
+    |   Juicy, juicy, juicy, juicy worms.
+    |   Bite their heads off, suck their juice out,
+    |   Throw their skins away.
+    |   Nobody knows how good we can live
+    |   On worms three times a day.
 
 + [p. 195] "'Ah, Humbugs?' he said."
 
@@ -12153,10 +12160,10 @@ Jingo
   militaristic nationalism as a result of a popular song dating from the
   Turko-Russian war of 1877-78, which began:
 
-        We don't want to have to fight,
-        but by Jingo if we do
-        We've got the ships, we've got the men,
-        we've got the money too.
+    |   We don't want to have to fight,
+    |   but by Jingo if we do
+    |   We've got the ships, we've got the men,
+    |   we've got the money too.
 
   Interestingly (in the light of the circumstances of this particular war),
   it is also the name of a warlike Japanese empress of the 2nd/3rd
@@ -12319,10 +12326,10 @@ Jingo
 
   A popular song from the Second World War had the lyric:
 
-        Bless 'em all, bless 'em all!
-        Bless the long and the short and the tall!
-        Bless all the sergeants and double-you o-ones,
-        Bless all the corporals and their blinkin' sons.
+    |   Bless 'em all, bless 'em all!
+    |   Bless the long and the short and the tall!
+    |   Bless all the sergeants and double-you o-ones,
+    |   Bless all the corporals and their blinkin' sons.
 
   The phrase was also used as the title of a stage play (filmed in 1960) by
   Willis Hall, describing the plight and fate of a squad of British
@@ -12614,10 +12621,10 @@ Jingo
 
   A direct quote from Tennyson's poem **Sir Galahad**:
 
-        My good blade carves the casques of men,
-        My tough lance thrusteth sure,
-        My strength is as the strength of ten,
-        Because my heart is pure.
+    |   My good blade carves the casques of men,
+    |   My tough lance thrusteth sure,
+    |   My strength is as the strength of ten,
+    |   Because my heart is pure.
 
 + [p. 130] "'The Klatchian's Head. My grandad said *his* grandad remembered
   when it was still a real one.'"
@@ -12738,10 +12745,10 @@ Jingo
   Sand Dance'. There's also a nice resonance of names with the Paul Simon
   song 'Call Me Al':
 
-        And if you'll be my bodyguard,
-        I can be your long lost pal,
-        And I can call you Betty,
-        and Betty, when you call me, you can call me Al.
+    |   And if you'll be my bodyguard,
+    |   I can be your long lost pal,
+    |   And I can call you Betty,
+    |   and Betty, when you call me, you can call me Al.
 
 + [p. 210] "'[...] I thought that a flying column of guerrilla soldiers
   –'"
@@ -12923,17 +12930,17 @@ The Last Continent
   Kermit the Frog did a great cover of 'Lydia' on the Connie Stevens
   episode of **The Muppet Show**.
 
-        Oh Lydia, oh Lydia, say, have you met Lydia?
-        Lydia The Tattooed Lady.
-        She has eyes that folks adore so,
-        And a torso even more so.
+    |   Oh Lydia, oh Lydia, say, have you met Lydia?
+    |   Lydia The Tattooed Lady.
+    |   She has eyes that folks adore so,
+    |   And a torso even more so.
 
-        Lydia, oh Lydia, that encyclo-pidia,
-        Oh Lydia The Queen of Tattoo.
-        On her back is the Battle of Waterloo.
-        Beside it, The Wreck of the Hesperus, too.
-        And proudly above waves the red, white, and blue,
-        You can learn a lot from Lydia!
+    |   Lydia, oh Lydia, that encyclo-pidia,
+    |   Oh Lydia The Queen of Tattoo.
+    |   On her back is the Battle of Waterloo.
+    |   Beside it, The Wreck of the Hesperus, too.
+    |   And proudly above waves the red, white, and blue,
+    |   You can learn a lot from Lydia!
 
   Teaching artifical intelligences to sing songs, recite poetry, or tell
   jokes is a well-established science fiction theme, with probably the most
@@ -13024,10 +13031,10 @@ The Last Continent
 
   The first stanza of William Blake's famous poem 'The Tyger':
 
-        Tyger! Tyger! burning bright
-        In the forests of the night,
-        What immortal hand or eye
-        Could frame thy fearful symmetry?
+    |   Tyger! Tyger! burning bright
+    |   In the forests of the night,
+    |   What immortal hand or eye
+    |   Could frame thy fearful symmetry?
 
 + [p. 48] "'Turned out nice again,' he said."
 
@@ -13147,17 +13154,17 @@ The Last Continent
   Terry was himself a guest on 9 September 1997, and chose the following
   list:
 
-      - 'Symphonie Fantastique: Dream of a Witches' Sabbath' – Berlioz,
-         London Symphony Orchestra/Sir Eugene Goossens.
-      - 'Thomas the Rhymer' – Steeleye Span.
-      - 'The Race for the Rheingold Stakes' – Bernard Miles.
-      - 'The Marriage of Figaro: Voi che sapete' – Mozart, Petra Lang, ms;
-         Royal Concertgebouw Orchestra, Amsterdam/Nikolaus Harnoncourt.
-      - 'Bat out of Hell' – Meatloaf.
-      - 'Silk Road Theme' – Kitaro.
-      - 'Great Southern Land' – Icehouse.
-      - 'Four Seasons: Summer' – Vivaldi, Israel Philharmonic
-         Orchestra/Itzhak Perlman, v.
+    * 'Symphonie Fantastique: Dream of a Witches' Sabbath' – Berlioz,
+      London Symphony Orchestra/Sir Eugene Goossens.
+    * 'Thomas the Rhymer' – Steeleye Span.
+    * 'The Race for the Rheingold Stakes' – Bernard Miles.
+    * 'The Marriage of Figaro: Voi che sapete' – Mozart, Petra Lang, ms;
+      Royal Concertgebouw Orchestra, Amsterdam/Nikolaus Harnoncourt.
+    * 'Bat out of Hell' – Meatloaf.
+    * 'Silk Road Theme' – Kitaro.
+    * 'Great Southern Land' – Icehouse.
+    * 'Four Seasons: Summer' – Vivaldi, Israel Philharmonic
+      Orchestra/Itzhak Perlman, v.
 
 + [p. 109] "'An' I expect you don't even know that we happen to produce
   some partic'ly fine wines [...] yew *bastard*?'"
@@ -13188,15 +13195,15 @@ The Last Continent
 
   There is also a well-known Australian folk song that goes:
 
-        There was a redback on the toilet seat
-        when I was there last night
-        I didn't see him in the dark
-        but boy I felt his bite
+    |   There was a redback on the toilet seat
+    |   when I was there last night
+    |   I didn't see him in the dark
+    |   but boy I felt his bite
 
-        And now I am in hospital
-        a sad and sorry plight
-        I curse the redback spider
-        on the toilet seat last night
+    |   And now I am in hospital
+    |   a sad and sorry plight
+    |   I curse the redback spider
+    |   on the toilet seat last night
 
 + [p. 124] "'Everything is so completely *selfish* about it.'"
 
@@ -13315,31 +13322,31 @@ The Last Continent
   although every Australian knows this song, no two of them seem to agree
   on all the lyrics, so this version should not be taken as authoritative:
 
-        Once a jolly swagman camped by a billabong,
-        Under the shade of a coolabah tree,
-        And he sang as he watched and waited for his billy boil,
-        'Who'll come a-waltzing Matilda with me?'
+    |   Once a jolly swagman camped by a billabong,
+    |   Under the shade of a coolabah tree,
+    |   And he sang as he watched and waited for his billy boil,
+    |   'Who'll come a-waltzing Matilda with me?'
 
-        CHORUS:
-        Waltzing Matilda, waltzing Matilda,
-        Who'll come a waltzing Matilda with me?
-        And he sang as he watched and waited for the billy boil,
-        Who'll come a waltzing Matilda with me?
+    |   *CHORUS:*
+    |   Waltzing Matilda, waltzing Matilda,
+    |   Who'll come a waltzing Matilda with me?
+    |   And he sang as he watched and waited for the billy boil,
+    |   Who'll come a waltzing Matilda with me?
 
-        Down came a jumbuck to drink at the billabong,
-        Up jumped the swagman and grabbed him with glee,
-        And he sang as he stowed that jumbuck in his tuckerbag,
-        'You'll come a-waltzing Matilda with me.'
+    |   Down came a jumbuck to drink at the billabong,
+    |   Up jumped the swagman and grabbed him with glee,
+    |   And he sang as he stowed that jumbuck in his tuckerbag,
+    |   'You'll come a-waltzing Matilda with me.'
 
-        Down came the squatter, a-riding on his thoroughbred,
-        Down came the troopers, one, two, three.
-        'Whose is the jumbuck you've got in your tuckerbag?
-        You'll come a-waltzing matilda with me.'
+    |   Down came the squatter, a-riding on his thoroughbred,
+    |   Down came the troopers, one, two, three.
+    |   'Whose is the jumbuck you've got in your tuckerbag?
+    |   You'll come a-waltzing matilda with me.'
 
-        Up jumped the swagman and leapt into the billabong,
-        'You'll never take me alive,' said he,
-        And his ghost may be heard as you pass beside the billabong,
-        'You'll come a-waltzing matilda with me.'
+    |   Up jumped the swagman and leapt into the billabong,
+    |   'You'll never take me alive,' said he,
+    |   And his ghost may be heard as you pass beside the billabong,
+    |   'You'll come a-waltzing matilda with me.'
 
   The astute reader will have noticed that the last sentence of Terry's
   paragraph ("And he swore as he hacked and hacked at a can of beer, saying
@@ -13812,23 +13819,23 @@ Carpe Jugulum
   Lacci's whiney personality. It's also the first word of the traditional
   Latin requiem mass:
 
-        Lacrymosa dies illa
-        quae resurget ex favilla
-        judicandus homo reus.
+    |   Lacrymosa dies illa
+    |   quae resurget ex favilla
+    |   judicandus homo reus.
 
-        Huic ergo parce, Deus,
-        pie Jesu, Jesu Domine,
-        dona eis requiem.
+    |   Huic ergo parce, Deus,
+    |   pie Jesu, Jesu Domine,
+    |   dona eis requiem.
 
   Which translates approximately to:
 
-        O tearful the day
-        when from the ashes rises
-        the guilty to be judged.
+    |   O tearful the day
+    |   when from the ashes rises
+    |   the guilty to be judged.
 
-        Therefore spare him, God,
-        Good Jesus, Jesus Lord,
-        give them rest.
+    |   Therefore spare him, God,
+    |   Good Jesus, Jesus Lord,
+    |   give them rest.
 
 + [p. 62] "'The Queen makes up some sort of headache pills out of willow
   bark."
@@ -13868,19 +13875,19 @@ Carpe Jugulum
   The rhyme Agnes repeats over the next few pages is similar to the one
   Mike learned as a child:
 
-        One for sorrow, two for joy,
-        Three for a girl, four for a boy,
-        Five for silver, six for gold,
-        Seven for a secret never to be told.
+    |   One for sorrow, two for joy,
+    |   Three for a girl, four for a boy,
+    |   Five for silver, six for gold,
+    |   Seven for a secret never to be told.
 
   Nanny's version seems closer to the Scots version given in **Brewer's
   Dictionary of Phrase & Fable**:
 
-        One's sorrow, two's mirth,
-        Three's a wedding, four's a birth,
-        Five's a christening, six a dearth,
-        Seven's heaven, eight is hell,
-        And nine's the devil his ane sel'.
+    |   One's sorrow, two's mirth,
+    |   Three's a wedding, four's a birth,
+    |   Five's a christening, six a dearth,
+    |   Seven's heaven, eight is hell,
+    |   And nine's the devil his ane sel'.
 
   – although Nanny's also varies noticeably from this, which just goes to
   prove what she says about there being lots of different rhymes.
@@ -14129,10 +14136,10 @@ Carpe Jugulum
 
   From **The Fairies**, by William Allingham:
 
-        Up the airy mountain
-        Down the rushy glen,
-        We daren't go a-hunting,
-        For fear of little men;
+    |   Up the airy mountain
+    |   Down the rushy glen,
+    |   We daren't go a-hunting,
+    |   For fear of little men;
 
   See also the annotation for p.287/207 of "`Lords and Ladies`_".
 
@@ -14260,10 +14267,10 @@ Carpe Jugulum
   A very tame, sweet, modern children's hymn (see the annotation for p.
   279):
 
-        Jesus bids us shine with a pure clear light
-        Like a little candle, burning in the night.
-        In this world of darkness so we must shine,
-        You in your small corner and I in mine.
+    |   Jesus bids us shine with a pure clear light
+    |   Like a little candle, burning in the night.
+    |   In this world of darkness so we must shine,
+    |   You in your small corner and I in mine.
 
 + [p. 255] "'Remember – that which does not kill us can only make us
   stronger."
@@ -14309,10 +14316,10 @@ Carpe Jugulum
   context of noble or uplifting thoughts. Compare the song 'America the
   Beautiful', by Katharine Lee Bates:
 
-        O beautiful for spacious skies,
-        For amber waves of grain,
-        For purple mountain majesties
-        Above the fruited plain!
+    |   O beautiful for spacious skies,
+    |   For amber waves of grain,
+    |   For purple mountain majesties
+    |   Above the fruited plain!
 
 + [p. 279] "The singing wasn't very enthusiastic, though, until Oats tossed
   aside the noisome songbook and taught them some of the songs he
@@ -15056,11 +15063,11 @@ Thief Of Time
 
   As the nursery rhyme goes:
 
-        Hickory Dickory Dock,
-        The mouse ran up the clock
-        The clock struck one,
-        The mouse ran down,
-        Hickory Dickory Dock
+    |   Hickory Dickory Dock,
+    |   The mouse ran up the clock
+    |   The clock struck one,
+    |   The mouse ran down,
+    |   Hickory Dickory Dock
 
 
 The Last Hero
@@ -15332,17 +15339,17 @@ The Amazing Maurice and his Educated Rodents
   An allusion to Robert Browning's well known 1842 version of **The Pied
   Piper of Hamelin**:
 
-        Rats!
-        They fought the dogs and killed the cats,
-        And bit the babies in the cradles,
-        And ate the cheeses out of the vats,
-        And licked the soup from the cooks' own ladles,
-        Split open the kegs of salted sprats,
-        Made nests inside men's Sunday hats,
-        And even spoiled the women's chats
-        By drowning their speaking
-        With shrieking and squeaking
-        In fifty different sharps and flats.
+    |   Rats!
+    |   They fought the dogs and killed the cats,
+    |   And bit the babies in the cradles,
+    |   And ate the cheeses out of the vats,
+    |   And licked the soup from the cooks' own ladles,
+    |   Split open the kegs of salted sprats,
+    |   Made nests inside men's Sunday hats,
+    |   And even spoiled the women's chats
+    |   By drowning their speaking
+    |   With shrieking and squeaking
+    |   In fifty different sharps and flats.
 
 + [p. 58] "The thick line, where she'd pressed heavily, had to mean 'no'."
 
@@ -15564,11 +15571,11 @@ Night Watch
 
   From the lyrics to Pink Floyd's classic hit 'Another Brick in the Wall':
 
-        We don't need no education
-        We don't need no thought control
-        No dark sarcasm in the classroom
-        Teachers, leave them kids alone
-        Hey! Teachers! Leave them kids alone!
+    |   We don't need no education
+    |   We don't need no thought control
+    |   No dark sarcasm in the classroom
+    |   Teachers, leave them kids alone
+    |   Hey! Teachers! Leave them kids alone!
 
 + [p. 229] "'I regret that I have only one life to lay down for Whalebone
   Lane!'"
@@ -15697,12 +15704,12 @@ The Wee Free Men
   to it being what the best laid plans o' mice and men do in the poem "To a
   mouse" by Robert Burns.
 
-        But Mousie, thou are no thy-lane,
-        In proving foresight may be vain:
-        The best laid schemes o' Mice an' Men,
-        Gang aft agley,
-        An' lea'e us nought but grief an' pain,
-        For promis'd joy!
+    |   But Mousie, thou are no thy-lane,
+    |   In proving foresight may be vain:
+    |   The best laid schemes o' Mice an' Men,
+    |   Gang aft agley,
+    |   An' lea'e us nought but grief an' pain,
+    |   For promis'd joy!
 
 + [p. 74] "The headless man would catch her on the flat."
 
@@ -15781,11 +15788,11 @@ The Wee Free Men
   when, during a severe gale, the Tay Rail Bridge near Dundee collapsed as
   a train was passing over it. The first verse reads:
 
-        Beautiful Railway Bridge of the Silv'ry Tay!
-        Alas! I am very sorry to say
-        That ninety lives have been taken away
-        On the last Sabbath day of 1879,
-        Which will be remember'd for a very long time.
+    |   Beautiful Railway Bridge of the Silv'ry Tay!
+    |   Alas! I am very sorry to say
+    |   That ninety lives have been taken away
+    |   On the last Sabbath day of 1879,
+    |   Which will be remember'd for a very long time.
 
 + [p. 138] Tir-far-Thionn
 
@@ -16028,10 +16035,10 @@ Monstrous Regiment
   misprinted as 'borogrove') from the poem 'Jabberwocky' in Lewis Carroll's
   **Through the Looking Glass**:
 
-        Twas brillig, and the slithy toves
-        Did gyre and gimble in the wabe;
-        All mimsy were the borogoves,
-        And the mome raths outgrabe.
+    |   Twas brillig, and the slithy toves
+    |   Did gyre and gimble in the wabe;
+    |   All mimsy were the borogoves,
+    |   And the mome raths outgrabe.
 
   Carroll described borogoves as an extinct variety of wingless parrot with
   an upturned beak, which nested on sundials and lived on veal. Terry's
@@ -16053,70 +16060,70 @@ Monstrous Regiment
   Tradition says 'The World Turned Upside Down' was played at Cornwallis'
   surrender to Washington during the American Revolution:
 
-        If buttercups buzz'd after the bee,
-        If boats were on land, churches on sea,
-        If ponies rode men and if grass ate the cows,
-        And cats should be chased into holes by the mouse,
+    |   If buttercups buzz'd after the bee,
+    |   If boats were on land, churches on sea,
+    |   If ponies rode men and if grass ate the cows,
+    |   And cats should be chased into holes by the mouse,
 
-        If the mamas sold their babies
-        To the gypsies for half a crown;
-        If summer were spring and the other way round,
-        Then all the world would be upside down.
+    |   If the mamas sold their babies
+    |   To the gypsies for half a crown;
+    |   If summer were spring and the other way round,
+    |   Then all the world would be upside down.
 
   'The Devil Shall Be My Sergeant' (known as 'Rogue's March'):
 
-        I left my home and I left my job
-        Went and joined the army
-        If I knew then what I know now
-        I wouldn't have been so barmy.
+    |   I left my home and I left my job
+    |   Went and joined the army
+    |   If I knew then what I know now
+    |   I wouldn't have been so barmy.
 
-        Poor old soldier, poor old soldier
-        If I knew then what I know now
-        I wouldn't have been so barmy.
+    |   Poor old soldier, poor old soldier
+    |   If I knew then what I know now
+    |   I wouldn't have been so barmy.
 
-        [...]
+    |   [...]
 
-        Fifty I got for selling me coat
-        Fifty for me blankets
-        If ever I 'list for a soldier again
-        The devil shall be me sergeant.
+    |   Fifty I got for selling me coat
+    |   Fifty for me blankets
+    |   If ever I 'list for a soldier again
+    |   The devil shall be me sergeant.
 
   'Johnny Has Gone For a Soldier' (also known as 'Shule Agra', which is
   badly anglicised Irish for "Walk, My Love"):
 
-        With fife and drum he marched away
-        He would not heed what I did say
-        He'll not come back for many a day
-        Johnny has gone for a soldier
+    |   With fife and drum he marched away
+    |   He would not heed what I did say
+    |   He'll not come back for many a day
+    |   Johnny has gone for a soldier
 
-        Shule shule shule shule agra
-        Sure a sure and he loves me
-        When he comes back he'll marry me
-        Johnny has gone for a soldier
+    |   Shule shule shule shule agra
+    |   Sure a sure and he loves me
+    |   When he comes back he'll marry me
+    |   Johnny has gone for a soldier
 
   'The Girl I Left Behind Me' (many versions exist):
 
-        I'm lonesome since I cross'd the hills,
-        And o'er the moor that's sedgy;
-        With heavy thoughts my mind is fill'd,
-        Since I parted with my Naggy
-        When e'er I return to view the place,
-        The tears doth fall and blind me,
-        When I think on the charming grace
-        Of the girl I left behind me.
+    |   I'm lonesome since I cross'd the hills,
+    |   And o'er the moor that's sedgy;
+    |   With heavy thoughts my mind is fill'd,
+    |   Since I parted with my Naggy
+    |   When e'er I return to view the place,
+    |   The tears doth fall and blind me,
+    |   When I think on the charming grace
+    |   Of the girl I left behind me.
 
   And finally, 'Sweet Polly Oliver' tells the story of a woman who dresses
   as a male soldier in order to follow her true love into the army:
 
-        As sweet Polly Oliver lay musing in bed,
-        A sudden strange fancy came into her head.
-        'Nor father nor mother shall make me false prove,
-        I'll 'list as a soldier, and follow my love.'
+    |   As sweet Polly Oliver lay musing in bed,
+    |   A sudden strange fancy came into her head.
+    |   'Nor father nor mother shall make me false prove,
+    |   I'll 'list as a soldier, and follow my love.'
 
-        So early next morning she softly arose,
-        And dressed herself up in her dead brother's clothes.
-        She cut her hair close, and she stained her face brown,
-        And went for a soldier to fair London Town.
+    |   So early next morning she softly arose,
+    |   And dressed herself up in her dead brother's clothes.
+    |   She cut her hair close, and she stained her face brown,
+    |   And went for a soldier to fair London Town.
 
   I've not been able to find real-world equivalents yet for 'Colonel
   Crapski' and 'I Wish I'd Never Kissed Her' – any pointers will be most
@@ -16145,13 +16152,13 @@ Monstrous Regiment
   Fatherland"); while "Frustrate the endless wiles of our enemies" echoes
   the second verse of Britain's "God Save the Queen":
 
-        O Lord our God, arise,
-        Scatter our enemies,
-        And make them fall;
-        Confound their politics,
-        Frustrate their knavish tricks;
-        On thee our hopes we fix:
-        God save us all.
+    |   O Lord our God, arise,
+    |   Scatter our enemies,
+    |   And make them fall;
+    |   Confound their politics,
+    |   Frustrate their knavish tricks;
+    |   On thee our hopes we fix:
+    |   God save us all.
 
   For what it's worth, very few national anthems start with 'awake',
   although many begin with 'arise'.
@@ -16224,14 +16231,14 @@ Monstrous Regiment
   From the Vietnam-era protest song 'I-Feel-Like-I'm-Fixin'-To-Die-Rag', by
   Country Joe & The Fish (famously performed at Woodstock):
 
-        And it's one, two, three,
-        What are we fighting for?
-        Don't ask me, I don't give a damn,
-        Next stop is Vietnam;
-        And it's five, six, seven,
-        Open up the pearly gates,
-        Well there ain't no time to wonder why,
-        Whoopee! we're all gonna die.
+    |   And it's one, two, three,
+    |   What are we fighting for?
+    |   Don't ask me, I don't give a damn,
+    |   Next stop is Vietnam;
+    |   And it's five, six, seven,
+    |   Open up the pearly gates,
+    |   Well there ain't no time to wonder why,
+    |   Whoopee! we're all gonna die.
 
 + [p. 68] "most of you will almost certainly be pikemen"
 
@@ -16446,29 +16453,29 @@ Monstrous Regiment
   There is for instance the song called 'The Ups and Downs', recorded by
   Steeleye Span:
 
-        As I was going to Aylesbury all on a market day
-        A pretty little Aylesbury girl I met upon the way
-        Her business was to market with butter, cheese and whey
-        And we both jogged on together my boys fol-der-o diddle-o-day
-        And we both jogged on together my boys fol-der-o diddle-o-day
+    |   As I was going to Aylesbury all on a market day
+    |   A pretty little Aylesbury girl I met upon the way
+    |   Her business was to market with butter, cheese and whey
+    |   And we both jogged on together my boys fol-der-o diddle-o-day
+    |   And we both jogged on together my boys fol-der-o diddle-o-day
 
-        As we jogged on together my boys together side by side
-        By chance this fair maid's garter it came untied
-        For fear that she might lose it I unto her did say
-        Your garter's come untied my love fol-der-o diddle-o-day
-        Your garter's come untied my love fol-der-o diddle-o-day
+    |   As we jogged on together my boys together side by side
+    |   By chance this fair maid's garter it came untied
+    |   For fear that she might lose it I unto her did say
+    |   Your garter's come untied my love fol-der-o diddle-o-day
+    |   Your garter's come untied my love fol-der-o diddle-o-day
 
-        As we rode on together my boys to the outskirts of the town
-        At length this fair young damsel she stopped and looked around
-        O since you've been so venturesome pray tie it up for me
-        O I will if you go to the apple grove fol-der-o diddle-o-day
-        O I will if you go to the apple grove fol-der-o diddle-o-day
+    |   As we rode on together my boys to the outskirts of the town
+    |   At length this fair young damsel she stopped and looked around
+    |   O since you've been so venturesome pray tie it up for me
+    |   O I will if you go to the apple grove fol-der-o diddle-o-day
+    |   O I will if you go to the apple grove fol-der-o diddle-o-day
 
-        And when we got to the apple grove the grass was growing high
-        I laid this girl upon her back her garter for to tie
-        While tying of her garter such sights I never did see
-        And we both jogged on together my boys fol-der-o diddle-o-day
-        And we both jogged on together my boys fol-der-o diddle-o-day
+    |   And when we got to the apple grove the grass was growing high
+    |   I laid this girl upon her back her garter for to tie
+    |   While tying of her garter such sights I never did see
+    |   And we both jogged on together my boys fol-der-o diddle-o-day
+    |   And we both jogged on together my boys fol-der-o diddle-o-day
 
   Etcetera. Note that this is very likely also the same cheese-and-garters
   song that Polly and the others have been discussing earlier.
@@ -16506,15 +16513,15 @@ Monstrous Regiment
   of Balaclava in October 1854. This was then probably picked up by Rudyard
   Kipling for use in his poem 'Tommy':
 
-        Yes, makin' mock o' uniforms that guard you while you sleep
-        Is cheaper than them uniforms, an' they're starvation cheap;
-        An' hustlin' drunken soldiers when they're goin' large a bit
-        Is five times better business than paradin' in full kit.
+    |   Yes, makin' mock o' uniforms that guard you while you sleep
+    |   Is cheaper than them uniforms, an' they're starvation cheap;
+    |   An' hustlin' drunken soldiers when they're goin' large a bit
+    |   Is five times better business than paradin' in full kit.
 
-        Then it's Tommy this, an' Tommy that, an' "Tommy, 'ow's yer soul?"
-        But it's "Thin red line of 'eroes" when the drums begin to roll,
-        The drums begin to roll, my boys, the drums begin to roll,
-        O it's "Thin red line of 'eroes" when the drums begin to roll.
+    |   Then it's Tommy this, an' Tommy that, an' "Tommy, 'ow's yer soul?"
+    |   But it's "Thin red line of 'eroes" when the drums begin to roll,
+    |   The drums begin to roll, my boys, the drums begin to roll,
+    |   O it's "Thin red line of 'eroes" when the drums begin to roll.
 
   The phrase was also used as the title of James Jones' novel (and the 1998
   movie based on it) telling the story of the United States capture of
@@ -16605,14 +16612,14 @@ A Hat Full Of Sky
 
   Reference to "A Parcel O Rogues In A Nation" by Robert Burns:
 
-        Fareweel to a' oor Scottish fame
-        Fareweel oor ancient glory
-        Fareweel even tae oor Scottish name
-        Sae famed in martial story
-        Noo Sark runs o'er the Solway sands
-        Tweed runs tae the ocean
-        Tae mark where England's province stands
-        Such a parcel o' rogues in a nation
+    |   Fareweel to a' oor Scottish fame
+    |   Fareweel oor ancient glory
+    |   Fareweel even tae oor Scottish name
+    |   Sae famed in martial story
+    |   Noo Sark runs o'er the Solway sands
+    |   Tweed runs tae the ocean
+    |   Tae mark where England's province stands
+    |   Such a parcel o' rogues in a nation
 
   Much of the rest of Awf'ly Wee Billy's outburst reflects traditional
   Scottish curses.
@@ -16898,10 +16905,10 @@ The Science Of Discworld
   (see also the annotation for p. 383/268 of "`Good Omens`_" for another
   mention of this poem):
 
-        Things fall apart; the centre cannot hold;
-        Mere anarchy is loosed upon the world,
-        The blood-dimmed tide is loosed, and everywhere
-        The ceremony of innocence is drowned.
+    |   Things fall apart; the centre cannot hold;
+    |   Mere anarchy is loosed upon the world,
+    |   The blood-dimmed tide is loosed, and everywhere
+    |   The ceremony of innocence is drowned.
 
 + [p. 121] "'Days and nights!' said Ponder. 'Seasons, too, if we do it
   right!'"
@@ -17299,9 +17306,9 @@ Good Omens
   This is the chorus to Kylie Minogue's break-through hit 'I should be so
   lucky':
 
-        I should be so lucky
-        Lucky lucky lucky
-        I should be so lucky in love
+    |   I should be so lucky
+    |   Lucky lucky lucky
+    |   I should be so lucky in love
 
   Notice that this is yet another misquote: there are only *four*
   successive 'lucky's, not five.
@@ -17444,12 +17451,12 @@ Good Omens
   experience of reading Chapman's translation of Homer is compared to the
   feeling Cortez must have had:
 
-        Then felt I like some watcher of the skies
-        When a new planet swims into his ken
-        Or like stout Cortez, when with eagle eyes
-        He stared at the Pacific – and all his men
-        Looked at each other with a wild surmise
-        Silent, upon a peak in Darien.
+    |   Then felt I like some watcher of the skies
+    |   When a new planet swims into his ken
+    |   Or like stout Cortez, when with eagle eyes
+    |   He stared at the Pacific – and all his men
+    |   Looked at each other with a wild surmise
+    |   Silent, upon a peak in Darien.
 
   (Actually, Keats was mixing up Cortez (who conquered Mexico, and was the
   first European to look upon Mexico City) with Balboa (who climbed Darien,
@@ -17686,8 +17693,8 @@ Good Omens
   Antonio Rolli, well-known in London during the Regency. The song was
   called 'A Frog He Would-a Wooing Go', and the chorus has the lines:
 
-        With a rolypoly, gammon and spinach,
-        Heigh ho, said Anthony Rowley.
+    |   With a rolypoly, gammon and spinach,
+    |   Heigh ho, said Anthony Rowley.
 
   This was intended to be a highly amusing satire on the way Italian people
   speak. It has only survived to this day as a children's rhyme because of
@@ -17765,10 +17772,10 @@ Good Omens
 
   From the song 'A Nightingale Sang in Berkeley Square':
 
-        That certain night, the night we met
-        There was magic abroad in the air
-        There were angels dining at the Ritz
-        And a nightingale sang in Berkeley Square
+    |   That certain night, the night we met
+    |   There was magic abroad in the air
+    |   There were angels dining at the Ritz
+    |   And a nightingale sang in Berkeley Square
 
 - [p. 375/262] The **Necrotelecomnicom** also appears (but spelled
   'Necrotelicomnicom') in the Discworld books.
@@ -17861,8 +17868,8 @@ Good Omens
 
   From W. B. Yeats' poem **The Second Coming**:
 
-        And what rough beast, its hour come round at last
-        Slouches toward Bethlehem to be born?
+    |   And what rough beast, its hour come round at last
+    |   Slouches toward Bethlehem to be born?
 
 - Terry Pratchett and Neil Gaiman did have the title _668 – The Neighbour
   of the Beast`_" on hand for a "`Good Omens`_" sequel, but since Neil Gaiman
@@ -18044,8 +18051,8 @@ The Dark Side Of The Sun
   Isaac is misquoting the last two lines of the poem **I Think Continually**
   by the English poet Stephen Spender:
 
-        Born of the sun, they travelled a short while towards the sun,
-        And left the vivid air signed with their honour.
+    |   Born of the sun, they travelled a short while towards the sun,
+    |   And left the vivid air signed with their honour.
 
 - [p. 133/159] "It was a skit [...] written in early Greek style. [...]
   Chorus: 'Brekekekex, co-ax, co-axial'"
@@ -18568,15 +18575,15 @@ Johnny And The Dead
   was a huge novelty hit set to a simple 'London Bridge is falling down'
   tune, and featuring lyrics along the lines of:
 
-        It's life Jim but not as we know it
-        not as we know it, not as we know it
-        It's life Jim but not as we know it
-        Not as we know it Captain
+    |   It's life Jim but not as we know it
+    |   not as we know it, not as we know it
+    |   It's life Jim but not as we know it
+    |   Not as we know it Captain
 
-        It's worse than that he's dead Jim
-        Dead Jim, dead Jim
-        It's worse than that he's dead Jim
-        Dead Jim, dead!
+    |   It's worse than that he's dead Jim
+    |   Dead Jim, dead Jim
+    |   It's worse than that he's dead Jim
+    |   Dead Jim, dead!
 
 - [p. 123/113] "'Wasn't there an Elm Street down by Beech Lane?' [...]
   'Freddie. Now that's a NICE name.'"
@@ -18638,14 +18645,14 @@ Johnny And The Dead
   A reference to the 1979 hit song 'New York, New York', by Gerard Kenny,
   which starts out:
 
-        New York, New York,
-        So good they named it twice.
-        New York, New York
-        All the scandal and the vice
-        I love it
-        New York, New York
-        Now isn't it a pity
-        What they say about New York City
+    |   New York, New York,
+    |   So good they named it twice.
+    |   New York, New York
+    |   All the scandal and the vice
+    |   I love it
+    |   New York, New York
+    |   Now isn't it a pity
+    |   What they say about New York City
 
   See also the annotation for p. 72/65 of "`Reaper Man`_".
 
@@ -19007,32 +19014,32 @@ can be found in Michael Green's book **Why Was He Born So Beautiful and
 Other Rugby Songs** (1967, Sphere UK), it is called 'The Sexual Life of the
 Camel', it probably dates back to the 1920s/30s, and it goes:
 
-        The carnal desires of the camel
-        Are stranger than anyone thinks,
-        For this passionate but perverted mammal
-        has designs on the hole of the Sphinx,
-        But this deep and alluring depression
-        Is oft clogged by the sands of the Nile,
-        Which accounts for the camel's expression
-        And the Sphinx's inscrutable smile.
+    |   The carnal desires of the camel
+    |   Are stranger than anyone thinks,
+    |   For this passionate but perverted mammal
+    |   has designs on the hole of the Sphinx,
+    |   But this deep and alluring depression
+    |   Is oft clogged by the sands of the Nile,
+    |   Which accounts for the camel's expression
+    |   And the Sphinx's inscrutable smile.
 
-        In the process of Syphilization
-        From the anthropoid ape down to man
-        It is generally held that the Navy
-        Has buggered whatever it can.
-        Yet recent extensive researches
-        By Darwin and Huxley and Ball
-        Conclusively prove that the hedgehog
-        Has never been buggered at all.
+    |   In the process of Syphilization
+    |   From the anthropoid ape down to man
+    |   It is generally held that the Navy
+    |   Has buggered whatever it can.
+    |   Yet recent extensive researches
+    |   By Darwin and Huxley and Ball
+    |   Conclusively prove that the hedgehog
+    |   Has never been buggered at all.
 
-        And further researches at Oxford
-        Have incontrovertibly shown
-        That comparative safety on shipboard
-        Is enjoyed by the hedgehog alone.
-        But, why haven't they done it at Spithead,
-        As they've done it at Harvard and Yale
-        And also at Oxford and Cambridge
-        By shaving the spines off its tail!
+    |   And further researches at Oxford
+    |   Have incontrovertibly shown
+    |   That comparative safety on shipboard
+    |   Is enjoyed by the hedgehog alone.
+    |   But, why haven't they done it at Spithead,
+    |   As they've done it at Harvard and Yale
+    |   And also at Oxford and Cambridge
+    |   By shaving the spines off its tail!
 
 The annoying thing about the hedgehog song is of course that Terry only
 leaks us bits and pieces of it, but certainly never enough material to
@@ -19049,36 +19056,36 @@ the song a bit too long to include here in its entirety.
 Nevertheless, I thought it would be fun to show what we've come up with, so
 I have compromised and chosen to reproduce just my own favourite verses:
 
-        Bestiality sure is a fun thing to do
-        But I have to say this as a warning to you:
-        With almost all animals, you can have ball
-        But the hedgehog can never be buggered at all.
+    |   Bestiality sure is a fun thing to do
+    |   But I have to say this as a warning to you:
+    |   With almost all animals, you can have ball
+    |   But the hedgehog can never be buggered at all.
 
-        CHORUS:
-        The spines on his back are too sharp for a man
-        They'll give you a pain in the worst place they can
-        The result I think you'll find will appall:
-        The hedgehog can never be buggered at all!
+    |   *CHORUS:*
+    |   The spines on his back are too sharp for a man
+    |   They'll give you a pain in the worst place they can
+    |   The result I think you'll find will appall:
+    |   The hedgehog can never be buggered at all!
 
-        Mounting a horse can often be fun
-        An elephant too; though he weighs half a ton
-        Even a mouse (though his hole is quite small)
-        But the hedgehog can never be buggered at all.
+    |   Mounting a horse can often be fun
+    |   An elephant too; though he weighs half a ton
+    |   Even a mouse (though his hole is quite small)
+    |   But the hedgehog can never be buggered at all.
 
-        A fish is refreshing, although a bit wet
-        And a cat or a dog can be more than a pet
-        Even a giraffe (despite being so tall)
-        But the hedgehog can never be buggered at all.
+    |   A fish is refreshing, although a bit wet
+    |   And a cat or a dog can be more than a pet
+    |   Even a giraffe (despite being so tall)
+    |   But the hedgehog can never be buggered at all.
 
-        You can ravish a sloth but it would take all night
-        With a shark it is faster, but the darned beast might bite
-        We already mentioned the horse, you may recall
-        But the hedgehog can never be buggered at all.
+    |   You can ravish a sloth but it would take all night
+    |   With a shark it is faster, but the darned beast might bite
+    |   We already mentioned the horse, you may recall
+    |   But the hedgehog can never be buggered at all.
 
-        For prosimian fun, you can bugger a lemur
-        To bolster your name as a pervert and schemer
-        The lemurs cry *Frink!* as a coy mating call
-        But the hedgehog can never be buggered at all.
+    |   For prosimian fun, you can bugger a lemur
+    |   To bolster your name as a pervert and schemer
+    |   The lemurs cry *Frink!* as a coy mating call
+    |   But the hedgehog can never be buggered at all.
 
 Finally, we come to the old drinking song mentioned in the annotation for p.
 99/82 of "`Eric`_": 'The Ball of Kerrymuir'. This song can, coincidentally
@@ -19092,40 +19099,40 @@ Ball of Kerrymuir' has 43 verses, a small subset of which I now reproduce
 for your reading pleasure, just to give you a feel for the song. From here
 on down this section of the APF is rated X.
 
-        Oh the Ball, the Ball of Kerrymuir,
-        Where your wife and my wife,
-        Were a-doing on the floor.
+    |   Oh the Ball, the Ball of Kerrymuir,
+    |   Where your wife and my wife,
+    |   Were a-doing on the floor.
 
-        CHORUS:
-        Balls to your partner,
-        Arse against the wall.
-        If you never get fucked on a Saturday night
-        You'll never be fucked at all.
+    |   *CHORUS:*
+    |   Balls to your partner,
+    |   Arse against the wall.
+    |   If you never get fucked on a Saturday night
+    |   You'll never be fucked at all.
 
-        There was fucking in the kitchen
-        And fucking in the halls
-        You couldn't hear the music for
-        The clanging of the balls.
+    |   There was fucking in the kitchen
+    |   And fucking in the halls
+    |   You couldn't hear the music for
+    |   The clanging of the balls.
 
-        Now Farmer Giles was there,
-        His sickle in his hand,
-        And every time he swung around
-        He circumcised the band.
+    |   Now Farmer Giles was there,
+    |   His sickle in his hand,
+    |   And every time he swung around
+    |   He circumcised the band.
 
-        Jock McVenning he was there
-        A-looking for a fuck,
-        But every cunt was occupied
-        And he was out of luck.
+    |   Jock McVenning he was there
+    |   A-looking for a fuck,
+    |   But every cunt was occupied
+    |   And he was out of luck.
 
-        The village doctor he was there
-        He had his bag of tricks,
-        And in between the dances,
-        He was sterilising pricks.
+    |   The village doctor he was there
+    |   He had his bag of tricks,
+    |   And in between the dances,
+    |   He was sterilising pricks.
 
-        And when the ball was over,
-        Everyone confessed:
-        They all enjoyed the dancing,
-        but the fucking was the best.
+    |   And when the ball was over,
+    |   Everyone confessed:
+    |   They all enjoyed the dancing,
+    |   but the fucking was the best.
 
 
 ...and Dance
@@ -20030,7 +20037,7 @@ editorial text in square brackets ([ ]) for the rest of this section.
   that special chord folk music has to have at the end so that people know
   they can come out now."
 
-  [ The CD was released by Virgin (UK:CDV 2738), and features the following
+  The CD was released by Virgin (UK:CDV 2738), and features the following
   tracks:
 
         1. A'Tuin the Turtle
@@ -20046,7 +20053,7 @@ editorial text in square brackets ([ ]) for the rest of this section.
         11. Small Gods
         12. Stick and Bucket Dance
         13. The One Horseman and the Three pedestrians of the Apocralypse
-        14. Holy Wood Dreams ]
+        14. Holy Wood Dreams
 
 - At the end of "Wings_" you implied that the Nomes would return some day
   for any remaining Nomes. Do you plan to write another book where the
@@ -20178,26 +20185,26 @@ editorial text in square brackets ([ ]) for the rest of this section.
   people at the head of the queue say "just wait a sec and I'll back the
   car in". The dedications will probably be:
 
-        Fuck off
-        Go away
-        Read Douglas Adams
-        Get a life
-        Get a job
-        Don't you have anything *better* to do with your time
-        Son of fuck off
-        My god, did I really write all these damn books
-        Yes, by god, I *do* regret it now
-        Worst wishes
-        I don't know why I don't have a rubber stamp made
-        Look, just bugger off I'm fed up to the teeth with banana daiquiris
-        I wish I *had* said "money"
-        This is the last dedication
-        Bloody trade editions
-        Oh, how cute, you have the hardback and paperback editions
-        Oh, and the US ones too
-        I'm memorising your face and your adenoidal laugh
-        You're next, matey
-        Third prodigal son of a fling with the daughter of the baker to fuck off"
+   * Fuck off
+   * Go away
+   * Read Douglas Adams
+   * Get a life
+   * Get a job
+   * Don't you have anything *better* to do with your time
+   * Son of fuck off
+   * My god, did I really write all these damn books
+   * Yes, by god, I *do* regret it now
+   * Worst wishes
+   * I don't know why I don't have a rubber stamp made
+   * Look, just bugger off I'm fed up to the teeth with banana daiquiris
+   * I wish I *had* said "money"
+   * This is the last dedication
+   * Bloody trade editions
+   * Oh, how cute, you have the hardback and paperback editions
+   * Oh, and the US ones too
+   * I'm memorising your face and your adenoidal laugh
+   * You're next, matey
+   * Third prodigal son of a fling with the daughter of the baker to fuck off"
 
   Terry was very impressed by this list, and so were other readers of
   a.f.p. Terry says that since this discussion appeared on the net he is
