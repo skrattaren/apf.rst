@@ -2282,7 +2282,7 @@ Wyrd Sisters
   Obvious, because very well known, but since I'm annotating all the other
   Shakespeare references, I might as well point out here that Felmet's
   attempts to wash the blood from his hands echo Lady Macbeth's actions in
-  **Macbeth** after the killing of Duncan in act 5, scene 1: **Out, damned
+  **Macbeth** after the killing of Duncan in act 5, scene 1: "Out, damned
   spot!", etc.
 
 - [p. 36/35] **The Hedgehog Can Never Be Buggered At All**
@@ -2395,11 +2395,12 @@ Wyrd Sisters
   This scene also resonates very faintly with the famous running gag in the
   movie **Monty Python and the Holy Grail**:
 
-      Bridgekeeper: "What... is the air-speed velocity of an unladen
-                    swallow?"
-      Arthur: "What do you mean? An African or European
-              swallow?"
-      Bridgekeeper: "Huh? I – I don't know that! Auuuuuuuugh!"
+      Bridgekeeper:
+            "What... is the air-speed velocity of an unladen swallow?"
+      Arthur:
+            "What do you mean? An African or European swallow?"
+      Bridgekeeper:
+            "Huh? I – I don't know that! Auuuuuuuugh!"
 
 - [p. 103/103] "[...] (a dandelion clock at about 2 pm)."
 
@@ -2413,7 +2414,7 @@ Wyrd Sisters
 - [p. 108/108] "'[...] and *you* said, "If it's to be done, it's better if
   it's done quickly", or something [...]'"
 
-  **Macbeth**, act 1, scene 7: **If it were done when 'tis done, then 'twere
+  **Macbeth**, act 1, scene 7: "If it were done when 'tis done, then 'twere
   well it were done quickly."
 
 - [p. 109/108] "Granny glanced around the dungeon."
@@ -3751,8 +3752,8 @@ Guards! Guards!
   This refers to the punchline of the old joke (familiar from, for
   instance, a Monty Python sketch):
 
-      Q: What do American beer and making
-         love in a canoe have in common?
+      Q: What do American beer and making love in a canoe have in common?
+
       A: They're both fucking close to water.
 
 - [p. 200/182] "'He's called Rex Vivat.'"
@@ -4509,6 +4510,7 @@ anecdotes.
       Elwood: "It's a hundred and six miles to Chicago, we've got a full
                tank of gas, half a pack of cigarettes, it's dark, and we're
                wearing sunglasses"
+
       Jake: "Hit it."
 
 - [p. 197/164] "'In a word – im-possible!' 'That's two words,' said
@@ -6755,6 +6757,7 @@ Lords And Ladies
   IV, scene i):
 
       Barnadine: "Thou hast committed –"
+
       Barabas: "Fornication? But that was in another country; and besides,
                 the wench is dead."
 
@@ -6834,9 +6837,12 @@ Lords And Ladies
       Rick: 'Crop rotation in the 14th century was considerably more
             widespread... after... God I know this... don't tell me...
             after 1172?'
+
       Neil: 'John.'
+
       Rick: 'Crop rotation in the 14th century was considerably more
             widespread after John?'
+
       Neil: '...Lloyd invented the patent crop rotator.'
 
 - [p. 29/22] "'I asked Boggi's in Ankh-Morpork to send up their best
@@ -7897,6 +7903,7 @@ Men at Arms
   This is almost a direct quote from a scene in **Twin Peaks**:
 
       Cooper: "God help me, I don't know where to start."
+
       Hawk: "You're on the path. You don't need to know where it leads.
             Just follow."
 
@@ -8901,6 +8908,7 @@ Soul Music
   the contrary. For example:
 
       Worker A: "Someone's buggered off with me three-eighths Gripley!"
+
       Worker B: (holding up three-eighths Gripley allegedly buggered-off
                 with by person or persons unknown) "What's this then?
                 Scotch mist?"
@@ -11222,13 +11230,13 @@ Feet of Clay
   "While I wasn't planning to feature this in another book, I suspect the
   sequence of events, given Dorfl's character, would run like this:
 
-      1 Dorfl saves up to buy the next golem
-      2 Golems suddenly become very pricey
-      3 Dorfl does extra shifts and go on saving
-      4 Price of golems goes up
-      5 Several merchants recieved a friendly visit from the Commander of
-           the Watch to discuss matters of common interest
-      6 Golems available to Dorfl at very reasonable prices.
+      1. Dorfl saves up to buy the next golem
+      2. Golems suddenly become very pricey
+      3. Dorfl does extra shifts and go on saving
+      4. Price of golems goes up
+      5. Several merchants recieved a friendly visit from the Commander of
+         the Watch to discuss matters of common interest
+      6. Golems available to Dorfl at very reasonable prices.
 
   I want more golems on the city payroll. How else can they resurrect the
   fire service?"
@@ -14666,12 +14674,18 @@ The Truth
 
       Vincent: "And you know what they call a... a... a Quarter Pounder
                 with Cheese in Paris?"
+
       Jules:   "They don't call it a Quarter Pounder with cheese?"
+
       Vincent: "No man, they got the metric system. They wouldn't know what
                 the fuck a Quarter Pounder is."
+
       Jules:   "Then what do they call it?"
+
       Vincent: "They call it a 'Royale' with cheese."
+
       Jules:   "A 'Royale' with cheese. What do they call a Big Mac?"
+
       Vincent: "Well, a Big Mac's a Big Mac, but they call it 'le
                 Big-Mac'."
 
@@ -17233,23 +17247,23 @@ Good Omens
 
 - [p. 68/40] The nursery rhyme Nanny Astoreth sings to Warlock:
 
-        Oh, the grand old Duke of York
-        He had ten thousand men
-        He marched them up to the top of the hill
-        And crushed all the nations of the world and brought them
-            under the rule of Satan our master.
+    |  Oh, the grand old Duke of York
+    |  He had ten thousand men
+    |  He marched them up to the top of the hill
+    |  And crushed all the nations of the world and brought them
+       under the rule of Satan our master.
 
   is a parody of the English original:
 
-        The grand old Duke of York,
-        He had ten thousand men.
-        He marched them up to the top of the hill
-        And he marched them down again.
+    |  The grand old Duke of York,
+    |  He had ten thousand men.
+    |  He marched them up to the top of the hill
+    |  And he marched them down again.
 
-        And when they were up they were up.
-        And when they were down they were down.
-        And when they were only half way up
-        They were neither up nor down.
+    |  And when they were up they were up.
+    |  And when they were down they were down.
+    |  And when they were only half way up
+    |  They were neither up nor down.
 
   Accompanied (in some versions) by fingers marching up the small child as
   appropriate and stopping to tickle for the last line.
@@ -19412,25 +19426,25 @@ editorial text in square brackets ([ ]) for the rest of this section.
 
   "It tends to arrive on my desk in this order:
 
-      Stuff that really needs to be dealt with today.
-      Stuff that needs an answer quickly.
-      Fan mail with SAEs (Lyn encourages politeness) or which is
-          particularly interesting, worthy, funny or whatever.
-      Any other mail from *abroad* (because it's usually taken a while to
-          get here).
-      Other mail.
-      People who send me their MS without checking first, and others of
-          that kidney.
+      * Stuff that really needs to be dealt with today.
+      * Stuff that needs an answer quickly.
+      * Fan mail with SAEs (Lyn encourages politeness) or which is
+        particularly interesting, worthy, funny or whatever.
+      * Any other mail from *abroad* (because it's usually taken a while to
+        get here).
+      * Other mail.
+      * People who send me their MS without checking first, and others of
+        that kidney.
 
   However, I tend to stir it all up and in fact answer in the order:
 
-      From kids
-      Typed
-      Readable
-      Interesting
-      Others
-      Ones written in green ink on mauve paper
-      Ones with more exclamation marks that sanity dictates
+      * From kids
+      * Typed
+      * Readable
+      * Interesting
+      * Others
+      * Ones written in green ink on mauve paper
+      * Ones with more exclamation marks that sanity dictates
 
   It's a strange fact, isn't it, that emails of all sorts tend to get
   answered within 24 hours while 'real' mail takes days or weeks or
@@ -20227,14 +20241,14 @@ editorial text in square brackets ([ ]) for the rest of this section.
   organisation of the signing itself is done by the shop. Not all of them
   can hack it. Believe me, I know this, and the reasons include:
 
-      – this shop's idea of a good signing hitherto is fifty people
-      – this shop doesn't understand about, er, a 'fan' type signing,
-         where there's dedications and maybe some older titles and an
-         occasional brief chat.
-      – the shop doesn't understand about signings *at all*, including the
-         need for a proper table and chair for the signer, or a cup of tea.
-         It happens. I carry my own bag of pens because most shops would
-         provide one Biro.
+      * this shop's idea of a good signing hitherto is fifty people
+      * this shop doesn't understand about, er, a 'fan' type signing,
+        where there's dedications and maybe some older titles and an
+        occasional brief chat.
+      * the shop doesn't understand about signings *at all*, including the
+        need for a proper table and chair for the signer, or a cup of tea.
+        It happens. I carry my own bag of pens because most shops would
+        provide one Biro.
 
   A lot of them *can* run a signing, and the problems simply are the
   unavoidable ones you have if 300 people all want a book signed at the
