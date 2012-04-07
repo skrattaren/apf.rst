@@ -20860,8 +20860,8 @@ section, "`Copying the APF`_".
 
 ---------------------------------------------------------------------------
 
-;;; And now some information for my editor. Pay no attention...
-;;; Local Variables:
-;;; mode:indented-text
-;;; fill-column:75
-;;; End:
+.. And now some information for my editor. Pay no attention...
+.. Local Variables:
+.. mode:indented-text
+.. fill-column:75
+.. End:
