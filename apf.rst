@@ -16649,7 +16649,8 @@ A Hat Full Of Sky
   Joseph's 1961 poem 'Warning'.
 
 
-ONCE MORE, WITH FOOTNOTES 
+Once More, With Footnotes
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 + This collection of short stories and non-fiction was released in
   September 2004. No annotations yet.
